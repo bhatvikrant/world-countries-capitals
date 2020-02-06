@@ -1,4 +1,8 @@
+# world-countries-capitals
+
 #### A simple [NPM](https://www.npmjs.com/package/world-countries-capitals) package to get capitals, currency, native language etc. of all the countries in the world
+
+![world-countries-capitals](assets/world-countries-capitals.gif)
 
 ## Getting started
 
@@ -11,7 +15,7 @@
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/).
+Before using, [download and install Node.js](https://nodejs.org/en/download/).
 
 Installation is done using the
 **[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)** command:
