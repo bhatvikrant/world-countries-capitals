@@ -179,7 +179,7 @@ Response for n = 3
 
 # Want to contribute?
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/bhatvikrant/world-countries-capitals/issues)
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/bhatvikrant/world-countries-capitals/issues) -->
 
 > Please check issues **[here](https://github.com/bhatvikrant/world-countries-capitals/issues)**!
 
