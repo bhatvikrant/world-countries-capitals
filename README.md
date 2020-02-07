@@ -179,7 +179,6 @@ Response for n = 3
 
 ---
 
----
 
 # Want to contribute?
 
@@ -195,7 +194,6 @@ Response for n = 3
 
 ---
 
----
 
 ## Let's get connected
 
