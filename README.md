@@ -1,5 +1,9 @@
 # world-countries-capitals
 
+<!-- ![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social)
+
+![](https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=social) -->
+
 #### A simple [NPM](https://www.npmjs.com/package/world-countries-capitals) package to get capitals, currency, native language etc. of all the countries in the world
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
