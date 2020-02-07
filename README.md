@@ -28,9 +28,17 @@ Installation is done using the
 $ npm i world-countries-capitals --save
 ```
 
-## Usage
+---
+
+## Importing
+
+```javascript
+const wcc = require('world-countries-capitals');
+```
 
 ---
+
+## Usage
 
 - **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency** and **native_language**.
 
@@ -179,7 +187,6 @@ Response for n = 3
 
 ---
 
-
 # Want to contribute?
 
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/bhatvikrant/world-countries-capitals/issues) -->
@@ -193,7 +200,6 @@ Response for n = 3
 ![GitHub license](https://img.shields.io/github/license/bhatvikrant/world-countries-capitals.svg?style=for-the-badge&logo=github)
 
 ---
-
 
 ## Let's get connected
 
