@@ -1,6 +1,6 @@
-# world-countries-capitals
-
 #### Want to contribute to open source? check issues [here.](https://github.com/bhatvikrant/world-countries-capitals/issues)
+
+# world-countries-capitals
 
 <!-- ![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social)
 
