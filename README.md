@@ -210,9 +210,9 @@ console.log(wcc.getNRandomCountriesData(3));
 ## #3
 
 ```javascript
-	const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals');
 
-	console.log(wcc.getCountryDetailsByCapital('delhi));
+console.log(wcc.getCountryDetailsByCapital('delhi'));
 ```
 
 #### in this example the parameter (capital), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
@@ -220,9 +220,9 @@ console.log(wcc.getNRandomCountriesData(3));
 ## #4
 
 ```javascript
-	const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals');
 
-	console.log(wcc.getCountryDetailsByName('India));
+console.log(wcc.getCountryDetailsByName('India'));
 ```
 
 #### in this example the parameter (countryName), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
@@ -230,9 +230,9 @@ console.log(wcc.getNRandomCountriesData(3));
 ## #5
 
 ```javascript
-	const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals');
 
-	console.log(wcc.getCountiesByLanguage('hindi));
+console.log(wcc.getCountiesByLanguage('hindi'));
 ```
 
 #### in this example the parameter (languageSpoken), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
