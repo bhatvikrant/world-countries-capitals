@@ -1,12 +1,10 @@
 # world-countries-capitals
 
-
-#### Want to contribute to open source? check issues [here.] (https://github.com/bhatvikrant/world-countries-capitals/issues)
+#### Want to contribute to open source? check issues [here.](https://github.com/bhatvikrant/world-countries-capitals/issues)
 
 <!-- ![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social)
 
 <!-- ![](https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=social) -->
-
 
 #### A simple [NPM](https://www.npmjs.com/package/world-countries-capitals) package to get capitals, currency, native language etc. of all the countries in the world
 
@@ -196,19 +194,18 @@ Response for n = 3
 ## #1
 
 ```javascript
-	const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals');
 
-	console.log(wcc.getRandomCountry());
+console.log(wcc.getRandomCountry());
 ```
 
 ## #2
 
 ```javascript
-	const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals');
 
-	console.log(wcc.getNRandomCountriesData(3));
+console.log(wcc.getNRandomCountriesData(3));
 ```
-
 
 ## #3
 
@@ -217,8 +214,8 @@ Response for n = 3
 
 	console.log(wcc.getCountryDetailsByCapital('delhi));
 ```
-#### in this example the parameter (capital), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
 
+#### in this example the parameter (capital), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
 
 ## #4
 
@@ -227,6 +224,7 @@ Response for n = 3
 
 	console.log(wcc.getCountryDetailsByName('India));
 ```
+
 #### in this example the parameter (countryName), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
 
 ## #5
@@ -236,23 +234,23 @@ Response for n = 3
 
 	console.log(wcc.getCountiesByLanguage('hindi));
 ```
+
 #### in this example the parameter (languageSpoken), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
 
 ## #6
 
 ```javascript
-	const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals');
 
-	console.log(wcc.getAllCountryDetails());
+console.log(wcc.getAllCountryDetails());
 ```
-
 
 ## #7
 
 ```javascript
-	const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals');
 
-	console.log(wcc.getAllCountries());
+console.log(wcc.getAllCountries());
 ```
 
 ---

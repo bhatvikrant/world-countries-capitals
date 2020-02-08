@@ -1,6 +1,6 @@
 {
 	"name": "world-countries-capitals",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"description": "A simple NPM package to get capitals, currency, native language etc. of all the countries in the world",
 	"main": "index.js",
 	"scripts": {
