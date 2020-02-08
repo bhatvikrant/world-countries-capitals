@@ -1,6 +1,12 @@
 # world-countries-capitals
 
+
 #### Want to contribute to open source? check issues [here.] (https://github.com/bhatvikrant/world-countries-capitals/issues)
+
+<!-- ![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social)
+
+<!-- ![](https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=social) -->
+
 
 #### A simple [NPM](https://www.npmjs.com/package/world-countries-capitals) package to get capitals, currency, native language etc. of all the countries in the world
 
@@ -26,9 +32,17 @@ Installation is done using the
 $ npm i world-countries-capitals --save
 ```
 
-## Usage
+---
+
+## Importing
+
+```javascript
+const wcc = require('world-countries-capitals');
+```
 
 ---
+
+## Usage
 
 - **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency** and **native_language**.
 
@@ -144,7 +158,7 @@ Bhutan
 Saudi Arabia
 ```
 
-##### where app.js is the fie containing the function call.
+##### where app.js is the file containing the function call.
 
 ---
 
@@ -177,6 +191,70 @@ Response for n = 3
 
 ---
 
+# Examples
+
+## #1
+
+```javascript
+	const wcc = require('world-countries-capitals');
+
+	console.log(wcc.getRandomCountry());
+```
+
+## #2
+
+```javascript
+	const wcc = require('world-countries-capitals');
+
+	console.log(wcc.getNRandomCountriesData(3));
+```
+
+
+## #3
+
+```javascript
+	const wcc = require('world-countries-capitals');
+
+	console.log(wcc.getCountryDetailsByCapital('delhi));
+```
+#### in this example the parameter (capital), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
+
+
+## #4
+
+```javascript
+	const wcc = require('world-countries-capitals');
+
+	console.log(wcc.getCountryDetailsByName('India));
+```
+#### in this example the parameter (countryName), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
+
+## #5
+
+```javascript
+	const wcc = require('world-countries-capitals');
+
+	console.log(wcc.getCountiesByLanguage('hindi));
+```
+#### in this example the parameter (languageSpoken), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
+
+## #6
+
+```javascript
+	const wcc = require('world-countries-capitals');
+
+	console.log(wcc.getAllCountryDetails());
+```
+
+
+## #7
+
+```javascript
+	const wcc = require('world-countries-capitals');
+
+	console.log(wcc.getAllCountries());
+```
+
 ---
 
 # Want to contribute?
@@ -190,8 +268,6 @@ Response for n = 3
 ## License
 
 ![GitHub license](https://img.shields.io/github/license/bhatvikrant/world-countries-capitals.svg?style=for-the-badge&logo=github)
-
----
 
 ---
 
