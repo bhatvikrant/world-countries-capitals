@@ -10,6 +10,8 @@
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
 
+[Website](https://bhatvikrant.github.io/world-countries-capitals/)
+
 ## Getting started
 
 [![NPM](https://nodei.co/npm/world-countries-capitals.png?compact=true)](https://nodei.co/npm/world-countries-capitals/)
