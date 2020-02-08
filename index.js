@@ -15,9 +15,9 @@ const getNRandomCountriesData = (count) => {
 	let randomCountriesSet = new Set(); // to prevent duplicate countries
 	while (randomCountriesSet.size < count) {
 		let country = data[randomNum()];
-		randomCountriesSet.add(country);
+		randomCountriesSet.add(country); // adds a country to the Array
 	}
-	return Array.from(randomCountriesSet);
+	return Array.from(randomCountriesSet); // Returns the Array
 };
 
 // Helper function
