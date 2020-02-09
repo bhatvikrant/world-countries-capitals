@@ -1,1178 +1,1178 @@
 [
     {
-        "country": "Afghanistan",
-        "capital": "Kabul",
-        "currency": "Afghani",
-        "native_language": "Dari Persian, Pashto"
+        "country": "afghanistan",
+        "capital": "kabul",
+        "currency": "afghani",
+        "native_language": ["dari persian", "pashto"]
     },
     {
-        "country": "Albania",
-        "capital": "Tirane",
-        "currency": "Lek",
-        "native_language": "Albanian"
+        "country": "albania",
+        "capital": "tirane",
+        "currency": "lek",
+        "native_language": ["albanian"]
     },
     {
-        "country": "Algeria",
-        "capital": "Algiers",
-        "currency": "Algerian Dinar",
-        "native_language": "Arabic, Tamazight, French"
+        "country": "algeria",
+        "capital": "algiers",
+        "currency": "algerian dinar",
+        "native_language": ["arabic", "tamazight", "french"]
     },
     {
-        "country": "Andorra",
-        "capital": "Andorra la Vella",
-        "currency": "Euro",
-        "native_language": "Catalan"
+        "country": "andorra",
+        "capital": "andorra la vella",
+        "currency": "euro",
+        "native_language": ["catalan"]
     },
     {
-        "country": "Angola",
-        "capital": "Luanda",
-        "currency": "Kwanza",
-        "native_language": "Portuguese"
+        "country": "angola",
+        "capital": "luanda",
+        "currency": "kwanza",
+        "native_language": ["portuguese"]
     },
     {
-        "country": "Antigua & Barbuda",
-        "capital": "Saint John's",
-        "currency": "East Caribbean Dollar",
-        "native_language": "English"
+        "country": "antigua & barbuda",
+        "capital": "saint john's",
+        "currency": "east caribbean dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Argentina",
-        "capital": "Buenos Aires",
-        "currency": "Argentine Peso",
-        "native_language": "Spanish"
+        "country": "argentina",
+        "capital": "buenos aires",
+        "currency": "argentine peso",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Armenia",
-        "capital": "Yerevan",
-        "currency": "Dram",
-        "native_language": "Armenian"
+        "country": "armenia",
+        "capital": "yerevan",
+        "currency": "dram",
+        "native_language": ["armenian"]
     },
     {
-        "country": "Australia",
-        "capital": "Canberra",
-        "currency": "Australian Dollar",
-        "native_language": "English"
+        "country": "australia",
+        "capital": "canberra",
+        "currency": "australian dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Austria",
-        "capital": "Vienna",
-        "currency": "Euro",
-        "native_language": "German"
+        "country": "austria",
+        "capital": "vienna",
+        "currency": "euro",
+        "native_language": ["german"]
     },
     {
-        "country": "Azerbaijan",
-        "capital": "Baku",
-        "currency": "Manat",
-        "native_language": "Azerbaijani"
+        "country": "azerbaijan",
+        "capital": "baku",
+        "currency": "manat",
+        "native_language": ["azerbaijani"]
     },
     {
-        "country": "The Bahamas",
-        "capital": "Nassau",
-        "currency": "Bahamian Dollar",
-        "native_language": "English"
+        "country": "the bahamas",
+        "capital": "nassau",
+        "currency": "bahamian dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Bahrain",
-        "capital": "Manama",
-        "currency": "Bahraini Dinar",
-        "native_language": "Arabic"
+        "country": "bahrain",
+        "capital": "manama",
+        "currency": "bahraini dinar",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Bangladesh",
-        "capital": "Dhaka",
-        "currency": "Taka",
-        "native_language": "Bangla"
+        "country": "bangladesh",
+        "capital": "dhaka",
+        "currency": "taka",
+        "native_language": ["bangla"]
     },
     {
-        "country": "Barbados",
-        "capital": "Bridgetown",
-        "currency": "Barbadian Dollar",
-        "native_language": "English"
+        "country": "barbados",
+        "capital": "bridgetown",
+        "currency": "barbadian dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Belarus",
-        "capital": "Minsk",
-        "currency": "Belarusian Ruble",
-        "native_language": "Belarusian, Russian"
+        "country": "belarus",
+        "capital": "minsk",
+        "currency": "belarusian ruble",
+        "native_language": ["belarusian", "russian"]
     },
     {
-        "country": "Belgium",
-        "capital": "Brussels",
-        "currency": "Euro",
-        "native_language": "Dutch, French, German"
+        "country": "belgium",
+        "capital": "brussels",
+        "currency": "euro",
+        "native_language": ["dutch", "french", "german"]
     },
     {
-        "country": "Belize",
-        "capital": "Belmopan",
-        "currency": "Belize Dollar",
-        "native_language": "English"
+        "country": "belize",
+        "capital": "belmopan",
+        "currency": "belize dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Benin",
-        "capital": "Porto-Novo",
-        "currency": "West African CFA Franc",
-        "native_language": "French"
+        "country": "benin",
+        "capital": "porto-novo",
+        "currency": "west african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Bhutan",
-        "capital": "Thimphu",
-        "currency": "Ngultrum",
-        "native_language": "Dzongkha"
+        "country": "bhutan",
+        "capital": "thimphu",
+        "currency": "ngultrum",
+        "native_language": ["dzongkha"]
     },
     {
-        "country": "Bolivia",
-        "capital": "La Paz, Sucre",
-        "currency": "Boliviano",
-        "native_language": "Spanish, Quechua, Aymara"
+        "country": "bolivia",
+        "capital": "la paz, sucre",
+        "currency": "boliviano",
+        "native_language": ["spanish", "quechua", "aymara"]
     },
     {
-        "country": "Bosnia and Herzegovina",
-        "capital": "Sarajevo",
-        "currency": "Convertible Mark",
-        "native_language": "Bosnian, Croatian, Serbian"
+        "country": "bosnia and herzegovina",
+        "capital": "sarajevo",
+        "currency": "convertible mark",
+        "native_language": ["bosnian", "croatian", "serbian"]
     },
     {
-        "country": "Botswana",
-        "capital": "Gaborone",
-        "currency": "Pula",
-        "native_language": "English, Tswana"
+        "country": "botswana",
+        "capital": "gaborone",
+        "currency": "pula",
+        "native_language": ["english", "tswana"]
     },
     {
-        "country": "Brazil",
-        "capital": "Brasilia",
-        "currency": "Real",
-        "native_language": "Portuguese"
+        "country": "brazil",
+        "capital": "brasilia",
+        "currency": "real",
+        "native_language": ["portuguese"]
     },
     {
-        "country": "Brunei",
-        "capital": "Bandar Seri Begawan",
-        "currency": "Brunei Dollar",
-        "native_language": "Malay"
+        "country": "brunei",
+        "capital": "bandar seri begawan",
+        "currency": "brunei dollar",
+        "native_language": ["malay"]
     },
     {
-        "country": "Bulgaria",
-        "capital": "Sofia",
-        "currency": "Lev",
-        "native_language": "Bulgarian"
+        "country": "bulgaria",
+        "capital": "sofia",
+        "currency": "lev",
+        "native_language": ["bulgarian"]
     },
     {
-        "country": "Burkina Faso",
-        "capital": "Ouagadougou",
-        "currency": "West African CFA Franc",
-        "native_language": "French"
+        "country": "burkina faso",
+        "capital": "ouagadougou",
+        "currency": "west african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Burundi",
-        "capital": "Bujumbura",
-        "currency": "Burundi Franc",
-        "native_language": "Kirundi, French"
+        "country": "burundi",
+        "capital": "bujumbura",
+        "currency": "burundi franc",
+        "native_language": ["kirundi", "french"]
     },
     {
-        "country": "Cambodia",
-        "capital": "Phnom Penh",
-        "currency": "Riel",
-        "native_language": "Khmer"
+        "country": "cambodia",
+        "capital": "phnom penh",
+        "currency": "riel",
+        "native_language": ["khmer"]
     },
     {
-        "country": "Cameroon",
-        "capital": "Yaounde",
-        "currency": "Central African CFA Franc",
-        "native_language": "French, English"
+        "country": "cameroon",
+        "capital": "yaounde",
+        "currency": "central african cfa franc",
+        "native_language": ["french", "english"]
     },
     {
-        "country": "Canada",
-        "capital": "Ottawa",
-        "currency": "Canadian Dollar",
-        "native_language": "English, French"
+        "country": "canada",
+        "capital": "ottawa",
+        "currency": "canadian dollar",
+        "native_language": ["english", "french"]
     },
     {
-        "country": "Cape Verde",
-        "capital": "Praia",
-        "currency": "Cape Verdean Escudo",
-        "native_language": "Portuguese"
+        "country": "cape verde",
+        "capital": "praia",
+        "currency": "cape verdean escudo",
+        "native_language": ["portuguese"]
     },
     {
-        "country": "Central African Republic",
-        "capital": "Bangui",
-        "currency": "Central African CFA Franc",
-        "native_language": "Sango, French"
+        "country": "central african republic",
+        "capital": "bangui",
+        "currency": "central african cfa franc",
+        "native_language": ["sango", "french"]
     },
     {
-        "country": "Chad",
-        "capital": "N'Djamena",
-        "currency": "Central African CFA Franc",
-        "native_language": "French, Arabic"
+        "country": "chad",
+        "capital": "n'djamena",
+        "currency": "central african cfa franc",
+        "native_language": ["french", "arabic"]
     },
     {
-        "country": "Chile",
-        "capital": "Santiago",
-        "currency": "Chilean Peso",
-        "native_language": "Spanish"
+        "country": "chile",
+        "capital": "santiago",
+        "currency": "chilean peso",
+        "native_language": ["spanish"]
     },
     {
-        "country": "China",
-        "capital": "Beijing",
-        "currency": "Chinese Yuan",
-        "native_language": "Mandarin"
+        "country": "china",
+        "capital": "beijing",
+        "currency": "chinese yuan",
+        "native_language": ["mandarin"]
     },
     {
-        "country": "Colombia",
-        "capital": "Bogota",
-        "currency": "Colombian Peso",
-        "native_language": "Spanish"
+        "country": "colombia",
+        "capital": "bogota",
+        "currency": "colombian peso",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Comoros",
-        "capital": "Moron",
-        "currency": "Comorian Franc",
-        "native_language": "Comorian, Arabic, French"
+        "country": "comoros",
+        "capital": "moron",
+        "currency": "comorian franc",
+        "native_language": ["comorian", "arabic", "french"]
     },
     {
-        "country": "Democratic Republic Of the Congo",
-        "capital": "Kinshasa",
-        "currency": "Congolese Franc",
-        "native_language": "French"
+        "country": "democratic republic of the congo",
+        "capital": "kinshasa",
+        "currency": "congolese franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Republic of the Congo",
-        "capital": "Brazzaville",
-        "currency": "Central African CFA Franc",
-        "native_language": "French"
+        "country": "republic of the congo",
+        "capital": "brazzaville",
+        "currency": "central african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Costa Rica",
-        "capital": "San Jose",
-        "currency": "Colon",
-        "native_language": "Spanish"
+        "country": "costa rica",
+        "capital": "san jose",
+        "currency": "colon",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Cote d'Ivoire (Ivory Coast)",
-        "capital": "Yamoussoukro, Abidjan",
-        "currency": "West African CFA Franc",
-        "native_language": "French"
+        "country": "cote d'ivoire (ivory coast)",
+        "capital": "yamoussoukro, abidjan",
+        "currency": "west african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Croatia",
-        "capital": "Zagreb",
-        "currency": "Croatian",
-        "native_language": "Kuna"
+        "country": "croatia",
+        "capital": "zagreb",
+        "currency": "croatian",
+        "native_language": ["kuna"]
     },
     {
-        "country": "Cuba",
-        "capital": "Havana",
-        "currency": "Cuban Peso",
-        "native_language": "Spanish"
+        "country": "cuba",
+        "capital": "havana",
+        "currency": "cuban peso",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Cyprus",
-        "capital": "Nicosia",
-        "currency": "Euro",
-        "native_language": "Greek, Turkish"
+        "country": "cyprus",
+        "capital": "nicosia",
+        "currency": "euro",
+        "native_language": ["greek", "turkish"]
     },
     {
-        "country": "Czechia",
-        "capital": "Prague",
-        "currency": "Czech Koruna",
-        "native_language": "Czech, Slovak"
+        "country": "czechia",
+        "capital": "prague",
+        "currency": "czech koruna",
+        "native_language": ["czech", "slovak"]
     },
     {
-        "country": "Denmark",
-        "capital": "Copenhagen",
-        "currency": "Danish Krone",
-        "native_language": "Danish"
+        "country": "denmark",
+        "capital": "copenhagen",
+        "currency": "danish krone",
+        "native_language": ["danish"]
     },
     {
-        "country": "Djibouti",
-        "capital": "Djibouti",
-        "currency": "Djiboutian Franc",
-        "native_language": "Arabic, French"
+        "country": "djibouti",
+        "capital": "djibouti",
+        "currency": "djiboutian franc",
+        "native_language": ["arabic", "french"]
     },
     {
-        "country": "Dominica",
-        "capital": "Rosesau",
-        "currency": "East Caribbean Dollar",
-        "native_language": "English, French,Antillean Creole"
+        "country": "dominica",
+        "capital": "rosesau",
+        "currency": "east caribbean dollar",
+        "native_language": ["english", "french", "antillean creole"]
     },
     {
-        "country": "Dominican Republic",
-        "capital": "Santo Domingo",
-        "currency": "Dominican Peso",
-        "native_language": "Spanish"
+        "country": "dominican republic",
+        "capital": "santo domingo",
+        "currency": "dominican peso",
+        "native_language": ["spanish"]
     },
     {
-        "country": "East Timor (Timor-Leste)",
-        "capital": "Dilli",
-        "currency": "United States Dollar",
-        "native_language": "Tetum, Portuguese,Iindonesian"
+        "country": "east timor (timor-leste)",
+        "capital": "dilli",
+        "currency": "united states dollar",
+        "native_language": ["tetum", "portuguese", "indonesian"]
     },
     {
-        "country": "Ecuador",
-        "capital": "Quito",
-        "currency": "United States Dollar",
-        "native_language": "Spanish"
+        "country": "ecuador",
+        "capital": "quito",
+        "currency": "united states dollar",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Egypt",
-        "capital": "Cairo",
-        "currency": "Egyptian Pound",
-        "native_language": "Arabic"
+        "country": "egypt",
+        "capital": "cairo",
+        "currency": "egyptian pound",
+        "native_language": ["arabic"]
     },
     {
-        "country": "El Salvador",
-        "capital": "San Salvador",
-        "currency": "United States Dollar",
-        "native_language": "Spanish"
+        "country": "el salvador",
+        "capital": "san salvador",
+        "currency": "united states dollar",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Equitorial Guinea",
-        "capital": "Malabo",
-        "currency": "Central African CFA Franc",
-        "native_language": "Spanish, French, Portuguese"
+        "country": "equitorial guinea",
+        "capital": "malabo",
+        "currency": "central african cfa franc",
+        "native_language": ["spanish", "french", "portuguese"]
     },
     {
-        "country": "Eritrea",
-        "capital": "Asmara",
-        "currency": "Nakfa",
-        "native_language": "Arabic, Tigrinya, English"
+        "country": "eritrea",
+        "capital": "asmara",
+        "currency": "nakfa",
+        "native_language": ["arabic", "tigrinya", "english"]
     },
     {
-        "country": "Estonia",
-        "capital": "Tallinn",
-        "currency": "Estonian Kroon, Euro",
-        "native_language": "Estonian"
+        "country": "estonia",
+        "capital": "tallinn",
+        "currency": "estonian kroon, euro",
+        "native_language": ["estonian"]
     },
     {
-        "country": "Ethiopia",
-        "capital": "Addis Ababa",
-        "currency": "Birr",
-        "native_language": "Amharic"
+        "country": "ethiopia",
+        "capital": "addis ababa",
+        "currency": "birr",
+        "native_language": ["amharic"]
     },
     {
-        "country": "Fiji",
-        "capital": "Suva",
-        "currency": "Fijian Dollar",
-        "native_language": "English, Bau Fijian, Hindi"
+        "country": "fiji",
+        "capital": "suva",
+        "currency": "fijian dollar",
+        "native_language": ["english", "bau fijian", "hindi"]
     },
     {
-        "country": "Finland",
-        "capital": "Helsinki",
-        "currency": "Euro",
-        "native_language": "Finnish, Swedish"
+        "country": "finland",
+        "capital": "helsinki",
+        "currency": "euro",
+        "native_language": ["finnish", "swedish"]
     },
     {
-        "country": "France",
-        "capital": "Paris",
-        "currency": "Euro, CFP Franc",
-        "native_language": "French"
+        "country": "france",
+        "capital": "paris",
+        "currency": "euro, cfp franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Gabon",
-        "capital": "Libreville",
-        "currency": "Central African CFA Franc",
-        "native_language": "French"
+        "country": "gabon",
+        "capital": "libreville",
+        "currency": "central african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "The Gambia",
-        "capital": "Banjul",
-        "currency": "Dalasi",
-        "native_language": "English"
+        "country": "the gambia",
+        "capital": "banjul",
+        "currency": "dalasi",
+        "native_language": ["english"]
     },
     {
-        "country": "Georgia",
-        "capital": "Tbilisi",
-        "currency": "Lari",
-        "native_language": "Georgian"
+        "country": "georgia",
+        "capital": "tbilisi",
+        "currency": "lari",
+        "native_language": ["georgian"]
     },
     {
-        "country": "Germany",
-        "capital": "Berlin",
-        "currency": "Euro",
-        "native_language": "German"
+        "country": "germany",
+        "capital": "berlin",
+        "currency": "euro",
+        "native_language": ["german"]
     },
     {
-        "country": "Ghana",
-        "capital": "Accra",
-        "currency": "Ghanaian Cedi",
-        "native_language": "English"
+        "country": "ghana",
+        "capital": "accra",
+        "currency": "ghanaian cedi",
+        "native_language": ["english"]
     },
     {
-        "country": "Greece",
-        "capital": "Athens",
-        "currency": "Euro",
-        "native_language": "Greek"
+        "country": "greece",
+        "capital": "athens",
+        "currency": "euro",
+        "native_language": ["greek"]
     },
     {
-        "country": "Grenada",
-        "capital": "St. George's",
-        "currency": "East Caribbean Dollar",
-        "native_language": "English, Patois"
+        "country": "grenada",
+        "capital": "st. george's",
+        "currency": "east caribbean dollar",
+        "native_language": ["english", "patois"]
     },
     {
-        "country": "Guatemala",
-        "capital": "Guatemala City",
-        "currency": "Quetzal",
-        "native_language": "Spanish"
+        "country": "guatemala",
+        "capital": "guatemala city",
+        "currency": "quetzal",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Guinea",
-        "capital": "Conakry",
-        "currency": "Guinean Franc",
-        "native_language": "French"
+        "country": "guinea",
+        "capital": "conakry",
+        "currency": "guinean franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Guinea-Bissau",
-        "capital": "Bissau",
-        "currency": "West African CFA Franc",
-        "native_language": "Portuguese"
+        "country": "guinea-bissau",
+        "capital": "bissau",
+        "currency": "west african cfa franc",
+        "native_language": ["portuguese"]
     },
     {
-        "country": "Guyana",
-        "capital": "Georgetown",
-        "currency": "Guyanese Dollar",
-        "native_language": "English"
+        "country": "guyana",
+        "capital": "georgetown",
+        "currency": "guyanese dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Haiti",
-        "capital": "Port-au-Prince",
-        "currency": "Gourde",
-        "native_language": "Haitian Creole, French"
+        "country": "haiti",
+        "capital": "port-au-prince",
+        "currency": "gourde",
+        "native_language": ["haitian creole", "french"]
     },
     {
-        "country": "Honduras",
-        "capital": "Tegucigalpa",
-        "currency": "Lempira",
-        "native_language": "Spanish"
+        "country": "honduras",
+        "capital": "tegucigalpa",
+        "currency": "lempira",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Hungary",
-        "capital": "Budapest",
-        "currency": "Forint",
-        "native_language": "Hungarian"
+        "country": "hungary",
+        "capital": "budapest",
+        "currency": "forint",
+        "native_language": ["hungarian"]
     },
     {
-        "country": "Iceland",
-        "capital": "Reykjavik",
-        "currency": "Icelandic Krona",
-        "native_language": "Icelandic"
+        "country": "iceland",
+        "capital": "reykjavik",
+        "currency": "icelandic krona",
+        "native_language": ["icelandic"]
     },
     {
-        "country": "India",
-        "capital": "New Delhi",
-        "currency": "Indian Rupee",
-        "native_language": "Hindi, English"
+        "country": "india",
+        "capital": "new delhi",
+        "currency": "indian rupee",
+        "native_language": ["hindi", "english"]
     },
     {
-        "country": "Indonesia",
-        "capital": "Jakarta",
-        "currency": "Rupiah",
-        "native_language": "Indonesian"
+        "country": "indonesia",
+        "capital": "jakarta",
+        "currency": "rupiah",
+        "native_language": ["indonesian"]
     },
     {
-        "country": "Iran",
-        "capital": "Tehran",
-        "currency": "Rial",
-        "native_language": "Persian"
+        "country": "iran",
+        "capital": "tehran",
+        "currency": "rial",
+        "native_language": ["persian"]
     },
     {
-        "country": "Iraq",
-        "capital": "Baghdad",
-        "currency": "Iraqi Dinar",
-        "native_language": "Arabic, Kurdish"
+        "country": "iraq",
+        "capital": "baghdad",
+        "currency": "iraqi dinar",
+        "native_language": ["arabic", "kurdish"]
     },
     {
-        "country": "Republic of Ireland",
-        "capital": "Dublin",
-        "currency": "Euro",
-        "native_language": "English, Irish"
+        "country": "republic of ireland",
+        "capital": "dublin",
+        "currency": "euro",
+        "native_language": ["english", "irish"]
     },
     {
-        "country": "Israel",
-        "capital": "Jerusalem",
-        "currency": "Shekel",
-        "native_language": "Hebrew, Arabic"
+        "country": "israel",
+        "capital": "jerusalem",
+        "currency": "shekel",
+        "native_language": ["hebrew", "arabic"]
     },
     {
-        "country": "Italy",
-        "capital": "Rome",
-        "currency": "Euro",
-        "native_language": "Italian"
+        "country": "italy",
+        "capital": "rome",
+        "currency": "euro",
+        "native_language": ["italian"]
     },
     {
-        "country": "Jamaica",
-        "capital": "Kingston",
-        "currency": "Jamaican Dollar",
-        "native_language": "English"
+        "country": "jamaica",
+        "capital": "kingston",
+        "currency": "jamaican dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Japan",
-        "capital": "Tokyo",
-        "currency": "Yen",
-        "native_language": "Japanese"
+        "country": "japan",
+        "capital": "tokyo",
+        "currency": "yen",
+        "native_language": ["japanese"]
     },
     {
-        "country": "Jordan",
-        "capital": "Amman",
-        "currency": "Jordanian Dinar",
-        "native_language": "Arabic"
+        "country": "jordan",
+        "capital": "amman",
+        "currency": "jordanian dinar",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Kazakhstan",
-        "capital": "Astana",
-        "currency": "Tenge",
-        "native_language": "Kazakh, Russian"
+        "country": "kazakhstan",
+        "capital": "astana",
+        "currency": "tenge",
+        "native_language": ["kazakh", "russian"]
     },
     {
-        "country": "Kenya",
-        "capital": "Nairobi",
-        "currency": "Kenyan Shilling",
-        "native_language": "Swahili, English"
+        "country": "kenya",
+        "capital": "nairobi",
+        "currency": "kenyan shilling",
+        "native_language": ["swahili", "english"]
     },
     {
-        "country": "Kiribati",
-        "capital": "Tarawa Atoll",
-        "currency": "Kiribati Dollar",
-        "native_language": "English, Gilbertese"
+        "country": "kiribati",
+        "capital": "tarawa atoll",
+        "currency": "kiribati dollar",
+        "native_language": ["english", "gilbertese"]
     },
     {
-        "country": "North Korea",
-        "capital": "Pyongyang",
-        "currency": "North Korean Won",
-        "native_language": "Korean"
+        "country": "north korea",
+        "capital": "pyongyang",
+        "currency": "north korean won",
+        "native_language": ["korean"]
     },
     {
-        "country": "South Korea",
-        "capital": "Seoul",
-        "currency": "South Korean Won",
-        "native_language": "Korean"
+        "country": "south korea",
+        "capital": "seoul",
+        "currency": "south korean won",
+        "native_language": ["korean"]
     },
     {
-        "country": "Kosovo",
-        "capital": "Pristina",
-        "currency": "Euro",
-        "native_language": "Albanian, Serbian"
+        "country": "kosovo",
+        "capital": "pristina",
+        "currency": "euro",
+        "native_language": ["albanian", "serbian"]
     },
     {
-        "country": "Kuwait",
-        "capital": "Kuwait City",
-        "currency": "Kuwaiti Dollar",
-        "native_language": "Arabic, English"
+        "country": "kuwait",
+        "capital": "kuwait city",
+        "currency": "kuwaiti dollar",
+        "native_language": ["arabic", "english"]
     },
     {
-        "country": "Kyrgyzstan",
-        "capital": "Bishkek",
-        "currency": "Som",
-        "native_language": "Kyrgyz, Russian"
+        "country": "kyrgyzstan",
+        "capital": "bishkek",
+        "currency": "som",
+        "native_language": ["kyrgyz", "russian"]
     },
     {
-        "country": "Laos",
-        "capital": "Vientiane",
-        "currency": "Kip",
-        "native_language": "Lao (Laotian)"
+        "country": "laos",
+        "capital": "vientiane",
+        "currency": "kip",
+        "native_language": ["lao (laotian)"]
     },
     {
-        "country": "Latvia",
-        "capital": "Riga",
-        "currency": "Lats",
-        "native_language": "Latvian"
+        "country": "latvia",
+        "capital": "riga",
+        "currency": "lats",
+        "native_language": ["latvian"]
     },
     {
-        "country": "Lebanon",
-        "capital": "Beirut",
-        "currency": "Lebanese Pound",
-        "native_language": "Arabic, French"
+        "country": "lebanon",
+        "capital": "beirut",
+        "currency": "lebanese pound",
+        "native_language": ["arabic", "french"]
     },
     {
-        "country": "Lesotho",
-        "capital": "Maseru",
-        "currency": "Loti",
-        "native_language": "Sesotho, English"
+        "country": "lesotho",
+        "capital": "maseru",
+        "currency": "loti",
+        "native_language": ["sesotho", "english"]
     },
     {
-        "country": "Liberia",
-        "capital": "Monrovia",
-        "currency": "Liberian Dollar",
-        "native_language": "English"
+        "country": "liberia",
+        "capital": "monrovia",
+        "currency": "liberian dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Libya",
-        "capital": "Tripoli",
-        "currency": "Libyan Dinar",
-        "native_language": "Arabic"
+        "country": "libya",
+        "capital": "tripoli",
+        "currency": "libyan dinar",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Liechtenstein",
-        "capital": "Vaduz",
-        "currency": "Swiss Franc",
-        "native_language": "German"
+        "country": "liechtenstein",
+        "capital": "vaduz",
+        "currency": "swiss franc",
+        "native_language": ["german"]
     },
     {
-        "country": "Lithuania",
-        "capital": "Vilnius",
-        "currency": "Lithuanian Litas",
-        "native_language": "Lithuanian"
+        "country": "lithuania",
+        "capital": "vilnius",
+        "currency": "lithuanian litas",
+        "native_language": ["lithuanian"]
     },
     {
-        "country": "Luxembourg",
-        "capital": "Luxembourg",
-        "currency": "Euro",
-        "native_language": "German, French,Luxembourgish"
+        "country": "luxembourg",
+        "capital": "luxembourg",
+        "currency": "euro",
+        "native_language": ["german", "french", "luxembourgish"]
     },
     {
-        "country": "Macedonia",
-        "capital": "Skopje",
-        "currency": "Macedonian Denar",
-        "native_language": "Macedonian"
+        "country": "macedonia",
+        "capital": "skopje",
+        "currency": "macedonian denar",
+        "native_language": ["macedonian"]
     },
     {
-        "country": "Madagascar",
-        "capital": "Antananarivo",
-        "currency": "Malagasy Ariary",
-        "native_language": "Malagasy, French, English"
+        "country": "madagascar",
+        "capital": "antananarivo",
+        "currency": "malagasy ariary",
+        "native_language": ["malagasy", "french", "english"]
     },
     {
-        "country": "Malawi",
-        "capital": "Lilongwe",
-        "currency": "Malawi Kwacha",
-        "native_language": "English"
+        "country": "malawi",
+        "capital": "lilongwe",
+        "currency": "malawi kwacha",
+        "native_language": ["english"]
     },
     {
-        "country": "Malaysia",
-        "capital": "Kuala Lumpur",
-        "currency": "Ringgit",
-        "native_language": "Malay"
+        "country": "malaysia",
+        "capital": "kuala lumpur",
+        "currency": "ringgit",
+        "native_language": ["malay"]
     },
     {
-        "country": "Maldives",
-        "capital": "Male",
-        "currency": "Maldivian Rufiyaa",
-        "native_language": "Dhivehi"
+        "country": "maldives",
+        "capital": "male",
+        "currency": "maldivian rufiyaa",
+        "native_language": ["dhivehi"]
     },
     {
-        "country": "Mali",
-        "capital": "Bamako",
-        "currency": "West African CFA Franc",
-        "native_language": "French"
+        "country": "mali",
+        "capital": "bamako",
+        "currency": "west african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Malta",
-        "capital": "Valletta",
-        "currency": "Euro",
-        "native_language": "Maltese, English"
+        "country": "malta",
+        "capital": "valletta",
+        "currency": "euro",
+        "native_language": ["maltese", "english"]
     },
     {
-        "country": "Marshall Islands",
-        "capital": "Majuro",
-        "currency": "United States Dollar",
-        "native_language": "Marshallese, English"
+        "country": "marshall islands",
+        "capital": "majuro",
+        "currency": "united states dollar",
+        "native_language": ["marshallese", "english"]
     },
     {
-        "country": "Mauritania",
-        "capital": "Nouakchott",
-        "currency": "Ouguiya",
-        "native_language": "Arabic"
+        "country": "mauritania",
+        "capital": "nouakchott",
+        "currency": "ouguiya",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Mauritius",
-        "capital": "Port Louis",
-        "currency": "Mauritian Rupee",
-        "native_language": "English"
+        "country": "mauritius",
+        "capital": "port louis",
+        "currency": "mauritian rupee",
+        "native_language": ["english"]
     },
     {
-        "country": "Mexico",
-        "capital": "Mexico City",
-        "currency": "Mexican Peso",
-        "native_language": "Spanish"
+        "country": "mexico",
+        "capital": "mexico city",
+        "currency": "mexican peso",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Federal States of Micronesia",
-        "capital": "Palikir",
-        "currency": "United States Dollar",
-        "native_language": "English"
+        "country": "federal states of micronesia",
+        "capital": "palikir",
+        "currency": "united states dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Moldova",
-        "capital": "Chisinau",
-        "currency": "Moldovan Leu",
-        "native_language": "Moldovan (Romanian)"
+        "country": "moldova",
+        "capital": "chisinau",
+        "currency": "moldovan leu",
+        "native_language": ["moldovan (romanian)"]
     },
     {
-        "country": "Monaco",
-        "capital": "Monaco",
-        "currency": "Euro",
-        "native_language": "French, Italian, English"
+        "country": "monaco",
+        "capital": "monaco",
+        "currency": "euro",
+        "native_language": ["french", "italian", "english"]
     },
     {
-        "country": "Mongolia",
-        "capital": "Ulaanbaatar",
-        "currency": "Togrog",
-        "native_language": "Mongolian"
+        "country": "mongolia",
+        "capital": "ulaanbaatar",
+        "currency": "togrog",
+        "native_language": ["mongolian"]
     },
     {
-        "country": "Montenegro",
-        "capital": "Podgorica",
-        "currency": "Euro",
-        "native_language": "Montenegrin"
+        "country": "montenegro",
+        "capital": "podgorica",
+        "currency": "euro",
+        "native_language": ["montenegrin"]
     },
     {
-        "country": "Morocco",
-        "capital": "Rabat",
-        "currency": "Moroccan Dirham",
-        "native_language": "Arabic"
+        "country": "morocco",
+        "capital": "rabat",
+        "currency": "moroccan dirham",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Mozambique",
-        "capital": "Maputo",
-        "currency": "Mozambican Metical",
-        "native_language": "Portuguese"
+        "country": "mozambique",
+        "capital": "maputo",
+        "currency": "mozambican metical",
+        "native_language": ["portuguese"]
     },
     {
-        "country": "Myanmar (Burma)",
-        "capital": "Nypyidaw",
-        "currency": "Kyat",
-        "native_language": "Burmese"
+        "country": "myanmar (burma)",
+        "capital": "nypyidaw",
+        "currency": "kyat",
+        "native_language": ["burmese"]
     },
     {
-        "country": "Namibia",
-        "capital": "Windhoek",
-        "currency": "Namibian Dollar",
-        "native_language": "English, Afrikaans, German"
+        "country": "namibia",
+        "capital": "windhoek",
+        "currency": "namibian dollar",
+        "native_language": ["english", "afrikaans", "german"]
     },
     {
-        "country": "Nauru",
-        "capital": "Yaren",
-        "currency": "Australian Dollar",
-        "native_language": "English, Nauran"
+        "country": "nauru",
+        "capital": "yaren",
+        "currency": "australian dollar",
+        "native_language": ["english", "nauran"]
     },
     {
-        "country": "Nepal",
-        "capital": "Kathmandu",
-        "currency": "Nepalese Rupee",
-        "native_language": "Nepali"
+        "country": "nepal",
+        "capital": "kathmandu",
+        "currency": "nepalese rupee",
+        "native_language": ["nepali"]
     },
     {
-        "country": "Netherlands",
-        "capital": "Amsterdam, The Hague",
-        "currency": "Euro",
-        "native_language": "Dutch"
+        "country": "netherlands",
+        "capital": "amsterdam, the hague",
+        "currency": "euro",
+        "native_language": ["dutch"]
     },
     {
-        "country": "New Zealand",
-        "capital": "Wellington",
-        "currency": "New Zealand Dollar",
-        "native_language": "English"
+        "country": "new zealand",
+        "capital": "wellington",
+        "currency": "new zealand dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Nicaragua",
-        "capital": "Managua",
-        "currency": "Cordoba",
-        "native_language": "Spanish"
+        "country": "nicaragua",
+        "capital": "managua",
+        "currency": "cordoba",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Niger",
-        "capital": "Niamey",
-        "currency": "West African CFA Franc",
-        "native_language": "French"
+        "country": "niger",
+        "capital": "niamey",
+        "currency": "west african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Nigeria",
-        "capital": "Abuja",
-        "currency": "Naira",
-        "native_language": "English"
+        "country": "nigeria",
+        "capital": "abuja",
+        "currency": "naira",
+        "native_language": ["english"]
     },
     {
-        "country": "Norway",
-        "capital": "Oslo",
-        "currency": "Norwegian Krone",
-        "native_language": "Norwegian"
+        "country": "norway",
+        "capital": "oslo",
+        "currency": "norwegian krone",
+        "native_language": ["norwegian"]
     },
     {
-        "country": "Oman",
-        "capital": "Muscat",
-        "currency": "Omani Rial",
-        "native_language": "Arabic"
+        "country": "oman",
+        "capital": "muscat",
+        "currency": "omani rial",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Pakistan",
-        "capital": "Islamabad",
-        "currency": "Pakistani Rupee",
-        "native_language": "Urdu, English"
+        "country": "pakistan",
+        "capital": "islamabad",
+        "currency": "pakistani rupee",
+        "native_language": ["urdu", "english"]
     },
     {
-        "country": "Palau",
-        "capital": "Melekeok",
-        "currency": "United States Dollar",
-        "native_language": "English, Palauan"
+        "country": "palau",
+        "capital": "melekeok",
+        "currency": "united states dollar",
+        "native_language": ["english", "palauan"]
     },
     {
-        "country": "Panama",
-        "capital": "Panama City",
-        "currency": "Balboa",
-        "native_language": "Spanish"
+        "country": "panama",
+        "capital": "panama city",
+        "currency": "balboa",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Papa New Guinea",
-        "capital": "Port Moresby Papa",
-        "currency": "Papa New Guinean Kina",
-        "native_language": "English, Tok Pisin,Hiri Motu"
+        "country": "papa new guinea",
+        "capital": "port moresby papa",
+        "currency": "papa new guinean kina",
+        "native_language": ["english", "tok pisin", "hiri motu"]
     },
     {
-        "country": "Paraguay",
-        "capital": "Asuncion",
-        "currency": "Guarani",
-        "native_language": "Spanish, Guarani"
+        "country": "paraguay",
+        "capital": "asuncion",
+        "currency": "guarani",
+        "native_language": ["spanish", "guarani"]
     },
     {
-        "country": "Peru",
-        "capital": "Lima",
-        "currency": "Nuevo Sol",
-        "native_language": "Spanish"
+        "country": "peru",
+        "capital": "lima",
+        "currency": "nuevo sol",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Phillipines",
-        "capital": "Manila",
-        "currency": "Phillipine Peso",
-        "native_language": "Filipino, English"
+        "country": "phillipines",
+        "capital": "manila",
+        "currency": "phillipine peso",
+        "native_language": ["filipino", "english"]
     },
     {
-        "country": "Poland",
-        "capital": "Warsaw",
-        "currency": "Zloty",
-        "native_language": "Polish"
+        "country": "poland",
+        "capital": "warsaw",
+        "currency": "zloty",
+        "native_language": ["polish"]
     },
     {
-        "country": "Portugal",
-        "capital": "Lisbon",
-        "currency": "Euro",
-        "native_language": "Portuguese"
+        "country": "portugal",
+        "capital": "lisbon",
+        "currency": "euro",
+        "native_language": ["portuguese"]
     },
     {
-        "country": "Qatar",
-        "capital": "Doha",
-        "currency": "Qatari Riyal",
-        "native_language": "Arabic"
+        "country": "qatar",
+        "capital": "doha",
+        "currency": "qatari riyal",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Romania",
-        "capital": "Bucharest",
-        "currency": "Romanian Rupee",
-        "native_language": "Romanian"
+        "country": "romania",
+        "capital": "bucharest",
+        "currency": "romanian rupee",
+        "native_language": ["romanian"]
     },
     {
-        "country": "Romania",
-        "capital": "Bucharest",
-        "currency": "Romanian Rupee",
-        "native_language": "Romanian"
+        "country": "romania",
+        "capital": "bucharest",
+        "currency": "romanian rupee",
+        "native_language": ["romanian"]
     },
     {
-        "country": "Russia",
-        "capital": "Moscow",
-        "currency": "Ruble",
-        "native_language": "Russian"
+        "country": "russia",
+        "capital": "moscow",
+        "currency": "ruble",
+        "native_language": ["russian"]
     },
     {
-        "country": "Rwanda",
-        "capital": "Kigali",
-        "currency": "Rwandan Franc",
-        "native_language": "Kinyarwanda, French, English"
+        "country": "rwanda",
+        "capital": "kigali",
+        "currency": "rwandan franc",
+        "native_language": ["kinyarwanda", "french", "english"]
     },
     {
-        "country": "Saint Kitts and Nevis",
-        "capital": "Basseterre",
-        "currency": "East Caribbean Dollar",
-        "native_language": "English"
+        "country": "saint kitts and nevis",
+        "capital": "basseterre",
+        "currency": "east caribbean dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Saint Lucia",
-        "capital": "Castries",
-        "currency": "East Caribbean Dollar",
-        "native_language": "English, French"
+        "country": "saint lucia",
+        "capital": "castries",
+        "currency": "east caribbean dollar",
+        "native_language": ["english", "french"]
     },
     {
-        "country": "Saint Vincent and The Grenadines",
-        "capital": "Kingstown East",
-        "currency": "Caribbean Dollar",
-        "native_language": "English"
+        "country": "saint vincent and the grenadines",
+        "capital": "kingstown east",
+        "currency": "caribbean dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Samoa",
-        "capital": "Apia",
-        "currency": "Tala",
-        "native_language": "Samoan, English"
+        "country": "samoa",
+        "capital": "apia",
+        "currency": "tala",
+        "native_language": ["samoan", "english"]
     },
     {
-        "country": "San Marino",
-        "capital": "San Marino",
-        "currency": "Euro",
-        "native_language": "Italian"
+        "country": "san marino",
+        "capital": "san marino",
+        "currency": "euro",
+        "native_language": ["italian"]
     },
     {
-        "country": "Sao Tome and Principe",
-        "capital": "Sao Tome",
-        "currency": "Dobra",
-        "native_language": "Portuguese"
+        "country": "sao tome and principe",
+        "capital": "sao tome",
+        "currency": "dobra",
+        "native_language": ["portuguese"]
     },
     {
-        "country": "Saudi Arabia",
-        "capital": "Riyadh",
-        "currency": "Saudi Riyal",
-        "native_language": "Arabic"
+        "country": "saudi arabia",
+        "capital": "riyadh",
+        "currency": "saudi riyal",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Senegal",
-        "capital": "Dakar",
-        "currency": "West African CFA Franc",
-        "native_language": "French"
+        "country": "senegal",
+        "capital": "dakar",
+        "currency": "west african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Serbia",
-        "capital": "Belgrade",
-        "currency": "Serbian Dinar",
-        "native_language": "Serbian"
+        "country": "serbia",
+        "capital": "belgrade",
+        "currency": "serbian dinar",
+        "native_language": ["serbian"]
     },
     {
-        "country": "Seychelles",
-        "capital": "Victoria",
-        "currency": "Seychoellois Rupee",
-        "native_language": "Seychellois Creole,French, English"
+        "country": "seychelles",
+        "capital": "victoria",
+        "currency": "seychoellois rupee",
+        "native_language": ["seychellois creole", "french", "english"]
     },
     {
-        "country": "Sierra Leone",
-        "capital": "Freetown",
-        "currency": "Leone",
-        "native_language": "Krio, English"
+        "country": "sierra leone",
+        "capital": "freetown",
+        "currency": "leone",
+        "native_language": ["krio", "english"]
     },
     {
-        "country": "Singapore",
-        "capital": "Singapore",
-        "currency": "Singapore Dollar",
-        "native_language": "English, Malay,Mandarin Chinese"
+        "country": "singapore",
+        "capital": "singapore",
+        "currency": "singapore dollar",
+        "native_language": ["english", "malay", "mandarin chinese"]
     },
     {
-        "country": "Slovakia",
-        "capital": "Bratislava",
-        "currency": "Euro",
-        "native_language": "Slovak"
+        "country": "slovakia",
+        "capital": "bratislava",
+        "currency": "euro",
+        "native_language": ["slovak"]
     },
     {
-        "country": "Slovenia",
-        "capital": "Ljubljana",
-        "currency": "Euro",
-        "native_language": "Slovene"
+        "country": "slovenia",
+        "capital": "ljubljana",
+        "currency": "euro",
+        "native_language": ["slovene"]
     },
     {
-        "country": "Solomon Islands",
-        "capital": "Honiara",
-        "currency": "Solomon Islands Dollar",
-        "native_language": "Solomons Pijin"
+        "country": "solomon islands",
+        "capital": "honiara",
+        "currency": "solomon islands dollar",
+        "native_language": ["solomons pijin"]
     },
     {
-        "country": "Somalia",
-        "capital": "Mogadishu",
-        "currency": "Somali Shilling",
-        "native_language": "Somali, Arabic"
+        "country": "somalia",
+        "capital": "mogadishu",
+        "currency": "somali shilling",
+        "native_language": ["somali", "arabic"]
     },
     {
-        "country": "South Africa",
-        "capital": "Pretoria, Cape Town,Bloemfontein",
-        "currency": "Rand",
-        "native_language": "Zulu, Xhosa, Afrikaans"
+        "country": "south africa",
+        "capital": "pretoria, cape town,bloemfontein",
+        "currency": "rand",
+        "native_language": ["zulu", "xhosa", "afrikaans"]
     },
     {
-        "country": "Spain",
-        "capital": "Madrid",
-        "currency": "Euro",
-        "native_language": "Spanish"
+        "country": "spain",
+        "capital": "madrid",
+        "currency": "euro",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Sri Lanka",
-        "capital": "Colombo",
-        "currency": "Sri Lankan Rupee",
-        "native_language": "Sinhala, Tamil"
+        "country": "sri lanka",
+        "capital": "colombo",
+        "currency": "sri lankan rupee",
+        "native_language": ["sinhala", "tamil"]
     },
     {
-        "country": "Sudan",
-        "capital": "Khartoum",
-        "currency": "Sudanese Pound",
-        "native_language": "Arabic, English"
+        "country": "sudan",
+        "capital": "khartoum",
+        "currency": "sudanese pound",
+        "native_language": ["arabic", "english"]
     },
     {
-        "country": "Suriname",
-        "capital": "Paramaribo",
-        "currency": "Surinamese Dollar",
-        "native_language": "Dutch"
+        "country": "suriname",
+        "capital": "paramaribo",
+        "currency": "surinamese dollar",
+        "native_language": ["dutch"]
     },
     {
-        "country": "Swaziland",
-        "capital": "Mbabane",
-        "currency": "Lilangeni",
-        "native_language": "English, SiSwati"
+        "country": "swaziland",
+        "capital": "mbabane",
+        "currency": "lilangeni",
+        "native_language": ["english", "siswati"]
     },
     {
-        "country": "Sweden",
-        "capital": "Stockholm",
-        "currency": "Swedish Krona",
-        "native_language": "Swedish"
+        "country": "sweden",
+        "capital": "stockholm",
+        "currency": "swedish krona",
+        "native_language": ["swedish"]
     },
     {
-        "country": "Switzerland",
-        "capital": "Berne",
-        "currency": "Swiss Franc",
-        "native_language": "German, French, Italian"
+        "country": "switzerland",
+        "capital": "berne",
+        "currency": "swiss franc",
+        "native_language": ["german", "french", "italian"]
     },
     {
-        "country": "Syria",
-        "capital": "Damascus",
-        "currency": "Syrian Pound",
-        "native_language": "Arabic"
+        "country": "syria",
+        "capital": "damascus",
+        "currency": "syrian pound",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Taiwan",
-        "capital": "Taipei",
-        "currency": "New Taiwan Dollar",
-        "native_language": "Mandarin"
+        "country": "taiwan",
+        "capital": "taipei",
+        "currency": "new taiwan dollar",
+        "native_language": ["mandarin"]
     },
     {
-        "country": "Tajikistan",
-        "capital": "Dushanbe",
-        "currency": "Somoni",
-        "native_language": "Tajik, Russian"
+        "country": "tajikistan",
+        "capital": "dushanbe",
+        "currency": "somoni",
+        "native_language": ["tajik", "russian"]
     },
     {
-        "country": "Tanzania",
-        "capital": "Dar es Salaam, Dodoma",
-        "currency": "Tanzanian Schilling",
-        "native_language": "Swahili"
+        "country": "tanzania",
+        "capital": "dar es salaam, dodoma",
+        "currency": "tanzanian schilling",
+        "native_language": ["swahili"]
     },
     {
-        "country": "Thailand",
-        "capital": "Bangkok",
-        "currency": "Thai Baht",
-        "native_language": "Thai"
+        "country": "thailand",
+        "capital": "bangkok",
+        "currency": "thai baht",
+        "native_language": ["thai"]
     },
     {
-        "country": "Togo",
-        "capital": "Lome",
-        "currency": "West African CFA Franc",
-        "native_language": "French"
+        "country": "togo",
+        "capital": "lome",
+        "currency": "west african cfa franc",
+        "native_language": ["french"]
     },
     {
-        "country": "Tonga",
-        "capital": "Nuku'alofa",
-        "currency": "Pa'anga",
-        "native_language": "Tongan, English"
+        "country": "tonga",
+        "capital": "nuku'alofa",
+        "currency": "pa'anga",
+        "native_language": ["tongan", "english"]
     },
     {
-        "country": "Trinidad and Tobago",
-        "capital": "Port-of-Spain",
-        "currency": "Trinidad and Tobago Dollar",
-        "native_language": "English"
+        "country": "trinidad and tobago",
+        "capital": "port-of-spain",
+        "currency": "trinidad and tobago dollar",
+        "native_language": ["english"]
     },
     {
-        "country": "Tunisia",
-        "capital": "Tunis",
-        "currency": "Tunisian Dinar",
-        "native_language": "Tunisian, French"
+        "country": "tunisia",
+        "capital": "tunis",
+        "currency": "tunisian dinar",
+        "native_language": ["tunisian", "french"]
     },
     {
-        "country": "Turkey",
-        "capital": "Ankara",
-        "currency": "Turkish Lira",
-        "native_language": "Turkish"
+        "country": "turkey",
+        "capital": "ankara",
+        "currency": "turkish lira",
+        "native_language": ["turkish"]
     },
     {
-        "country": "Turkmenistan",
-        "capital": "Ashgabat",
-        "currency": "Turkmen New Manat",
-        "native_language": "Turkmen, Russian"
+        "country": "turkmenistan",
+        "capital": "ashgabat",
+        "currency": "turkmen new manat",
+        "native_language": ["turkmen", "russian"]
     },
     {
-        "country": "Tuvalu",
-        "capital": "Vaiaku",
-        "currency": "Tuvaluan Dollar",
-        "native_language": "Tuvaluan, English"
+        "country": "tuvalu",
+        "capital": "vaiaku",
+        "currency": "tuvaluan dollar",
+        "native_language": ["tuvaluan", "english"]
     },
     {
-        "country": "Uganda",
-        "capital": "Kampala",
-        "currency": "Ugandan Shilling",
-        "native_language": "Swahili, English"
+        "country": "uganda",
+        "capital": "kampala",
+        "currency": "ugandan shilling",
+        "native_language": ["swahili", "english"]
     },
     {
-        "country": "Ukraine",
-        "capital": "Kiev",
-        "currency": "Hryvnia",
-        "native_language": "Ukranian, Russian"
+        "country": "ukraine",
+        "capital": "kiev",
+        "currency": "hryvnia",
+        "native_language": ["ukranian", "russian"]
     },
     {
-        "country": "United Arab Emirates",
-        "capital": "Abu Dhabi",
-        "currency": "Dirham",
-        "native_language": "Arabic"
+        "country": "united arab emirates",
+        "capital": "abu dhabi",
+        "currency": "dirham",
+        "native_language": ["arabic"]
     },
     {
-        "country": "United Kingdom",
-        "capital": "London",
-        "currency": "Pound Sterling",
-        "native_language": "English"
+        "country": "united kingdom",
+        "capital": "london",
+        "currency": "pound sterling",
+        "native_language": ["english"]
     },
     {
-        "country": "United States of America",
-        "capital": "Washington D.C.",
-        "currency": "United States Dollar",
-        "native_language": "English, Spanish"
+        "country": "united states of america",
+        "capital": "washington d.c.",
+        "currency": "united states dollar",
+        "native_language": ["english", "spanish"]
     },
     {
-        "country": "Uruguay",
-        "capital": "Montevideo",
-        "currency": "Uruguayan Peso",
-        "native_language": "Spanish"
+        "country": "uruguay",
+        "capital": "montevideo",
+        "currency": "uruguayan peso",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Uzbekistan",
-        "capital": "Tashkent",
-        "currency": "Uzbekistan Som",
-        "native_language": "Uzbek, Russian"
+        "country": "uzbekistan",
+        "capital": "tashkent",
+        "currency": "uzbekistan som",
+        "native_language": ["uzbek", "russian"]
     },
     {
-        "country": "Vanuatu",
-        "capital": "Port-Vila",
-        "currency": "Vanuatu Vatu",
-        "native_language": "Bislama, English, French"
+        "country": "vanuatu",
+        "capital": "port-vila",
+        "currency": "vanuatu vatu",
+        "native_language": ["bislama", "english", "french"]
     },
     {
-        "country": "Vatican City",
-        "capital": "Vatican City",
-        "currency": "Euro",
-        "native_language": "Latin, Italian"
+        "country": "vatican city",
+        "capital": "vatican city",
+        "currency": "euro",
+        "native_language": ["latin", "italian"]
     },
     {
-        "country": "Venezuela",
-        "capital": "Caracas",
-        "currency": "Bolivar Fuerte",
-        "native_language": "Spanish"
+        "country": "venezuela",
+        "capital": "caracas",
+        "currency": "bolivar fuerte",
+        "native_language": ["spanish"]
     },
     {
-        "country": "Vietnam",
-        "capital": "Hanoi",
-        "currency": "Dong",
-        "native_language": "Vietnamese"
+        "country": "vietnam",
+        "capital": "hanoi",
+        "currency": "dong",
+        "native_language": ["vietnamese"]
     },
     {
-        "country": "Yemen",
-        "capital": "Sanaa",
-        "currency": "Yemeni Rial",
-        "native_language": "Arabic"
+        "country": "yemen",
+        "capital": "sanaa",
+        "currency": "yemeni rial",
+        "native_language": ["arabic"]
     },
     {
-        "country": "Zambia",
-        "capital": "Lusaka",
-        "currency": "Zambian Kwacha",
-        "native_language": "English"
+        "country": "zambia",
+        "capital": "lusaka",
+        "currency": "zambian kwacha",
+        "native_language": ["english"]
     },
     {
-        "country": "Zimbabwe",
-        "capital": "Harare",
-        "currency": "United States Dollar",
-        "native_language": "English"
+        "country": "zimbabwe",
+        "capital": "harare",
+        "currency": "united states dollar",
+        "native_language": ["english"]
     }
 ]
