@@ -3,67 +3,100 @@
         "country": "afghanistan",
         "capital": "kabul",
         "currency": "afghani",
-        "native_language": ["dari persian", "pashto"]
+        "native_language": ["dari persian", "pashto"],
+        "GDP": 19630,
+        "population": 39.20 
+
     },
     {
         "country": "albania",
         "capital": "tirane",
         "currency": "lek",
-        "native_language": ["albanian"]
+        "native_language": ["albanian"],
+        "GDP": 15800,
+        "population": 2.9 
+        
     },
     {
         "country": "algeria",
         "capital": "algiers",
         "currency": "algerian dinar",
-        "native_language": ["arabic", "tamazight", "french"]
+        "native_language": ["arabic", "tamazight", "french"],
+        "GDP": 173757,
+        "population": 46.60 
+        
     },
     {
         "country": "andorra",
         "capital": "andorra la vella",
         "currency": "euro",
-        "native_language": ["catalan"]
+        "native_language": ["catalan"],
+        "GDP": 3237,
+        "population": 0.077
+        
     },
     {
         "country": "angola",
         "capital": "luanda",
         "currency": "kwanza",
-        "native_language": ["portuguese"]
+        "native_language": ["portuguese"],
+        "GDP": 110000,
+        "population": 34.77 
+        
     },
     {
         "country": "antigua & barbuda",
         "capital": "saint john's",
         "currency": "east caribbean dollar",
-        "native_language": ["english"]
+        "native_language": ["english"],
+        "GDP": 156,
+        "population": 0.0959
+        
     },
     {
         "country": "argentina",
         "capital": "buenos aires",
         "currency": "argentine peso",
-        "native_language": ["spanish"]
+        "native_language": ["spanish"],
+        "GDP": 199350,
+        "population": 46.30 
+        
     },
     {
         "country": "armenia",
         "capital": "yerevan",
         "currency": "dram",
-        "native_language": ["armenian"]
+        "native_language": ["armenian"],
+        "GDP": 13800,
+        "population": 2.93 
+        
     },
     {
         "country": "australia",
         "capital": "canberra",
         "currency": "australian dollar",
-        "native_language": ["english"]
+        "native_language": ["english"],
+        "GDP": 279090,
+        "population": 27.10
+        
     },
     {
         "country": "austria",
         "capital": "vienna",
         "currency": "euro",
-        "native_language": ["german"]
+        "native_language": ["german"],
+        "GDP": 111327,
+        "population": 8.92
+        
     },
     {
         "country": "azerbaijan",
         "capital": "baku",
         "currency": "manat",
-        "native_language": ["azerbaijani"]
+        "native_language": ["azerbaijani"],
+        "GDP": 49000,
+        "population": 10.30
+        
     },
     {
         "country": "the bahamas",
