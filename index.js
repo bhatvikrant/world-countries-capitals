@@ -46,7 +46,7 @@ const getCountryDetailsByName = country => {
 };
 
 // Get country details by the language spoken
-const getCountiesByLanguage = languageSpoken => {
+const getCountriesByLanguage = languageSpoken => {
     return getCountriesByObject(languageSpoken, "native_language");
 };
 
@@ -60,6 +60,8 @@ const getAllCountries = () => {
     return data.map(({ country }) => country);
 };
 
+console.log(getNRandomCountriesData(5));
+
 module.exports = {
     getRandomCountry,
     getNRandomCountriesData,
@@ -67,5 +69,5 @@ module.exports = {
     getCountryDetailsByName,
     getAllCountryDetails,
     getAllCountries,
-    getCountiesByLanguage
+    getCountriesByLanguage
 };
