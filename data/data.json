@@ -3,1176 +3,1365 @@
         "country": "Afghanistan",
         "capital": "Kabul",
         "currency": "Afghani",
-        "native_language": "Dari Persian, Pashto"
+        "native_language": "Dari Persian, Pashto",
+        "famous_for": "Rugs, Taliban"
     },
     {
         "country": "Albania",
         "capital": "Tirane",
         "currency": "Lek",
-        "native_language": "Albanian"
+        "native_language": "Albanian",
+        "famous_for" : "Mother Teresa"
     },
     {
         "country": "Algeria",
         "capital": "Algiers",
         "currency": "Algerian Dinar",
-        "native_language": "Arabic, Tamazight, French"
+        "native_language": "Arabic, Tamazight, French",
+        "famous_for": "Oil and Gas Reserves"
     },
     {
         "country": "Andorra",
         "capital": "Andorra la Vella",
         "currency": "Euro",
-        "native_language": "Catalan"
+        "native_language": "Catalan",
+        "famous_for": "Tourism and Tobacco"
     },
     {
         "country": "Angola",
         "capital": "Luanda",
         "currency": "Kwanza",
-        "native_language": "Portuguese"
+        "native_language": "Portuguese",
+        "famous_for": "Oil"
     },
     {
         "country": "Antigua & Barbuda",
         "capital": "Saint John's",
         "currency": "East Caribbean Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for" : "Spectacular racing and Rum"
     },
     {
         "country": "Argentina",
         "capital": "Buenos Aires",
         "currency": "Argentine Peso",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Football"
     },
     {
         "country": "Armenia",
         "capital": "Yerevan",
         "currency": "Dram",
-        "native_language": "Armenian"
+        "native_language": "Armenian",
+        "famous_for": "Genocide and Kim Kardashian"
     },
     {
         "country": "Australia",
         "capital": "Canberra",
         "currency": "Australian Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Koalas and Kangaroos"
     },
     {
         "country": "Austria",
         "capital": "Vienna",
         "currency": "Euro",
-        "native_language": "German"
+        "native_language": "German",
+        "famous_for": "Hitler, Mozart, Franz Ferdinand and Arnold Schwarzenegger"
     },
     {
         "country": "Azerbaijan",
         "capital": "Baku",
         "currency": "Manat",
-        "native_language": "Azerbaijani"
+        "native_language": "Azerbaijani",
+        "famous_for": "Burning Mountain"
     },
     {
         "country": "The Bahamas",
         "capital": "Nassau",
         "currency": "Bahamian Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Scenic beauty and year-round tropical weather"
     },
     {
         "country": "Bahrain",
         "capital": "Manama",
         "currency": "Bahraini Dinar",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Oil, pearls and world heritage sites"
     },
     {
         "country": "Bangladesh",
         "capital": "Dhaka",
         "currency": "Taka",
-        "native_language": "Bangla"
+        "native_language": "Bangla",
+        "famous_for": "Cox's Bazar Sea"
     },
     {
         "country": "Barbados",
         "capital": "Bridgetown",
         "currency": "Barbadian Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Flying Fish"
     },
     {
         "country": "Belarus",
         "capital": "Minsk",
         "currency": "Belarusian Ruble",
-        "native_language": "Belarusian, Russian"
+        "native_language": "Belarusian, Russian",
+        "famous_for": "Variety of sweets"
     },
     {
         "country": "Belgium",
         "capital": "Brussels",
         "currency": "Euro",
-        "native_language": "Dutch, French, German"
+        "native_language": "Dutch, French, German",
+        "famous_for": "Chocolates, waffles, fries and beer"
     },
     {
         "country": "Belize",
         "capital": "Belmopan",
         "currency": "Belize Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Scuba Diving Sites"
     },
     {
         "country": "Benin",
         "capital": "Porto-Novo",
         "currency": "West African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Bronzes - Brass Work"
     },
     {
         "country": "Bhutan",
         "capital": "Thimphu",
         "currency": "Ngultrum",
-        "native_language": "Dzongkha"
+        "native_language": "Dzongkha",
+        "famous_for": "Natural beauty, forest conservation, great culture and heritage"
     },
     {
         "country": "Bolivia",
         "capital": "La Paz, Sucre",
         "currency": "Boliviano",
-        "native_language": "Spanish, Quechua, Aymara"
+        "native_language": "Spanish, Quechua, Aymara",
+        "famous_for": "Salar de Uyuni"
     },
     {
         "country": "Bosnia and Herzegovina",
         "capital": "Sarajevo",
         "currency": "Convertible Mark",
-        "native_language": "Bosnian, Croatian, Serbian"
+        "native_language": "Bosnian, Croatian, Serbian",
+        "famous_for": "Natural environment and cultural heritage"
     },
     {
         "country": "Botswana",
         "capital": "Gaborone",
         "currency": "Pula",
-        "native_language": "English, Tswana"
+        "native_language": "English, Tswana",
+        "famous_for": "Safari Destinations"
     },
     {
         "country": "Brazil",
         "capital": "Brasilia",
         "currency": "Real",
-        "native_language": "Portuguese"
+        "native_language": "Portuguese",
+        "famous_for": "Soccer and Football"
     },
     {
         "country": "Brunei",
         "capital": "Bandar Seri Begawan",
         "currency": "Brunei Dollar",
-        "native_language": "Malay"
+        "native_language": "Malay",
+        "famous_for": "Gorgeous mosques and islamic architecture"
     },
     {
         "country": "Bulgaria",
         "capital": "Sofia",
         "currency": "Lev",
-        "native_language": "Bulgarian"
+        "native_language": "Bulgarian",
+        "famous_for": "Lavender Oil and The Rose Valley"
     },
     {
         "country": "Burkina Faso",
         "capital": "Ouagadougou",
         "currency": "West African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "African art and culture"
     },
     {
         "country": "Burundi",
         "capital": "Bujumbura",
         "currency": "Burundi Franc",
-        "native_language": "Kirundi, French"
+        "native_language": "Kirundi, French",
+        "famous_for": "Wildlife and Greenery"
     },
     {
         "country": "Cambodia",
         "capital": "Phnom Penh",
         "currency": "Riel",
-        "native_language": "Khmer"
+        "native_language": "Khmer",
+        "famous_for": "Angkor Wat hindu temple"
     },
     {
         "country": "Cameroon",
         "capital": "Yaounde",
         "currency": "Central African CFA Franc",
-        "native_language": "French, English"
+        "native_language": "French, English",
+        "famous_for": "Coffee, Cocoa, Cotton and Oilseeds"
     },
     {
         "country": "Canada",
         "capital": "Ottawa",
         "currency": "Canadian Dollar",
-        "native_language": "English, French"
+        "native_language": "English, French",
+        "famous_for": "Mapple syrup, mapple trees, politeness and hockey"
     },
     {
         "country": "Cape Verde",
         "capital": "Praia",
         "currency": "Cape Verdean Escudo",
-        "native_language": "Portuguese"
+        "native_language": "Portuguese",
+        "famous_for": "Warm tropical climate, volcanic islands, wonderful musicians"
     },
     {
         "country": "Central African Republic",
         "capital": "Bangui",
         "currency": "Central African CFA Franc",
-        "native_language": "Sango, French"
+        "native_language": "Sango, French",
+        "famous_for": "Diamonds, Gold, Oil and Uranium"
     },
     {
         "country": "Chad",
         "capital": "N'Djamena",
         "currency": "Central African CFA Franc",
-        "native_language": "French, Arabic"
+        "native_language": "French, Arabic",
+        "famous_for": "Chad lake"
     },
     {
         "country": "Chile",
         "capital": "Santiago",
         "currency": "Chilean Peso",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Country of poets"
     },
     {
         "country": "China",
         "capital": "Beijing",
         "currency": "Chinese Yuan",
-        "native_language": "Mandarin"
+        "native_language": "Mandarin",
+        "famous_for": "Kung fu, spitting habit, panda, cheap electronics"
     },
     {
         "country": "Colombia",
         "capital": "Bogota",
         "currency": "Colombian Peso",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Mines of Muzo, Chivor and Coscuez"
     },
     {
         "country": "Comoros",
         "capital": "Moron",
         "currency": "Comorian Franc",
-        "native_language": "Comorian, Arabic, French"
+        "native_language": "Comorian, Arabic, French",
+        "famous_for": "Fragrant plant life and scenic beauty"
     },
     {
         "country": "Democratic Republic Of the Congo",
         "capital": "Kinshasa",
         "currency": "Congolese Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Diamonds, Cobalt and Copper"
     },
     {
         "country": "Republic of the Congo",
         "capital": "Brazzaville",
         "currency": "Central African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Natural resources"
     },
     {
         "country": "Costa Rica",
         "capital": "San Jose",
         "currency": "Colon",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Coffee beans"
     },
     {
         "country": "Cote d'Ivoire (Ivory Coast)",
         "capital": "Yamoussoukro, Abidjan",
         "currency": "West African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Religious and Ethnic harmony"
     },
     {
         "country": "Croatia",
         "capital": "Zagreb",
         "currency": "Croatian",
-        "native_language": "Kuna"
+        "native_language": "Kuna",
+        "famous_for": "Game of Thrones, stunning natural beauty and 6000km long coast"
     },
     {
         "country": "Cuba",
         "capital": "Havana",
         "currency": "Cuban Peso",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Beaches, Rum, Cigars, Fascinating architecture"
     },
     {
         "country": "Cyprus",
         "capital": "Nicosia",
         "currency": "Euro",
-        "native_language": "Greek, Turkish"
+        "native_language": "Greek, Turkish",
+        "famous_for": "Incredible Scenery and History"
     },
     {
         "country": "Czechia",
         "capital": "Prague",
         "currency": "Czech Koruna",
-        "native_language": "Czech, Slovak"
+        "native_language": "Czech, Slovak",
+        "famous_for": "Museums, puppetry, marionette exhibitions and folk festivals"
     },
     {
         "country": "Denmark",
         "capital": "Copenhagen",
         "currency": "Danish Krone",
-        "native_language": "Danish"
+        "native_language": "Danish",
+        "famous_for": "Pig meat, healthcare, pastries and cuisine"
     },
     {
         "country": "Djibouti",
         "capital": "Djibouti",
         "currency": "Djiboutian Franc",
-        "native_language": "Arabic, French"
+        "native_language": "Arabic, French",
+        "famous_for": "Amazing Landscapes, Limestone vents and flamingos"
     },
     {
         "country": "Dominica",
         "capital": "Rosesau",
         "currency": "East Caribbean Dollar",
-        "native_language": "English, French,Antillean Creole"
+        "native_language": "English, French,Antillean Creole",
+        "famous_for": "Boiling Lake"
     },
     {
         "country": "Dominican Republic",
         "capital": "Santo Domingo",
         "currency": "Dominican Peso",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Blue ocean water, white-sand beaches and beautiful resorts"
     },
     {
         "country": "East Timor (Timor-Leste)",
         "capital": "Dilli",
         "currency": "United States Dollar",
-        "native_language": "Tetum, Portuguese,Iindonesian"
+        "native_language": "Tetum, Portuguese,Iindonesian",
+        "famous_for": "Rich culture and beautiful beaches"
     },
     {
         "country": "Ecuador",
         "capital": "Quito",
         "currency": "United States Dollar",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Home to galapagos islands"
     },
     {
         "country": "Egypt",
         "capital": "Cairo",
         "currency": "Egyptian Pound",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Pyramids, Sphinx, AI Aqsa University and Mummies"
     },
     {
         "country": "El Salvador",
         "capital": "San Salvador",
         "currency": "United States Dollar",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Land of volcanoes"
     },
     {
         "country": "Equitorial Guinea",
         "capital": "Malabo",
         "currency": "Central African CFA Franc",
-        "native_language": "Spanish, French, Portuguese"
+        "native_language": "Spanish, French, Portuguese",
+        "famous_for": "Spanish speaking country in Africa"
     },
     {
         "country": "Eritrea",
         "capital": "Asmara",
         "currency": "Nakfa",
-        "native_language": "Arabic, Tigrinya, English"
+        "native_language": "Arabic, Tigrinya, English",
+        "famous_for": "Coastal location in history and culture"
     },
     {
         "country": "Estonia",
         "capital": "Tallinn",
         "currency": "Estonian Kroon, Euro",
-        "native_language": "Estonian"
+        "native_language": "Estonian",
+        "famous_for": "Medieval architecture"
     },
     {
         "country": "Ethiopia",
         "capital": "Addis Ababa",
         "currency": "Birr",
-        "native_language": "Amharic"
+        "native_language": "Amharic",
+        "famous_for": "Cradle of Mankind"
     },
     {
         "country": "Fiji",
         "capital": "Suva",
         "currency": "Fijian Dollar",
-        "native_language": "English, Bau Fijian, Hindi"
+        "native_language": "English, Bau Fijian, Hindi",
+        "famous_for": "Friendly people and heavenly tropical islands"
     },
     {
         "country": "Finland",
         "capital": "Helsinki",
         "currency": "Euro",
-        "native_language": "Finnish, Swedish"
+        "native_language": "Finnish, Swedish",
+        "famous_for": "Glassware, Littala"
     },
     {
         "country": "France",
         "capital": "Paris",
         "currency": "Euro, CFP Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Eiffel Tower, Croissant, Fashion, Smoking and Wine"
     },
     {
         "country": "Gabon",
         "capital": "Libreville",
         "currency": "Central African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Preserving the natural environment"
     },
     {
         "country": "The Gambia",
         "capital": "Banjul",
         "currency": "Dalasi",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Beaches, home to Juffure"
     },
     {
         "country": "Georgia",
         "capital": "Tbilisi",
         "currency": "Lari",
-        "native_language": "Georgian"
+        "native_language": "Georgian",
+        "famous_for": "Joseph Stalin"
     },
     {
         "country": "Germany",
         "capital": "Berlin",
         "currency": "Euro",
-        "native_language": "German"
+        "native_language": "German",
+        "famous_for": "Beer, sausage, nazi and cars"
     },
     {
         "country": "Ghana",
         "capital": "Accra",
         "currency": "Ghanaian Cedi",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Lush forests, diverse animal life, cocoa and gold"
     },
     {
         "country": "Greece",
         "capital": "Athens",
         "currency": "Euro",
-        "native_language": "Greek"
+        "native_language": "Greek",
+        "famous_for": "Ancient philosophers, Ancient Greek gods, Sparta and Orthodox Christianity"
     },
     {
         "country": "Grenada",
         "capital": "St. George's",
         "currency": "East Caribbean Dollar",
-        "native_language": "English, Patois"
+        "native_language": "English, Patois",
+        "famous_for": "Spices"
     },
     {
         "country": "Guatemala",
         "capital": "Guatemala City",
         "currency": "Quetzal",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Volcanic landscape and fascinating mayan culture"
     },
     {
         "country": "Guinea",
         "capital": "Conakry",
         "currency": "Guinean Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Hydroelectric power, bauxite reserves"
     },
     {
         "country": "Guinea-Bissau",
         "capital": "Bissau",
         "currency": "West African CFA Franc",
-        "native_language": "Portuguese"
+        "native_language": "Portuguese",
+        "famous_for": "Transit point for latin american cocain"
     },
     {
         "country": "Guyana",
         "capital": "Georgetown",
         "currency": "Guyanese Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Pristine rainforests, sugarcane plantations, rice fields and bauxite reserves"
     },
     {
         "country": "Haiti",
         "capital": "Port-au-Prince",
         "currency": "Gourde",
-        "native_language": "Haitian Creole, French"
+        "native_language": "Haitian Creole, French",
+        "famous_for": "Breathtaking beaches and crystal blue waters"
     },
     {
         "country": "Honduras",
         "capital": "Tegucigalpa",
         "currency": "Lempira",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Rich natural resources, tropical fruit, sugarcane, coffee and growing textiles industry"
     },
     {
         "country": "Hungary",
         "capital": "Budapest",
         "currency": "Forint",
-        "native_language": "Hungarian"
+        "native_language": "Hungarian",
+        "famous_for": "Rich natural resources and textiles"
     },
     {
         "country": "Iceland",
         "capital": "Reykjavik",
         "currency": "Icelandic Krona",
-        "native_language": "Icelandic"
+        "native_language": "Icelandic",
+        "famous_for": "Lagest glaciers in Europe"
     },
     {
         "country": "India",
         "capital": "New Delhi",
         "currency": "Indian Rupee",
-        "native_language": "Hindi, English"
+        "native_language": "Hindi, English",
+        "famous_for": "Bollywood, Yoga, Hinduism, Food and Diversity"
     },
     {
         "country": "Indonesia",
         "capital": "Jakarta",
         "currency": "Rupiah",
-        "native_language": "Indonesian"
+        "native_language": "Indonesian",
+        "famous_for": "Bali, Komodo dragon, domestic workers and rendang"
     },
     {
         "country": "Iran",
         "capital": "Tehran",
         "currency": "Rial",
-        "native_language": "Persian"
+        "native_language": "Persian",
+        "famous_for": "Nuclear weapon, Shia Muslims, Poetry, Persian Carpet"
     },
     {
         "country": "Iraq",
         "capital": "Baghdad",
         "currency": "Iraqi Dinar",
-        "native_language": "Arabic, Kurdish"
+        "native_language": "Arabic, Kurdish",
+        "famous_for": "Saddam Hussein, ISIS"
     },
     {
         "country": "Republic of Ireland",
         "capital": "Dublin",
         "currency": "Euro",
-        "native_language": "English, Irish"
+        "native_language": "English, Irish",
+        "famous_for": "Meadows and Leprechaun"
     },
     {
         "country": "Israel",
         "capital": "Jerusalem",
         "currency": "Shekel",
-        "native_language": "Hebrew, Arabic"
+        "native_language": "Hebrew, Arabic",
+        "famous_for": "Jewish-majority, aliyah, Al Aqsa mosque, Jerusalem"
     },
     {
         "country": "Italy",
         "capital": "Rome",
         "currency": "Euro",
-        "native_language": "Italian"
+        "native_language": "Italian",
+        "famous_for": "Ferrari, spaghetti, pizza, fashion, venice"
     },
     {
         "country": "Jamaica",
         "capital": "Kingston",
         "currency": "Jamaican Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Blue Mountain Coffee"
     },
     {
         "country": "Japan",
         "capital": "Tokyo",
         "currency": "Yen",
-        "native_language": "Japanese"
+        "native_language": "Japanese",
+        "famous_for": "Politeness, anime, sushi, samurai, nitendo karate, cars and robotics"
     },
     {
         "country": "Jordan",
         "capital": "Amman",
         "currency": "Jordanian Dinar",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Petra"
     },
     {
         "country": "Kazakhstan",
         "capital": "Astana",
         "currency": "Tenge",
-        "native_language": "Kazakh, Russian"
+        "native_language": "Kazakh, Russian",
+        "famous_for": "Architectural marvels, the caspian sea and wild horses"
     },
     {
         "country": "Kenya",
         "capital": "Nairobi",
         "currency": "Kenyan Shilling",
-        "native_language": "Swahili, English"
+        "native_language": "Swahili, English",
+        "famous_for": "Masai people, safari tourism"
     },
     {
         "country": "Kiribati",
         "capital": "Tarawa Atoll",
         "currency": "Kiribati Dollar",
-        "native_language": "English, Gilbertese"
+        "native_language": "English, Gilbertese",
+        "famous_for": "Flyfishing, scuba diving and astounding seabird wildlife"
     },
     {
         "country": "North Korea",
         "capital": "Pyongyang",
         "currency": "North Korean Won",
-        "native_language": "Korean"
+        "native_language": "Korean",
+        "famous_for": "Communism, Kim Jeong 2, Nuclear Weapon"
     },
     {
         "country": "South Korea",
         "capital": "Seoul",
         "currency": "South Korean Won",
-        "native_language": "Korean"
+        "native_language": "Korean",
+        "famous_for": "K-pop, Samsung, Hyundai, Kia and Kim chi"
     },
     {
         "country": "Kosovo",
         "capital": "Pristina",
         "currency": "Euro",
-        "native_language": "Albanian, Serbian"
+        "native_language": "Albanian, Serbian",
+        "famous_for": "Mountains and Wine"
     },
     {
         "country": "Kuwait",
         "capital": "Kuwait City",
         "currency": "Kuwaiti Dollar",
-        "native_language": "Arabic, English"
+        "native_language": "Arabic, English",
+        "famous_for": "Victim of Saddam's invasion"
     },
     {
         "country": "Kyrgyzstan",
         "capital": "Bishkek",
         "currency": "Som",
-        "native_language": "Kyrgyz, Russian"
+        "native_language": "Kyrgyz, Russian",
+        "famous_for": "Lake Issyk Kul"
     },
     {
         "country": "Laos",
         "capital": "Vientiane",
         "currency": "Kip",
-        "native_language": "Lao (Laotian)"
+        "native_language": "Lao (Laotian)",
+        "famous_for": "Bolaven Plateau, Ethnic Villages"
     },
     {
         "country": "Latvia",
         "capital": "Riga",
         "currency": "Lats",
-        "native_language": "Latvian"
+        "native_language": "Latvian",
+        "famous_for": "Old Town, Home to widest waterfall in Europe"
     },
     {
         "country": "Lebanon",
         "capital": "Beirut",
         "currency": "Lebanese Pound",
-        "native_language": "Arabic, French"
+        "native_language": "Arabic, French",
+        "famous_for": "Rome and Phoenica culture"
     },
     {
         "country": "Lesotho",
         "capital": "Maseru",
         "currency": "Loti",
-        "native_language": "Sesotho, English"
+        "native_language": "Sesotho, English",
+        "famous_for": "Sehlabathebe National Park"
     },
     {
         "country": "Liberia",
         "capital": "Monrovia",
         "currency": "Liberian Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Long running ruinous civil war"
     },
     {
         "country": "Libya",
         "capital": "Tripoli",
         "currency": "Libyan Dinar",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Sahara desert"
     },
     {
         "country": "Liechtenstein",
         "capital": "Vaduz",
         "currency": "Swiss Franc",
-        "native_language": "German"
+        "native_language": "German",
+        "famous_for": "Unbelievable transformation from rural to wealthiest poulation within 60 years"
     },
     {
         "country": "Lithuania",
         "capital": "Vilnius",
         "currency": "Lithuanian Litas",
-        "native_language": "Lithuanian"
+        "native_language": "Lithuanian",
+        "famous_for": "Own official Lithuania scent, Amber on shores of Baltic sea"
     },
     {
         "country": "Luxembourg",
         "capital": "Luxembourg",
         "currency": "Euro",
-        "native_language": "German, French,Luxembourgish"
+        "native_language": "German, French,Luxembourgish",
+        "famous_for": "Europe's most powerful investement management centre and steel manufacturing"
     },
     {
         "country": "Macedonia",
         "capital": "Skopje",
         "currency": "Macedonian Denar",
-        "native_language": "Macedonian"
+        "native_language": "Macedonian",
+        "famous_for": "Great empire's history"
     },
     {
         "country": "Madagascar",
         "capital": "Antananarivo",
         "currency": "Malagasy Ariary",
-        "native_language": "Malagasy, French, English"
+        "native_language": "Malagasy, French, English",
+        "famous_for": "Lemurs, colourful chameleons, stunning orchids and home to flora and fauna"
     },
     {
         "country": "Malawi",
         "capital": "Lilongwe",
         "currency": "Malawi Kwacha",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Home to largest number of fish species in the world"
     },
     {
         "country": "Malaysia",
         "capital": "Kuala Lumpur",
         "currency": "Ringgit",
-        "native_language": "Malay"
+        "native_language": "Malay",
+        "famous_for": "Rendang, teh tark, nasi lemak and Yuna"
     },
     {
         "country": "Maldives",
         "capital": "Male",
         "currency": "Maldivian Rufiyaa",
-        "native_language": "Dhivehi"
+        "native_language": "Dhivehi",
+        "famous_for": "Natural environment and water sports"
     },
     {
         "country": "Mali",
         "capital": "Bamako",
         "currency": "West African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Salt mines"
     },
     {
         "country": "Malta",
         "capital": "Valletta",
         "currency": "Euro",
-        "native_language": "Maltese, English"
+        "native_language": "Maltese, English",
+        "famous_for": "Warm climate, architectural and historical monuments"
     },
     {
         "country": "Marshall Islands",
         "capital": "Majuro",
         "currency": "United States Dollar",
-        "native_language": "Marshallese, English"
+        "native_language": "Marshallese, English",
+        "famous_for": "Being fierce and hostile to strangers"
     },
     {
         "country": "Mauritania",
         "capital": "Nouakchott",
         "currency": "Ouguiya",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Large reserves of iron ore, copper, and gypsum"
     },
     {
         "country": "Mauritius",
         "capital": "Port Louis",
         "currency": "Mauritian Rupee",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Extinct dodo and rare species of plants and animals"
     },
     {
         "country": "Mexico",
         "capital": "Mexico City",
         "currency": "Mexican Peso",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Sombero hat, taco, aztec, salsa"
     },
     {
         "country": "Federal States of Micronesia",
         "capital": "Palikir",
         "currency": "United States Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Manta rays, eco-tourism"
     },
     {
         "country": "Moldova",
         "capital": "Chisinau",
         "currency": "Moldovan Leu",
-        "native_language": "Moldovan (Romanian)"
+        "native_language": "Moldovan (Romanian)",
+        "famous_for": "Wine"
     },
     {
         "country": "Monaco",
         "capital": "Monaco",
         "currency": "Euro",
-        "native_language": "French, Italian, English"
+        "native_language": "French, Italian, English",
+        "famous_for": "High-end casinos, beautiful yachts and scenic montecarlo"
     },
     {
         "country": "Mongolia",
         "capital": "Ulaanbaatar",
         "currency": "Togrog",
-        "native_language": "Mongolian"
+        "native_language": "Mongolian",
+        "famous_for": "Siberian ibex, Snow leopard, Gobi bear and Wild bactrian camel"
     },
     {
         "country": "Montenegro",
         "capital": "Podgorica",
         "currency": "Euro",
-        "native_language": "Montenegrin"
+        "native_language": "Montenegrin",
+        "famous_for": "Montenegrin coast"
     },
     {
         "country": "Morocco",
         "capital": "Rabat",
         "currency": "Moroccan Dirham",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Medinas, Beautiful handcrafts and traditional products"
     },
     {
         "country": "Mozambique",
         "capital": "Maputo",
         "currency": "Mozambican Metical",
-        "native_language": "Portuguese"
+        "native_language": "Portuguese",
+        "famous_for": "Fresh Seafood"
     },
     {
         "country": "Myanmar (Burma)",
         "capital": "Nypyidaw",
         "currency": "Kyat",
-        "native_language": "Burmese"
+        "native_language": "Burmese",
+        "famous_for": "Greatest archeological sites and sule pagoda"
     },
     {
         "country": "Namibia",
         "capital": "Windhoek",
         "currency": "Namibian Dollar",
-        "native_language": "English, Afrikaans, German"
+        "native_language": "English, Afrikaans, German",
+        "famous_for": "Highest dunes and Etosha National Park"
     },
     {
         "country": "Nauru",
         "capital": "Yaren",
         "currency": "Australian Dollar",
-        "native_language": "English, Nauran"
+        "native_language": "English, Nauran",
+        "famous_for": "Islands of Banaba"
     },
     {
         "country": "Nepal",
         "capital": "Kathmandu",
         "currency": "Nepalese Rupee",
-        "native_language": "Nepali"
+        "native_language": "Nepali",
+        "famous_for": "Mountain peaks, Mount Everest and Kanchenjunga"
     },
     {
         "country": "Netherlands",
         "capital": "Amsterdam, The Hague",
         "currency": "Euro",
-        "native_language": "Dutch"
+        "native_language": "Dutch",
+        "famous_for": "Legal drugs, tulip flowers and windmills"
     },
     {
         "country": "New Zealand",
         "capital": "Wellington",
         "currency": "New Zealand Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "National rugby team"
     },
     {
         "country": "Nicaragua",
         "capital": "Managua",
         "currency": "Cordoba",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Volcanoes and Lakes"
     },
     {
         "country": "Niger",
         "capital": "Niamey",
         "currency": "West African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "World's largest uranium deposits"
     },
     {
         "country": "Nigeria",
         "capital": "Abuja",
         "currency": "Naira",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Most common sub saharan tourists, petroleum production"
     },
     {
         "country": "Norway",
         "capital": "Oslo",
         "currency": "Norwegian Krone",
-        "native_language": "Norwegian"
+        "native_language": "Norwegian",
+        "famous_for": "Oil, fjords, mountains and midnight sun"
     },
     {
         "country": "Oman",
         "capital": "Muscat",
         "currency": "Omani Rial",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Fresh sea and air breathing"
     },
     {
         "country": "Pakistan",
         "capital": "Islamabad",
         "currency": "Pakistani Rupee",
-        "native_language": "Urdu, English"
+        "native_language": "Urdu, English",
+        "famous_for": "Producing Footballs, Cricket team"
     },
     {
         "country": "Palau",
         "capital": "Melekeok",
         "currency": "United States Dollar",
-        "native_language": "English, Palauan"
+        "native_language": "English, Palauan",
+        "famous_for": "Jellyfish Lake"
     },
     {
         "country": "Panama",
         "capital": "Panama City",
         "currency": "Balboa",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Panama canal, birding, snorkeling and rafting"
     },
     {
         "country": "Papa New Guinea",
         "capital": "Port Moresby Papa",
         "currency": "Papa New Guinean Kina",
-        "native_language": "English, Tok Pisin,Hiri Motu"
+        "native_language": "English, Tok Pisin,Hiri Motu",
+        "famous_for": "Scuba diving and marine diversity"
     },
     {
         "country": "Paraguay",
         "capital": "Asuncion",
         "currency": "Guarani",
-        "native_language": "Spanish, Guarani"
+        "native_language": "Spanish, Guarani",
+        "famous_for": "Largest naval power"
     },
     {
         "country": "Peru",
         "capital": "Lima",
         "currency": "Nuevo Sol",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Machu Picchu"
     },
     {
-        "country": "Phillipines",
+        "country": "Philippines",
         "capital": "Manila",
         "currency": "Phillipine Peso",
-        "native_language": "Filipino, English"
+        "native_language": "Filipino, English",
+        "famous_for": "Domestic workers, ferdinand marcos, manny pacquiao"
     },
     {
         "country": "Poland",
         "capital": "Warsaw",
         "currency": "Zloty",
-        "native_language": "Polish"
+        "native_language": "Polish",
+        "famous_for": "Pierogi and Potatoes"
     },
     {
         "country": "Portugal",
         "capital": "Lisbon",
         "currency": "Euro",
-        "native_language": "Portuguese"
+        "native_language": "Portuguese",
+        "famous_for": "Beaches, Food and Cristiano Ronaldo"
     },
     {
         "country": "Qatar",
         "capital": "Doha",
         "currency": "Qatari Riyal",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Qatar Airlines"
     },
     {
         "country": "Romania",
         "capital": "Bucharest",
         "currency": "Romanian Rupee",
-        "native_language": "Romanian"
-    },
-    {
-        "country": "Romania",
-        "capital": "Bucharest",
-        "currency": "Romanian Rupee",
-        "native_language": "Romanian"
+        "native_language": "Romanian",
+        "famous_for": "Dracula"
     },
     {
         "country": "Russia",
         "capital": "Moscow",
         "currency": "Ruble",
-        "native_language": "Russian"
+        "native_language": "Russian",
+        "famous_for": "Vodka, military, matroyshka dolls and cold climate"
     },
     {
         "country": "Rwanda",
         "capital": "Kigali",
         "currency": "Rwandan Franc",
-        "native_language": "Kinyarwanda, French, English"
+        "native_language": "Kinyarwanda, French, English",
+        "famous_for": "Chimpanzee species and home  of mountain gorillas"
     },
     {
         "country": "Saint Kitts and Nevis",
         "capital": "Basseterre",
         "currency": "East Caribbean Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Beautiful beaches and pristine tropical forests"
     },
     {
         "country": "Saint Lucia",
         "capital": "Castries",
         "currency": "East Caribbean Dollar",
-        "native_language": "English, French"
+        "native_language": "English, French",
+        "famous_for": "volcanic island"
     },
     {
         "country": "Saint Vincent and The Grenadines",
         "capital": "Kingstown East",
         "currency": "Caribbean Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Beautiful white-sand beaches and snorking"
     },
     {
         "country": "Samoa",
         "capital": "Apia",
         "currency": "Tala",
-        "native_language": "Samoan, English"
+        "native_language": "Samoan, English",
+        "famous_for": "Samoan culture, music, dance and visual arts"
     },
     {
         "country": "San Marino",
         "capital": "San Marino",
         "currency": "Euro",
-        "native_language": "Italian"
+        "native_language": "Italian",
+        "famous_for": "World's oldest surviving republic"
     },
     {
         "country": "Sao Tome and Principe",
         "capital": "Sao Tome",
         "currency": "Dobra",
-        "native_language": "Portuguese"
+        "native_language": "Portuguese",
+        "famous_for": "Cocoa production"
     },
     {
         "country": "Saudi Arabia",
         "capital": "Riyadh",
         "currency": "Saudi Riyal",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Strict rules, Wahhabism, Mecca and Madina"
     },
     {
         "country": "Senegal",
         "capital": "Dakar",
         "currency": "West African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "Traditional wrestling, football and exotic dance"
     },
     {
         "country": "Serbia",
         "capital": "Belgrade",
         "currency": "Serbian Dinar",
-        "native_language": "Serbian"
+        "native_language": "Serbian",
+        "famous_for": "Culture, history, delicious cuisine, and nightlife"
     },
     {
         "country": "Seychelles",
         "capital": "Victoria",
         "currency": "Seychoellois Rupee",
-        "native_language": "Seychellois Creole,French, English"
+        "native_language": "Seychellois Creole,French, English",
+        "famous_for": "Deep blue waters, white sandy beaches and honeymoon destination"
     },
     {
         "country": "Sierra Leone",
         "capital": "Freetown",
         "currency": "Leone",
-        "native_language": "Krio, English"
+        "native_language": "Krio, English",
+        "famous_for": "Producers of titanium and bauxite, Natural harbour"
     },
     {
         "country": "Singapore",
         "capital": "Singapore",
         "currency": "Singapore Dollar",
-        "native_language": "English, Malay,Mandarin Chinese"
+        "native_language": "English, Malay,Mandarin Chinese",
+        "famous_for": "Cleanliness, marina bay and strict laws"
     },
     {
         "country": "Slovakia",
         "capital": "Bratislava",
         "currency": "Euro",
-        "native_language": "Slovak"
+        "native_language": "Slovak",
+        "famous_for": "Eset and Sygic"
     },
     {
         "country": "Slovenia",
         "capital": "Ljubljana",
         "currency": "Euro",
-        "native_language": "Slovene"
+        "native_language": "Slovene",
+        "famous_for": "Caves"                 
     },
     {
         "country": "Solomon Islands",
         "capital": "Honiara",
         "currency": "Solomon Islands Dollar",
-        "native_language": "Solomons Pijin"
+        "native_language": "Solomons Pijin",
+        "famous_for": "World War 2"
     },
     {
         "country": "Somalia",
         "capital": "Mogadishu",
         "currency": "Somali Shilling",
-        "native_language": "Somali, Arabic"
+        "native_language": "Somali, Arabic",
+        "famous_for": "Frankincense and myrrh"
     },
     {
         "country": "South Africa",
         "capital": "Pretoria, Cape Town,Bloemfontein",
         "currency": "Rand",
-        "native_language": "Zulu, Xhosa, Afrikaans"
+        "native_language": "Zulu, Xhosa, Afrikaans",
+        "famous_for": "Nelson Mandela and Safari"
     },
     {
         "country": "Spain",
         "capital": "Madrid",
         "currency": "Euro",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Salsa and Bullfight"
     },
     {
         "country": "Sri Lanka",
         "capital": "Colombo",
         "currency": "Sri Lankan Rupee",
-        "native_language": "Sinhala, Tamil"
+        "native_language": "Sinhala, Tamil",
+        "famous_for": "Ceylon tea"
     },
     {
         "country": "Sudan",
         "capital": "Khartoum",
         "currency": "Sudanese Pound",
-        "native_language": "Arabic, English"
+        "native_language": "Arabic, English",
+        "famous_for": "Largest collection of pyramids"
     },
     {
         "country": "Suriname",
         "capital": "Paramaribo",
         "currency": "Surinamese Dollar",
-        "native_language": "Dutch"
+        "native_language": "Dutch",
+        "famous_for": "Water lilies and orchids"
     },
     {
         "country": "Swaziland",
         "capital": "Mbabane",
         "currency": "Lilangeni",
-        "native_language": "English, SiSwati"
+        "native_language": "English, SiSwati",
+        "famous_for": "Sibebe rock and largest exposed granite dome"
     },
     {
         "country": "Sweden",
         "capital": "Stockholm",
         "currency": "Swedish Krona",
-        "native_language": "Swedish"
+        "native_language": "Swedish",
+        "famous_for": "Ikea"
     },
     {
         "country": "Switzerland",
         "capital": "Berne",
         "currency": "Swiss Franc",
-        "native_language": "German, French, Italian"
+        "native_language": "German, French, Italian",
+        "famous_for": "Alps, natural beauty, chocolates and watches"
     },
     {
         "country": "Syria",
         "capital": "Damascus",
         "currency": "Syrian Pound",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "ISIS"
     },
     {
         "country": "Taiwan",
         "capital": "Taipei",
         "currency": "New Taiwan Dollar",
-        "native_language": "Mandarin"
+        "native_language": "Mandarin",
+        "famous_for": "Best food"
     },
     {
         "country": "Tajikistan",
         "capital": "Dushanbe",
         "currency": "Somoni",
-        "native_language": "Tajik, Russian"
+        "native_language": "Tajik, Russian",
+        "famous_for": "The Pamir plateau"
     },
     {
         "country": "Tanzania",
         "capital": "Dar es Salaam, Dodoma",
         "currency": "Tanzanian Schilling",
-        "native_language": "Swahili"
+        "native_language": "Swahili",
+        "famous_for": "Mining and fishing"
     },
     {
         "country": "Thailand",
         "capital": "Bangkok",
         "currency": "Thai Baht",
-        "native_language": "Thai"
+        "native_language": "Thai",
+        "famous_for": "Massages, shopping and buddhists"
     },
     {
         "country": "Togo",
         "capital": "Lome",
         "currency": "West African CFA Franc",
-        "native_language": "French"
+        "native_language": "French",
+        "famous_for": "History, attraction sites, culture, and commercial activities"
     },
     {
         "country": "Tonga",
         "capital": "Nuku'alofa",
         "currency": "Pa'anga",
-        "native_language": "Tongan, English"
+        "native_language": "Tongan, English",
+        "famous_for": "Graceful and dignified dancing of the kingdom"
     },
     {
         "country": "Trinidad and Tobago",
         "capital": "Port-of-Spain",
         "currency": "Trinidad and Tobago Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Stable economy, steel pans, carnival festivity, caribbean dance and lush greenary"
     },
     {
         "country": "Tunisia",
         "capital": "Tunis",
         "currency": "Tunisian Dinar",
-        "native_language": "Tunisian, French"
+        "native_language": "Tunisian, French",
+        "famous_for": "Gold beaches, sunny weather and affordable luxuries"
     },
     {
         "country": "Turkey",
         "capital": "Ankara",
         "currency": "Turkish Lira",
-        "native_language": "Turkish"
+        "native_language": "Turkish",
+        "famous_for": "Big mountain ranges, istanbul"
     },
     {
         "country": "Turkmenistan",
         "capital": "Ashgabat",
         "currency": "Turkmen New Manat",
-        "native_language": "Turkmen, Russian"
+        "native_language": "Turkmen, Russian",
+        "famous_for": "Autocratic government and large gas reserves"
     },
     {
         "country": "Tuvalu",
         "capital": "Vaiaku",
         "currency": "Tuvaluan Dollar",
-        "native_language": "Tuvaluan, English"
+        "native_language": "Tuvaluan, English",
+        "famous_for": "Seafaring skills"
     },
     {
         "country": "Uganda",
         "capital": "Kampala",
         "currency": "Ugandan Shilling",
-        "native_language": "Swahili, English"
+        "native_language": "Swahili, English",
+        "famous_for": "Cotton, tobacco, tea and home to variety of wildlife"
     },
     {
         "country": "Ukraine",
         "capital": "Kiev",
         "currency": "Hryvnia",
-        "native_language": "Ukranian, Russian"
+        "native_language": "Ukranian, Russian",
+        "famous_for": "Agricultural production"
     },
     {
         "country": "United Arab Emirates",
         "capital": "Abu Dhabi",
         "currency": "Dirham",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Dubai, rich seikhs, Burj Al Arab"
     },
     {
         "country": "United Kingdom",
         "capital": "London",
         "currency": "Pound Sterling",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "David Beckham, Fish and Chips, Big Ben, Red Buses, black cabs, Oasis, Blur, the Beatles, London and tea"
     },
     {
         "country": "United States of America",
         "capital": "Washington D.C.",
         "currency": "United States Dollar",
-        "native_language": "English, Spanish"
+        "native_language": "English, Spanish",
+        "famous_for": "Grand Canyon and Mount Rushmore"
     },
     {
         "country": "Uruguay",
         "capital": "Montevideo",
         "currency": "Uruguayan Peso",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Wine producers"
     },
     {
         "country": "Uzbekistan",
         "capital": "Tashkent",
         "currency": "Uzbekistan Som",
-        "native_language": "Uzbek, Russian"
+        "native_language": "Uzbek, Russian",
+        "famous_for": "Mosques and Mausoleums"
     },
     {
         "country": "Vanuatu",
         "capital": "Port-Vila",
         "currency": "Vanuatu Vatu",
-        "native_language": "Bislama, English, French"
+        "native_language": "Bislama, English, French",
+        "famous_for": "Vanuatu's underwater world"
     },
     {
         "country": "Vatican City",
         "capital": "Vatican City",
         "currency": "Euro",
-        "native_language": "Latin, Italian"
+        "native_language": "Latin, Italian",
+        "famous_for": "St. Peter's Basilica, the Sistine Chapel, and the Vatican Museums"
     },
     {
         "country": "Venezuela",
         "capital": "Caracas",
         "currency": "Bolivar Fuerte",
-        "native_language": "Spanish"
+        "native_language": "Spanish",
+        "famous_for": "Petroleum industry"
     },
     {
         "country": "Vietnam",
         "capital": "Hanoi",
         "currency": "Dong",
-        "native_language": "Vietnamese"
+        "native_language": "Vietnamese",
+        "famous_for": "Rice exporter"
     },
     {
         "country": "Yemen",
         "capital": "Sanaa",
         "currency": "Yemeni Rial",
-        "native_language": "Arabic"
+        "native_language": "Arabic",
+        "famous_for": "Home To World's Oldest Skyscraper City"
     },
     {
         "country": "Zambia",
         "capital": "Lusaka",
         "currency": "Zambian Kwacha",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Iconic Victoria Falls"
     },
     {
         "country": "Zimbabwe",
         "capital": "Harare",
         "currency": "United States Dollar",
-        "native_language": "English"
+        "native_language": "English",
+        "famous_for": "Hwange and Mana Pools teem with wildlife"
     }
 ]

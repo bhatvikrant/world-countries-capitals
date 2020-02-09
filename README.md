@@ -44,7 +44,7 @@ const wcc = require('world-countries-capitals');
 
 ## Usage
 
-- **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency** and **native_language**.
+- **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency**, **native_language** and **famous_for**.
 
 ```json
     [
@@ -52,13 +52,16 @@ const wcc = require('world-countries-capitals');
             "country": "Afghanistan",
             "capital": "Kabul",
             "currency": "Afghani",
-            "native_language": "Dari Persian, Pashto"
+			"native_language": "Dari Persian, Pashto",
+			"famous_for": "Rugs, Taliban"
+			
         },
         {
             "country": "Albania",
             "capital": "Tirane",
             "currency": "Lek",
-            "native_language": "Albanian"
+			"native_language": "Albanian",
+			"famous_for" : "Mother Teresa"
         },
 
         ...
@@ -88,7 +91,7 @@ const wcc = require('world-countries-capitals');
 
 ---
 
-- **getCountiesByLanguage(languageSpoken)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _languageSpoken_.
+- **getCountiesByLanguage(languageSpoken)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _languageSpoken_.
 
 Response for languageSpoken = 'Hindi'
 
@@ -99,19 +102,21 @@ Response for languageSpoken = 'Hindi'
 		capital: 'Suva',
 		currency: 'Fijian Dollar',
 		native_language: 'english, bau fijian, hindi',
+		famous_for: "Friendly people and heavenly tropical islands"
 	},
 	{
 		country: 'India',
 		capital: 'New Delhi',
 		currency: 'Indian Rupee',
 		native_language: 'hindi, english',
+		famous_for: "Bollywood, Yoga, Hinduism, Food and Diversity"
 	},
 ];
 ```
 
 ---
 
-- **getCountryDetailsByName(countryName)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _name of the country_ .
+- **getCountryDetailsByName(countryName)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and sorted by the _name of the country_ .
 
 Response for countryName = 'india'
 
@@ -122,13 +127,14 @@ Response for countryName = 'india'
 		capital: 'New Delhi',
 		currency: 'Indian Rupee',
 		native_language: 'Hindi, English',
+		famous_for: "Bollywood, Yoga, Hinduism, Food and Diversity"
 	},
 ];
 ```
 
 ---
 
-- **getCountryDetailsByCapital(capital)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .
+- **getCountryDetailsByCapital(capital)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _capital_ .
 
 Response for capital = 'delhi'
 
@@ -139,6 +145,7 @@ Response for capital = 'delhi'
 		capital: 'new delhi',
 		currency: 'Indian Rupee',
 		native_language: 'Hindi, English',
+		famous_for: "Bollywood, Yoga, Hinduism, Food and Diversity"
 	},
 ];
 ```
@@ -173,18 +180,21 @@ Response for n = 3
 		capital: 'Bujumbura',
 		currency: 'Burundi Franc',
 		native_language: 'Kirundi, French',
+		famous_for: "Wildlife and Greenery"
 	},
 	{
 		country: 'Palau',
 		capital: 'Melekeok',
 		currency: 'United States Dollar',
 		native_language: 'English, Palauan',
+		famous_for: "Jellyfish Lake",
 	},
 	{
 		country: 'Dominican Republic',
 		capital: 'Santo Domingo',
 		currency: 'Dominican Peso',
 		native_language: 'Spanish',
+		famous_for: "Blue ocean water, white-sand beaches and beautiful resorts"
 	},
 ];
 ```
