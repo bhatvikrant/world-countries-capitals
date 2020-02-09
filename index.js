@@ -60,8 +60,6 @@ const getAllCountries = () => {
     return data.map(({ country }) => country);
 };
 
-console.log(getNRandomCountriesData(5));
-
 module.exports = {
     getRandomCountry,
     getNRandomCountriesData,
