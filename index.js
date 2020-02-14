@@ -1,71 +1,71 @@
-let data = require('./data/data.json');
+let data = require("./data/data.json");
 
 const randomNum = () => {
-	return Math.floor(Math.random() * data.length);
+    return Math.floor(Math.random() * data.length);
 };
 
 // Get a random country
 const getRandomCountry = () => {
-	let randNum = randomNum();
-	return data[randNum].country;
+    let randNum = randomNum();
+    return data[randNum].country;
 };
 
 // Get data of N countries
-const getNRandomCountriesData = (count) => {
-	let randomCountriesSet = new Set(); // to prevent duplicate countries
-	while (randomCountriesSet.size < count) {
-		let country = data[randomNum()];
-		randomCountriesSet.add(country); // adds a country to the Array
-	}
-	return Array.from(randomCountriesSet); // Returns the Array
+const getNRandomCountriesData = count => {
+    let randomCountriesSet = new Set(); // to prevent duplicate countries
+    while (randomCountriesSet.size < count) {
+        let country = data[randomNum()];
+        randomCountriesSet.add(country); // adds a country to the Array
+    }
+    return Array.from(randomCountriesSet); // Returns the Array
 };
 
 // Helper function
 const getCountriesByObject = (value, obj) => {
-	let resultArray = [];
-	value = value.toLowerCase();
-	object = obj;
-	data.forEach((item) => {
-		item[object] = item[object].toLowerCase();
-		if (item[object] && item[object].includes(value)) {
-			resultArray.push(item);
-		}
-	});
+    let resultArray = [];
+    value = value.toLowerCase();
+    object = obj;
+    data.forEach(item => {
+        item[object] = item[object];
+        if (item[object] && item[object].includes(value)) {
+            resultArray.push(item);
+        }
+    });
 
-	return resultArray;
+    return resultArray;
 };
 
 // Get details of a country by the capital name
-const getCountryDetailsByCapital = (capital) => {
-	return getCountriesByObject(capital, 'capital');
+const getCountryDetailsByCapital = capital => {
+    return getCountriesByObject(capital, "capital");
 };
 
 // Get details of a country by the country name
-const getCountryDetailsByName = (country) => {
-	return getCountriesByObject(country, 'country');
+const getCountryDetailsByName = country => {
+    return getCountriesByObject(country, "country");
 };
 
 // Get country details by the language spoken
-const getCountiesByLanguage = (languageSpoken) => {
-	return getCountriesByObject(languageSpoken, 'native_language');
+const getCountriesByLanguage = languageSpoken => {
+    return getCountriesByObject(languageSpoken, "native_language");
 };
 
 // Get details of all countries
 const getAllCountryDetails = () => {
-	return data;
+    return data;
 };
 
 // Get all countries Name
 const getAllCountries = () => {
-	return data.map(({ country }) => country);
+    return data.map(({ country }) => country);
 };
 
 module.exports = {
-	getRandomCountry,
-	getNRandomCountriesData,
-	getCountryDetailsByCapital,
-	getCountryDetailsByName,
-	getAllCountryDetails,
-	getAllCountries,
-	getCountiesByLanguage,
+    getRandomCountry,
+    getNRandomCountriesData,
+    getCountryDetailsByCapital,
+    getCountryDetailsByName,
+    getAllCountryDetails,
+    getAllCountries,
+    getCountriesByLanguage
 };
