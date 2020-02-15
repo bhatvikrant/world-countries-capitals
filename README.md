@@ -44,7 +44,7 @@ const wcc = require("world-countries-capitals");
 
 ## Usage
 
--   **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency** and **native_language**.
+-   **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency**, **native_language** and **famous for**.
 
 ```json
     [
@@ -52,13 +52,15 @@ const wcc = require("world-countries-capitals");
             "country": "afghanistan",
             "capital": "kabul",
             "currency": "afghani",
-            "native_language": ["dari persian", "pashto"]
+            "native_language": ["dari persian", "pashto"],
+            "famous_for": "rugs, taliban"
         },
         {
             "country": "albania",
             "capital": "tirane",
             "currency": "lek",
-            "native_language": ["albanian"]
+            "native_language": ["albanian"],
+            "famous_for" : "mother teresa"
         },
 
         ...
@@ -88,30 +90,32 @@ const wcc = require("world-countries-capitals");
 
 ---
 
--   **getCountiesByLanguage(languageSpoken)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _languageSpoken_.
+-   **getCountiesByLanguage(languageSpoken)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _languageSpoken_.
 
 Response for languageSpoken = 'Hindi'
 
 ```javascript
 [
+	{
     {
         country: "fiji",
         capital: "suva",
         currency: "fijian dollar",
-        native_language: ["english", "bau fijian", "hindi"]
+        native_language: ["english", "bau fijian", "hindi"],
+        famous_for: "friendly people and heavenly tropical islands"
     },
     {
         country: "india",
         capital: "new delhi",
         currency: "indian rupee",
-        native_language: ["hindi", "english"]
+        native_language: ["hindi", "english"],
+        famous_for: "bollywood, yoga, hinduism, food and diversity"
     }
 ];
 ```
 
 ---
-
--   **getCountryDetailsByName(countryName)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _name of the country_ .
+-   **getCountryDetailsByName(countryName)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _name of the country_ .
 
 Response for countryName = 'india'
 
@@ -121,13 +125,13 @@ Response for countryName = 'india'
         country: "india",
         capital: "new delhi",
         currency: "indian rupee",
-        native_language: ["hindi", "english"]
+        native_language: ["hindi", "english"],
+        famous_for: "bollywood, yoga, hinduism, food and diversity"
     }
 ];
 ```
 
 ---
-
 -   **getCountryDetailsByCapital(capital)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .
 
 Response for capital = 'delhi'
@@ -138,7 +142,8 @@ Response for capital = 'delhi'
         country: "india",
         capital: "new delhi",
         currency: "indian rupee",
-        native_language: ["hindi", "english"]
+        native_language: ["hindi", "english"],
+        famous_for: "bollywood, yoga, hinduism, food and diversity"
     }
 ];
 ```
@@ -172,19 +177,22 @@ Response for n = 3
         country: "burundi",
         capital: "bujumbura",
         currency: "burundi franc",
-        native_language: ["kirundi", "french"]
+        native_language: ["kirundi", "french"],
+        famous_for: "wildlife and greenery"
     },
     {
         country: "palau",
         capital: "melekeok",
         currency: "united states dollar",
-        native_language: ["english", "palauan"]
+        native_language: ["english", "palauan"],
+        famous_for: "jellyfish lake",
     },
     {
         country: "dominican republic",
         capital: "santo domingo",
         currency: "dominican peso",
-        native_language: ["spanish"]
+        native_language: ["spanish"],
+        famous_for: "blue ocean water, white-sand beaches and beautiful resorts"
     }
 ];
 ```
