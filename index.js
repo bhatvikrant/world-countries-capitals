@@ -21,6 +21,18 @@ const getNRandomCountriesData = count => {
 };
 
 // Helper function
+
+// const getCountriesByField = (value, fieldName) => {
+// 	let resultArray = [];
+// 	value = value.toLowerCase();
+// 	field = fieldName;
+// 	data.forEach((item) => {
+// 		item[field] = item[field].toLowerCase();
+// 		if (item[field] && item[field].includes(value)) {
+// 			resultArray.push(item);
+// 		}
+// 	});
+
 const getCountriesByObject = (value, obj) => {
     let resultArray = [];
     value = value.toLowerCase();
@@ -35,7 +47,21 @@ const getCountriesByObject = (value, obj) => {
     return resultArray;
 };
 
-// Get details of a country by the capital name
+// // Get details of a country by the capital name
+
+// const getCountryDetailsByCapital = (capital) => {
+// 	return getCountriesByField(capital, 'capital');
+// };
+
+// // Get details of a country by the country name
+// const getCountryDetailsByName = (country) => {
+// 	return getCountriesByField(country, 'country');
+// };
+
+// // Get country details by the language spoken
+// const getCountiesByLanguage = (languageSpoken) => {
+// 	return getCountriesByField(languageSpoken, 'native_language');
+
 const getCountryDetailsByCapital = capital => {
     return getCountriesByObject(capital, "capital");
 };
@@ -48,6 +74,7 @@ const getCountryDetailsByName = country => {
 // Get country details by the language spoken
 const getCountriesByLanguage = languageSpoken => {
     return getCountriesByObject(languageSpoken, "native_language");
+
 };
 
 // Get details of all countries
