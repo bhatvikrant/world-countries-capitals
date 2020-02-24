@@ -87,6 +87,11 @@ const getAllCountries = () => {
     return data.map(({ country }) => country);
 };
 
+// Get all countries by what they're famous for
+const getCountriesFamousFor = (famousThing) => {
+    return data.filter(country => country.famous_for.search("\\b" + famousThing + "\\b") != -1);
+}
+
 module.exports = {
     getRandomCountry,
     getNRandomCountriesData,
@@ -94,5 +99,6 @@ module.exports = {
     getCountryDetailsByName,
     getAllCountryDetails,
     getAllCountries,
-    getCountriesByLanguage
+    getCountriesByLanguage,
+    getCountriesFamousFor
 };
