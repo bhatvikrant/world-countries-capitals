@@ -4,7 +4,7 @@
 	"description": "A simple NPM package to get capitals, currency, native language, famous_for etc. of all the countries in the world",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "node jasmine.js"
 	},
 	"repository": {
 		"type": "git",
@@ -30,5 +30,12 @@
 	"bugs": {
 		"url": "https://github.com/bhatvikrant/world-countries-capitals/issues"
 	},
-	"homepage": "https://github.com/bhatvikrant/world-countries-capitals#readme"
+	"homepage": "https://github.com/bhatvikrant/world-countries-capitals#readme",
+	"dependencies": {
+		"jasmine-console-reporter": "^3.1.0"
+	},
+	"devDependencies": {
+		"jasmine": "^3.5.0",
+		"jasmine-core": "^3.5.0"
+	}
 }
