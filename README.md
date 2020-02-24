@@ -2,10 +2,6 @@
 
 # world-countries-capitals
 
-<!-- ![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social)
-
-<!-- ![](https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=social) -->
-
 #### A simple [NPM](https://www.npmjs.com/package/world-countries-capitals) package to get capitals, currency, native language etc. of all the countries in the world
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
@@ -37,14 +33,14 @@ $ npm i world-countries-capitals --save
 ## Importing
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 ```
 
 ---
 
 ## Usage
 
--   **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency**, **native_language** and **famous for**.
+- **getAllCountryDetails()** This method returns an **array of objects** of all countries, each containing **country**, **capital**, **currency**, **native_language** and **famous for**.
 
 ```json
     [
@@ -69,7 +65,7 @@ const wcc = require("world-countries-capitals");
 
 ---
 
--   **getAllCountries()** This method returns an **array** of **names** of all countries.
+- **getAllCountries()** This method returns an **array** of **names** of all countries.
 
 ```javascript
     [
@@ -90,7 +86,7 @@ const wcc = require("world-countries-capitals");
 
 ---
 
--   **getCountiesByLanguage(languageSpoken)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _languageSpoken_.
+- **getCountiesByLanguage(languageSpoken)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _languageSpoken_.
 
 Response for languageSpoken = 'Hindi'
 
@@ -115,42 +111,44 @@ Response for languageSpoken = 'Hindi'
 ```
 
 ---
--   **getCountryDetailsByName(countryName)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _name of the country_ .
+
+- **getCountryDetailsByName(countryName)** This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language** and **famous_for** sorted by the _name of the country_ .
 
 Response for countryName = 'india'
 
 ```javascript
 [
-    {
-        country: "india",
-        capital: "new delhi",
-        currency: "indian rupee",
-        native_language: ["hindi", "english"],
-        famous_for: "bollywood, yoga, hinduism, food and diversity"
-    }
+	{
+		country: 'india',
+		capital: 'new delhi',
+		currency: 'indian rupee',
+		native_language: ['hindi', 'english'],
+		famous_for: 'bollywood, yoga, hinduism, food and diversity',
+	},
 ];
 ```
 
 ---
--   **getCountryDetailsByCapital(capital)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .
+
+- **getCountryDetailsByCapital(capital)** This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .
 
 Response for capital = 'delhi'
 
 ```javascript
 [
-    {
-        country: "india",
-        capital: "new delhi",
-        currency: "indian rupee",
-        native_language: ["hindi", "english"],
-        famous_for: "bollywood, yoga, hinduism, food and diversity"
-    }
+	{
+		country: 'india',
+		capital: 'new delhi',
+		currency: 'indian rupee',
+		native_language: ['hindi', 'english'],
+		famous_for: 'bollywood, yoga, hinduism, food and diversity',
+	},
 ];
 ```
 
 ---
 
--   **getRandomCountry()** This method returns a random country everytime.
+- **getRandomCountry()** This method returns a random country everytime.
 
 ```bash
 » node app.js
@@ -167,33 +165,86 @@ saudi arabia
 
 ---
 
--   **getNRandomCountriesData(n)** This method returns an array having **n** random country objects, each object containing **country**, **capital**, **currency** and **native_language**.
+- **getNRandomCountriesData(n)** This method returns an array having **n** random country objects, each object containing **country**, **capital**, **currency** and **native_language**.
 
 Response for n = 3
 
 ```javascript
 [
-    {
-        country: "burundi",
-        capital: "bujumbura",
-        currency: "burundi franc",
-        native_language: ["kirundi", "french"],
-        famous_for: "wildlife and greenery"
-    },
-    {
-        country: "palau",
-        capital: "melekeok",
-        currency: "united states dollar",
-        native_language: ["english", "palauan"],
-        famous_for: "jellyfish lake",
-    },
-    {
-        country: "dominican republic",
-        capital: "santo domingo",
-        currency: "dominican peso",
-        native_language: ["spanish"],
-        famous_for: "blue ocean water, white-sand beaches and beautiful resorts"
-    }
+	{
+		country: 'burundi',
+		capital: 'bujumbura',
+		currency: 'burundi franc',
+		native_language: ['kirundi', 'french'],
+		famous_for: 'wildlife and greenery',
+	},
+	{
+		country: 'palau',
+		capital: 'melekeok',
+		currency: 'united states dollar',
+		native_language: ['english', 'palauan'],
+		famous_for: 'jellyfish lake',
+	},
+	{
+		country: 'dominican republic',
+		capital: 'santo domingo',
+		currency: 'dominican peso',
+		native_language: ['spanish'],
+		famous_for: 'blue ocean water, white-sand beaches and beautiful resorts',
+	},
+];
+```
+
+---
+
+- **getCountriesByFamousFor(famousThing)** This method returns an array of objects, each object containing **country**, **capital**, **currency** and **native_language**, **famouse_for** sorted by what the _famousThing_.
+
+Response for famousThing = 'oil'
+
+```javascript
+[
+	{
+		country: 'algeria',
+		capital: 'algiers',
+		currency: 'algerian dinar',
+		native_language: ['arabic', 'tamazight', 'french'],
+		famous_for: 'oil and gas reserves',
+	},
+	{
+		country: 'angola',
+		capital: 'luanda',
+		currency: 'kwanza',
+		native_language: ['portuguese'],
+		famous_for: 'oil',
+	},
+	{
+		country: 'bahrain',
+		capital: 'manama',
+		currency: 'bahraini dinar',
+		native_language: ['arabic'],
+		famous_for: 'oil, pearls and world heritage sites',
+	},
+	{
+		country: 'bulgaria',
+		capital: 'sofia',
+		currency: 'lev',
+		native_language: ['bulgarian'],
+		famous_for: 'lavender oil and the rose valley',
+	},
+	{
+		country: 'central african republic',
+		capital: 'bangui',
+		currency: 'central african cfa franc',
+		native_language: ['sango', 'french'],
+		famous_for: 'diamonds, gold, oil and uranium',
+	},
+	{
+		country: 'norway',
+		capital: 'oslo',
+		currency: 'norwegian krone',
+		native_language: ['norwegian'],
+		famous_for: 'oil, fjords, mountains and midnight sun',
+	},
 ];
 ```
 
@@ -204,7 +255,7 @@ Response for n = 3
 ## #1
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 
 console.log(wcc.getRandomCountry());
 ```
@@ -212,7 +263,7 @@ console.log(wcc.getRandomCountry());
 ## #2
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 
 console.log(wcc.getNRandomCountriesData(3));
 ```
@@ -220,9 +271,9 @@ console.log(wcc.getNRandomCountriesData(3));
 ## #3
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountryDetailsByCapital("delhi"));
+console.log(wcc.getCountryDetailsByCapital('delhi'));
 ```
 
 #### in this example the parameter (capital), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
@@ -230,9 +281,9 @@ console.log(wcc.getCountryDetailsByCapital("delhi"));
 ## #4
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountryDetailsByName("India"));
+console.log(wcc.getCountryDetailsByName('India'));
 ```
 
 #### in this example the parameter (countryName), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
@@ -240,9 +291,9 @@ console.log(wcc.getCountryDetailsByName("India"));
 ## #5
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountiesByLanguage("hindi"));
+console.log(wcc.getCountiesByLanguage('hindi'));
 ```
 
 #### in this example the parameter (languageSpoken), which has to be a string can be a written in uppercase/lowercase etc. the response will be the same.
@@ -250,7 +301,7 @@ console.log(wcc.getCountiesByLanguage("hindi"));
 ## #6
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 
 console.log(wcc.getAllCountryDetails());
 ```
@@ -258,18 +309,30 @@ console.log(wcc.getAllCountryDetails());
 ## #7
 
 ```javascript
-const wcc = require("world-countries-capitals");
+const wcc = require('world-countries-capitals');
 
 console.log(wcc.getAllCountries());
+```
+
+## #8
+
+```javascript
+const wcc = require('world-countries-capitals');
+
+console.log(wcc.getCountriesByFamousFor('oil'));
 ```
 
 ---
 
 # Want to contribute?
 
-<!-- [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/bhatvikrant/world-countries-capitals/issues) -->
+> Please check issues **[here](https://github.com/bhatvikrant/world-countries-capitals/issues)** !
 
-> Please check issues **[here](https://github.com/bhatvikrant/world-countries-capitals/issues)**!
+![](https://img.shields.io/github/contributors/bhatvikrant/world-countries-capitals)
+
+![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social)
+
+![](https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=social)
 
 ---
 
