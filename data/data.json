@@ -1,0 +1,2044 @@
+[
+   {
+      "capital": "kabul",
+      "country": "afghanistan",
+      "currency": "afghani",
+      "famous_for": "rugs, taliban",
+      "native_language": [
+         "dari persian",
+         "pashto"
+      ],
+      "phone_code": "93"
+   },
+   {
+      "capital": "tirane",
+      "country": "albania",
+      "currency": "lek",
+      "famous_for": "mother teresa",
+      "native_language": [
+         "albanian"
+      ],
+      "phone_code": "355"
+   },
+   {
+      "capital": "algiers",
+      "country": "algeria",
+      "currency": "algerian dinar",
+      "famous_for": "oil and gas reserves",
+      "native_language": [
+         "arabic",
+         "tamazight",
+         "french"
+      ],
+      "phone_code": "213"
+   },
+   {
+      "capital": "andorra la vella",
+      "country": "andorra",
+      "currency": "euro",
+      "famous_for": "tourism and tobacco",
+      "native_language": [
+         "catalan"
+      ],
+      "phone_code": "376"
+   },
+   {
+      "capital": "luanda",
+      "country": "angola",
+      "currency": "kwanza",
+      "famous_for": "oil",
+      "native_language": [
+         "portuguese"
+      ],
+      "phone_code": "244"
+   },
+   {
+      "capital": "saint john's",
+      "country": "antigua & barbuda",
+      "currency": "east caribbean dollar",
+      "famous_for": "spectacular racing and rum",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "1268"
+   },
+   {
+      "capital": "buenos aires",
+      "country": "argentina",
+      "currency": "argentine peso",
+      "famous_for": "Football",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "54"
+   },
+   {
+      "capital": "yerevan",
+      "country": "armenia",
+      "currency": "dram",
+      "famous_for": "genocide and kim kardashian",
+      "native_language": [
+         "armenian"
+      ],
+      "phone_code": "374"
+   },
+   {
+      "capital": "canberra",
+      "country": "australia",
+      "currency": "australian dollar",
+      "famous_for": "koalas and kangaroos",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "61"
+   },
+   {
+      "capital": "vienna",
+      "country": "austria",
+      "currency": "euro",
+      "famous_for": "hitler, mozart, franz ferdinand and arnold schwarzenegger",
+      "native_language": [
+         "german"
+      ],
+      "phone_code": "43"
+   },
+   {
+      "capital": "baku",
+      "country": "azerbaijan",
+      "currency": "manat",
+      "famous_for": "burning mountain",
+      "native_language": [
+         "azerbaijani"
+      ],
+      "phone_code": "994"
+   },
+   {
+      "capital": "manama",
+      "country": "bahrain",
+      "currency": "bahraini dinar",
+      "famous_for": "oil, pearls and world heritage sites",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "973"
+   },
+   {
+      "capital": "dhaka",
+      "country": "bangladesh",
+      "currency": "taka",
+      "famous_for": "cox's bazar sea",
+      "native_language": [
+         "bangla"
+      ],
+      "phone_code": "880"
+   },
+   {
+      "capital": "bridgetown",
+      "country": "barbados",
+      "currency": "barbadian dollar",
+      "famous_for": "flying fish",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "1-246"
+   },
+   {
+      "capital": "minsk",
+      "country": "belarus",
+      "currency": "belarusian ruble",
+      "famous_for": "Variety of sweets",
+      "native_language": [
+         "belarusian",
+         "russian"
+      ],
+      "phone_code": "375"
+   },
+   {
+      "capital": "brussels",
+      "country": "belgium",
+      "currency": "euro",
+      "famous_for": "chocolates, waffles, fries and beer",
+      "native_language": [
+         "dutch",
+         "french",
+         "german"
+      ],
+      "phone_code": "32"
+   },
+   {
+      "capital": "belmopan",
+      "country": "belize",
+      "currency": "belize dollar",
+      "famous_for": "scuba diving sites",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "501"
+   },
+   {
+      "capital": "porto-novo",
+      "country": "benin",
+      "currency": "west african cfa franc",
+      "famous_for": "bronzes - brass work",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "229"
+   },
+   {
+      "capital": "thimphu",
+      "country": "bhutan",
+      "currency": "ngultrum",
+      "famous_for": "natural beauty, forest conservation, great culture and heritage",
+      "native_language": [
+         "dzongkha"
+      ],
+      "phone_code": "975"
+   },
+   {
+      "capital": "la paz, sucre",
+      "country": "bolivia",
+      "currency": "boliviano",
+      "famous_for": "salar de uyuni",
+      "native_language": [
+         "spanish",
+         "quechua",
+         "aymara"
+      ],
+      "phone_code": "591"
+   },
+   {
+      "capital": "sarajevo",
+      "country": "bosnia and herzegovina",
+      "currency": "convertible mark",
+      "famous_for": "natural environment and cultural heritage",
+      "native_language": [
+         "bosnian",
+         "croatian",
+         "serbian"
+      ],
+      "phone_code": "387"
+   },
+   {
+      "capital": "gaborone",
+      "country": "botswana",
+      "currency": "pula",
+      "famous_for": "safari destinations",
+      "native_language": [
+         "english",
+         "tswana"
+      ],
+      "phone_code": "267"
+   },
+   {
+      "capital": "brasilia",
+      "country": "brazil",
+      "currency": "real",
+      "famous_for": "soccer and football",
+      "native_language": [
+         "portuguese"
+      ],
+      "phone_code": "55"
+   },
+   {
+      "capital": "bandar seri begawan",
+      "country": "brunei",
+      "currency": "brunei dollar",
+      "famous_for": "gorgeous mosques and islamic architecture",
+      "native_language": [
+         "malay"
+      ],
+      "phone_code": "673"
+   },
+   {
+      "capital": "sofia",
+      "country": "bulgaria",
+      "currency": "lev",
+      "famous_for": "lavender oil and the rose valley",
+      "native_language": [
+         "bulgarian"
+      ],
+      "phone_code": "359"
+   },
+   {
+      "capital": "ouagadougou",
+      "country": "burkina faso",
+      "currency": "west african cfa franc",
+      "famous_for": "african art and culture",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "226"
+   },
+   {
+      "capital": "bujumbura",
+      "country": "burundi",
+      "currency": "burundi franc",
+      "famous_for": "wildlife and greenery",
+      "native_language": [
+         "kirundi",
+         "french"
+      ],
+      "phone_code": "257"
+   },
+   {
+      "capital": "phnom penh",
+      "country": "cambodia",
+      "currency": "riel",
+      "famous_for": "angkor wat hindu temple",
+      "native_language": [
+         "khmer"
+      ],
+      "phone_code": "855"
+   },
+   {
+      "capital": "yaounde",
+      "country": "cameroon",
+      "currency": "central african cfa franc",
+      "famous_for": "coffee, cocoa, cotton and oilseeds",
+      "native_language": [
+         "french",
+         "english"
+      ],
+      "phone_code": "237"
+   },
+   {
+      "capital": "ottawa",
+      "country": "canada",
+      "currency": "canadian dollar",
+      "famous_for": "mapple syrup, mapple trees, politeness and hockey",
+      "native_language": [
+         "english",
+         "french"
+      ],
+      "phone_code": "1"
+   },
+   {
+      "capital": "praia",
+      "country": "cape verde",
+      "currency": "cape verdean escudo",
+      "famous_for": "warm tropical climate, volcanic islands, wonderful musicians",
+      "native_language": [
+         "portuguese"
+      ],
+      "phone_code": "238"
+   },
+   {
+      "capital": "bangui",
+      "country": "central african republic",
+      "currency": "central african cfa franc",
+      "famous_for": "diamonds, gold, oil and uranium",
+      "native_language": [
+         "sango",
+         "french"
+      ],
+      "phone_code": "236"
+   },
+   {
+      "capital": "n'djamena",
+      "country": "chad",
+      "currency": "central african cfa franc",
+      "famous_for": "chad lake",
+      "native_language": [
+         "french",
+         "arabic"
+      ],
+      "phone_code": "235"
+   },
+   {
+      "capital": "santiago",
+      "country": "chile",
+      "currency": "chilean peso",
+      "famous_for": "country of poets",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "56"
+   },
+   {
+      "capital": "beijing",
+      "country": "china",
+      "currency": "chinese yuan",
+      "famous_for": "kung fu, spitting habit, panda, cheap electronics",
+      "native_language": [
+         "mandarin"
+      ],
+      "phone_code": "86"
+   },
+   {
+      "capital": "bogota",
+      "country": "colombia",
+      "currency": "colombian peso",
+      "famous_for": "mines of muzo, chivor and coscuez",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "57"
+   },
+   {
+      "capital": "moron",
+      "country": "comoros",
+      "currency": "comorian franc",
+      "famous_for": "fragrant plant life and scenic beauty",
+      "native_language": [
+         "comorian",
+         "arabic",
+         "french"
+      ],
+      "phone_code": "269"
+   },
+   {
+      "capital": "san jose",
+      "country": "costa rica",
+      "currency": "colon",
+      "famous_for": "coffee beans",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "506"
+   },
+   {
+      "capital": "yamoussoukro, abidjan",
+      "country": "cote d'ivoire (ivory coast)",
+      "currency": "west african cfa franc",
+      "famous_for": "religious and ethnic harmony",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "255"
+   },
+   {
+      "capital": "zagreb",
+      "country": "croatia",
+      "currency": "croatian",
+      "famous_for": "game of thrones, stunning natural beauty and 6000km long coast",
+      "native_language": [
+         "kuna"
+      ],
+      "phone_code": "385"
+   },
+   {
+      "capital": "havana",
+      "country": "cuba",
+      "currency": "cuban peso",
+      "famous_for": "beaches, rum, cigars, fascinating architecture",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "53"
+   },
+   {
+      "capital": "nicosia",
+      "country": "cyprus",
+      "currency": "euro",
+      "famous_for": "incredible scenery and history",
+      "native_language": [
+         "greek",
+         "turkish"
+      ],
+      "phone_code": "357"
+   },
+   {
+      "capital": "prague",
+      "country": "czechia",
+      "currency": "czech koruna",
+      "famous_for": "museums, puppetry, marionette exhibitions and folk festivals",
+      "native_language": [
+         "czech",
+         "slovak"
+      ],
+      "phone_code": "420"
+   },
+   {
+      "capital": "kinshasa",
+      "country": "democratic republic of the congo",
+      "currency": "congolese franc",
+      "famous_for": "diamonds, cobalt and copper",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "243"
+   },
+   {
+      "capital": "copenhagen",
+      "country": "denmark",
+      "currency": "danish krone",
+      "famous_for": "pig meat, healthcare, pastries and cuisine",
+      "native_language": [
+         "danish"
+      ],
+      "phone_code": "45"
+   },
+   {
+      "capital": "djibouti",
+      "country": "djibouti",
+      "currency": "djiboutian franc",
+      "famous_for": "amazing landscapes, limestone vents and flamingos",
+      "native_language": [
+         "arabic",
+         "french"
+      ],
+      "phone_code": "253"
+   },
+   {
+      "capital": "rosesau",
+      "country": "dominica",
+      "currency": "east caribbean dollar",
+      "famous_for": "boiling lake",
+      "native_language": [
+         "english",
+         "french",
+         "antillean creole"
+      ],
+      "phone_code": "1-767"
+   },
+   {
+      "capital": "santo domingo",
+      "country": "dominican republic",
+      "currency": "dominican peso",
+      "famous_for": "blue ocean water, white-sand beaches and beautiful resorts",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "1-809, 1-829, 1-849"
+   },
+   {
+      "capital": "dilli",
+      "country": "east timor (timor-leste)",
+      "currency": "united states dollar",
+      "famous_for": "rich culture and beautiful beaches",
+      "native_language": [
+         "tetum",
+         "portuguese",
+         "indonesian"
+      ],
+      "phone_code": "670"
+   },
+   {
+      "capital": "quito",
+      "country": "ecuador",
+      "currency": "united states dollar",
+      "famous_for": "home to galapagos islands",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "593"
+   },
+   {
+      "capital": "cairo",
+      "country": "egypt",
+      "currency": "egyptian pound",
+      "famous_for": "pyramids, sphinx, ai aqsa university and mummies",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "20"
+   },
+   {
+      "capital": "san salvador",
+      "country": "el salvador",
+      "currency": "united states dollar",
+      "famous_for": "land of volcanoes",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "503"
+   },
+   {
+      "capital": "malabo",
+      "country": "equitorial guinea",
+      "currency": "central african cfa franc",
+      "famous_for": "spanish speaking country in africa",
+      "native_language": [
+         "spanish",
+         "french",
+         "portuguese"
+      ],
+      "phone_code": "240"
+   },
+   {
+      "capital": "asmara",
+      "country": "eritrea",
+      "currency": "nakfa",
+      "famous_for": "coastal location in history and culture",
+      "native_language": [
+         "arabic",
+         "tigrinya",
+         "english"
+      ],
+      "phone_code": "291"
+   },
+   {
+      "capital": "tallinn",
+      "country": "estonia",
+      "currency": "estonian kroon, euro",
+      "famous_for": "medieval architecture",
+      "native_language": [
+         "estonian"
+      ],
+      "phone_code": "372"
+   },
+   {
+      "capital": "addis ababa",
+      "country": "ethiopia",
+      "currency": "birr",
+      "famous_for": "cradle of mankind",
+      "native_language": [
+         "amharic"
+      ],
+      "phone_code": "251"
+   },
+   {
+      "capital": "palikir",
+      "country": "federal states of micronesia",
+      "currency": "united states dollar",
+      "famous_for": "manta rays, eco-tourism",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "691"
+   },
+   {
+      "capital": "suva",
+      "country": "fiji",
+      "currency": "fijian dollar",
+      "famous_for": "friendly people and heavenly tropical islands",
+      "native_language": [
+         "english",
+         "bau fijian",
+         "hindi"
+      ],
+      "phone_code": "679"
+   },
+   {
+      "capital": "helsinki",
+      "country": "finland",
+      "currency": "euro",
+      "famous_for": "glassware, littala",
+      "native_language": [
+         "finnish",
+         "swedish"
+      ],
+      "phone_code": "358"
+   },
+   {
+      "capital": "paris",
+      "country": "france",
+      "currency": "euro, cfp franc",
+      "famous_for": "eiffel tower, croissant, fashion, smoking and wine",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "33"
+   },
+   {
+      "capital": "libreville",
+      "country": "gabon",
+      "currency": "central african cfa franc",
+      "famous_for": "preserving the natural environment",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "241"
+   },
+   {
+      "capital": "tbilisi",
+      "country": "georgia",
+      "currency": "lari",
+      "famous_for": "joseph stalin",
+      "native_language": [
+         "georgian"
+      ],
+      "phone_code": "995"
+   },
+   {
+      "capital": "berlin",
+      "country": "germany",
+      "currency": "euro",
+      "famous_for": "beer, sausage, nazi and cars",
+      "native_language": [
+         "german"
+      ],
+      "phone_code": "49"
+   },
+   {
+      "capital": "accra",
+      "country": "ghana",
+      "currency": "ghanaian cedi",
+      "famous_for": "lush forests, diverse animal life, cocoa and gold",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "233"
+   },
+   {
+      "capital": "athens",
+      "country": "greece",
+      "currency": "euro",
+      "famous_for": "ancient philosophers, ancient greek gods, sparta and orthodox christianity",
+      "native_language": [
+         "greek"
+      ],
+      "phone_code": "30"
+   },
+   {
+      "capital": "st. george's",
+      "country": "grenada",
+      "currency": "east caribbean dollar",
+      "famous_for": "spices",
+      "native_language": [
+         "english",
+         "patois"
+      ],
+      "phone_code": "1-473"
+   },
+   {
+      "capital": "guatemala city",
+      "country": "guatemala",
+      "currency": "quetzal",
+      "famous_for": "volcanic landscape and fascinating mayan culture",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "502"
+   },
+   {
+      "capital": "conakry",
+      "country": "guinea",
+      "currency": "guinean franc",
+      "famous_for": "hydroelectric power, bauxite reserves",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "224"
+   },
+   {
+      "capital": "bissau",
+      "country": "guinea-bissau",
+      "currency": "west african cfa franc",
+      "famous_for": "transit point for latin american cocain",
+      "native_language": [
+         "portuguese"
+      ],
+      "phone_code": "245"
+   },
+   {
+      "capital": "georgetown",
+      "country": "guyana",
+      "currency": "guyanese dollar",
+      "famous_for": "pristine rainforests, sugarcane plantations, rice fields and bauxite reserves",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "592"
+   },
+   {
+      "capital": "port-au-prince",
+      "country": "haiti",
+      "currency": "gourde",
+      "famous_for": "breathtaking beaches and crystal blue waters",
+      "native_language": [
+         "haitian creole",
+         "french"
+      ],
+      "phone_code": "509"
+   },
+   {
+      "capital": "tegucigalpa",
+      "country": "honduras",
+      "currency": "lempira",
+      "famous_for": "rich natural resources, tropical fruit, sugarcane, coffee and growing textiles industry",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "504"
+   },
+   {
+      "capital": "budapest",
+      "country": "hungary",
+      "currency": "forint",
+      "famous_for": "rich natural resources and textiles",
+      "native_language": [
+         "hungarian"
+      ],
+      "phone_code": "36"
+   },
+   {
+      "capital": "reykjavik",
+      "country": "iceland",
+      "currency": "icelandic krona",
+      "famous_for": "lagest glaciers in europe",
+      "native_language": [
+         "icelandic"
+      ],
+      "phone_code": "354"
+   },
+   {
+      "capital": "new delhi",
+      "country": "india",
+      "currency": "indian rupee",
+      "famous_for": "bollywood, yoga, hinduism, food and diversity",
+      "native_language": [
+         "hindi",
+         "english"
+      ],
+      "phone_code": "91"
+   },
+   {
+      "capital": "jakarta",
+      "country": "indonesia",
+      "currency": "rupiah",
+      "famous_for": "bali, komodo dragon, domestic workers and rendang",
+      "native_language": [
+         "indonesian"
+      ],
+      "phone_code": "62"
+   },
+   {
+      "capital": "tehran",
+      "country": "iran",
+      "currency": "rial",
+      "famous_for": "nuclear weapon, shia muslims, poetry, persian carpet",
+      "native_language": [
+         "persian"
+      ],
+      "phone_code": "98"
+   },
+   {
+      "capital": "baghdad",
+      "country": "iraq",
+      "currency": "iraqi dinar",
+      "famous_for": "saddam hussein, isis",
+      "native_language": [
+         "arabic",
+         "kurdish"
+      ],
+      "phone_code": "964"
+   },
+   {
+      "capital": "jerusalem",
+      "country": "israel",
+      "currency": "shekel",
+      "famous_for": "jewish-majority, aliyah, al aqsa mosque, jerusalem",
+      "native_language": [
+         "hebrew",
+         "arabic"
+      ],
+      "phone_code": "972"
+   },
+   {
+      "capital": "rome",
+      "country": "italy",
+      "currency": "euro",
+      "famous_for": "ferrari, spaghetti, pizza, fashion, venice",
+      "native_language": [
+         "italian"
+      ],
+      "phone_code": "39"
+   },
+   {
+      "capital": "kingston",
+      "country": "jamaica",
+      "currency": "jamaican dollar",
+      "famous_for": "blue mountain coffee",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "1-876"
+   },
+   {
+      "capital": "tokyo",
+      "country": "japan",
+      "currency": "yen",
+      "famous_for": "politeness, anime, sushi, samurai, nitendo karate, cars and robotics",
+      "native_language": [
+         "japanese"
+      ],
+      "phone_code": "81"
+   },
+   {
+      "capital": "amman",
+      "country": "jordan",
+      "currency": "jordanian dinar",
+      "famous_for": "petra",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "962"
+   },
+   {
+      "capital": "astana",
+      "country": "kazakhstan",
+      "currency": "tenge",
+      "famous_for": "architectural marvels, the caspian sea and wild horses",
+      "native_language": [
+         "kazakh",
+         "russian"
+      ],
+      "phone_code": "7"
+   },
+   {
+      "capital": "nairobi",
+      "country": "kenya",
+      "currency": "kenyan shilling",
+      "famous_for": "masai people, safari tourism",
+      "native_language": [
+         "swahili",
+         "english"
+      ],
+      "phone_code": "254"
+   },
+   {
+      "capital": "tarawa atoll",
+      "country": "kiribati",
+      "currency": "kiribati dollar",
+      "famous_for": "flyfishing, scuba diving and astounding seabird wildlife",
+      "native_language": [
+         "english",
+         "gilbertese"
+      ],
+      "phone_code": "686"
+   },
+   {
+      "capital": "pristina",
+      "country": "kosovo",
+      "currency": "euro",
+      "famous_for": "mountains and wine",
+      "native_language": [
+         "albanian",
+         "serbian"
+      ],
+      "phone_code": "383"
+   },
+   {
+      "capital": "kuwait city",
+      "country": "kuwait",
+      "currency": "kuwaiti dollar",
+      "famous_for": "victim of saddam's invasion",
+      "native_language": [
+         "arabic",
+         "english"
+      ],
+      "phone_code": "965"
+   },
+   {
+      "capital": "bishkek",
+      "country": "kyrgyzstan",
+      "currency": "som",
+      "famous_for": "lake issyk kul",
+      "native_language": [
+         "kyrgyz",
+         "russian"
+      ],
+      "phone_code": "996"
+   },
+   {
+      "capital": "vientiane",
+      "country": "laos",
+      "currency": "kip",
+      "famous_for": "bolaven plateau, ethnic villages",
+      "native_language": [
+         "lao (laotian)"
+      ],
+      "phone_code": "856"
+   },
+   {
+      "capital": "riga",
+      "country": "latvia",
+      "currency": "lats",
+      "famous_for": "old town, home to widest waterfall in europe",
+      "native_language": [
+         "latvian"
+      ],
+      "phone_code": "371"
+   },
+   {
+      "capital": "beirut",
+      "country": "lebanon",
+      "currency": "lebanese pound",
+      "famous_for": "rome and phoenica culture",
+      "native_language": [
+         "arabic",
+         "french"
+      ],
+      "phone_code": "961"
+   },
+   {
+      "capital": "maseru",
+      "country": "lesotho",
+      "currency": "loti",
+      "famous_for": "sehlabathebe national park",
+      "native_language": [
+         "sesotho",
+         "english"
+      ],
+      "phone_code": "266"
+   },
+   {
+      "capital": "monrovia",
+      "country": "liberia",
+      "currency": "liberian dollar",
+      "famous_for": "long running ruinous civil war",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "231"
+   },
+   {
+      "capital": "tripoli",
+      "country": "libya",
+      "currency": "libyan dinar",
+      "famous_for": "sahara desert",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "218"
+   },
+   {
+      "capital": "vaduz",
+      "country": "liechtenstein",
+      "currency": "swiss franc",
+      "famous_for": "unbelievable transformation from rural to wealthiest poulation within 60 years",
+      "native_language": [
+         "german"
+      ],
+      "phone_code": "423"
+   },
+   {
+      "capital": "vilnius",
+      "country": "lithuania",
+      "currency": "lithuanian litas",
+      "famous_for": "own official lithuania scent, amber on shores of baltic sea",
+      "native_language": [
+         "lithuanian"
+      ],
+      "phone_code": "370"
+   },
+   {
+      "capital": "luxembourg",
+      "country": "luxembourg",
+      "currency": "euro",
+      "famous_for": "europe's most powerful investement management centre and steel manufacturing",
+      "native_language": [
+         "german",
+         "french",
+         "luxembourgish"
+      ],
+      "phone_code": "352"
+   },
+   {
+      "capital": "skopje",
+      "country": "macedonia",
+      "currency": "macedonian denar",
+      "famous_for": "great empire's history",
+      "native_language": [
+         "macedonian"
+      ],
+      "phone_code": "389"
+   },
+   {
+      "capital": "antananarivo",
+      "country": "madagascar",
+      "currency": "malagasy ariary",
+      "famous_for": "lemurs, colourful chameleons, stunning orchids and home to flora and fauna",
+      "native_language": [
+         "malagasy",
+         "french",
+         "english"
+      ],
+      "phone_code": "261"
+   },
+   {
+      "capital": "lilongwe",
+      "country": "malawi",
+      "currency": "malawi kwacha",
+      "famous_for": "home to largest number of fish species in the world",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "265"
+   },
+   {
+      "capital": "kuala lumpur",
+      "country": "malaysia",
+      "currency": "ringgit",
+      "famous_for": "rendang, teh tark, nasi lemak and yuna",
+      "native_language": [
+         "malay"
+      ],
+      "phone_code": "60"
+   },
+   {
+      "capital": "male",
+      "country": "maldives",
+      "currency": "maldivian rufiyaa",
+      "famous_for": "natural environment and water sports",
+      "native_language": [
+         "dhivehi"
+      ],
+      "phone_code": "960"
+   },
+   {
+      "capital": "bamako",
+      "country": "mali",
+      "currency": "west african cfa franc",
+      "famous_for": "salt mines",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "223"
+   },
+   {
+      "capital": "valletta",
+      "country": "malta",
+      "currency": "euro",
+      "famous_for": "warm climate, architectural and historical monuments",
+      "native_language": [
+         "maltese",
+         "english"
+      ],
+      "phone_code": "356"
+   },
+   {
+      "capital": "majuro",
+      "country": "marshall islands",
+      "currency": "united states dollar",
+      "famous_for": "being fierce and hostile to strangers",
+      "native_language": [
+         "marshallese",
+         "english"
+      ],
+      "phone_code": "692"
+   },
+   {
+      "capital": "nouakchott",
+      "country": "mauritania",
+      "currency": "ouguiya",
+      "famous_for": "large reserves of iron ore, copper, and gypsum",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "222"
+   },
+   {
+      "capital": "port louis",
+      "country": "mauritius",
+      "currency": "mauritian rupee",
+      "famous_for": "extinct dodo and rare species of plants and animals",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "230"
+   },
+   {
+      "capital": "mexico city",
+      "country": "mexico",
+      "currency": "mexican peso",
+      "famous_for": "sombero hat, taco, aztec, salsa",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "52"
+   },
+   {
+      "capital": "chisinau",
+      "country": "moldova",
+      "currency": "moldovan leu",
+      "famous_for": "wine",
+      "native_language": [
+         "moldovan (romanian)"
+      ],
+      "phone_code": "373"
+   },
+   {
+      "capital": "monaco",
+      "country": "monaco",
+      "currency": "euro",
+      "famous_for": "high-end casinos, beautiful yachts and scenic montecarlo",
+      "native_language": [
+         "french",
+         "italian",
+         "english"
+      ],
+      "phone_code": "377"
+   },
+   {
+      "capital": "ulaanbaatar",
+      "country": "mongolia",
+      "currency": "togrog",
+      "famous_for": "siberian ibex, snow leopard, gobi bear and wild bactrian camel",
+      "native_language": [
+         "mongolian"
+      ],
+      "phone_code": "976"
+   },
+   {
+      "capital": "podgorica",
+      "country": "montenegro",
+      "currency": "euro",
+      "famous_for": "montenegrin coast",
+      "native_language": [
+         "montenegrin"
+      ],
+      "phone_code": "382"
+   },
+   {
+      "capital": "rabat",
+      "country": "morocco",
+      "currency": "moroccan dirham",
+      "famous_for": "medinas, beautiful handcrafts and traditional products",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "212"
+   },
+   {
+      "capital": "maputo",
+      "country": "mozambique",
+      "currency": "mozambican metical",
+      "famous_for": "fresh seafood",
+      "native_language": [
+         "portuguese"
+      ],
+      "phone_code": "258"
+   },
+   {
+      "capital": "nypyidaw",
+      "country": "myanmar (burma)",
+      "currency": "kyat",
+      "famous_for": "greatest archeological sites and sule pagoda",
+      "native_language": [
+         "burmese"
+      ],
+      "phone_code": "95"
+   },
+   {
+      "capital": "windhoek",
+      "country": "namibia",
+      "currency": "namibian dollar",
+      "famous_for": "highest dunes and etosha national park",
+      "native_language": [
+         "english",
+         "afrikaans",
+         "german"
+      ],
+      "phone_code": "264"
+   },
+   {
+      "capital": "yaren",
+      "country": "nauru",
+      "currency": "australian dollar",
+      "famous_for": "islands of banaba",
+      "native_language": [
+         "english",
+         "nauran"
+      ],
+      "phone_code": "674"
+   },
+   {
+      "capital": "kathmandu",
+      "country": "nepal",
+      "currency": "nepalese rupee",
+      "famous_for": "mountain peaks, mount everest and kanchenjunga",
+      "native_language": [
+         "nepali"
+      ],
+      "phone_code": "977"
+   },
+   {
+      "capital": "amsterdam, the hague",
+      "country": "netherlands",
+      "currency": "euro",
+      "famous_for": "legal drugs, tulip flowers and windmills",
+      "native_language": [
+         "dutch"
+      ],
+      "phone_code": "31"
+   },
+   {
+      "capital": "wellington",
+      "country": "new zealand",
+      "currency": "new zealand dollar",
+      "famous_for": "national rugby team",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "64"
+   },
+   {
+      "capital": "managua",
+      "country": "nicaragua",
+      "currency": "cordoba",
+      "famous_for": "volcanoes and lakes",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "505"
+   },
+   {
+      "capital": "niamey",
+      "country": "niger",
+      "currency": "west african cfa franc",
+      "famous_for": "world's largest uranium deposits",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "227"
+   },
+   {
+      "capital": "abuja",
+      "country": "nigeria",
+      "currency": "naira",
+      "famous_for": "most common sub saharan tourists, petroleum production",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "234"
+   },
+   {
+      "capital": "pyongyang",
+      "country": "north korea",
+      "currency": "north korean won",
+      "famous_for": "communism, kim jeong 2, nuclear weapon",
+      "native_language": [
+         "korean"
+      ],
+      "phone_code": "850"
+   },
+   {
+      "capital": "oslo",
+      "country": "norway",
+      "currency": "norwegian krone",
+      "famous_for": "oil, fjords, mountains and midnight sun",
+      "native_language": [
+         "norwegian"
+      ],
+      "phone_code": "47"
+   },
+   {
+      "capital": "muscat",
+      "country": "oman",
+      "currency": "omani rial",
+      "famous_for": "fresh sea and air breathing",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "968"
+   },
+   {
+      "capital": "islamabad",
+      "country": "pakistan",
+      "currency": "pakistani rupee",
+      "famous_for": "producing footballs, cricket team",
+      "native_language": [
+         "urdu",
+         "english"
+      ],
+      "phone_code": "92"
+   },
+   {
+      "capital": "melekeok",
+      "country": "palau",
+      "currency": "united states dollar",
+      "famous_for": "jellyfish lake",
+      "native_language": [
+         "english",
+         "palauan"
+      ],
+      "phone_code": "680"
+   },
+   {
+      "capital": "panama city",
+      "country": "panama",
+      "currency": "balboa",
+      "famous_for": "panama canal, birding, snorkeling and rafting",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "507"
+   },
+   {
+      "capital": "port moresby papa",
+      "country": "papa new guinea",
+      "currency": "papa new guinean kina",
+      "famous_for": "scuba diving and marine diversity",
+      "native_language": [
+         "english",
+         "tok pisin",
+         "hiri motu"
+      ],
+      "phone_code": "675"
+   },
+   {
+      "capital": "asuncion",
+      "country": "paraguay",
+      "currency": "guarani",
+      "famous_for": "largest naval power",
+      "native_language": [
+         "spanish",
+         "guarani"
+      ],
+      "phone_code": "595"
+   },
+   {
+      "capital": "lima",
+      "country": "peru",
+      "currency": "nuevo sol",
+      "famous_for": "machu picchu",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "51"
+   },
+   {
+      "capital": "manila",
+      "country": "phillipines",
+      "currency": "phillipine peso",
+      "famous_for": "domestic workers, ferdinand marcos, manny pacquiao",
+      "native_language": [
+         "filipino",
+         "english"
+      ],
+      "phone_code": "63"
+   },
+   {
+      "capital": "warsaw",
+      "country": "poland",
+      "currency": "zloty",
+      "famous_for": "pierogi and potatoes",
+      "native_language": [
+         "polish"
+      ],
+      "phone_code": "48"
+   },
+   {
+      "capital": "lisbon",
+      "country": "portugal",
+      "currency": "euro",
+      "famous_for": "beaches, food and cristiano ronaldo",
+      "native_language": [
+         "portuguese"
+      ],
+      "phone_code": "351"
+   },
+   {
+      "capital": "doha",
+      "country": "qatar",
+      "currency": "qatari riyal",
+      "famous_for": "qatar airlines",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "974"
+   },
+   {
+      "capital": "dublin",
+      "country": "republic of ireland",
+      "currency": "euro",
+      "famous_for": "meadows and leprechaun",
+      "native_language": [
+         "english",
+         "irish"
+      ],
+      "phone_code": "353"
+   },
+   {
+      "capital": "brazzaville",
+      "country": "republic of the congo",
+      "currency": "central african cfa franc",
+      "famous_for": "natural resources",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "242"
+   },
+   {
+      "capital": "bucharest",
+      "country": "romania",
+      "currency": "romanian rupee",
+      "famous_for": "dracula",
+      "native_language": [
+         "romanian"
+      ],
+      "phone_code": "40"
+   },
+   {
+      "capital": "moscow",
+      "country": "russia",
+      "currency": "ruble",
+      "famous_for": "vodka, military, matroyshka dolls and cold climate",
+      "native_language": [
+         "russian"
+      ],
+      "phone_code": "7"
+   },
+   {
+      "capital": "kigali",
+      "country": "rwanda",
+      "currency": "rwandan franc",
+      "famous_for": "chimpanzee species and home  of mountain gorillas",
+      "native_language": [
+         "kinyarwanda",
+         "french",
+         "english"
+      ],
+      "phone_code": "250"
+   },
+   {
+      "capital": "basseterre",
+      "country": "saint kitts and nevis",
+      "currency": "east caribbean dollar",
+      "famous_for": "beautiful beaches and pristine tropical forests",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "1-869"
+   },
+   {
+      "capital": "castries",
+      "country": "saint lucia",
+      "currency": "east caribbean dollar",
+      "famous_for": "volcanic island",
+      "native_language": [
+         "english",
+         "french"
+      ],
+      "phone_code": "1-758"
+   },
+   {
+      "capital": "kingstown east",
+      "country": "saint vincent and the grenadines",
+      "currency": "caribbean dollar",
+      "famous_for": "beautiful white-sand beaches and snorking",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "1-784"
+   },
+   {
+      "capital": "apia",
+      "country": "samoa",
+      "currency": "tala",
+      "famous_for": "samoan culture, music, dance and visual arts",
+      "native_language": [
+         "samoan",
+         "english"
+      ],
+      "phone_code": "685"
+   },
+   {
+      "capital": "san marino",
+      "country": "san marino",
+      "currency": "euro",
+      "famous_for": "world's oldest surviving republic",
+      "native_language": [
+         "italian"
+      ],
+      "phone_code": "378"
+   },
+   {
+      "capital": "sao tome",
+      "country": "sao tome and principe",
+      "currency": "dobra",
+      "famous_for": "cocoa production",
+      "native_language": [
+         "portuguese"
+      ],
+      "phone_code": "239"
+   },
+   {
+      "capital": "riyadh",
+      "country": "saudi arabia",
+      "currency": "saudi riyal",
+      "famous_for": "strict rules, wahhabism, mecca and madina",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "966"
+   },
+   {
+      "capital": "dakar",
+      "country": "senegal",
+      "currency": "west african cfa franc",
+      "famous_for": "traditional wrestling, football and exotic dance",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "221"
+   },
+   {
+      "capital": "belgrade",
+      "country": "serbia",
+      "currency": "serbian dinar",
+      "famous_for": "culture, history, delicious cuisine, and nightlife",
+      "native_language": [
+         "serbian"
+      ],
+      "phone_code": "381"
+   },
+   {
+      "capital": "victoria",
+      "country": "seychelles",
+      "currency": "seychoellois rupee",
+      "famous_for": "deep blue waters, white sandy beaches and honeymoon destination",
+      "native_language": [
+         "seychellois creole",
+         "french",
+         "english"
+      ],
+      "phone_code": "248"
+   },
+   {
+      "capital": "freetown",
+      "country": "sierra leone",
+      "currency": "leone",
+      "famous_for": "producers of titanium and bauxite, natural harbour",
+      "native_language": [
+         "krio",
+         "english"
+      ],
+      "phone_code": "232"
+   },
+   {
+      "capital": "singapore",
+      "country": "singapore",
+      "currency": "singapore dollar",
+      "famous_for": "cleanliness, marina bay and strict laws",
+      "native_language": [
+         "english",
+         "malay",
+         "mandarin chinese"
+      ],
+      "phone_code": "65"
+   },
+   {
+      "capital": "bratislava",
+      "country": "slovakia",
+      "currency": "euro",
+      "famous_for": "eset and sygic",
+      "native_language": [
+         "slovak"
+      ],
+      "phone_code": "421"
+   },
+   {
+      "capital": "ljubljana",
+      "country": "slovenia",
+      "currency": "euro",
+      "famous_for": "caves",
+      "native_language": [
+         "slovene"
+      ],
+      "phone_code": "386"
+   },
+   {
+      "capital": "honiara",
+      "country": "solomon islands",
+      "currency": "solomon islands dollar",
+      "famous_for": "world war 2",
+      "native_language": [
+         "solomons pijin"
+      ],
+      "phone_code": "677"
+   },
+   {
+      "capital": "mogadishu",
+      "country": "somalia",
+      "currency": "somali shilling",
+      "famous_for": "frankincense and myrrh",
+      "native_language": [
+         "somali",
+         "arabic"
+      ],
+      "phone_code": "252"
+   },
+   {
+      "capital": "pretoria, cape town,bloemfontein",
+      "country": "south africa",
+      "currency": "rand",
+      "famous_for": "nelson mandela and safari",
+      "native_language": [
+         "zulu",
+         "xhosa",
+         "afrikaans"
+      ],
+      "phone_code": "27"
+   },
+   {
+      "capital": "seoul",
+      "country": "south korea",
+      "currency": "south korean won",
+      "famous_for": "k-pop, samsung, hyundai, kia and kim chi",
+      "native_language": [
+         "korean"
+      ],
+      "phone_code": "82"
+   },
+   {
+      "capital": "madrid",
+      "country": "spain",
+      "currency": "euro",
+      "famous_for": "salsa and bullfight",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "34"
+   },
+   {
+      "capital": "colombo",
+      "country": "sri lanka",
+      "currency": "sri lankan rupee",
+      "famous_for": "ceylon tea",
+      "native_language": [
+         "sinhala",
+         "tamil"
+      ],
+      "phone_code": "94"
+   },
+   {
+      "capital": "khartoum",
+      "country": "sudan",
+      "currency": "sudanese pound",
+      "famous_for": "largest collection of pyramids",
+      "native_language": [
+         "arabic",
+         "english"
+      ],
+      "phone_code": "249"
+   },
+   {
+      "capital": "paramaribo",
+      "country": "suriname",
+      "currency": "surinamese dollar",
+      "famous_for": "water lilies and orchids",
+      "native_language": [
+         "dutch"
+      ],
+      "phone_code": "597"
+   },
+   {
+      "capital": "mbabane",
+      "country": "swaziland",
+      "currency": "lilangeni",
+      "famous_for": "sibebe rock and largest exposed granite dome",
+      "native_language": [
+         "english",
+         "siswati"
+      ],
+      "phone_code": "268"
+   },
+   {
+      "capital": "stockholm",
+      "country": "sweden",
+      "currency": "swedish krona",
+      "famous_for": "ikea",
+      "native_language": [
+         "swedish"
+      ],
+      "phone_code": "46"
+   },
+   {
+      "capital": "berne",
+      "country": "switzerland",
+      "currency": "swiss franc",
+      "famous_for": "alps, natural beauty, chocolates and watches",
+      "native_language": [
+         "german",
+         "french",
+         "italian"
+      ],
+      "phone_code": "41"
+   },
+   {
+      "capital": "damascus",
+      "country": "syria",
+      "currency": "syrian pound",
+      "famous_for": "isis",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "963"
+   },
+   {
+      "capital": "taipei",
+      "country": "taiwan",
+      "currency": "new taiwan dollar",
+      "famous_for": "best food",
+      "native_language": [
+         "mandarin"
+      ],
+      "phone_code": "886"
+   },
+   {
+      "capital": "dushanbe",
+      "country": "tajikistan",
+      "currency": "somoni",
+      "famous_for": "the pamir plateau",
+      "native_language": [
+         "tajik",
+         "russian"
+      ],
+      "phone_code": "992"
+   },
+   {
+      "capital": "dar es salaam, dodoma",
+      "country": "tanzania",
+      "currency": "tanzanian schilling",
+      "famous_for": "mining and fishing",
+      "native_language": [
+         "swahili"
+      ],
+      "phone_code": "255"
+   },
+   {
+      "capital": "bangkok",
+      "country": "thailand",
+      "currency": "thai baht",
+      "famous_for": "massages, shopping and buddhists",
+      "native_language": [
+         "thai"
+      ],
+      "phone_code": "66"
+   },
+   {
+      "capital": "nassau",
+      "country": "the bahamas",
+      "currency": "bahamian dollar",
+      "famous_for": "scenic beauty and year-round tropical weather",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "1-242"
+   },
+   {
+      "capital": "banjul",
+      "country": "the gambia",
+      "currency": "dalasi",
+      "famous_for": "beaches, home to juffure",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "220"
+   },
+   {
+      "capital": "lome",
+      "country": "togo",
+      "currency": "west african cfa franc",
+      "famous_for": "history, attraction sites, culture, and commercial activities",
+      "native_language": [
+         "french"
+      ],
+      "phone_code": "228"
+   },
+   {
+      "capital": "nuku'alofa",
+      "country": "tonga",
+      "currency": "pa'anga",
+      "famous_for": "graceful and dignified dancing of the kingdom",
+      "native_language": [
+         "tongan",
+         "english"
+      ],
+      "phone_code": "676"
+   },
+   {
+      "capital": "port-of-spain",
+      "country": "trinidad and tobago",
+      "currency": "trinidad and tobago dollar",
+      "famous_for": "stable economy, steel pans, carnival festivity, caribbean dance and lush greenary",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "1-868"
+   },
+   {
+      "capital": "tunis",
+      "country": "tunisia",
+      "currency": "tunisian dinar",
+      "famous_for": "gold beaches, sunny weather and affordable luxuries",
+      "native_language": [
+         "tunisian",
+         "french"
+      ],
+      "phone_code": "216"
+   },
+   {
+      "capital": "ankara",
+      "country": "turkey",
+      "currency": "turkish lira",
+      "famous_for": "big mountain ranges, istanbul",
+      "native_language": [
+         "turkish"
+      ],
+      "phone_code": "90"
+   },
+   {
+      "capital": "ashgabat",
+      "country": "turkmenistan",
+      "currency": "turkmen new manat",
+      "famous_for": "autocratic government and large gas reserves",
+      "native_language": [
+         "turkmen",
+         "russian"
+      ],
+      "phone_code": "993"
+   },
+   {
+      "capital": "vaiaku",
+      "country": "tuvalu",
+      "currency": "tuvaluan dollar",
+      "famous_for": "seafaring skills",
+      "native_language": [
+         "tuvaluan",
+         "english"
+      ],
+      "phone_code": "688"
+   },
+   {
+      "capital": "kampala",
+      "country": "uganda",
+      "currency": "ugandan shilling",
+      "famous_for": "cotton, tobacco, tea and home to variety of wildlife",
+      "native_language": [
+         "swahili",
+         "english"
+      ],
+      "phone_code": "256"
+   },
+   {
+      "capital": "kiev",
+      "country": "ukraine",
+      "currency": "hryvnia",
+      "famous_for": "agricultural production",
+      "native_language": [
+         "ukranian",
+         "russian"
+      ],
+      "phone_code": "380"
+   },
+   {
+      "capital": "abu dhabi",
+      "country": "united arab emirates",
+      "currency": "dirham",
+      "famous_for": "dubai, rich seikhs, burj al arab",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "971"
+   },
+   {
+      "capital": "london",
+      "country": "united kingdom",
+      "currency": "pound sterling",
+      "famous_for": "david beckham, fish and chips, big ben, red buses, black cabs, oasis, blur, the beatles, london and tea",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "44"
+   },
+   {
+      "capital": "washington d.c.",
+      "country": "united states of america",
+      "currency": "united states dollar",
+      "famous_for": "grand canyon and mount rushmore",
+      "native_language": [
+         "english",
+         "spanish"
+      ],
+      "phone_code": "1"
+   },
+   {
+      "capital": "montevideo",
+      "country": "uruguay",
+      "currency": "uruguayan peso",
+      "famous_for": "wine producers",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "598"
+   },
+   {
+      "capital": "tashkent",
+      "country": "uzbekistan",
+      "currency": "uzbekistan som",
+      "famous_for": "mosques and mausoleums",
+      "native_language": [
+         "uzbek",
+         "russian"
+      ],
+      "phone_code": "998"
+   },
+   {
+      "capital": "port-vila",
+      "country": "vanuatu",
+      "currency": "vanuatu vatu",
+      "famous_for": "vanuatu's underwater world",
+      "native_language": [
+         "bislama",
+         "english",
+         "french"
+      ],
+      "phone_code": "678"
+   },
+   {
+      "capital": "vatican city",
+      "country": "vatican city",
+      "currency": "euro",
+      "famous_for": "st. peter's basilica, the sistine chapel, and the vatican museums",
+      "native_language": [
+         "latin",
+         "italian"
+      ],
+      "phone_code": "379"
+   },
+   {
+      "capital": "caracas",
+      "country": "venezuela",
+      "currency": "bolivar fuerte",
+      "famous_for": "petroleum industry",
+      "native_language": [
+         "spanish"
+      ],
+      "phone_code": "58"
+   },
+   {
+      "capital": "hanoi",
+      "country": "vietnam",
+      "currency": "dong",
+      "famous_for": "rice exporter",
+      "native_language": [
+         "vietnamese"
+      ],
+      "phone_code": "84"
+   },
+   {
+      "capital": "sanaa",
+      "country": "yemen",
+      "currency": "yemeni rial",
+      "famous_for": "home to world's oldest skyscraper city",
+      "native_language": [
+         "arabic"
+      ],
+      "phone_code": "967"
+   },
+   {
+      "capital": "lusaka",
+      "country": "zambia",
+      "currency": "zambian kwacha",
+      "famous_for": "iconic victoria falls",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "260"
+   },
+   {
+      "capital": "harare",
+      "country": "zimbabwe",
+      "currency": "united states dollar",
+      "famous_for": "hwange and mana pools teem with wildlife",
+      "native_language": [
+         "english"
+      ],
+      "phone_code": "263"
+   }
+]
