@@ -12,7 +12,7 @@
 
 [![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![NODE JS](https://img.shields.io/npm/v/world-countries-capitals?logo=npm&label=world-countries-capitals&style=for-the-badge)](https://www.npmjs.com/package/world-countries-capitals)
 
-world-countries-capital is a [Node.js](https://nodejs.org/en/) module, and can be installed using the nmp package manager.
+world-countries-capital is a [Node.js](https://nodejs.org/en/) module, and can be installed using the npm package manager.
 
 Ensure that you have Node.js and npm installed. If you dont have Node.js or npm, you can download and install it [here](https://nodejs.org/en/download/).
 
