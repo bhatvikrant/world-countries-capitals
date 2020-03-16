@@ -35,7 +35,7 @@ This section contains information about various functions that are currently sup
 - **getAllCountryDetails()** 
 	This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, and its **phone_code**.
 
-	```json
+	```javascript
 	[
 		{
 			"country": "afghanistan",
@@ -53,7 +53,6 @@ This section contains information about various functions that are currently sup
 			"famous_for" : "mother teresa",
 			"phone_code": "+355"
 		},
-
 		...
 	]
 	```
@@ -63,7 +62,7 @@ This section contains information about various functions that are currently sup
 - **getAllCountries()** 
 	This method returns an **array** conatining the **names** of all countries.
 
-	```json
+	```javascript
 	[
 		"afghanistan",
 		"albania",
@@ -80,9 +79,8 @@ This section contains information about various functions that are currently sup
 	Response for getCountiesByLanguage('Hindi')
 
 
-	```json
+	```javascript
 	[
-		{
 		{
 			country: "fiji",
 			capital: "suva",
@@ -107,7 +105,7 @@ This section contains information about various functions that are currently sup
 	This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for** and **phone_code** sorted by the _name of the country_ passed in as a parameter.<br>
 	Response for getCountryDetailsByName('india')
 
-	```json
+	```javascript
 	[
 		{
 			country: "india",
@@ -125,7 +123,7 @@ This section contains information about various functions that are currently sup
 	This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .<br>
 	Response for getCountryDetailsByCapital('delhi')
 
-	```json
+	```javascript
 	[
 		{
 			country: "india",
@@ -160,7 +158,7 @@ This section contains information about various functions that are currently sup
 	This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code**.<br>
 	Sample response for n = 3
 
-	```json
+	```javascript
 	[
 		{
 			country: "burundi",
