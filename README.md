@@ -349,7 +349,7 @@ Please check our issues **[here](https://github.com/bhatvikrant/world-countries-
 ![GitHub license](https://img.shields.io/github/license/bhatvikrant/world-countries-capitals.svg?style=for-the-badge&logo=github)
 
 
-This pjoject is licensed under the MIT License, Copyright (c) 2020 Vikrant Bhat.
+This project is licensed under the MIT License, Copyright (c) 2020 Vikrant Bhat.
 
 ---
 
