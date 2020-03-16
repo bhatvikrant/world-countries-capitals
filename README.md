@@ -340,6 +340,8 @@ Please check our issues **[here](https://github.com/bhatvikrant/world-countries-
 
 ![](https://img.shields.io/github/contributors/bhatvikrant/world-countries-capitals) ![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social) ![](https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=social)
 
+**Note :** If you are addressing an issue that requires modification of code, remember to execute the tests, using the command **[`npm test`](https://docs.npmjs.com/cli/test)**. It ensures that things are working as they should.
+
 ---
 
 ## License
