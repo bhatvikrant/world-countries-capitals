@@ -1,4 +1,4 @@
-*Want to contribute to open source? Try solving our issues [here](https://github.com/bhatvikrant/world-countries-capitals/issues)*
+_Want to contribute to open source? Try solving our issues [here](https://github.com/bhatvikrant/world-countries-capitals/issues)_
 
 # world-countries-capitals
 
@@ -22,10 +22,10 @@ Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-
 
 ## Importing
 
-Before you can start using this package in your project, you need to import it. It can be done using the following command.
+Before you can start using this package in your project, you need to import it. It can be imported as follows:
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 ```
 
 ## Usage
@@ -33,209 +33,209 @@ const wcc = require('world-countries-capitals');
 This section contains information about various functions that are currently supported.
 
 - **getAllCountryDetails()** <br>
-	This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, and its **phone_code**.
+  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, and its **phone_code**.
 
-	```javascript
-	[
-		{
-			"country": "afghanistan",
-			"capital": "kabul",
-			"currency": "afghani",
-			"native_language": ["dari persian", "pashto"],
-			"famous_for": "rugs, taliban",
-			"phone_code": "+93"
-		},
-		{
-			"country": "albania",
-			"capital": "tirane",
-			"currency": "lek",
-			"native_language": ["albanian"],
-			"famous_for" : "mother teresa",
-			"phone_code": "+355"
-		},
-		...
-	]
-	```
+      	```javascript
+      	[
+      		{
+      			"country": "afghanistan",
+      			"capital": "kabul",
+      			"currency": "afghani",
+      			"native_language": ["dari persian", "pashto"],
+      			"famous_for": "rugs, taliban",
+      			"phone_code": "+93"
+      		},
+      		{
+      			"country": "albania",
+      			"capital": "tirane",
+      			"currency": "lek",
+      			"native_language": ["albanian"],
+      			"famous_for" : "mother teresa",
+      			"phone_code": "+355"
+      		},
+      		...
+      	]
+      	```
 
 - **getAllCountries()** <br>
-	This method returns an **array** conatining the **names** of all countries.
+  This method returns an **array** conatining the **names** of all countries.
 
-	```javascript
-	[
-		"afghanistan",
-		"albania",
-		"algeria",
-		"andorra",
-		"angola",
-		...
-	]
-	```
+      	```javascript
+      	[
+      		"afghanistan",
+      		"albania",
+      		"algeria",
+      		"andorra",
+      		"angola",
+      		...
+      	]
+      	```
 
 - **getCountiesByLanguage(languageSpoken)** <br>
-	This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code** sorted by the _languageSpoken_ passed in as a parameter.<br>
-	Response for getCountiesByLanguage('Hindi')
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code** sorted by the _languageSpoken_ passed in as a parameter.<br>
+  Response for getCountiesByLanguage('Hindi')
 
 
-	```javascript
-	[
-		{
-			country: "fiji",
-			capital: "suva",
-			currency: "fijian dollar",
-			native_language: ["english", "bau fijian", "hindi"],
-			famous_for: "friendly people and heavenly tropical islands",
-			phone_code: "+679"
-		},
-		{
-			country: "india",
-			capital: "new delhi",
-			currency: "indian rupee",
-			native_language: ["hindi", "english"],
-			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91"
-		}
-	];
-	```
+    ```javascript
+    [
+    	{
+    		country: "fiji",
+    		capital: "suva",
+    		currency: "fijian dollar",
+    		native_language: ["english", "bau fijian", "hindi"],
+    		famous_for: "friendly people and heavenly tropical islands",
+    		phone_code: "+679"
+    	},
+    	{
+    		country: "india",
+    		capital: "new delhi",
+    		currency: "indian rupee",
+    		native_language: ["hindi", "english"],
+    		famous_for: "bollywood, yoga, hinduism, food and diversity",
+    		phone_code: "+91"
+    	}
+    ];
+    ```
 
 - **getCountryDetailsByName(countryName)** <br>
-	This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for** and **phone_code** sorted by the _name of the country_ passed in as a parameter.<br>
-	Response for getCountryDetailsByName('india')
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for** and **phone_code** sorted by the _name of the country_ passed in as a parameter.<br>
+  Response for getCountryDetailsByName('india')
 
-	```javascript
-	[
-		{
-			country: "india",
-			capital: "new delhi",
-			currency: "indian rupee",
-			native_language: ["hindi", "english"],
-			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91"
-		},
-	];
-	```
+      	```javascript
+      	[
+      		{
+      			country: "india",
+      			capital: "new delhi",
+      			currency: "indian rupee",
+      			native_language: ["hindi", "english"],
+      			famous_for: "bollywood, yoga, hinduism, food and diversity",
+      			phone_code: "+91"
+      		},
+      	];
+      	```
 
 - **getCountryDetailsByCapital(capital)** <br>
-	This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .<br>
-	Response for getCountryDetailsByCapital('delhi')
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .<br>
+  Response for getCountryDetailsByCapital('delhi')
 
-	```javascript
-	[
-		{
-			country: "india",
-			capital: "new delhi",
-			currency: "indian rupee",
-			native_language: ["hindi", "english"],
-			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91"
-		},
-	];
-	```
+      	```javascript
+      	[
+      		{
+      			country: "india",
+      			capital: "new delhi",
+      			currency: "indian rupee",
+      			native_language: ["hindi", "english"],
+      			famous_for: "bollywood, yoga, hinduism, food and diversity",
+      			phone_code: "+91"
+      		},
+      	];
+      	```
 
 - **getRandomCountry()** <br>
-	This method returns a random country everytime.
+  This method returns a random country everytime.
 
-	```bash
-	» node app.js
-	tuvalu
+      	```bash
+      	» node app.js
+      	tuvalu
 
-	» node app.js
-	bhutan
+      	» node app.js
+      	bhutan
 
-	» node app.js
-	saudi arabia
-	```
+      	» node app.js
+      	saudi arabia
+      	```
 
-	***Note*** : *app.js is the file containing the function call.*
+      	***Note*** : *app.js is the file containing the function call.*
 
 - **getNRandomCountriesData(n)** <br>
-	This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code**.<br>
-	Sample response for n = 3
+  This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code**.<br>
+  Sample response for n = 3
 
-	```javascript
-	[
-		{
-			country: "burundi",
-			capital: "bujumbura",
-			currency: "burundi franc",
-			native_language: ["kirundi", "french"],
-			famous_for: "wildlife and greenery",
-			phone_code: "+257"
-		},
-		{
-			country: "palau",
-			capital: "melekeok",
-			currency: "united states dollar",
-			native_language: ["english", "palauan"],
-			famous_for: "jellyfish lake",
-			phone_code: "+680"
-		},
-		{
-			country: "dominican republic",
-			capital: "santo domingo",
-			currency: "dominican peso",
-			native_language: ["spanish"],
-			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
-			phone_code: "+1-809, +1-829, +1-849"
-		},
-	];
-	```
+      	```javascript
+      	[
+      		{
+      			country: "burundi",
+      			capital: "bujumbura",
+      			currency: "burundi franc",
+      			native_language: ["kirundi", "french"],
+      			famous_for: "wildlife and greenery",
+      			phone_code: "+257"
+      		},
+      		{
+      			country: "palau",
+      			capital: "melekeok",
+      			currency: "united states dollar",
+      			native_language: ["english", "palauan"],
+      			famous_for: "jellyfish lake",
+      			phone_code: "+680"
+      		},
+      		{
+      			country: "dominican republic",
+      			capital: "santo domingo",
+      			currency: "dominican peso",
+      			native_language: ["spanish"],
+      			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
+      			phone_code: "+1-809, +1-829, +1-849"
+      		},
+      	];
+      	```
 
-- **getCountriesByFamousFor(famousThing)** <br> 
-	This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for** and **phone_code** sorted by the _famousThing_ passed as the parameter.<br>
-	Response for getCountriesByFamousFor('oil')
+- **getCountriesByFamousFor(famousThing)** <br>
+  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for** and **phone_code** sorted by the _famousThing_ passed as the parameter.<br>
+  Response for getCountriesByFamousFor('oil')
 
-	```javascript
-	[
-		{
-			country: 'algeria',
-			capital: 'algiers',
-			currency: 'algerian dinar',
-			native_language: ['arabic', 'tamazight', 'french'],
-			famous_for: 'oil and gas reserves',
-			phone_code: '+213'
-		},
-		{
-			country: 'angola',
-			capital: 'luanda',
-			currency: 'kwanza',
-			native_language: ['portuguese'],
-			famous_for: 'oil',
-			phone_code: '+244'
-		},
-		{
-			country: 'bahrain',
-			capital: 'manama',
-			currency: 'bahraini dinar',
-			native_language: ['arabic'],
-			famous_for: 'oil, pearls and world heritage sites',
-			phone_code: '+973'
-		},
-		{
-			country: 'bulgaria',
-			capital: 'sofia',
-			currency: 'lev',
-			native_language: ['bulgarian'],
-			famous_for: 'lavender oil and the rose valley',
-			phone_code: '+359'
-		},
-		{
-			country: 'central african republic',
-			capital: 'bangui',
-			currency: 'central african cfa franc',
-			native_language: ['sango', 'french'],
-			famous_for: 'diamonds, gold, oil and uranium',
-			phone_code: '+236'
-		},
-		{
-			country: 'norway',
-			capital: 'oslo',
-			currency: 'norwegian krone',
-			native_language: ['norwegian'],
-			famous_for: 'oil, fjords, mountains and midnight sun',
-			phone_code: '+47'
-		},
-	];
-	```
+      	```javascript
+      	[
+      		{
+      			country: 'algeria',
+      			capital: 'algiers',
+      			currency: 'algerian dinar',
+      			native_language: ['arabic', 'tamazight', 'french'],
+      			famous_for: 'oil and gas reserves',
+      			phone_code: '+213'
+      		},
+      		{
+      			country: 'angola',
+      			capital: 'luanda',
+      			currency: 'kwanza',
+      			native_language: ['portuguese'],
+      			famous_for: 'oil',
+      			phone_code: '+244'
+      		},
+      		{
+      			country: 'bahrain',
+      			capital: 'manama',
+      			currency: 'bahraini dinar',
+      			native_language: ['arabic'],
+      			famous_for: 'oil, pearls and world heritage sites',
+      			phone_code: '+973'
+      		},
+      		{
+      			country: 'bulgaria',
+      			capital: 'sofia',
+      			currency: 'lev',
+      			native_language: ['bulgarian'],
+      			famous_for: 'lavender oil and the rose valley',
+      			phone_code: '+359'
+      		},
+      		{
+      			country: 'central african republic',
+      			capital: 'bangui',
+      			currency: 'central african cfa franc',
+      			native_language: ['sango', 'french'],
+      			famous_for: 'diamonds, gold, oil and uranium',
+      			phone_code: '+236'
+      		},
+      		{
+      			country: 'norway',
+      			capital: 'oslo',
+      			currency: 'norwegian krone',
+      			native_language: ['norwegian'],
+      			famous_for: 'oil, fjords, mountains and midnight sun',
+      			phone_code: '+47'
+      		},
+      	];
+      	```
 
 ### Example Use Cases
 
@@ -244,19 +244,19 @@ This section contains information about various functions that are currently sup
 To fetch a random country.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getRandomCountry());
+console.log(wcc.getRandomCountry())
 ```
 
 #### Example #2
 
-To get *n* random countries.
+To get _n_ random countries.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getNRandomCountriesData(3));
+console.log(wcc.getNRandomCountriesData(3))
 ```
 
 #### Example #3
@@ -264,65 +264,65 @@ console.log(wcc.getNRandomCountriesData(3));
 To fetch country by capital.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getCountryDetailsByCapital('delhi'));
+console.log(wcc.getCountryDetailsByCapital('delhi'))
 ```
 
-**Note :** the name of the capital (in this case, 'delhi') is *not* case sensitive and can be uppercase or lowercase and the response will remain the same.
+**Note :** the name of the capital (in this case, 'delhi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
 
 #### Example #4
 
 Get details of a country with its name.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getCountryDetailsByName('India'));
+console.log(wcc.getCountryDetailsByName('India'))
 ```
 
-**Note :** the name of the country (in this case, 'India') is *not* case sensitive and can be uppercase or lowercase and the response will remain the same.
+**Note :** the name of the country (in this case, 'India') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
 
 #### Example #5
 
 Fetch the details of country, with language.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getCountiesByLanguage('hindi'));
+console.log(wcc.getCountiesByLanguage('hindi'))
 ```
 
-**Note :** the language (in this case, 'hindi') is *not* case sensitive and can be uppercase or lowercase and the response will remain the same.
+**Note :** the language (in this case, 'hindi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
 
 #### Example #6
 
-Fetch *all* countries' details.
+Fetch _all_ countries' details.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getAllCountryDetails());
+console.log(wcc.getAllCountryDetails())
 ```
 
 #### Example #7
 
-Get all the names of *all* countries.
+Get all the names of _all_ countries.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getAllCountries());
+console.log(wcc.getAllCountries())
 ```
 
 #### Example #8
 
-Get the details of all countries that are famous for '*something*'.
+Get the details of all countries that are famous for '_something_'.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require('world-countries-capitals')
 
-console.log(wcc.getCountriesByFamousFor('oil'));
+console.log(wcc.getCountriesByFamousFor('oil'))
 ```
 
 ## Want to contribute to our project?
@@ -338,7 +338,6 @@ Please check our issues **[here](https://github.com/bhatvikrant/world-countries-
 ## License
 
 ![GitHub license](https://img.shields.io/github/license/bhatvikrant/world-countries-capitals.svg?style=for-the-badge&logo=github)
-
 
 This project is licensed under the MIT License, Copyright (c) 2020 Vikrant Bhat.
 
