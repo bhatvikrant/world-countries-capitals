@@ -56,8 +56,6 @@ This section contains information about various functions that are currently sup
 		...
 	]
 	```
-<br>
-
 
 - **getAllCountries()** <br>
 	This method returns an **array** conatining the **names** of all countries.
@@ -72,7 +70,6 @@ This section contains information about various functions that are currently sup
 		...
 	]
 	```
-<br>
 
 - **getCountiesByLanguage(languageSpoken)** <br>
 	This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code** sorted by the _languageSpoken_ passed in as a parameter.<br>
@@ -99,7 +96,6 @@ This section contains information about various functions that are currently sup
 		}
 	];
 	```
-<br>
 
 - **getCountryDetailsByName(countryName)** <br>
 	This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for** and **phone_code** sorted by the _name of the country_ passed in as a parameter.<br>
@@ -117,7 +113,6 @@ This section contains information about various functions that are currently sup
 		},
 	];
 	```
-<br>
 
 - **getCountryDetailsByCapital(capital)** <br>
 	This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .<br>
@@ -135,7 +130,6 @@ This section contains information about various functions that are currently sup
 		},
 	];
 	```
-<br>
 
 - **getRandomCountry()** <br>
 	This method returns a random country everytime.
@@ -152,7 +146,6 @@ This section contains information about various functions that are currently sup
 	```
 
 	***Note*** : *app.js is the file containing the function call.*
-<br>
 
 - **getNRandomCountriesData(n)** <br>
 	This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code**.<br>
@@ -186,7 +179,6 @@ This section contains information about various functions that are currently sup
 		},
 	];
 	```
-<br>
 
 - **getCountriesByFamousFor(famousThing)** <br> 
 	This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for** and **phone_code** sorted by the _famousThing_ passed as the parameter.<br>
@@ -244,7 +236,6 @@ This section contains information about various functions that are currently sup
 		},
 	];
 	```
-<br>
 
 ### Example Use Cases
 
