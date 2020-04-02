@@ -312,12 +312,12 @@
         "phone_code": "+243"
     },
     {
-        "country": "republic of the congo",
+        "country": "republic of the congo (congo-brazzaville)",
         "capital": "brazzaville",
         "currency": "central african cfa franc",
         "native_language": ["french"],
         "famous_for": "natural resources",
-        "phone_code": "+1-809, +1-829, +1-849"
+        "phone_code": "+242"
     },
     {
         "country": "costa rica",
@@ -824,7 +824,7 @@
         "phone_code": "+352"
     },
     {
-        "country": "macedonia",
+        "country": "north macedonia (the republic of north macedonia)",
         "capital": "skopje",
         "currency": "macedonian denar",
         "native_language": ["macedonian"],
@@ -1296,6 +1296,14 @@
         "phone_code": "+27"
     },
     {
+        "country": "south sudan (republic of south sudan)",
+        "capital": "juba",
+        "currency": "south sudanese pound",
+        "native_language": ["arabic", "english"],
+        "famous_for": "national parks and oil",
+        "phone_code": "+211"
+    },
+    {
         "country": "spain",
         "capital": "madrid",
         "currency": "euro",
@@ -1312,7 +1320,7 @@
         "phone_code": "+94"
     },
     {
-        "country": "sudan",
+        "country": "sudan (republic of the sudan)",
         "capital": "khartoum",
         "currency": "sudanese pound",
         "native_language": ["arabic", "english"],
@@ -1328,7 +1336,7 @@
         "phone_code": "+597"
     },
     {
-        "country": "swaziland",
+        "country": "eswatini (swaziland)",
         "capital": "mbabane",
         "currency": "lilangeni",
         "native_language": ["english", "siswati"],
