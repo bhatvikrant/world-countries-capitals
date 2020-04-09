@@ -6,7 +6,7 @@ _Want to contribute to open source? Try solving our issues [here](https://github
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
 
-[Website](https://bhatvikrant.github.io/world-countries-capitals/)
+[Docs](https://bhatvikrant.github.io/world-countries-capitals/)
 
 ## Installation
 
