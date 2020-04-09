@@ -55,13 +55,13 @@ describe('The index', () => {
 
 	describe('The getAllCountryDetails', () => {
 		it('returns the details of all countries', () => {
-			expect(countryApi.getAllCountryDetails().length).toEqual(195)
+			expect(countryApi.getAllCountryDetails().length).toEqual(196)
 		})
 	})
 
 	describe('The getAllCountries', () => {
 		it('returns all of the countries', () => {
-			expect(countryApi.getAllCountries().length).toEqual(195)
+			expect(countryApi.getAllCountries().length).toEqual(196)
 		})
 	})
 
