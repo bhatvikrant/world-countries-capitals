@@ -1,17 +1,14 @@
 // import cheerio to web-scrape flag images
 const cheerio = require("cheerio");
-const request = require("request");
+const axios = require("axios");
 const flagURL = "https://flagpedia.net/index";
 const countriesJSON = require('./clonedJSON');
+const fs = require('fs');
 
-request({
-    method: "GET",
-    url: flagURL
-}, function (err, res, body) {
-    if (err) {
-        console.log(err);
-    }
-    $ = cheerio.load(body);
+axios.get(flagURL).then((response) => {
+    
+    // load html into cheerio
+    $ = cheerio.load(response.data);
     let flags = [];
 
     // loop through flag-grid classes on "https://flagpedia.net/index"
@@ -45,18 +42,27 @@ request({
             // i.e. "& === and"
             let trimmed = '';
             if (countriesJSON[i].country.includes('the')) {
-                trimmed = countriesJSON[i].country.slice(0,4);
+                trimmed = countriesJSON[i].country.slice(0, 4);
             }
             if (countriesJSON[i].country.includes('&')) {
                 trimmed = countriesJSON[i].country.replace("&", "and");
             }
-            if (countriesJSON[i].country.toLowerCase() === flags[k].country.toLowerCase() || 
+            if (countriesJSON[i].country.toLowerCase() === flags[k].country.toLowerCase() ||
                 trimmed.toLowerCase() === flags[k].country.toLowerCase()) {
                 countriesJSON[i].flag = flags[k].img;
                 matches.push(k);
             };
         }
     }
+
+    // convert to string
+    let stringJSON = JSON.stringify(countriesJSON, null, ' ');
+    
+    // write updated JSON oject to new file called newData.json
+    fs.writeFile("newData.json", stringJSON, (err) => {
+        if (err) throw err;
+        console.log('File was written with updated data and saved!');
+    })
 
     // length of arrays
     console.log(countriesJSON.length);
@@ -68,10 +74,13 @@ request({
     // file have been populated with flag images
     console.log("Matched " + ((matches.length / countriesJSON.length).toFixed(2) * 100) + "% of countries flags");
 
-    
+
     // my suggestion for your "unique data issue on github"
     // uncomment this below and update the original data.json file to include the flag image src's
     // console.log(countriesJSON);
+})
+.catch((error) => {
+    console.error(error);
 });
 
 
