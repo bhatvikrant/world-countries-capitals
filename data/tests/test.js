@@ -74,7 +74,6 @@ axios.get(flagURL).then((response) => {
     // file have been populated with flag images
     console.log("Matched " + ((matches.length / countriesJSON.length).toFixed(2) * 100) + "% of countries flags");
 
-
     // my suggestion for your "unique data issue on github"
     // uncomment this below and update the original data.json file to include the flag image src's
     // console.log(countriesJSON);
