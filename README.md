@@ -324,6 +324,10 @@ const wcc = require('world-countries-capitals')
 
 console.log(wcc.getCountriesByFamousFor('oil'))
 ```
+## Demo
+
+In this [Vue.js demo](https://codesandbox.io/s/wcc-demo-tux1b), the package methods are used to search countries by a selected field (name, capital, language, famous for)
+
 
 ## Want to contribute to our project?
 
