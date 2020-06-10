@@ -6,6 +6,8 @@ _Want to contribute to open source? Try solving our issues [here](https://github
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
 
+[Demo](https://codesandbox.io/s/wcc-demo-tux1b)
+
 [Docs](https://bhatvikrant.github.io/world-countries-capitals/)
 
 ## Installation
@@ -25,7 +27,7 @@ Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-
 Before you can start using this package in your project, you need to import it. It can be imported as follows:
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 ```
 
 ## Usage
@@ -244,9 +246,9 @@ This section contains information about various functions that are currently sup
 To fetch a random country.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getRandomCountry())
+console.log(wcc.getRandomCountry());
 ```
 
 #### Example #2
@@ -254,9 +256,9 @@ console.log(wcc.getRandomCountry())
 To get _n_ random countries.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getNRandomCountriesData(3))
+console.log(wcc.getNRandomCountriesData(3));
 ```
 
 #### Example #3
@@ -264,9 +266,9 @@ console.log(wcc.getNRandomCountriesData(3))
 To fetch country by capital.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountryDetailsByCapital('delhi'))
+console.log(wcc.getCountryDetailsByCapital('delhi'));
 ```
 
 **Note :** the name of the capital (in this case, 'delhi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
@@ -276,9 +278,9 @@ console.log(wcc.getCountryDetailsByCapital('delhi'))
 Get details of a country with its name.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountryDetailsByName('India'))
+console.log(wcc.getCountryDetailsByName('India'));
 ```
 
 **Note :** the name of the country (in this case, 'India') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
@@ -288,9 +290,9 @@ console.log(wcc.getCountryDetailsByName('India'))
 Fetch the details of country, with language.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountiesByLanguage('hindi'))
+console.log(wcc.getCountiesByLanguage('hindi'));
 ```
 
 **Note :** the language (in this case, 'hindi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
@@ -300,9 +302,9 @@ console.log(wcc.getCountiesByLanguage('hindi'))
 Fetch _all_ countries' details.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getAllCountryDetails())
+console.log(wcc.getAllCountryDetails());
 ```
 
 #### Example #7
@@ -310,9 +312,9 @@ console.log(wcc.getAllCountryDetails())
 Get all the names of _all_ countries.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getAllCountries())
+console.log(wcc.getAllCountries());
 ```
 
 #### Example #8
@@ -320,14 +322,14 @@ console.log(wcc.getAllCountries())
 Get the details of all countries that are famous for '_something_'.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountriesByFamousFor('oil'))
+console.log(wcc.getCountriesByFamousFor('oil'));
 ```
+
 ## Demo
 
 In this [Vue.js demo](https://codesandbox.io/s/wcc-demo-tux1b), the package methods are used to search countries by a selected field (name, capital, language, famous for)
-
 
 ## Want to contribute to our project?
 
