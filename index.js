@@ -4,13 +4,24 @@ const randomNum = () => {
     return Math.floor(Math.random() * data.length);
 };
 
-// Get a random country
+
+/** 
+ * Returns the name of a random country from the list of 
+ * countries in the dataset
+ * @returns {string} The name of a country picked at random
+ */
 const getRandomCountry = () => {
     let randNum = randomNum();
     return data[randNum].country;
 };
 
-// Get data of N countries
+/** 
+ * Returns an array having `count` number of different random country objects, 
+ * each object containing `country`, `capital`, `currency`, `native_language`, 
+ * `famous_for`, and `phone_code`.
+ * @param {integer} count Number of country objects in the array to be returned
+ * @returns {Array} An array having `count` number of country objects
+ */
 const getNRandomCountriesData = count => {
     let randomCountriesSet = new Set(); // to prevent duplicate countries
     while (randomCountriesSet.size < count) {
@@ -35,36 +46,63 @@ const getCountriesByObject = (value, obj) => {
     return resultArray;
 };
 
-// Get details of a country by the capital name
+/** 
+ * Returns an array of objects, each containing `country`, `capital`, 
+ * `currency` and `native_language` filtered by `capital` .
+ * @param {string} capital The name (not case-sensitive) of the capital of the country
+ * @returns {Array} An array of country objects
+ */
 const getCountryDetailsByCapital = capital => {
     return getCountriesByObject(capital, "capital");
 };
 
-// Get details of a country by the country name
+/** 
+ * Returns an array of objects, each containing `country`, `capital`, 
+ * `currency` and `native_language` filtered by `country` .
+ * @param {string} country The name (not case-sensitive) of the country
+ * @returns {Array} An array of country objects
+ */
 const getCountryDetailsByName = country => {
     return getCountriesByObject(country, "country");
 };
 
-// Get country details by the language spoken
+/** 
+ * Returns an array of objects, each containing `country`, `capital`, 
+ * `currency` and `native_language` filtered by the `languageSpoken` .
+ * @param {string} languageSpoken The language spoken (not case-sensitive) by the country
+ * @returns {Array} An array of country objects
+ */
 const getCountriesByLanguage = languageSpoken => {
     return getCountriesByObject(languageSpoken, "native_language");
 
 };
 
-// Get details of all countries
+/** 
+ * Returns an array of objects containing all countries, each containing `country`, `capital`, 
+ * `currency`, `native_language`, `famous_for`, and `phone_code`
+ * @returns {Array} An array of country objects
+ */
 const getAllCountryDetails = () => {
     return data;
 };
 
-// Get all countries Name
+/** 
+ * Returns an array containing the name of all the countries in the dataset
+ * @returns {Array} An array of country objects
+ */
 const getAllCountries = () => {
     return data.map(({ country }) => country);
 };
 
-// Get all countries by what they're famous for
+/** 
+ * Returns an array of objects containing all countries, each containing `country`, `capital`, 
+ * `currency`, `native_language`, `famous_for`, and `phone_code`, filtered by `famousThing`
+ * @param {string} famousThing What the country is famous for
+ * @returns {Array} An array of country objects
+ */
 const getCountriesByFamousFor = (famousThing) => {
     return data.filter(country => country.famous_for.search("\\b" + famousThing + "\\b") != -1);
-}
+};
 
 module.exports = {
     getRandomCountry,
