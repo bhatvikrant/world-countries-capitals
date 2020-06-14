@@ -2,7 +2,7 @@ _Want to contribute to open source? Try solving our issues [here](https://github
 
 # world-countries-capitals
 
-##### A simple [NPM](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
+ A simple [npm](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
 
@@ -12,11 +12,11 @@ _Want to contribute to open source? Try solving our issues [here](https://github
 
 ## Installation
 
-[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![NODE JS](https://img.shields.io/npm/v/world-countries-capitals?logo=npm&label=world-countries-capitals&style=for-the-badge)](https://www.npmjs.com/package/world-countries-capitals)
+[![npm install](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![Node.js](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![Node.js](https://img.shields.io/npm/v/world-countries-capitals?logo=npm&label=world-countries-capitals&style=for-the-badge)](https://www.npmjs.com/package/world-countries-capitals)
 
-world-countries-capital is a [Node.js](https://nodejs.org/en/) module, and can be installed using the npm package manager.
+`world-countries-capital` is a [Node.js](https://nodejs.org/en/) module, and can be installed using the npm package manager.
 
-Ensure that you have Node.js and npm installed. If you dont have Node.js or npm, you can download and install it [here](https://nodejs.org/en/download/).
+Ensure that you have Node.js and npm installed. If you don't have Node.js or npm, you can download and install it [here](https://nodejs.org/en/download/).
 
 Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)** command on the terminal if you are on Linux / MacOS or on Command Prompt if you are using Windows:
 
@@ -32,216 +32,228 @@ const wcc = require('world-countries-capitals');
 
 ## Usage
 
-This section contains information about various functions that are currently supported.
+This section contains information about various methods that are currently supported.
 
-- **getAllCountryDetails()** <br>
-  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, and its **phone_code**.
+- **`getAllCountryDetails()`**
 
-      	```javascript
-      	[
-      		{
-      			"country": "afghanistan",
-      			"capital": "kabul",
-      			"currency": "afghani",
-      			"native_language": ["dari persian", "pashto"],
-      			"famous_for": "rugs, taliban",
-      			"phone_code": "+93"
-      		},
-      		{
-      			"country": "albania",
-      			"capital": "tirane",
-      			"currency": "lek",
-      			"native_language": ["albanian"],
-      			"famous_for" : "mother teresa",
-      			"phone_code": "+355"
-      		},
-      		...
-      	]
-      	```
+  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and its **phone_code**.
 
-- **getAllCountries()** <br>
+	```javascript
+	[
+		{
+			"country": "afghanistan",
+			"capital": "kabul",
+			"currency": "afghani",
+			"native_language": ["dari persian", "pashto"],
+			"famous_for": "rugs, taliban",
+			"phone_code": "+93"
+		},
+		{
+			"country": "albania",
+			"capital": "tirane",
+			"currency": "lek",
+			"native_language": ["albanian"],
+			"famous_for" : "mother teresa",
+			"phone_code": "+355"
+		},
+		...
+	]
+	```
+
+- **`getAllCountries()`**
+
   This method returns an **array** conatining the **names** of all countries.
 
-      	```javascript
-      	[
-      		"afghanistan",
-      		"albania",
-      		"algeria",
-      		"andorra",
-      		"angola",
-      		...
-      	]
-      	```
+	```javascript
+	[
+		"afghanistan",
+		"albania",
+		"algeria",
+		"andorra",
+		"angola",
+		...
+	]
+	```
 
-- **getCountiesByLanguage(languageSpoken)** <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code** sorted by the _languageSpoken_ passed in as a parameter.<br>
-  Response for getCountiesByLanguage('Hindi')
+- **`getCountriesByLanguage(languageSpoken)`**
+
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code** filtered by the _languageSpoken_ passed in as a parameter.
+
+  Response for getCountriesByLanguage('Hindi')
 
 
-    ```javascript
-    [
-    	{
-    		country: "fiji",
-    		capital: "suva",
-    		currency: "fijian dollar",
-    		native_language: ["english", "bau fijian", "hindi"],
-    		famous_for: "friendly people and heavenly tropical islands",
-    		phone_code: "+679"
-    	},
-    	{
-    		country: "india",
-    		capital: "new delhi",
-    		currency: "indian rupee",
-    		native_language: ["hindi", "english"],
-    		famous_for: "bollywood, yoga, hinduism, food and diversity",
-    		phone_code: "+91"
-    	}
-    ];
-    ```
+	```javascript
+	[
+		{
+			country: "fiji",
+			capital: "suva",
+			currency: "fijian dollar",
+			native_language: ["english", "bau fijian", "hindi"],
+			famous_for: "friendly people and heavenly tropical islands",
+			phone_code: "+679"
+		},
+		{
+			country: "india",
+			capital: "new delhi",
+			currency: "indian rupee",
+			native_language: ["hindi", "english"],
+			famous_for: "bollywood, yoga, hinduism, food and diversity",
+			phone_code: "+91"
+		}
+	];
+	```
 
-- **getCountryDetailsByName(countryName)** <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for** and **phone_code** sorted by the _name of the country_ passed in as a parameter.<br>
-  Response for getCountryDetailsByName('india')
+- **`getCountryDetailsByName(countryName)`**
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for** and **phone_code** filtered by the `countryName` which represents the name of the country.
 
-      	```javascript
-      	[
-      		{
-      			country: "india",
-      			capital: "new delhi",
-      			currency: "indian rupee",
-      			native_language: ["hindi", "english"],
-      			famous_for: "bollywood, yoga, hinduism, food and diversity",
-      			phone_code: "+91"
-      		},
-      	];
-      	```
+  Response for `getCountryDetailsByName('india')`
 
-- **getCountryDetailsByCapital(capital)** <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** sorted by the _capital_ .<br>
-  Response for getCountryDetailsByCapital('delhi')
+	```javascript
+	[
+		{
+			country: "india",
+			capital: "new delhi",
+			currency: "indian rupee",
+			native_language: ["hindi", "english"],
+			famous_for: "bollywood, yoga, hinduism, food and diversity",
+			phone_code: "+91"
+		},
+	];
+	```
 
-      	```javascript
-      	[
-      		{
-      			country: "india",
-      			capital: "new delhi",
-      			currency: "indian rupee",
-      			native_language: ["hindi", "english"],
-      			famous_for: "bollywood, yoga, hinduism, food and diversity",
-      			phone_code: "+91"
-      		},
-      	];
-      	```
+- **`getCountryDetailsByCapital(capital)`**
 
-- **getRandomCountry()** <br>
-  This method returns a random country everytime.
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** filtered by the `capital`.
 
-      	```bash
-      	» node app.js
-      	tuvalu
+  Response for `getCountryDetailsByCapital('delhi')`
 
-      	» node app.js
-      	bhutan
+	```javascript
+	[
+		{
+			country: "india",
+			capital: "new delhi",
+			currency: "indian rupee",
+			native_language: ["hindi", "english"],
+			famous_for: "bollywood, yoga, hinduism, food and diversity",
+			phone_code: "+91"
+		},
+	];
+	```
 
-      	» node app.js
-      	saudi arabia
-      	```
+- **`getRandomCountry()`**
 
-      	***Note*** : *app.js is the file containing the function call.*
+  This method returns a random country name everytime.
 
-- **getNRandomCountriesData(n)** <br>
-  This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code**.<br>
-  Sample response for n = 3
+	```bash
+	» node app.js
+	tuvalu
 
-      	```javascript
-      	[
-      		{
-      			country: "burundi",
-      			capital: "bujumbura",
-      			currency: "burundi franc",
-      			native_language: ["kirundi", "french"],
-      			famous_for: "wildlife and greenery",
-      			phone_code: "+257"
-      		},
-      		{
-      			country: "palau",
-      			capital: "melekeok",
-      			currency: "united states dollar",
-      			native_language: ["english", "palauan"],
-      			famous_for: "jellyfish lake",
-      			phone_code: "+680"
-      		},
-      		{
-      			country: "dominican republic",
-      			capital: "santo domingo",
-      			currency: "dominican peso",
-      			native_language: ["spanish"],
-      			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
-      			phone_code: "+1-809, +1-829, +1-849"
-      		},
-      	];
-      	```
+	» node app.js
+	bhutan
 
-- **getCountriesByFamousFor(famousThing)** <br>
-  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for** and **phone_code** sorted by the _famousThing_ passed as the parameter.<br>
-  Response for getCountriesByFamousFor('oil')
+	» node app.js
+	saudi arabia
+	```
 
-      	```javascript
-      	[
-      		{
-      			country: 'algeria',
-      			capital: 'algiers',
-      			currency: 'algerian dinar',
-      			native_language: ['arabic', 'tamazight', 'french'],
-      			famous_for: 'oil and gas reserves',
-      			phone_code: '+213'
-      		},
-      		{
-      			country: 'angola',
-      			capital: 'luanda',
-      			currency: 'kwanza',
-      			native_language: ['portuguese'],
-      			famous_for: 'oil',
-      			phone_code: '+244'
-      		},
-      		{
-      			country: 'bahrain',
-      			capital: 'manama',
-      			currency: 'bahraini dinar',
-      			native_language: ['arabic'],
-      			famous_for: 'oil, pearls and world heritage sites',
-      			phone_code: '+973'
-      		},
-      		{
-      			country: 'bulgaria',
-      			capital: 'sofia',
-      			currency: 'lev',
-      			native_language: ['bulgarian'],
-      			famous_for: 'lavender oil and the rose valley',
-      			phone_code: '+359'
-      		},
-      		{
-      			country: 'central african republic',
-      			capital: 'bangui',
-      			currency: 'central african cfa franc',
-      			native_language: ['sango', 'french'],
-      			famous_for: 'diamonds, gold, oil and uranium',
-      			phone_code: '+236'
-      		},
-      		{
-      			country: 'norway',
-      			capital: 'oslo',
-      			currency: 'norwegian krone',
-      			native_language: ['norwegian'],
-      			famous_for: 'oil, fjords, mountains and midnight sun',
-      			phone_code: '+47'
-      		},
-      	];
-      	```
+	***Note*** : *app.js is the file containing the function call.*
 
-### Example Use Cases
+- **`getNRandomCountriesData(count)`**
 
-#### Example #1
+  This method returns an array having **count** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code**.
+
+  Sample response for `getNRandomCountriesData(3)`
+
+	```javascript
+	[
+		{
+			country: "burundi",
+			capital: "bujumbura",
+			currency: "burundi franc",
+			native_language: ["kirundi", "french"],
+			famous_for: "wildlife and greenery",
+			phone_code: "+257"
+		},
+		{
+			country: "palau",
+			capital: "melekeok",
+			currency: "united states dollar",
+			native_language: ["english", "palauan"],
+			famous_for: "jellyfish lake",
+			phone_code: "+680"
+		},
+		{
+			country: "dominican republic",
+			capital: "santo domingo",
+			currency: "dominican peso",
+			native_language: ["spanish"],
+			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
+			phone_code: "+1-809, +1-829, +1-849"
+		},
+	];
+	```
+
+- **`getCountriesByFamousFor(famousThing)`**
+
+  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for** and **phone_code** filtered by the `famousThing` passed as the parameter.
+
+  Response for `getCountriesByFamousFor('oil')`
+
+	```javascript
+	[
+		{
+			country: 'algeria',
+			capital: 'algiers',
+			currency: 'algerian dinar',
+			native_language: ['arabic', 'tamazight', 'french'],
+			famous_for: 'oil and gas reserves',
+			phone_code: '+213'
+		},
+		{
+			country: 'angola',
+			capital: 'luanda',
+			currency: 'kwanza',
+			native_language: ['portuguese'],
+			famous_for: 'oil',
+			phone_code: '+244'
+		},
+		{
+			country: 'bahrain',
+			capital: 'manama',
+			currency: 'bahraini dinar',
+			native_language: ['arabic'],
+			famous_for: 'oil, pearls and world heritage sites',
+			phone_code: '+973'
+		},
+		{
+			country: 'bulgaria',
+			capital: 'sofia',
+			currency: 'lev',
+			native_language: ['bulgarian'],
+			famous_for: 'lavender oil and the rose valley',
+			phone_code: '+359'
+		},
+		{
+			country: 'central african republic',
+			capital: 'bangui',
+			currency: 'central african cfa franc',
+			native_language: ['sango', 'french'],
+			famous_for: 'diamonds, gold, oil and uranium',
+			phone_code: '+236'
+		},
+		{
+			country: 'norway',
+			capital: 'oslo',
+			currency: 'norwegian krone',
+			native_language: ['norwegian'],
+			famous_for: 'oil, fjords, mountains and midnight sun',
+			phone_code: '+47'
+		},
+	];
+	```
+
+## Example Use Cases
+
+### Example #1
 
 To fetch a random country.
 
@@ -251,9 +263,9 @@ const wcc = require('world-countries-capitals');
 console.log(wcc.getRandomCountry());
 ```
 
-#### Example #2
+### Example #2
 
-To get _n_ random countries.
+To get `count` random countries.
 
 ```javascript
 const wcc = require('world-countries-capitals');
@@ -261,7 +273,7 @@ const wcc = require('world-countries-capitals');
 console.log(wcc.getNRandomCountriesData(3));
 ```
 
-#### Example #3
+### Example #3
 
 To fetch country by capital.
 
@@ -271,9 +283,9 @@ const wcc = require('world-countries-capitals');
 console.log(wcc.getCountryDetailsByCapital('delhi'));
 ```
 
-**Note :** the name of the capital (in this case, 'delhi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
+**Note :** the name of the capital (in this case, 'delhi') is **not** case sensitive and can be uppercase or lowercase and the response will remain the same.
 
-#### Example #4
+### Example #4
 
 Get details of a country with its name.
 
@@ -285,7 +297,7 @@ console.log(wcc.getCountryDetailsByName('India'));
 
 **Note :** the name of the country (in this case, 'India') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
 
-#### Example #5
+### Example #5
 
 Fetch the details of country, with language.
 
@@ -297,9 +309,9 @@ console.log(wcc.getCountiesByLanguage('hindi'));
 
 **Note :** the language (in this case, 'hindi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
 
-#### Example #6
+### Example #6
 
-Fetch _all_ countries' details.
+Fetch all countries' details.
 
 ```javascript
 const wcc = require('world-countries-capitals');
@@ -307,9 +319,9 @@ const wcc = require('world-countries-capitals');
 console.log(wcc.getAllCountryDetails());
 ```
 
-#### Example #7
+### Example #7
 
-Get all the names of _all_ countries.
+Get all the names of all countries.
 
 ```javascript
 const wcc = require('world-countries-capitals');
@@ -317,7 +329,7 @@ const wcc = require('world-countries-capitals');
 console.log(wcc.getAllCountries());
 ```
 
-#### Example #8
+### Example #8
 
 Get the details of all countries that are famous for '_something_'.
 
