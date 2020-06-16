@@ -2,19 +2,21 @@ _Want to contribute to open source? Try solving our issues [here](https://github
 
 # world-countries-capitals
 
-##### A simple [NPM](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
+ A simple [npm](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
+
+[Demo](https://codesandbox.io/s/wcc-demo-tux1b)
 
 [Docs](https://bhatvikrant.github.io/world-countries-capitals/)
 
 ## Installation
 
-[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![NODE JS](https://img.shields.io/npm/v/world-countries-capitals?logo=npm&label=world-countries-capitals&style=for-the-badge)](https://www.npmjs.com/package/world-countries-capitals)
+[![npm install](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![Node.js](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![Node.js](https://img.shields.io/npm/v/world-countries-capitals?logo=npm&label=world-countries-capitals&style=for-the-badge)](https://www.npmjs.com/package/world-countries-capitals)
 
-world-countries-capital is a [Node.js](https://nodejs.org/en/) module, and can be installed using the npm package manager.
+`world-countries-capital` is a [Node.js](https://nodejs.org/en/) module, and can be installed using the npm package manager.
 
-Ensure that you have Node.js and npm installed. If you dont have Node.js or npm, you can download and install it [here](https://nodejs.org/en/download/).
+Ensure that you have Node.js and npm installed. If you don't have Node.js or npm, you can download and install it [here](https://nodejs.org/en/download/).
 
 Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)** command on the terminal if you are on Linux / MacOS or on Command Prompt if you are using Windows:
 
@@ -25,10 +27,11 @@ Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-
 Before you can start using this package in your project, you need to import it. It can be imported as follows:
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 ```
 
 ## Usage
+
 
 This section contains information about various functions that are currently supported.
 
@@ -256,89 +259,94 @@ This section contains information about various functions that are currently sup
 
 #### Example #1
 
+
 To fetch a random country.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getRandomCountry())
+console.log(wcc.getRandomCountry());
 ```
 
-#### Example #2
+### Example #2
 
-To get _n_ random countries.
+To get `count` random countries.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getNRandomCountriesData(3))
+console.log(wcc.getNRandomCountriesData(3));
 ```
 
-#### Example #3
+### Example #3
 
 To fetch country by capital.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountryDetailsByCapital('delhi'))
+console.log(wcc.getCountryDetailsByCapital('delhi'));
 ```
 
-**Note :** the name of the capital (in this case, 'delhi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
+**Note :** the name of the capital (in this case, 'delhi') is **not** case sensitive and can be uppercase or lowercase and the response will remain the same.
 
-#### Example #4
+### Example #4
 
 Get details of a country with its name.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountryDetailsByName('India'))
+console.log(wcc.getCountryDetailsByName('India'));
 ```
 
 **Note :** the name of the country (in this case, 'India') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
 
-#### Example #5
+### Example #5
 
 Fetch the details of country, with language.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountiesByLanguage('hindi'))
+console.log(wcc.getCountiesByLanguage('hindi'));
 ```
 
 **Note :** the language (in this case, 'hindi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
 
-#### Example #6
+### Example #6
 
-Fetch _all_ countries' details.
-
-```javascript
-const wcc = require('world-countries-capitals')
-
-console.log(wcc.getAllCountryDetails())
-```
-
-#### Example #7
-
-Get all the names of _all_ countries.
+Fetch all countries' details.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getAllCountries())
+console.log(wcc.getAllCountryDetails());
 ```
 
-#### Example #8
+### Example #7
+
+Get all the names of all countries.
+
+```javascript
+const wcc = require('world-countries-capitals');
+
+console.log(wcc.getAllCountries());
+```
+
+### Example #8
 
 Get the details of all countries that are famous for '_something_'.
 
 ```javascript
-const wcc = require('world-countries-capitals')
+const wcc = require('world-countries-capitals');
 
-console.log(wcc.getCountriesByFamousFor('oil'))
+console.log(wcc.getCountriesByFamousFor('oil'));
 ```
+
+## Demo
+
+In this [Vue.js demo](https://codesandbox.io/s/wcc-demo-tux1b), the package methods are used to search countries by a selected field (name, capital, language, famous for)
 
 ## Want to contribute to our project?
 
