@@ -32,228 +32,233 @@ const wcc = require('world-countries-capitals');
 
 ## Usage
 
-This section contains information about various methods that are currently supported.
 
-- **`getAllCountryDetails()`**
+This section contains information about various functions that are currently supported.
 
-  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and its **phone_code**.
+- **getAllCountryDetails()** <br>
+  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, **phone_code**, and its **flag**.
 
-	```javascript
-	[
-		{
-			"country": "afghanistan",
-			"capital": "kabul",
-			"currency": "afghani",
-			"native_language": ["dari persian", "pashto"],
-			"famous_for": "rugs, taliban",
-			"phone_code": "+93"
-		},
-		{
-			"country": "albania",
-			"capital": "tirane",
-			"currency": "lek",
-			"native_language": ["albanian"],
-			"famous_for" : "mother teresa",
-			"phone_code": "+355"
-		},
-		...
-	]
-	```
+      	```javascript
+      	[
+      		{
+      			"country": "afghanistan",
+      			"capital": "kabul",
+      			"currency": "afghani",
+      			"native_language": ["dari persian", "pashto"],
+      			"famous_for": "rugs, taliban",
+				"phone_code": "+93",
+				"flag": "https://flagpedia.net/data/flags/h80/af.png"
+      		},
+      		{
+      			"country": "albania",
+      			"capital": "tirane",
+      			"currency": "lek",
+      			"native_language": ["albanian"],
+      			"famous_for" : "mother teresa",
+				"phone_code": "+355",
+				"flag": "https://flagpedia.net/data/flags/h80/al.png"
+      		},
+      		...
+      	]
+      	```
 
-- **`getAllCountries()`**
-
+- **getAllCountries()** <br>
   This method returns an **array** conatining the **names** of all countries.
 
-	```javascript
-	[
-		"afghanistan",
-		"albania",
-		"algeria",
-		"andorra",
-		"angola",
-		...
-	]
-	```
+      	```javascript
+      	[
+      		"afghanistan",
+      		"albania",
+      		"algeria",
+      		"andorra",
+      		"angola",
+      		...
+      	]
+      	```
 
-- **`getCountriesByLanguage(languageSpoken)`**
-
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code** filtered by the _languageSpoken_ passed in as a parameter.
-
-  Response for getCountriesByLanguage('Hindi')
+- **getCountiesByLanguage(languageSpoken)** <br>
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _languageSpoken_ passed in as a parameter.<br>
+  Response for getCountiesByLanguage('Hindi')
 
 
-	```javascript
-	[
-		{
-			country: "fiji",
-			capital: "suva",
-			currency: "fijian dollar",
-			native_language: ["english", "bau fijian", "hindi"],
-			famous_for: "friendly people and heavenly tropical islands",
-			phone_code: "+679"
-		},
-		{
-			country: "india",
-			capital: "new delhi",
-			currency: "indian rupee",
-			native_language: ["hindi", "english"],
-			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91"
-		}
-	];
-	```
+    ```javascript
+    [
+    	{
+    		country: "fiji",
+    		capital: "suva",
+    		currency: "fijian dollar",
+    		native_language: ["english", "bau fijian", "hindi"],
+    		famous_for: "friendly people and heavenly tropical islands",
+			phone_code: "+679",
+			flag: "https://flagpedia.net/data/flags/h80/fj.png"
+    	},
+    	{
+    		country: "india",
+    		capital: "new delhi",
+    		currency: "indian rupee",
+    		native_language: ["hindi", "english"],
+    		famous_for: "bollywood, yoga, hinduism, food and diversity",
+			phone_code: "+91",
+			flag: "https://flagpedia.net/data/flags/h80/in.png"
+    	}
+    ];
+    ```
 
-- **`getCountryDetailsByName(countryName)`**
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for** and **phone_code** filtered by the `countryName` which represents the name of the country.
+- **getCountryDetailsByName(countryName)** <br>
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _name of the country_ passed in as a parameter.<br>
+  Response for getCountryDetailsByName('india')
 
-  Response for `getCountryDetailsByName('india')`
+      	```javascript
+      	[
+      		{
+      			country: "india",
+      			capital: "new delhi",
+      			currency: "indian rupee",
+      			native_language: ["hindi", "english"],
+      			famous_for: "bollywood, yoga, hinduism, food and diversity",
+				phone_code: "+91",
+				flag: "https://flagpedia.net/data/flags/h80/in.png"  
+      		},
+      	];
+      	```
 
-	```javascript
-	[
-		{
-			country: "india",
-			capital: "new delhi",
-			currency: "indian rupee",
-			native_language: ["hindi", "english"],
-			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91"
-		},
-	];
-	```
+- **getCountryDetailsByCapital(capital)** <br>
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _capital_ .<br>
+  Response for getCountryDetailsByCapital('delhi')
 
-- **`getCountryDetailsByCapital(capital)`**
+      	```javascript
+      	[
+      		{
+      			country: "india",
+      			capital: "new delhi",
+      			currency: "indian rupee",
+      			native_language: ["hindi", "english"],
+      			famous_for: "bollywood, yoga, hinduism, food and diversity",
+				phone_code: "+91",
+				flag: "https://flagpedia.net/data/flags/h80/in.png"
+      		},
+      	];
+      	```
 
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency** and **native_language** filtered by the `capital`.
+- **getRandomCountry()** <br>
+  This method returns a random country everytime.
 
-  Response for `getCountryDetailsByCapital('delhi')`
+      	```bash
+      	» node app.js
+      	tuvalu
 
-	```javascript
-	[
-		{
-			country: "india",
-			capital: "new delhi",
-			currency: "indian rupee",
-			native_language: ["hindi", "english"],
-			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91"
-		},
-	];
-	```
+      	» node app.js
+      	bhutan
 
-- **`getRandomCountry()`**
+      	» node app.js
+      	saudi arabia
+      	```
 
-  This method returns a random country name everytime.
+      	***Note*** : *app.js is the file containing the function call.*
 
-	```bash
-	» node app.js
-	tuvalu
+- **getNRandomCountriesData(n)** <br>
+  This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag**.<br>
+  Sample response for n = 3
 
-	» node app.js
-	bhutan
+      	```javascript
+      	[
+      		{
+      			country: "burundi",
+      			capital: "bujumbura",
+      			currency: "burundi franc",
+      			native_language: ["kirundi", "french"],
+      			famous_for: "wildlife and greenery",
+				phone_code: "+257",
+				flag: "https://flagpedia.net/data/flags/h80/bi.png"
+      		},
+      		{
+      			country: "palau",
+      			capital: "melekeok",
+      			currency: "united states dollar",
+      			native_language: ["english", "palauan"],
+      			famous_for: "jellyfish lake",
+				phone_code: "+680",
+				flag: "https://flagpedia.net/data/flags/h80/pw.png"
+      		},
+      		{
+      			country: "dominican republic",
+      			capital: "santo domingo",
+      			currency: "dominican peso",
+      			native_language: ["spanish"],
+      			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
+				phone_code: "+1-809, +1-829, +1-849",
+				flag: "https://flagpedia.net/data/flags/h80/do.png"
+      		},
+      	];
+      	```
 
-	» node app.js
-	saudi arabia
-	```
+- **getCountriesByFamousFor(famousThing)** <br>
+  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, and **flag** sorted by the _famousThing_ passed as the parameter.<br>
+  Response for getCountriesByFamousFor('oil')
 
-	***Note*** : *app.js is the file containing the function call.*
+      	```javascript
+      	[
+      		{
+      			country: 'algeria',
+      			capital: 'algiers',
+      			currency: 'algerian dinar',
+      			native_language: ['arabic', 'tamazight', 'french'],
+      			famous_for: 'oil and gas reserves',
+				phone_code: '+213',
+				flag: "https://flagpedia.net/data/flags/h80/dz.png"
+      		},
+      		{
+      			country: 'angola',
+      			capital: 'luanda',
+      			currency: 'kwanza',
+      			native_language: ['portuguese'],
+      			famous_for: 'oil',
+				phone_code: '+244',
+				flag: "https://flagpedia.net/data/flags/h80/ao.png"
+      		},
+      		{
+      			country: 'bahrain',
+      			capital: 'manama',
+      			currency: 'bahraini dinar',
+      			native_language: ['arabic'],
+      			famous_for: 'oil, pearls and world heritage sites',
+				phone_code: '+973',
+				flag: "https://flagpedia.net/data/flags/h80/bh.png"
+      		},
+      		{
+      			country: 'bulgaria',
+      			capital: 'sofia',
+      			currency: 'lev',
+      			native_language: ['bulgarian'],
+      			famous_for: 'lavender oil and the rose valley',
+				phone_code: '+359',
+				flag: "https://flagpedia.net/data/flags/h80/bg.png"
+      		},
+      		{
+      			country: 'central african republic',
+      			capital: 'bangui',
+      			currency: 'central african cfa franc',
+      			native_language: ['sango', 'french'],
+      			famous_for: 'diamonds, gold, oil and uranium',
+				phone_code: '+236',
+				flag: "https://flagpedia.net/data/flags/h80/cf.png"
+      		},
+      		{
+      			country: 'norway',
+      			capital: 'oslo',
+      			currency: 'norwegian krone',
+      			native_language: ['norwegian'],
+      			famous_for: 'oil, fjords, mountains and midnight sun',
+				phone_code: '+47',
+				flag: "https://flagpedia.net/data/flags/h80/no.png"
+      		},
+      	];
+      	```
 
-- **`getNRandomCountriesData(count)`**
+### Example Use Cases
 
-  This method returns an array having **count** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, and **phone_code**.
+#### Example #1
 
-  Sample response for `getNRandomCountriesData(3)`
-
-	```javascript
-	[
-		{
-			country: "burundi",
-			capital: "bujumbura",
-			currency: "burundi franc",
-			native_language: ["kirundi", "french"],
-			famous_for: "wildlife and greenery",
-			phone_code: "+257"
-		},
-		{
-			country: "palau",
-			capital: "melekeok",
-			currency: "united states dollar",
-			native_language: ["english", "palauan"],
-			famous_for: "jellyfish lake",
-			phone_code: "+680"
-		},
-		{
-			country: "dominican republic",
-			capital: "santo domingo",
-			currency: "dominican peso",
-			native_language: ["spanish"],
-			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
-			phone_code: "+1-809, +1-829, +1-849"
-		},
-	];
-	```
-
-- **`getCountriesByFamousFor(famousThing)`**
-
-  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for** and **phone_code** filtered by the `famousThing` passed as the parameter.
-
-  Response for `getCountriesByFamousFor('oil')`
-
-	```javascript
-	[
-		{
-			country: 'algeria',
-			capital: 'algiers',
-			currency: 'algerian dinar',
-			native_language: ['arabic', 'tamazight', 'french'],
-			famous_for: 'oil and gas reserves',
-			phone_code: '+213'
-		},
-		{
-			country: 'angola',
-			capital: 'luanda',
-			currency: 'kwanza',
-			native_language: ['portuguese'],
-			famous_for: 'oil',
-			phone_code: '+244'
-		},
-		{
-			country: 'bahrain',
-			capital: 'manama',
-			currency: 'bahraini dinar',
-			native_language: ['arabic'],
-			famous_for: 'oil, pearls and world heritage sites',
-			phone_code: '+973'
-		},
-		{
-			country: 'bulgaria',
-			capital: 'sofia',
-			currency: 'lev',
-			native_language: ['bulgarian'],
-			famous_for: 'lavender oil and the rose valley',
-			phone_code: '+359'
-		},
-		{
-			country: 'central african republic',
-			capital: 'bangui',
-			currency: 'central african cfa franc',
-			native_language: ['sango', 'french'],
-			famous_for: 'diamonds, gold, oil and uranium',
-			phone_code: '+236'
-		},
-		{
-			country: 'norway',
-			capital: 'oslo',
-			currency: 'norwegian krone',
-			native_language: ['norwegian'],
-			famous_for: 'oil, fjords, mountains and midnight sun',
-			phone_code: '+47'
-		},
-	];
-	```
-
-## Example Use Cases
-
-### Example #1
 
 To fetch a random country.
 
