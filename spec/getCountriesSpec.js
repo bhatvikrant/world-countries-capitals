@@ -44,6 +44,12 @@ describe("The index", () => {
     });
   });
 
+  describe("The getCountriesByDriveDirection when given a country's drive direction", () => {
+    it("returns the countries that use this driving direction", () => {
+      expect(countryApi.getCountriesByDriveDirection("left").length).toBe(46);
+    });
+  });
+
   describe("The getCountriesByLanguage when given a language", () => {
     it("returns countries with that language being their native language", () => {
       expect(countryApi.getCountriesByLanguage("bosnian")[0]).toEqual({
