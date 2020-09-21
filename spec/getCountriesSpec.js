@@ -24,7 +24,7 @@ describe("The index", () => {
         famous_for: "rugs, taliban",
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
-        drive_direction: "drives on the right",
+        drive_direction: "right",
       });
     });
   });
@@ -39,7 +39,7 @@ describe("The index", () => {
         famous_for: "mother teresa",
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
-        drive_direction: "drives on the right",
+        drive_direction: "right",
       });
     });
   });
@@ -60,7 +60,7 @@ describe("The index", () => {
         famous_for: "natural environment and cultural heritage",
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
-        drive_direction: "drives on the right",
+        drive_direction: "right",
       });
     });
   });
