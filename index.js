@@ -85,10 +85,10 @@ const getCountriesByDriveDirection = (direction) => {
   let value;
   switch (direction) {
     case "left":
-      value = "drives on the left";
+      value = "left";
       break;
     case "right":
-      value = "drives on the right";
+      value = "right";
       break;
     default:
       throw new Error('direction must be "left" or "right"');
