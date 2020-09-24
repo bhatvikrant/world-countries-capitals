@@ -2,9 +2,11 @@ _Want to contribute to open source? Try solving our issues [here](https://github
 
 # world-countries-capitals
 
- A simple [npm](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
+A simple [npm](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
 
 ![world-countries-capitals](assets/world-countries-capitals.gif)
+
+[![Rate on Openbase](https://badges.openbase.io/js/rating/world-countries-capitals.svg)](https://openbase.io/js/world-countries-capitals?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
 [Demo](https://codesandbox.io/s/wcc-demo-tux1b)
 
@@ -27,11 +29,10 @@ Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-
 Before you can start using this package in your project, you need to import it. It can be imported as follows:
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 ```
 
 ## Usage
-
 
 This section contains information about various functions that are currently supported.
 
@@ -46,8 +47,8 @@ This section contains information about various functions that are currently sup
       			"currency": "afghani",
       			"native_language": ["dari persian", "pashto"],
       			"famous_for": "rugs, taliban",
-				"phone_code": "+93",
-				"flag": "https://flagpedia.net/data/flags/h80/af.png"
+      		"phone_code": "+93",
+      		"flag": "https://flagpedia.net/data/flags/h80/af.png"
       		},
       		{
       			"country": "albania",
@@ -55,8 +56,8 @@ This section contains information about various functions that are currently sup
       			"currency": "lek",
       			"native_language": ["albanian"],
       			"famous_for" : "mother teresa",
-				"phone_code": "+355",
-				"flag": "https://flagpedia.net/data/flags/h80/al.png"
+      		"phone_code": "+355",
+      		"flag": "https://flagpedia.net/data/flags/h80/al.png"
       		},
       		...
       	]
@@ -80,29 +81,28 @@ This section contains information about various functions that are currently sup
   This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _languageSpoken_ passed in as a parameter.<br>
   Response for getCountiesByLanguage('Hindi')
 
-
-    ```javascript
-    [
-    	{
-    		country: "fiji",
-    		capital: "suva",
-    		currency: "fijian dollar",
-    		native_language: ["english", "bau fijian", "hindi"],
-    		famous_for: "friendly people and heavenly tropical islands",
-			phone_code: "+679",
-			flag: "https://flagpedia.net/data/flags/h80/fj.png"
-    	},
-    	{
-    		country: "india",
-    		capital: "new delhi",
-    		currency: "indian rupee",
-    		native_language: ["hindi", "english"],
-    		famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91",
-			flag: "https://flagpedia.net/data/flags/h80/in.png"
-    	}
-    ];
-    ```
+  ```javascript
+  [
+  	{
+  		country: "fiji",
+  		capital: "suva",
+  		currency: "fijian dollar",
+  		native_language: ["english", "bau fijian", "hindi"],
+  		famous_for: "friendly people and heavenly tropical islands",
+  		phone_code: "+679",
+  		flag: "https://flagpedia.net/data/flags/h80/fj.png",
+  	},
+  	{
+  		country: "india",
+  		capital: "new delhi",
+  		currency: "indian rupee",
+  		native_language: ["hindi", "english"],
+  		famous_for: "bollywood, yoga, hinduism, food and diversity",
+  		phone_code: "+91",
+  		flag: "https://flagpedia.net/data/flags/h80/in.png",
+  	},
+  ];
+  ```
 
 - **getCountryDetailsByName(countryName)** <br>
   This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _name of the country_ passed in as a parameter.<br>
@@ -116,8 +116,8 @@ This section contains information about various functions that are currently sup
       			currency: "indian rupee",
       			native_language: ["hindi", "english"],
       			famous_for: "bollywood, yoga, hinduism, food and diversity",
-				phone_code: "+91",
-				flag: "https://flagpedia.net/data/flags/h80/in.png"  
+      		phone_code: "+91",
+      		flag: "https://flagpedia.net/data/flags/h80/in.png"
       		},
       	];
       	```
@@ -134,8 +134,8 @@ This section contains information about various functions that are currently sup
       			currency: "indian rupee",
       			native_language: ["hindi", "english"],
       			famous_for: "bollywood, yoga, hinduism, food and diversity",
-				phone_code: "+91",
-				flag: "https://flagpedia.net/data/flags/h80/in.png"
+      		phone_code: "+91",
+      		flag: "https://flagpedia.net/data/flags/h80/in.png"
       		},
       	];
       	```
@@ -168,8 +168,8 @@ This section contains information about various functions that are currently sup
       			currency: "burundi franc",
       			native_language: ["kirundi", "french"],
       			famous_for: "wildlife and greenery",
-				phone_code: "+257",
-				flag: "https://flagpedia.net/data/flags/h80/bi.png"
+      		phone_code: "+257",
+      		flag: "https://flagpedia.net/data/flags/h80/bi.png"
       		},
       		{
       			country: "palau",
@@ -177,8 +177,8 @@ This section contains information about various functions that are currently sup
       			currency: "united states dollar",
       			native_language: ["english", "palauan"],
       			famous_for: "jellyfish lake",
-				phone_code: "+680",
-				flag: "https://flagpedia.net/data/flags/h80/pw.png"
+      		phone_code: "+680",
+      		flag: "https://flagpedia.net/data/flags/h80/pw.png"
       		},
       		{
       			country: "dominican republic",
@@ -186,8 +186,8 @@ This section contains information about various functions that are currently sup
       			currency: "dominican peso",
       			native_language: ["spanish"],
       			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
-				phone_code: "+1-809, +1-829, +1-849",
-				flag: "https://flagpedia.net/data/flags/h80/do.png"
+      		phone_code: "+1-809, +1-829, +1-849",
+      		flag: "https://flagpedia.net/data/flags/h80/do.png"
       		},
       	];
       	```
@@ -204,8 +204,8 @@ This section contains information about various functions that are currently sup
       			currency: 'algerian dinar',
       			native_language: ['arabic', 'tamazight', 'french'],
       			famous_for: 'oil and gas reserves',
-				phone_code: '+213',
-				flag: "https://flagpedia.net/data/flags/h80/dz.png"
+      		phone_code: '+213',
+      		flag: "https://flagpedia.net/data/flags/h80/dz.png"
       		},
       		{
       			country: 'angola',
@@ -213,8 +213,8 @@ This section contains information about various functions that are currently sup
       			currency: 'kwanza',
       			native_language: ['portuguese'],
       			famous_for: 'oil',
-				phone_code: '+244',
-				flag: "https://flagpedia.net/data/flags/h80/ao.png"
+      		phone_code: '+244',
+      		flag: "https://flagpedia.net/data/flags/h80/ao.png"
       		},
       		{
       			country: 'bahrain',
@@ -222,8 +222,8 @@ This section contains information about various functions that are currently sup
       			currency: 'bahraini dinar',
       			native_language: ['arabic'],
       			famous_for: 'oil, pearls and world heritage sites',
-				phone_code: '+973',
-				flag: "https://flagpedia.net/data/flags/h80/bh.png"
+      		phone_code: '+973',
+      		flag: "https://flagpedia.net/data/flags/h80/bh.png"
       		},
       		{
       			country: 'bulgaria',
@@ -231,8 +231,8 @@ This section contains information about various functions that are currently sup
       			currency: 'lev',
       			native_language: ['bulgarian'],
       			famous_for: 'lavender oil and the rose valley',
-				phone_code: '+359',
-				flag: "https://flagpedia.net/data/flags/h80/bg.png"
+      		phone_code: '+359',
+      		flag: "https://flagpedia.net/data/flags/h80/bg.png"
       		},
       		{
       			country: 'central african republic',
@@ -240,8 +240,8 @@ This section contains information about various functions that are currently sup
       			currency: 'central african cfa franc',
       			native_language: ['sango', 'french'],
       			famous_for: 'diamonds, gold, oil and uranium',
-				phone_code: '+236',
-				flag: "https://flagpedia.net/data/flags/h80/cf.png"
+      		phone_code: '+236',
+      		flag: "https://flagpedia.net/data/flags/h80/cf.png"
       		},
       		{
       			country: 'norway',
@@ -249,8 +249,8 @@ This section contains information about various functions that are currently sup
       			currency: 'norwegian krone',
       			native_language: ['norwegian'],
       			famous_for: 'oil, fjords, mountains and midnight sun',
-				phone_code: '+47',
-				flag: "https://flagpedia.net/data/flags/h80/no.png"
+      		phone_code: '+47',
+      		flag: "https://flagpedia.net/data/flags/h80/no.png"
       		},
       	];
       	```
@@ -259,11 +259,10 @@ This section contains information about various functions that are currently sup
 
 #### Example #1
 
-
 To fetch a random country.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
 console.log(wcc.getRandomCountry());
 ```
@@ -273,7 +272,7 @@ console.log(wcc.getRandomCountry());
 To get `count` random countries.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
 console.log(wcc.getNRandomCountriesData(3));
 ```
@@ -283,9 +282,9 @@ console.log(wcc.getNRandomCountriesData(3));
 To fetch country by capital.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
-console.log(wcc.getCountryDetailsByCapital('delhi'));
+console.log(wcc.getCountryDetailsByCapital("delhi"));
 ```
 
 **Note :** the name of the capital (in this case, 'delhi') is **not** case sensitive and can be uppercase or lowercase and the response will remain the same.
@@ -295,9 +294,9 @@ console.log(wcc.getCountryDetailsByCapital('delhi'));
 Get details of a country with its name.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
-console.log(wcc.getCountryDetailsByName('India'));
+console.log(wcc.getCountryDetailsByName("India"));
 ```
 
 **Note :** the name of the country (in this case, 'India') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
@@ -307,9 +306,9 @@ console.log(wcc.getCountryDetailsByName('India'));
 Fetch the details of country, with language.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
-console.log(wcc.getCountiesByLanguage('hindi'));
+console.log(wcc.getCountiesByLanguage("hindi"));
 ```
 
 **Note :** the language (in this case, 'hindi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
@@ -319,7 +318,7 @@ console.log(wcc.getCountiesByLanguage('hindi'));
 Fetch all countries' details.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
 console.log(wcc.getAllCountryDetails());
 ```
@@ -329,7 +328,7 @@ console.log(wcc.getAllCountryDetails());
 Get all the names of all countries.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
 console.log(wcc.getAllCountries());
 ```
@@ -339,9 +338,9 @@ console.log(wcc.getAllCountries());
 Get the details of all countries that are famous for '_something_'.
 
 ```javascript
-const wcc = require('world-countries-capitals');
+const wcc = require("world-countries-capitals");
 
-console.log(wcc.getCountriesByFamousFor('oil'));
+console.log(wcc.getCountriesByFamousFor("oil"));
 ```
 
 ## Demo
