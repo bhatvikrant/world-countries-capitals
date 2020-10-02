@@ -8,13 +8,13 @@
     "phone_code": "+93",
     "flag": "https://flagpedia.net/data/flags/h80/af.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "004",
-      "alpha_2": "AF",
-      "alpha_3": "AFG"
+      "alpha_2": "af",
+      "alpha_3": "afg"
     },
-    "ccTLD": ".af"
+    "cctld": ".af"
   },
   {
     "country": "albania",
@@ -25,13 +25,13 @@
     "phone_code": "+355",
     "flag": "https://flagpedia.net/data/flags/h80/al.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "008",
-      "alpha_2": "AL",
-      "alpha_3": "ALB"
+      "alpha_2": "al",
+      "alpha_3": "alb"
     },
-    "ccTLD": ".al"
+    "cctld": ".al"
   },
   {
     "country": "algeria",
@@ -42,13 +42,13 @@
     "phone_code": "+213",
     "flag": "https://flagpedia.net/data/flags/h80/dz.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "012",
-      "alpha_2": "DZ",
-      "alpha_3": "DZA"
+      "alpha_2": "dz",
+      "alpha_3": "dza"
     },
-    "ccTLD": ".dz"
+    "cctld": ".dz"
   },
   {
     "country": "andorra",
@@ -59,13 +59,13 @@
     "phone_code": "+376",
     "flag": "https://flagpedia.net/data/flags/h80/ad.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "020",
-      "alpha_2": "AD",
-      "alpha_3": "AND"
+      "alpha_2": "ad",
+      "alpha_3": "and"
     },
-    "ccTLD": ".ad"
+    "cctld": ".ad"
   },
   {
     "country": "angola",
@@ -76,13 +76,13 @@
     "phone_code": "+244",
     "flag": "https://flagpedia.net/data/flags/h80/ao.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "024",
-      "alpha_2": "AO",
-      "alpha_3": "AGO"
+      "alpha_2": "ao",
+      "alpha_3": "ago"
     },
-    "ccTLD": ".ao"
+    "cctld": ".ao"
   },
   {
     "country": "antigua & barbuda",
@@ -93,30 +93,30 @@
     "phone_code": "+1-268",
     "flag": "https://flagpedia.net/data/flags/h80/ag.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "028",
-      "alpha_2": "AG",
-      "alpha_3": "ATG"
+      "alpha_2": "ag",
+      "alpha_3": "atg"
     },
-    "ccTLD": ".ag"
+    "cctld": ".ag"
   },
   {
     "country": "argentina",
     "capital": "buenos aires",
     "currency": "argentine peso",
     "native_language": ["spanish"],
-    "famous_for": "Football",
+    "famous_for": "football",
     "phone_code": "+54",
     "flag": "https://flagpedia.net/data/flags/h80/ar.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "032",
-      "alpha_2": "AR",
-      "alpha_3": "ARG"
+      "alpha_2": "ar",
+      "alpha_3": "arg"
     },
-    "ccTLD": ".ar"
+    "cctld": ".ar"
   },
   {
     "country": "armenia",
@@ -127,13 +127,13 @@
     "phone_code": "+374",
     "flag": "https://flagpedia.net/data/flags/h80/am.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "051",
-      "alpha_2": "AM",
-      "alpha_3": "ARM"
+      "alpha_2": "am",
+      "alpha_3": "arm"
     },
-    "ccTLD": ".am"
+    "cctld": ".am"
   },
   {
     "country": "australia",
@@ -144,13 +144,13 @@
     "phone_code": "+61",
     "flag": "https://flagpedia.net/data/flags/h80/au.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "036",
-      "alpha_2": "AU",
-      "alpha_3": "AUS"
+      "alpha_2": "au",
+      "alpha_3": "aus"
     },
-    "ccTLD": ".au"
+    "cctld": ".au"
   },
   {
     "country": "austria",
@@ -161,13 +161,13 @@
     "phone_code": "+43",
     "flag": "https://flagpedia.net/data/flags/h80/at.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "040",
-      "alpha_2": "AT",
-      "alpha_3": "AUT"
+      "alpha_2": "at",
+      "alpha_3": "aut"
     },
-    "ccTLD": ".at"
+    "cctld": ".at"
   },
   {
     "country": "azerbaijan",
@@ -178,13 +178,13 @@
     "phone_code": "+994",
     "flag": "https://flagpedia.net/data/flags/h80/az.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "031",
-      "alpha_2": "AZ",
-      "alpha_3": "AZE"
+      "alpha_2": "az",
+      "alpha_3": "aze"
     },
-    "ccTLD": ".az"
+    "cctld": ".az"
   },
   {
     "country": "the bahamas",
@@ -195,13 +195,13 @@
     "phone_code": "+1-242",
     "flag": "https://flagpedia.net/data/flags/h80/bs.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "044",
-      "alpha_2": "BS",
-      "alpha_3": "BHS"
+      "alpha_2": "bs",
+      "alpha_3": "bhs"
     },
-    "ccTLD": ".bs"
+    "cctld": ".bs"
   },
   {
     "country": "bahrain",
@@ -212,13 +212,13 @@
     "phone_code": "+973",
     "flag": "https://flagpedia.net/data/flags/h80/bh.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "048",
-      "alpha_2": "BH",
-      "alpha_3": "BHR"
+      "alpha_2": "bh",
+      "alpha_3": "bhr"
     },
-    "ccTLD": ".bh"
+    "cctld": ".bh"
   },
   {
     "country": "bangladesh",
@@ -229,13 +229,13 @@
     "phone_code": "+880",
     "flag": "https://flagpedia.net/data/flags/h80/bd.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "050",
-      "alpha_2": "BD",
-      "alpha_3": "BGD"
+      "alpha_2": "bd",
+      "alpha_3": "bgd"
     },
-    "ccTLD": ".bd"
+    "cctld": ".bd"
   },
   {
     "country": "barbados",
@@ -246,30 +246,30 @@
     "phone_code": "+1-246",
     "flag": "https://flagpedia.net/data/flags/h80/bb.png",
     "drive_direction": "left",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "052",
-      "alpha_2": "BB",
-      "alpha_3": "BRB"
+      "alpha_2": "bb",
+      "alpha_3": "brb"
     },
-    "ccTLD": ".bb"
+    "cctld": ".bb"
   },
   {
     "country": "belarus",
     "capital": "minsk",
     "currency": "belarusian ruble",
     "native_language": ["belarusian", "russian"],
-    "famous_for": "Variety of sweets",
+    "famous_for": "variety of sweets",
     "phone_code": "+375",
     "flag": "https://flagpedia.net/data/flags/h80/by.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "112",
-      "alpha_2": "BY",
-      "alpha_3": "BLR"
+      "alpha_2": "by",
+      "alpha_3": "blr"
     },
-    "ccTLD": ".by"
+    "cctld": ".by"
   },
   {
     "country": "belgium",
@@ -280,13 +280,13 @@
     "phone_code": "+32",
     "flag": "https://flagpedia.net/data/flags/h80/be.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "056",
-      "alpha_2": "BE",
-      "alpha_3": "BEL"
+      "alpha_2": "be",
+      "alpha_3": "bel"
     },
-    "ccTLD": ".be"
+    "cctld": ".be"
   },
   {
     "country": "belize",
@@ -297,13 +297,13 @@
     "phone_code": "+501",
     "flag": "https://flagpedia.net/data/flags/h80/bz.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "084",
-      "alpha_2": "BZ",
-      "alpha_3": "BLZ"
+      "alpha_2": "bz",
+      "alpha_3": "blz"
     },
-    "ccTLD": ".bz"
+    "cctld": ".bz"
   },
   {
     "country": "benin",
@@ -314,13 +314,13 @@
     "phone_code": "+229",
     "flag": "https://flagpedia.net/data/flags/h80/bj.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "204",
-      "alpha_2": "BJ",
-      "alpha_3": "BEN"
+      "alpha_2": "bj",
+      "alpha_3": "ben"
     },
-    "ccTLD": ".bj"
+    "cctld": ".bj"
   },
   {
     "country": "bhutan",
@@ -331,13 +331,13 @@
     "phone_code": "+975",
     "flag": "https://flagpedia.net/data/flags/h80/bt.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "064",
-      "alpha_2": "BT",
-      "alpha_3": "BTN"
+      "alpha_2": "bt",
+      "alpha_3": "btn"
     },
-    "ccTLD": ".bt"
+    "cctld": ".bt"
   },
   {
     "country": "bolivia",
@@ -348,13 +348,13 @@
     "phone_code": "+591",
     "flag": "https://flagpedia.net/data/flags/h80/bo.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "068",
-      "alpha_2": "BO",
-      "alpha_3": "BOL"
+      "alpha_2": "bo",
+      "alpha_3": "bol"
     },
-    "ccTLD": ".bo"
+    "cctld": ".bo"
   },
   {
     "country": "bosnia and herzegovina",
@@ -365,13 +365,13 @@
     "phone_code": "+387",
     "flag": "https://flagpedia.net/data/flags/h80/ba.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "070",
-      "alpha_2": "BA",
-      "alpha_3": "BIH"
+      "alpha_2": "ba",
+      "alpha_3": "bih"
     },
-    "ccTLD": ".ba"
+    "cctld": ".ba"
   },
   {
     "country": "botswana",
@@ -382,13 +382,13 @@
     "phone_code": "+267",
     "flag": "https://flagpedia.net/data/flags/h80/bw.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "072",
-      "alpha_2": "BW",
-      "alpha_3": "BWA"
+      "alpha_2": "bw",
+      "alpha_3": "bwa"
     },
-    "ccTLD": ".bw"
+    "cctld": ".bw"
   },
   {
     "country": "brazil",
@@ -399,13 +399,13 @@
     "phone_code": "+55",
     "flag": "https://flagpedia.net/data/flags/h80/br.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "076",
-      "alpha_2": "BR",
-      "alpha_3": "BRA"
+      "alpha_2": "br",
+      "alpha_3": "bra"
     },
-    "ccTLD": ".br"
+    "cctld": ".br"
   },
   {
     "country": "brunei",
@@ -416,13 +416,13 @@
     "phone_code": "+673",
     "flag": "https://flagpedia.net/data/flags/h80/bn.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "096",
-      "alpha_2": "BN",
-      "alpha_3": "BRN"
+      "alpha_2": "bn",
+      "alpha_3": "brn"
     },
-    "ccTLD": ".bn"
+    "cctld": ".bn"
   },
   {
     "country": "bulgaria",
@@ -433,13 +433,13 @@
     "phone_code": "+359",
     "flag": "https://flagpedia.net/data/flags/h80/bg.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "100",
-      "alpha_2": "BG",
-      "alpha_3": "BGR"
+      "alpha_2": "bg",
+      "alpha_3": "bgr"
     },
-    "ccTLD": ".bg"
+    "cctld": ".bg"
   },
   {
     "country": "burkina faso",
@@ -450,13 +450,13 @@
     "phone_code": "+226",
     "flag": "https://flagpedia.net/data/flags/h80/bf.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "854",
-      "alpha_2": "BF",
-      "alpha_3": "BFA"
+      "alpha_2": "bf",
+      "alpha_3": "bfa"
     },
-    "ccTLD": ".bf"
+    "cctld": ".bf"
   },
   {
     "country": "burundi",
@@ -467,13 +467,13 @@
     "phone_code": "+257",
     "flag": "https://flagpedia.net/data/flags/h80/bi.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "108",
-      "alpha_2": "BI",
-      "alpha_3": "BDI"
+      "alpha_2": "bi",
+      "alpha_3": "bdi"
     },
-    "ccTLD": ".bi"
+    "cctld": ".bi"
   },
   {
     "country": "cambodia",
@@ -484,13 +484,13 @@
     "phone_code": "+855",
     "flag": "https://flagpedia.net/data/flags/h80/kh.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "116",
-      "alpha_2": "KH",
-      "alpha_3": "KHM"
+      "alpha_2": "kh",
+      "alpha_3": "khm"
     },
-    "ccTLD": ".kh"
+    "cctld": ".kh"
   },
   {
     "country": "cameroon",
@@ -501,13 +501,13 @@
     "phone_code": "+237",
     "flag": "https://flagpedia.net/data/flags/h80/cm.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "120",
-      "alpha_2": "CM",
-      "alpha_3": "CMR"
+      "alpha_2": "cm",
+      "alpha_3": "cmr"
     },
-    "ccTLD": ".cm"
+    "cctld": ".cm"
   },
   {
     "country": "canada",
@@ -518,13 +518,13 @@
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/ca.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "124",
-      "alpha_2": "CA",
-      "alpha_3": "CAN"
+      "alpha_2": "ca",
+      "alpha_3": "can"
     },
-    "ccTLD": ".ca"
+    "cctld": ".ca"
   },
   {
     "country": "cape verde",
@@ -535,13 +535,13 @@
     "phone_code": "+238",
     "flag": "https://flagpedia.net/data/flags/h80/cv.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "132",
-      "alpha_2": "CV",
-      "alpha_3": "CPV"
+      "alpha_2": "cv",
+      "alpha_3": "cpv"
     },
-    "ccTLD": ".cv"
+    "cctld": ".cv"
   },
   {
     "country": "central african republic",
@@ -552,13 +552,13 @@
     "phone_code": "+236",
     "flag": "https://flagpedia.net/data/flags/h80/cf.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "140",
-      "alpha_2": "CF",
-      "alpha_3": "CAF"
+      "alpha_2": "cf",
+      "alpha_3": "caf"
     },
-    "ccTLD": ".cf"
+    "cctld": ".cf"
   },
   {
     "country": "chad",
@@ -569,13 +569,13 @@
     "phone_code": "+235",
     "flag": "https://flagpedia.net/data/flags/h80/td.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "148",
-      "alpha_2": "TD",
-      "alpha_3": "TCD"
+      "alpha_2": "td",
+      "alpha_3": "tcd"
     },
-    "ccTLD": ".td"
+    "cctld": ".td"
   },
   {
     "country": "chile",
@@ -586,13 +586,13 @@
     "phone_code": "+56",
     "flag": "https://flagpedia.net/data/flags/h80/cl.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "152",
-      "alpha_2": "CL",
-      "alpha_3": "CHL"
+      "alpha_2": "cl",
+      "alpha_3": "chl"
     },
-    "ccTLD": ".cl"
+    "cctld": ".cl"
   },
   {
     "country": "china",
@@ -603,13 +603,13 @@
     "phone_code": "+86",
     "flag": "https://flagpedia.net/data/flags/h80/cn.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "156",
-      "alpha_2": "CN",
-      "alpha_3": "CHN"
+      "alpha_2": "cn",
+      "alpha_3": "chn"
     },
-    "ccTLD": ".cn"
+    "cctld": ".cn"
   },
   {
     "country": "colombia",
@@ -620,13 +620,13 @@
     "phone_code": "+57",
     "flag": "https://flagpedia.net/data/flags/h80/co.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "170",
-      "alpha_2": "CO",
-      "alpha_3": "COL"
+      "alpha_2": "co",
+      "alpha_3": "col"
     },
-    "ccTLD": ".co"
+    "cctld": ".co"
   },
   {
     "country": "comoros",
@@ -637,13 +637,13 @@
     "phone_code": "+269",
     "flag": "https://flagpedia.net/data/flags/h80/km.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "174",
-      "alpha_2": "KM",
-      "alpha_3": "COM"
+      "alpha_2": "km",
+      "alpha_3": "com"
     },
-    "ccTLD": ".km"
+    "cctld": ".km"
   },
   {
     "country": "democratic republic of the congo",
@@ -654,13 +654,13 @@
     "phone_code": "+243",
     "flag": "https://flagpedia.net/data/flags/h80/dr.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "180",
-      "alpha_2": "CD",
-      "alpha_3": "COD"
+      "alpha_2": "cd",
+      "alpha_3": "cod"
     },
-    "ccTLD": ".cd"
+    "cctld": ".cd"
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -671,13 +671,13 @@
     "phone_code": "+242",
     "flag": "https://flagpedia.net/data/flags/h80/cg.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "178",
-      "alpha_2": "CG",
-      "alpha_3": "COG"
+      "alpha_2": "cg",
+      "alpha_3": "cog"
     },
-    "ccTLD": ".cg"
+    "cctld": ".cg"
   },
   {
     "country": "costa rica",
@@ -688,13 +688,13 @@
     "phone_code": "+506",
     "flag": "https://flagpedia.net/data/flags/h80/cr.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "188",
-      "alpha_2": "CR",
-      "alpha_3": "CRI"
+      "alpha_2": "cr",
+      "alpha_3": "cri"
     },
-    "ccTLD": ".cr"
+    "cctld": ".cr"
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -705,13 +705,13 @@
     "phone_code": "+225",
     "flag": "https://flagpedia.net/data/flags/h80/ci.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "384",
-      "alpha_2": "CI",
-      "alpha_3": "CIV"
+      "alpha_2": "ci",
+      "alpha_3": "civ"
     },
-    "ccTLD": ".ci"
+    "cctld": ".ci"
   },
   {
     "country": "croatia",
@@ -722,13 +722,13 @@
     "phone_code": "+385",
     "flag": "https://flagpedia.net/data/flags/h80/hr.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "191",
-      "alpha_2": "HR",
-      "alpha_3": "HRV"
+      "alpha_2": "hr",
+      "alpha_3": "hrv"
     },
-    "ccTLD": ".hr"
+    "cctld": ".hr"
   },
   {
     "country": "cuba",
@@ -739,13 +739,13 @@
     "phone_code": "+53",
     "flag": "https://flagpedia.net/data/flags/h80/cu.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "192",
-      "alpha_2": "CU",
-      "alpha_3": "CUB"
+      "alpha_2": "cu",
+      "alpha_3": "cub"
     },
-    "ccTLD": ".cu"
+    "cctld": ".cu"
   },
   {
     "country": "cyprus",
@@ -756,13 +756,13 @@
     "phone_code": "+357",
     "flag": "https://flagpedia.net/data/flags/h80/cy.png",
     "drive_direction": "left",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "196",
-      "alpha_2": "CY",
-      "alpha_3": "CYP"
+      "alpha_2": "cy",
+      "alpha_3": "cyp"
     },
-    "ccTLD": ".cy"
+    "cctld": ".cy"
   },
   {
     "country": "czechia",
@@ -773,13 +773,13 @@
     "phone_code": "+420",
     "flag": "https://flagpedia.net/data/flags/h80/cz.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "203",
-      "alpha_2": "CZ",
-      "alpha_3": "CZE"
+      "alpha_2": "cz",
+      "alpha_3": "cze"
     },
-    "ccTLD": ".cz"
+    "cctld": ".cz"
   },
   {
     "country": "denmark",
@@ -790,13 +790,13 @@
     "phone_code": "+45",
     "flag": "https://flagpedia.net/data/flags/h80/dk.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "208",
-      "alpha_2": "DK",
-      "alpha_3": "DNK"
+      "alpha_2": "dk",
+      "alpha_3": "dnk"
     },
-    "ccTLD": ".dk"
+    "cctld": ".dk"
   },
   {
     "country": "djibouti",
@@ -807,13 +807,13 @@
     "phone_code": "+253",
     "flag": "https://flagpedia.net/data/flags/h80/dj.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "262",
-      "alpha_2": "DJ",
-      "alpha_3": "DJI"
+      "alpha_2": "dj",
+      "alpha_3": "dji"
     },
-    "ccTLD": ".dj"
+    "cctld": ".dj"
   },
   {
     "country": "dominica",
@@ -824,13 +824,13 @@
     "phone_code": "+1-767",
     "flag": "https://flagpedia.net/data/flags/h80/dm.png",
     "drive_direction": "left",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "212",
-      "alpha_2": "DM",
-      "alpha_3": "DMA"
+      "alpha_2": "dm",
+      "alpha_3": "dma"
     },
-    "ccTLD": ".dm"
+    "cctld": ".dm"
   },
   {
     "country": "dominican republic",
@@ -841,13 +841,13 @@
     "phone_code": "+1-809, +1-829, +1-849",
     "flag": "https://flagpedia.net/data/flags/h80/do.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "214",
-      "alpha_2": "DO",
-      "alpha_3": "DOM"
+      "alpha_2": "do",
+      "alpha_3": "dom"
     },
-    "ccTLD": ".do"
+    "cctld": ".do"
   },
   {
     "country": "east timor (timor-leste)",
@@ -858,13 +858,13 @@
     "phone_code": "+670",
     "flag": "https://flagpedia.net/data/flags/h80/tl.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "626",
-      "alpha_2": "TL",
-      "alpha_3": "TLS"
+      "alpha_2": "tl",
+      "alpha_3": "tls"
     },
-    "ccTLD": ".tl"
+    "cctld": ".tl"
   },
   {
     "country": "ecuador",
@@ -875,13 +875,13 @@
     "phone_code": "+593",
     "flag": "https://flagpedia.net/data/flags/h80/ec.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "218",
-      "alpha_2": "EC",
-      "alpha_3": "ECU"
+      "alpha_2": "ec",
+      "alpha_3": "ecu"
     },
-    "ccTLD": ".ec"
+    "cctld": ".ec"
   },
   {
     "country": "egypt",
@@ -892,13 +892,13 @@
     "phone_code": "+20",
     "flag": "https://flagpedia.net/data/flags/h80/eg.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "818",
-      "alpha_2": "EG",
-      "alpha_3": "EGY"
+      "alpha_2": "eg",
+      "alpha_3": "egy"
     },
-    "ccTLD": ".eg"
+    "cctld": ".eg"
   },
   {
     "country": "el salvador",
@@ -909,13 +909,13 @@
     "phone_code": "+503",
     "flag": "https://flagpedia.net/data/flags/h80/sv.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "222",
-      "alpha_2": "SV",
-      "alpha_3": "SLV"
+      "alpha_2": "sv",
+      "alpha_3": "slv"
     },
-    "ccTLD": ".sv"
+    "cctld": ".sv"
   },
   {
     "country": "equitorial guinea",
@@ -926,13 +926,13 @@
     "phone_code": "+240",
     "flag": "https://flagpedia.net/data/flags/h80/gq.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "226",
-      "alpha_2": "GQ",
-      "alpha_3": "GNQ"
+      "alpha_2": "gq",
+      "alpha_3": "gnq"
     },
-    "ccTLD": ".gq"
+    "cctld": ".gq"
   },
   {
     "country": "eritrea",
@@ -943,13 +943,13 @@
     "phone_code": "+291",
     "flag": "https://flagpedia.net/data/flags/h80/er.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "232",
-      "alpha_2": "ER",
-      "alpha_3": "ERI"
+      "alpha_2": "er",
+      "alpha_3": "eri"
     },
-    "ccTLD": ".er"
+    "cctld": ".er"
   },
   {
     "country": "estonia",
@@ -960,13 +960,13 @@
     "phone_code": "+372",
     "flag": "https://flagpedia.net/data/flags/h80/ee.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "233",
-      "alpha_2": "EE",
-      "alpha_3": "EST"
+      "alpha_2": "ee",
+      "alpha_3": "est"
     },
-    "ccTLD": ".ee"
+    "cctld": ".ee"
   },
   {
     "country": "ethiopia",
@@ -977,13 +977,13 @@
     "phone_code": "+251",
     "flag": "https://flagpedia.net/data/flags/h80/et.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "231",
-      "alpha_2": "ET",
-      "alpha_3": "ETH"
+      "alpha_2": "et",
+      "alpha_3": "eth"
     },
-    "ccTLD": ".et"
+    "cctld": ".et"
   },
   {
     "country": "fiji",
@@ -994,13 +994,13 @@
     "phone_code": "+679",
     "flag": "https://flagpedia.net/data/flags/h80/fj.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "242",
-      "alpha_2": "FJ",
-      "alpha_3": "FJI"
+      "alpha_2": "fj",
+      "alpha_3": "fji"
     },
-    "ccTLD": ".fj"
+    "cctld": ".fj"
   },
   {
     "country": "finland",
@@ -1011,13 +1011,13 @@
     "phone_code": "+358",
     "flag": "https://flagpedia.net/data/flags/h80/fi.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "246",
-      "alpha_2": "FI",
-      "alpha_3": "FIN"
+      "alpha_2": "fi",
+      "alpha_3": "fin"
     },
-    "ccTLD": ".fi"
+    "cctld": ".fi"
   },
   {
     "country": "france",
@@ -1028,13 +1028,13 @@
     "phone_code": "+33",
     "flag": "https://flagpedia.net/data/flags/h80/fr.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "250",
-      "alpha_2": "FR",
-      "alpha_3": "FRA"
+      "alpha_2": "fr",
+      "alpha_3": "fra"
     },
-    "ccTLD": ".fr"
+    "cctld": ".fr"
   },
   {
     "country": "gabon",
@@ -1045,13 +1045,13 @@
     "phone_code": "+241",
     "flag": "https://flagpedia.net/data/flags/h80/ga.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "266",
-      "alpha_2": "GA",
-      "alpha_3": "GAB"
+      "alpha_2": "ga",
+      "alpha_3": "gab"
     },
-    "ccTLD": ".ga"
+    "cctld": ".ga"
   },
   {
     "country": "the gambia",
@@ -1062,13 +1062,13 @@
     "phone_code": "+220",
     "flag": "https://flagpedia.net/data/flags/h80/gm.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "270",
-      "alpha_2": "GM",
-      "alpha_3": "GMB"
+      "alpha_2": "gm",
+      "alpha_3": "gmb"
     },
-    "ccTLD": ".gm"
+    "cctld": ".gm"
   },
   {
     "country": "georgia",
@@ -1079,13 +1079,13 @@
     "phone_code": "+995",
     "flag": "https://flagpedia.net/data/flags/h80/ge.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "268",
-      "alpha_2": "GE",
-      "alpha_3": "GEO"
+      "alpha_2": "ge",
+      "alpha_3": "geo"
     },
-    "ccTLD": ".ge"
+    "cctld": ".ge"
   },
   {
     "country": "germany",
@@ -1096,13 +1096,13 @@
     "phone_code": "+49",
     "flag": "https://flagpedia.net/data/flags/h80/de.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "276",
-      "alpha_2": "DE",
-      "alpha_3": "DEU"
+      "alpha_2": "de",
+      "alpha_3": "deu"
     },
-    "ccTLD": ".de"
+    "cctld": ".de"
   },
   {
     "country": "ghana",
@@ -1113,13 +1113,13 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/gh.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "288",
-      "alpha_2": "GH",
-      "alpha_3": "GHA"
+      "alpha_2": "gh",
+      "alpha_3": "gha"
     },
-    "ccTLD": ".gh"
+    "cctld": ".gh"
   },
   {
     "country": "greece",
@@ -1130,13 +1130,13 @@
     "phone_code": "+30",
     "flag": "https://flagpedia.net/data/flags/h80/gr.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "300",
-      "alpha_2": "GR",
-      "alpha_3": "GRC"
+      "alpha_2": "gr",
+      "alpha_3": "grc"
     },
-    "ccTLD": ".gr"
+    "cctld": ".gr"
   },
   {
     "country": "grenada",
@@ -1147,13 +1147,13 @@
     "phone_code": "+1-473",
     "flag": "https://flagpedia.net/data/flags/h80/gd.png",
     "drive_direction": "left",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "308",
-      "alpha_2": "GD",
-      "alpha_3": "GRD"
+      "alpha_2": "gd",
+      "alpha_3": "grd"
     },
-    "ccTLD": ".gd"
+    "cctld": ".gd"
   },
   {
     "country": "guatemala",
@@ -1164,13 +1164,13 @@
     "phone_code": "+502",
     "flag": "https://flagpedia.net/data/flags/h80/gt.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "320",
-      "alpha_2": "GT",
-      "alpha_3": "GTM"
+      "alpha_2": "gt",
+      "alpha_3": "gtm"
     },
-    "ccTLD": ".gt"
+    "cctld": ".gt"
   },
   {
     "country": "guinea",
@@ -1181,13 +1181,13 @@
     "phone_code": "+224",
     "flag": "https://flagpedia.net/data/flags/h80/gn.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "324",
-      "alpha_2": "GN",
-      "alpha_3": "GIN"
+      "alpha_2": "gn",
+      "alpha_3": "gin"
     },
-    "ccTLD": ".gn"
+    "cctld": ".gn"
   },
   {
     "country": "guinea-bissau",
@@ -1198,13 +1198,13 @@
     "phone_code": "+245",
     "flag": "https://flagpedia.net/data/flags/h80/gw.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "624",
-      "alpha_2": "GW",
-      "alpha_3": "GNB"
+      "alpha_2": "gw",
+      "alpha_3": "gnb"
     },
-    "ccTLD": ".gw"
+    "cctld": ".gw"
   },
   {
     "country": "guyana",
@@ -1215,13 +1215,13 @@
     "phone_code": "+592",
     "flag": "https://flagpedia.net/data/flags/h80/gy.png",
     "drive_direction": "left",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "328",
-      "alpha_2": "GY",
-      "alpha_3": "GUY"
+      "alpha_2": "gy",
+      "alpha_3": "guy"
     },
-    "ccTLD": ".gy"
+    "cctld": ".gy"
   },
   {
     "country": "haiti",
@@ -1232,13 +1232,13 @@
     "phone_code": "+509",
     "flag": "https://flagpedia.net/data/flags/h80/ht.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "332",
-      "alpha_2": "HT",
-      "alpha_3": "HTI"
+      "alpha_2": "ht",
+      "alpha_3": "hti"
     },
-    "ccTLD": ".ht"
+    "cctld": ".ht"
   },
   {
     "country": "honduras",
@@ -1249,13 +1249,13 @@
     "phone_code": "+504",
     "flag": "https://flagpedia.net/data/flags/h80/hn.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "340",
-      "alpha_2": "HN",
-      "alpha_3": "HND"
+      "alpha_2": "hn",
+      "alpha_3": "hnd"
     },
-    "ccTLD": ".hn"
+    "cctld": ".hn"
   },
   {
     "country": "hungary",
@@ -1266,13 +1266,13 @@
     "phone_code": "+36",
     "flag": "https://flagpedia.net/data/flags/h80/hu.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "348",
-      "alpha_2": "HU",
-      "alpha_3": "HUN"
+      "alpha_2": "hu",
+      "alpha_3": "hun"
     },
-    "ccTLD": ".hu"
+    "cctld": ".hu"
   },
   {
     "country": "iceland",
@@ -1283,13 +1283,13 @@
     "phone_code": "+354",
     "flag": "https://flagpedia.net/data/flags/h80/is.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "352",
-      "alpha_2": "IS",
-      "alpha_3": "ISL"
+      "alpha_2": "is",
+      "alpha_3": "isl"
     },
-    "ccTLD": ".is"
+    "cctld": ".is"
   },
   {
     "country": "india",
@@ -1300,13 +1300,13 @@
     "phone_code": "+91",
     "flag": "https://flagpedia.net/data/flags/h80/in.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "356",
-      "alpha_2": "IN",
-      "alpha_3": "IND"
+      "alpha_2": "in",
+      "alpha_3": "ind"
     },
-    "ccTLD": ".in"
+    "cctld": ".in"
   },
   {
     "country": "indonesia",
@@ -1317,13 +1317,13 @@
     "phone_code": "+62",
     "flag": "https://flagpedia.net/data/flags/h80/id.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "360",
-      "alpha_2": "ID",
-      "alpha_3": "IDN"
+      "alpha_2": "id",
+      "alpha_3": "idn"
     },
-    "ccTLD": ".id"
+    "cctld": ".id"
   },
   {
     "country": "iran",
@@ -1334,13 +1334,13 @@
     "phone_code": "+98",
     "flag": "https://flagpedia.net/data/flags/h80/ir.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "364",
-      "alpha_2": "IR",
-      "alpha_3": "IRN"
+      "alpha_2": "ir",
+      "alpha_3": "irn"
     },
-    "ccTLD": ".ir"
+    "cctld": ".ir"
   },
   {
     "country": "iraq",
@@ -1351,13 +1351,13 @@
     "phone_code": "+964",
     "flag": "https://flagpedia.net/data/flags/h80/iq.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "368",
-      "alpha_2": "IQ",
-      "alpha_3": "IRQ"
+      "alpha_2": "iq",
+      "alpha_3": "irq"
     },
-    "ccTLD": ".iq"
+    "cctld": ".iq"
   },
   {
     "country": "republic of ireland",
@@ -1368,13 +1368,13 @@
     "phone_code": "+353",
     "flag": "https://flagpedia.net/data/flags/h80/ie.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "372",
-      "alpha_2": "IE",
-      "alpha_3": "IRL"
+      "alpha_2": "ie",
+      "alpha_3": "irl"
     },
-    "ccTLD": ".ie"
+    "cctld": ".ie"
   },
   {
     "country": "israel",
@@ -1385,13 +1385,13 @@
     "phone_code": "+972",
     "flag": "https://flagpedia.net/data/flags/h80/il.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "376",
-      "alpha_2": "IL",
-      "alpha_3": "ISR"
+      "alpha_2": "il",
+      "alpha_3": "isr"
     },
-    "ccTLD": ".il"
+    "cctld": ".il"
   },
   {
     "country": "italy",
@@ -1402,13 +1402,13 @@
     "phone_code": "+39",
     "flag": "https://flagpedia.net/data/flags/h80/it.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "380",
-      "alpha_2": "IT",
-      "alpha_3": "ITA"
+      "alpha_2": "it",
+      "alpha_3": "ita"
     },
-    "ccTLD": ".it"
+    "cctld": ".it"
   },
   {
     "country": "jamaica",
@@ -1419,13 +1419,13 @@
     "phone_code": "+1-876",
     "flag": "https://flagpedia.net/data/flags/h80/jm.png",
     "drive_direction": "left",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "388",
-      "alpha_2": "JM",
-      "alpha_3": "JAM"
+      "alpha_2": "jm",
+      "alpha_3": "jam"
     },
-    "ccTLD": ".jm"
+    "cctld": ".jm"
   },
   {
     "country": "japan",
@@ -1436,13 +1436,13 @@
     "phone_code": "+81",
     "flag": "https://flagpedia.net/data/flags/h80/jp.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "392",
-      "alpha_2": "JP",
-      "alpha_3": "JPN"
+      "alpha_2": "jp",
+      "alpha_3": "jpn"
     },
-    "ccTLD": ".jp"
+    "cctld": ".jp"
   },
   {
     "country": "jordan",
@@ -1453,13 +1453,13 @@
     "phone_code": "+962",
     "flag": "https://flagpedia.net/data/flags/h80/jo.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "400",
-      "alpha_2": "JO",
-      "alpha_3": "JOR"
+      "alpha_2": "jo",
+      "alpha_3": "jor"
     },
-    "ccTLD": ".jo"
+    "cctld": ".jo"
   },
   {
     "country": "kazakhstan",
@@ -1470,13 +1470,13 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/kz.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "398",
-      "alpha_2": "KZ",
-      "alpha_3": "KAZ"
+      "alpha_2": "kz",
+      "alpha_3": "kaz"
     },
-    "ccTLD": ".kz"
+    "cctld": ".kz"
   },
   {
     "country": "kenya",
@@ -1487,13 +1487,13 @@
     "phone_code": "+254",
     "flag": "https://flagpedia.net/data/flags/h80/ke.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "404",
-      "alpha_2": "KE",
-      "alpha_3": "KEN"
+      "alpha_2": "ke",
+      "alpha_3": "ken"
     },
-    "ccTLD": ".ke"
+    "cctld": ".ke"
   },
   {
     "country": "kiribati",
@@ -1504,13 +1504,13 @@
     "phone_code": "+686",
     "flag": "https://flagpedia.net/data/flags/h80/ki.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "296",
-      "alpha_2": "KI",
-      "alpha_3": "KIR"
+      "alpha_2": "ki",
+      "alpha_3": "kir"
     },
-    "ccTLD": ".ki"
+    "cctld": ".ki"
   },
   {
     "country": "north korea",
@@ -1521,13 +1521,13 @@
     "phone_code": "+850",
     "flag": "https://flagpedia.net/data/flags/h80/kp.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "408",
-      "alpha_2": "KP",
-      "alpha_3": "PRK"
+      "alpha_2": "kp",
+      "alpha_3": "prk"
     },
-    "ccTLD": ".kp"
+    "cctld": ".kp"
   },
   {
     "country": "south korea",
@@ -1538,13 +1538,13 @@
     "phone_code": "+82",
     "flag": "https://flagpedia.net/data/flags/h80/kr.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "410",
-      "alpha_2": "KR",
-      "alpha_3": "KOR"
+      "alpha_2": "kr",
+      "alpha_3": "kor"
     },
-    "ccTLD": ".kr"
+    "cctld": ".kr"
   },
   {
     "country": "kosovo",
@@ -1555,13 +1555,13 @@
     "phone_code": "+383",
     "flag": "https://flagpedia.net/data/flags/h80/xk.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "383",
-      "alpha_2": "XK",
-      "alpha_3": "XKX"
+      "alpha_2": "xk",
+      "alpha_3": "xkx"
     },
-    "ccTLD": ".rs"
+    "cctld": ".rs"
   },
   {
     "country": "kuwait",
@@ -1572,13 +1572,13 @@
     "phone_code": "965",
     "flag": "https://flagpedia.net/data/flags/h80/kw.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "414",
-      "alpha_2": "KW",
-      "alpha_3": "KWT"
+      "alpha_2": "kw",
+      "alpha_3": "kwt"
     },
-    "ccTLD": ".kw"
+    "cctld": ".kw"
   },
   {
     "country": "kyrgyzstan",
@@ -1589,13 +1589,13 @@
     "phone_code": "+996",
     "flag": "https://flagpedia.net/data/flags/h80/kg.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "417",
-      "alpha_2": "KG",
-      "alpha_3": "KGZ"
+      "alpha_2": "kg",
+      "alpha_3": "kgz"
     },
-    "ccTLD": ".kg"
+    "cctld": ".kg"
   },
   {
     "country": "laos",
@@ -1606,13 +1606,13 @@
     "phone_code": "+856",
     "flag": "https://flagpedia.net/data/flags/h80/la.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "418",
-      "alpha_2": "LA",
-      "alpha_3": "LAO"
+      "alpha_2": "la",
+      "alpha_3": "lao"
     },
-    "ccTLD": ".la"
+    "cctld": ".la"
   },
   {
     "country": "latvia",
@@ -1623,13 +1623,13 @@
     "phone_code": "+371",
     "flag": "https://flagpedia.net/data/flags/h80/lv.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "428",
-      "alpha_2": "LV",
-      "alpha_3": "LVA"
+      "alpha_2": "lv",
+      "alpha_3": "lva"
     },
-    "ccTLD": ".lv"
+    "cctld": ".lv"
   },
   {
     "country": "lebanon",
@@ -1640,13 +1640,13 @@
     "phone_code": "+961",
     "flag": "https://flagpedia.net/data/flags/h80/lb.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "422",
-      "alpha_2": "LB",
-      "alpha_3": "LBN"
+      "alpha_2": "lb",
+      "alpha_3": "lbn"
     },
-    "ccTLD": ".lb"
+    "cctld": ".lb"
   },
   {
     "country": "lesotho",
@@ -1657,13 +1657,13 @@
     "phone_code": "+266",
     "flag": "https://flagpedia.net/data/flags/h80/ls.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "426",
-      "alpha_2": "LS",
-      "alpha_3": "LSO"
+      "alpha_2": "ls",
+      "alpha_3": "lso"
     },
-    "ccTLD": ".ls"
+    "cctld": ".ls"
   },
   {
     "country": "liberia",
@@ -1674,13 +1674,13 @@
     "phone_code": "+231",
     "flag": "https://flagpedia.net/data/flags/h80/lr.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "430",
-      "alpha_2": "LR",
-      "alpha_3": "LBR"
+      "alpha_2": "lr",
+      "alpha_3": "lbr"
     },
-    "ccTLD": ".lr"
+    "cctld": ".lr"
   },
   {
     "country": "libya",
@@ -1691,13 +1691,13 @@
     "phone_code": "+218",
     "flag": "https://flagpedia.net/data/flags/h80/ly.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "434",
-      "alpha_2": "LY",
-      "alpha_3": "LBY"
+      "alpha_2": "ly",
+      "alpha_3": "lby"
     },
-    "ccTLD": ".ly"
+    "cctld": ".ly"
   },
   {
     "country": "liechtenstein",
@@ -1708,13 +1708,13 @@
     "phone_code": "+423",
     "flag": "https://flagpedia.net/data/flags/h80/li.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "438",
-      "alpha_2": "LI",
-      "alpha_3": "LIE"
+      "alpha_2": "li",
+      "alpha_3": "lie"
     },
-    "ccTLD": ".li"
+    "cctld": ".li"
   },
   {
     "country": "lithuania",
@@ -1725,13 +1725,13 @@
     "phone_code": "+370",
     "flag": "https://flagpedia.net/data/flags/h80/lt.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "440",
-      "alpha_2": "LT",
-      "alpha_3": "LTU"
+      "alpha_2": "lt",
+      "alpha_3": "ltu"
     },
-    "ccTLD": ".lt"
+    "cctld": ".lt"
   },
   {
     "country": "luxembourg",
@@ -1742,13 +1742,13 @@
     "phone_code": "+352",
     "flag": "https://flagpedia.net/data/flags/h80/lu.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "442",
-      "alpha_2": "LU",
-      "alpha_3": "LUX"
+      "alpha_2": "lu",
+      "alpha_3": "lux"
     },
-    "ccTLD": ".lu"
+    "cctld": ".lu"
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1759,13 +1759,13 @@
     "phone_code": "+389",
     "flag": "https://flagpedia.net/data/flags/h80/mk.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "807",
-      "alpha_2": "MK",
-      "alpha_3": "MKD"
+      "alpha_2": "mk",
+      "alpha_3": "mkd"
     },
-    "ccTLD": ".mk"
+    "cctld": ".mk"
   },
   {
     "country": "madagascar",
@@ -1776,13 +1776,13 @@
     "phone_code": "+261",
     "flag": "https://flagpedia.net/data/flags/h80/mg.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "450",
-      "alpha_2": "MG",
-      "alpha_3": "MDG"
+      "alpha_2": "mg",
+      "alpha_3": "mdg"
     },
-    "ccTLD": ".mg"
+    "cctld": ".mg"
   },
   {
     "country": "malawi",
@@ -1793,13 +1793,13 @@
     "phone_code": "+265",
     "flag": "https://flagpedia.net/data/flags/h80/mw.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "454",
-      "alpha_2": "MW",
-      "alpha_3": "MWI"
+      "alpha_2": "mw",
+      "alpha_3": "mwi"
     },
-    "ccTLD": ".mw"
+    "cctld": ".mw"
   },
   {
     "country": "malaysia",
@@ -1810,13 +1810,13 @@
     "phone_code": "+60",
     "flag": "https://flagpedia.net/data/flags/h80/my.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "458",
-      "alpha_2": "MY",
-      "alpha_3": "MYS"
+      "alpha_2": "my",
+      "alpha_3": "mys"
     },
-    "ccTLD": ".my"
+    "cctld": ".my"
   },
   {
     "country": "maldives",
@@ -1827,13 +1827,13 @@
     "phone_code": "+960",
     "flag": "https://flagpedia.net/data/flags/h80/mv.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "462",
-      "alpha_2": "MV",
-      "alpha_3": "MDV"
+      "alpha_2": "mv",
+      "alpha_3": "mdv"
     },
-    "ccTLD": ".mv"
+    "cctld": ".mv"
   },
   {
     "country": "mali",
@@ -1844,13 +1844,13 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/ml.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "466",
-      "alpha_2": "ML",
-      "alpha_3": "MLI"
+      "alpha_2": "ml",
+      "alpha_3": "mli"
     },
-    "ccTLD": ".ml"
+    "cctld": ".ml"
   },
   {
     "country": "malta",
@@ -1861,13 +1861,13 @@
     "phone_code": "+356",
     "flag": "https://flagpedia.net/data/flags/h80/mt.png",
     "drive_direction": "left",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "470",
-      "alpha_2": "MT",
-      "alpha_3": "MLT"
+      "alpha_2": "mt",
+      "alpha_3": "mlt"
     },
-    "ccTLD": ".mt"
+    "cctld": ".mt"
   },
   {
     "country": "marshall islands",
@@ -1878,13 +1878,13 @@
     "phone_code": "+692",
     "flag": "https://flagpedia.net/data/flags/h80/mh.png",
     "drive_direction": "right",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "584",
-      "alpha_2": "MH",
-      "alpha_3": "MHL"
+      "alpha_2": "mh",
+      "alpha_3": "mhl"
     },
-    "ccTLD": ".mh"
+    "cctld": ".mh"
   },
   {
     "country": "mauritania",
@@ -1895,13 +1895,13 @@
     "phone_code": "+222",
     "flag": "https://flagpedia.net/data/flags/h80/mr.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "478",
-      "alpha_2": "MR",
-      "alpha_3": "MRT"
+      "alpha_2": "mr",
+      "alpha_3": "mrt"
     },
-    "ccTLD": ".mr"
+    "cctld": ".mr"
   },
   {
     "country": "mauritius",
@@ -1912,13 +1912,13 @@
     "phone_code": "+230",
     "flag": "https://flagpedia.net/data/flags/h80/mu.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "480",
-      "alpha_2": "MU",
-      "alpha_3": "MUS"
+      "alpha_2": "mu",
+      "alpha_3": "mus"
     },
-    "ccTLD": ".mu"
+    "cctld": ".mu"
   },
   {
     "country": "mexico",
@@ -1929,13 +1929,13 @@
     "phone_code": "+52",
     "flag": "https://flagpedia.net/data/flags/h80/mx.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "484",
-      "alpha_2": "MX",
-      "alpha_3": "MEX"
+      "alpha_2": "mx",
+      "alpha_3": "mex"
     },
-    "ccTLD": ".mx"
+    "cctld": ".mx"
   },
   {
     "country": "federal states of micronesia",
@@ -1946,13 +1946,13 @@
     "phone_code": "+691",
     "flag": "https://flagpedia.net/data/flags/h80/fm.png",
     "drive_direction": "right",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "583",
-      "alpha_2": "FM",
-      "alpha_3": "FSM"
+      "alpha_2": "fm",
+      "alpha_3": "fsm"
     },
-    "ccTLD": ".fm"
+    "cctld": ".fm"
   },
   {
     "country": "moldova",
@@ -1963,13 +1963,13 @@
     "phone_code": "+373",
     "flag": "https://flagpedia.net/data/flags/h80/md.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "498",
-      "alpha_2": "MD",
-      "alpha_3": "MDA"
+      "alpha_2": "md",
+      "alpha_3": "mda"
     },
-    "ccTLD": ".md"
+    "cctld": ".md"
   },
   {
     "country": "monaco",
@@ -1980,13 +1980,13 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/mc.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "492",
-      "alpha_2": "MC",
-      "alpha_3": "MCO"
+      "alpha_2": "mc",
+      "alpha_3": "mco"
     },
-    "ccTLD": ".mc"
+    "cctld": ".mc"
   },
   {
     "country": "mongolia",
@@ -1997,13 +1997,13 @@
     "phone_code": "+976",
     "flag": "https://flagpedia.net/data/flags/h80/mn.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "496",
-      "alpha_2": "MN",
-      "alpha_3": "MNG"
+      "alpha_2": "mn",
+      "alpha_3": "mng"
     },
-    "ccTLD": ".mn"
+    "cctld": ".mn"
   },
   {
     "country": "montenegro",
@@ -2014,13 +2014,13 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/me.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "499",
-      "alpha_2": "ME",
-      "alpha_3": "MNE"
+      "alpha_2": "me",
+      "alpha_3": "mne"
     },
-    "ccTLD": ".me"
+    "cctld": ".me"
   },
   {
     "country": "morocco",
@@ -2031,13 +2031,13 @@
     "phone_code": "+212",
     "flag": "https://flagpedia.net/data/flags/h80/ma.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "504",
-      "alpha_2": "MA",
-      "alpha_3": "MAR"
+      "alpha_2": "ma",
+      "alpha_3": "mar"
     },
-    "ccTLD": ".ma"
+    "cctld": ".ma"
   },
   {
     "country": "mozambique",
@@ -2048,13 +2048,13 @@
     "phone_code": "+258",
     "flag": "https://flagpedia.net/data/flags/h80/mz.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "508",
-      "alpha_2": "MZ",
-      "alpha_3": "MOZ"
+      "alpha_2": "mz",
+      "alpha_3": "moz"
     },
-    "ccTLD": ".mz"
+    "cctld": ".mz"
   },
   {
     "country": "myanmar (burma)",
@@ -2065,13 +2065,13 @@
     "phone_code": "+95",
     "flag": "https://flagpedia.net/data/flags/h80/mm.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "104",
-      "alpha_2": "MM",
-      "alpha_3": "MMR"
+      "alpha_2": "mm",
+      "alpha_3": "mmr"
     },
-    "ccTLD": ".mm"
+    "cctld": ".mm"
   },
   {
     "country": "namibia",
@@ -2082,13 +2082,13 @@
     "phone_code": "+264",
     "flag": "https://flagpedia.net/data/flags/h80/na.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "516",
-      "alpha_2": "NA",
-      "alpha_3": "NAM"
+      "alpha_2": "na",
+      "alpha_3": "nam"
     },
-    "ccTLD": ".na"
+    "cctld": ".na"
   },
   {
     "country": "nauru",
@@ -2099,13 +2099,13 @@
     "phone_code": "+674",
     "flag": "https://flagpedia.net/data/flags/h80/nr.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "520",
-      "alpha_2": "NR",
-      "alpha_3": "NRU"
+      "alpha_2": "nr",
+      "alpha_3": "nru"
     },
-    "ccTLD": ".nr"
+    "cctld": ".nr"
   },
   {
     "country": "nepal",
@@ -2116,13 +2116,13 @@
     "phone_code": "+977",
     "flag": "https://flagpedia.net/data/flags/h80/np.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "524",
-      "alpha_2": "NP",
-      "alpha_3": "NPL"
+      "alpha_2": "np",
+      "alpha_3": "npl"
     },
-    "ccTLD": ".np"
+    "cctld": ".np"
   },
   {
     "country": "netherlands",
@@ -2133,13 +2133,13 @@
     "phone_code": "+31",
     "flag": "https://flagpedia.net/data/flags/h80/nl.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "528",
-      "alpha_2": "NL",
-      "alpha_3": "NLD"
+      "alpha_2": "nl",
+      "alpha_3": "nld"
     },
-    "ccTLD": ".nl"
+    "cctld": ".nl"
   },
   {
     "country": "new zealand",
@@ -2150,13 +2150,13 @@
     "phone_code": "+64",
     "flag": "https://flagpedia.net/data/flags/h80/nz.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "554",
-      "alpha_2": "NZ",
-      "alpha_3": "NZL"
+      "alpha_2": "nz",
+      "alpha_3": "nzl"
     },
-    "ccTLD": ".nz"
+    "cctld": ".nz"
   },
   {
     "country": "nicaragua",
@@ -2167,13 +2167,13 @@
     "phone_code": "+505",
     "flag": "https://flagpedia.net/data/flags/h80/ni.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "558",
-      "alpha_2": "NI",
-      "alpha_3": "NIC"
+      "alpha_2": "ni",
+      "alpha_3": "nic"
     },
-    "ccTLD": ".ni"
+    "cctld": ".ni"
   },
   {
     "country": "niger",
@@ -2184,13 +2184,13 @@
     "phone_code": "+277",
     "flag": "https://flagpedia.net/data/flags/h80/ne.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "562",
-      "alpha_2": "NE",
-      "alpha_3": "NER"
+      "alpha_2": "ne",
+      "alpha_3": "ner"
     },
-    "ccTLD": ".ne"
+    "cctld": ".ne"
   },
   {
     "country": "nigeria",
@@ -2201,13 +2201,13 @@
     "phone_code": "+234",
     "flag": "https://flagpedia.net/data/flags/h80/ng.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "566",
-      "alpha_2": "NG",
-      "alpha_3": "NGA"
+      "alpha_2": "ng",
+      "alpha_3": "nga"
     },
-    "ccTLD": ".ng"
+    "cctld": ".ng"
   },
   {
     "country": "norway",
@@ -2218,13 +2218,13 @@
     "phone_code": "+47",
     "flag": "https://flagpedia.net/data/flags/h80/no.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "578",
-      "alpha_2": "NO",
-      "alpha_3": "NOR"
+      "alpha_2": "no",
+      "alpha_3": "nor"
     },
-    "ccTLD": ".no"
+    "cctld": ".no"
   },
   {
     "country": "oman",
@@ -2235,13 +2235,13 @@
     "phone_code": "+968",
     "flag": "https://flagpedia.net/data/flags/h80/om.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "512",
-      "alpha_2": "OM",
-      "alpha_3": "OMN"
+      "alpha_2": "om",
+      "alpha_3": "omn"
     },
-    "ccTLD": ".om"
+    "cctld": ".om"
   },
   {
     "country": "pakistan",
@@ -2252,13 +2252,13 @@
     "phone_code": "+92",
     "flag": "https://flagpedia.net/data/flags/h80/pk.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "586",
-      "alpha_2": "PK",
-      "alpha_3": "PAK"
+      "alpha_2": "pk",
+      "alpha_3": "pak"
     },
-    "ccTLD": ".pk"
+    "cctld": ".pk"
   },
   {
     "country": "palau",
@@ -2269,13 +2269,13 @@
     "phone_code": "+680",
     "flag": "https://flagpedia.net/data/flags/h80/pw.png",
     "drive_direction": "right",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "585",
-      "alpha_2": "PW",
-      "alpha_3": "PLW"
+      "alpha_2": "pw",
+      "alpha_3": "plw"
     },
-    "ccTLD": ".pw"
+    "cctld": ".pw"
   },
   {
     "country": "panama",
@@ -2286,13 +2286,13 @@
     "phone_code": "+507",
     "flag": "https://flagpedia.net/data/flags/h80/pa.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "591",
-      "alpha_2": "PA",
-      "alpha_3": "PAN"
+      "alpha_2": "pa",
+      "alpha_3": "pan"
     },
-    "ccTLD": ".pa"
+    "cctld": ".pa"
   },
   {
     "country": "papa new guinea",
@@ -2303,13 +2303,13 @@
     "phone_code": "+675",
     "flag": "https://flagpedia.net/data/flags/h80/pg.png",
     "drive_direction": "right",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "598",
-      "alpha_2": "PG",
-      "alpha_3": "PNG"
+      "alpha_2": "pg",
+      "alpha_3": "png"
     },
-    "ccTLD": ".pg"
+    "cctld": ".pg"
   },
   {
     "country": "paraguay",
@@ -2320,13 +2320,13 @@
     "phone_code": "+595",
     "flag": "https://flagpedia.net/data/flags/h80/py.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "600",
-      "alpha_2": "PY",
-      "alpha_3": "PRY"
+      "alpha_2": "py",
+      "alpha_3": "pry"
     },
-    "ccTLD": ".py"
+    "cctld": ".py"
   },
   {
     "country": "peru",
@@ -2337,13 +2337,13 @@
     "phone_code": "+51",
     "flag": "https://flagpedia.net/data/flags/h80/pe.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "604",
-      "alpha_2": "PE",
-      "alpha_3": "PER"
+      "alpha_2": "pe",
+      "alpha_3": "per"
     },
-    "ccTLD": ".pe"
+    "cctld": ".pe"
   },
   {
     "country": "philippines",
@@ -2354,13 +2354,13 @@
     "phone_code": "+63",
     "flag": "https://flagpedia.net/data/flags/h80/ph.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "608",
-      "alpha_2": "PH",
-      "alpha_3": "PHL"
+      "alpha_2": "ph",
+      "alpha_3": "phl"
     },
-    "ccTLD": ".ph"
+    "cctld": ".ph"
   },
   {
     "country": "poland",
@@ -2371,13 +2371,13 @@
     "phone_code": "+48",
     "flag": "https://flagpedia.net/data/flags/h80/pl.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "616",
-      "alpha_2": "PL",
-      "alpha_3": "POL"
+      "alpha_2": "pl",
+      "alpha_3": "pol"
     },
-    "ccTLD": ".pl"
+    "cctld": ".pl"
   },
   {
     "country": "portugal",
@@ -2388,13 +2388,13 @@
     "phone_code": "+351",
     "flag": "https://flagpedia.net/data/flags/h80/pt.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "620",
-      "alpha_2": "PT",
-      "alpha_3": "PRT"
+      "alpha_2": "pt",
+      "alpha_3": "prt"
     },
-    "ccTLD": ".pt"
+    "cctld": ".pt"
   },
   {
     "country": "qatar",
@@ -2405,13 +2405,13 @@
     "phone_code": "+974",
     "flag": "https://flagpedia.net/data/flags/h80/qa.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "634",
-      "alpha_2": "QA",
-      "alpha_3": "QAT"
+      "alpha_2": "qa",
+      "alpha_3": "qat"
     },
-    "ccTLD": ".qa"
+    "cctld": ".qa"
   },
   {
     "country": "romania",
@@ -2422,13 +2422,13 @@
     "phone_code": "+40",
     "flag": "https://flagpedia.net/data/flags/h80/ro.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "642",
-      "alpha_2": "RO",
-      "alpha_3": "ROU"
+      "alpha_2": "ro",
+      "alpha_3": "rou"
     },
-    "ccTLD": ".ro"
+    "cctld": ".ro"
   },
   {
     "country": "russia",
@@ -2439,13 +2439,13 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/ru.png",
     "drive_direction": "right",
-    "continent": "EU/AS",
+    "continent": "eu/as",
     "iso": {
       "numeric": "643",
-      "alpha_2": "RU",
-      "alpha_3": "RUS"
+      "alpha_2": "ru",
+      "alpha_3": "rus"
     },
-    "ccTLD": ".ru"
+    "cctld": ".ru"
   },
   {
     "country": "rwanda",
@@ -2456,13 +2456,13 @@
     "phone_code": "+250",
     "flag": "https://flagpedia.net/data/flags/h80/rw.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "646",
-      "alpha_2": "RW",
-      "alpha_3": "RWA"
+      "alpha_2": "rw",
+      "alpha_3": "rwa"
     },
-    "ccTLD": ".rw"
+    "cctld": ".rw"
   },
   {
     "country": "saint kitts and nevis",
@@ -2473,13 +2473,13 @@
     "phone_code": "+1-869",
     "flag": "https://flagpedia.net/data/flags/h80/kn.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "659",
-      "alpha_2": "KN",
-      "alpha_3": "KNA"
+      "alpha_2": "kn",
+      "alpha_3": "kna"
     },
-    "ccTLD": ".kn"
+    "cctld": ".kn"
   },
   {
     "country": "saint lucia",
@@ -2490,13 +2490,13 @@
     "phone_code": "+1-758",
     "flag": "https://flagpedia.net/data/flags/h80/lc.png",
     "drive_direction": "left",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "662",
-      "alpha_2": "LC",
-      "alpha_3": "LCA"
+      "alpha_2": "lc",
+      "alpha_3": "lca"
     },
-    "ccTLD": ".lc"
+    "cctld": ".lc"
   },
   {
     "country": "saint vincent and the grenadines",
@@ -2507,13 +2507,13 @@
     "phone_code": "+1-784",
     "flag": "https://flagpedia.net/data/flags/h80/vc.png",
     "drive_direction": "left",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "670",
-      "alpha_2": "VC",
-      "alpha_3": "VCT"
+      "alpha_2": "vc",
+      "alpha_3": "vct"
     },
-    "ccTLD": ".vc"
+    "cctld": ".vc"
   },
   {
     "country": "samoa",
@@ -2524,13 +2524,13 @@
     "phone_code": "+685",
     "flag": "https://flagpedia.net/data/flags/h80/ws.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "882",
-      "alpha_2": "WS",
-      "alpha_3": "WSM"
+      "alpha_2": "ws",
+      "alpha_3": "wsm"
     },
-    "ccTLD": ".ws"
+    "cctld": ".ws"
   },
   {
     "country": "san marino",
@@ -2541,13 +2541,13 @@
     "phone_code": "+378",
     "flag": "https://flagpedia.net/data/flags/h80/sm.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "674",
-      "alpha_2": "SM",
-      "alpha_3": "SMR"
+      "alpha_2": "sm",
+      "alpha_3": "smr"
     },
-    "ccTLD": ".sm"
+    "cctld": ".sm"
   },
   {
     "country": "sao tome and principe",
@@ -2558,13 +2558,13 @@
     "phone_code": "+239",
     "flag": "https://flagpedia.net/data/flags/h80/st.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "678",
-      "alpha_2": "ST",
-      "alpha_3": "STP"
+      "alpha_2": "st",
+      "alpha_3": "stp"
     },
-    "ccTLD": ".st"
+    "cctld": ".st"
   },
   {
     "country": "saudi arabia",
@@ -2575,13 +2575,13 @@
     "phone_code": "+966",
     "flag": "https://flagpedia.net/data/flags/h80/sa.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "682",
-      "alpha_2": "SA",
-      "alpha_3": "SAU"
+      "alpha_2": "sa",
+      "alpha_3": "sau"
     },
-    "ccTLD": ".sa"
+    "cctld": ".sa"
   },
   {
     "country": "senegal",
@@ -2592,13 +2592,13 @@
     "phone_code": "+221",
     "flag": "https://flagpedia.net/data/flags/h80/sn.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "686",
-      "alpha_2": "SN",
-      "alpha_3": "SEN"
+      "alpha_2": "sn",
+      "alpha_3": "sen"
     },
-    "ccTLD": ".sn"
+    "cctld": ".sn"
   },
   {
     "country": "serbia",
@@ -2609,13 +2609,13 @@
     "phone_code": "+381",
     "flag": "https://flagpedia.net/data/flags/h80/rs.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "688",
-      "alpha_2": "RS",
-      "alpha_3": "SRB"
+      "alpha_2": "rs",
+      "alpha_3": "srb"
     },
-    "ccTLD": ".rs"
+    "cctld": ".rs"
   },
   {
     "country": "seychelles",
@@ -2626,13 +2626,13 @@
     "phone_code": "+248",
     "flag": "https://flagpedia.net/data/flags/h80/sc.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "690",
-      "alpha_2": "SC",
-      "alpha_3": "SYC"
+      "alpha_2": "sc",
+      "alpha_3": "syc"
     },
-    "ccTLD": ".sc"
+    "cctld": ".sc"
   },
   {
     "country": "sierra leone",
@@ -2643,13 +2643,13 @@
     "phone_code": "+232",
     "flag": "https://flagpedia.net/data/flags/h80/sl.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "694",
-      "alpha_2": "SL",
-      "alpha_3": "SLE"
+      "alpha_2": "sl",
+      "alpha_3": "sle"
     },
-    "ccTLD": ".sl"
+    "cctld": ".sl"
   },
   {
     "country": "singapore",
@@ -2660,13 +2660,13 @@
     "phone_code": "+65",
     "flag": "https://flagpedia.net/data/flags/h80/sg.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "702",
-      "alpha_2": "SG",
-      "alpha_3": "SGP"
+      "alpha_2": "sg",
+      "alpha_3": "sgp"
     },
-    "ccTLD": ".sg"
+    "cctld": ".sg"
   },
   {
     "country": "slovakia",
@@ -2677,13 +2677,13 @@
     "phone_code": "+421",
     "flag": "https://flagpedia.net/data/flags/h80/sk.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "703",
-      "alpha_2": "SK",
-      "alpha_3": "SVK"
+      "alpha_2": "sk",
+      "alpha_3": "svk"
     },
-    "ccTLD": ".sk"
+    "cctld": ".sk"
   },
   {
     "country": "slovenia",
@@ -2694,13 +2694,13 @@
     "phone_code": "+386",
     "flag": "https://flagpedia.net/data/flags/h80/si.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "705",
-      "alpha_2": "SI",
-      "alpha_3": "SVN"
+      "alpha_2": "si",
+      "alpha_3": "svn"
     },
-    "ccTLD": ".si"
+    "cctld": ".si"
   },
   {
     "country": "solomon islands",
@@ -2711,13 +2711,13 @@
     "phone_code": "+677",
     "flag": "https://flagpedia.net/data/flags/h80/sb.png",
     "drive_direction": "right",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "090",
-      "alpha_2": "SB",
-      "alpha_3": "SLB"
+      "alpha_2": "sb",
+      "alpha_3": "slb"
     },
-    "ccTLD": ".sb"
+    "cctld": ".sb"
   },
   {
     "country": "somalia",
@@ -2728,13 +2728,13 @@
     "phone_code": "+252",
     "flag": "https://flagpedia.net/data/flags/h80/so.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "706",
-      "alpha_2": "SO",
-      "alpha_3": "SOM"
+      "alpha_2": "so",
+      "alpha_3": "som"
     },
-    "ccTLD": ".so"
+    "cctld": ".so"
   },
   {
     "country": "south africa",
@@ -2745,13 +2745,13 @@
     "phone_code": "+27",
     "flag": "https://flagpedia.net/data/flags/h80/za.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "710",
-      "alpha_2": "ZA",
-      "alpha_3": "ZAF"
+      "alpha_2": "za",
+      "alpha_3": "zaf"
     },
-    "ccTLD": ".za"
+    "cctld": ".za"
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -2762,13 +2762,13 @@
     "phone_code": "+211",
     "flag": "https://flagpedia.net/data/flags/h80/ss.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "728",
-      "alpha_2": "SS",
-      "alpha_3": "SSD"
+      "alpha_2": "ss",
+      "alpha_3": "ssd"
     },
-    "ccTLD": ".ss"
+    "cctld": ".ss"
   },
   {
     "country": "spain",
@@ -2779,13 +2779,13 @@
     "phone_code": "+34",
     "flag": "https://flagpedia.net/data/flags/h80/es.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "724",
-      "alpha_2": "ES",
-      "alpha_3": "ESP"
+      "alpha_2": "es",
+      "alpha_3": "esp"
     },
-    "ccTLD": ".es"
+    "cctld": ".es"
   },
   {
     "country": "sri lanka",
@@ -2796,13 +2796,13 @@
     "phone_code": "+94",
     "flag": "https://flagpedia.net/data/flags/h80/lk.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "144",
-      "alpha_2": "LK",
-      "alpha_3": "LKA"
+      "alpha_2": "lk",
+      "alpha_3": "lka"
     },
-    "ccTLD": ".lk"
+    "cctld": ".lk"
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -2813,13 +2813,13 @@
     "phone_code": "+249",
     "flag": "https://flagpedia.net/data/flags/h80/sd.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "729",
-      "alpha_2": "SD",
-      "alpha_3": "SDN"
+      "alpha_2": "sd",
+      "alpha_3": "sdn"
     },
-    "ccTLD": ".sd"
+    "cctld": ".sd"
   },
   {
     "country": "suriname",
@@ -2830,13 +2830,13 @@
     "phone_code": "+597",
     "flag": "https://flagpedia.net/data/flags/h80/sr.png",
     "drive_direction": "left",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "740",
-      "alpha_2": "SR",
-      "alpha_3": "SUR"
+      "alpha_2": "sr",
+      "alpha_3": "sur"
     },
-    "ccTLD": ".sr"
+    "cctld": ".sr"
   },
   {
     "country": "eswatini (swaziland)",
@@ -2847,13 +2847,13 @@
     "phone_code": "+268",
     "flag": "https://flagpedia.net/data/flags/h80/sz.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "748",
-      "alpha_2": "SZ",
-      "alpha_3": "SWZ"
+      "alpha_2": "sz",
+      "alpha_3": "swz"
     },
-    "ccTLD": ".sz"
+    "cctld": ".sz"
   },
   {
     "country": "sweden",
@@ -2864,13 +2864,13 @@
     "phone_code": "+46",
     "flag": "https://flagpedia.net/data/flags/h80/se.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "752",
-      "alpha_2": "SE",
-      "alpha_3": "SWE"
+      "alpha_2": "se",
+      "alpha_3": "swe"
     },
-    "ccTLD": ".se"
+    "cctld": ".se"
   },
   {
     "country": "switzerland",
@@ -2880,13 +2880,13 @@
     "famous_for": "alps, natural beauty, chocolates and watches",
     "flag": "https://flagpedia.net/data/flags/h80/ch.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "756",
-      "alpha_2": "CH",
-      "alpha_3": "CHE"
+      "alpha_2": "ch",
+      "alpha_3": "che"
     },
-    "ccTLD": ".ch"
+    "cctld": ".ch"
   },
   {
     "country": "syria",
@@ -2897,13 +2897,13 @@
     "phone_code": "+963",
     "flag": "https://flagpedia.net/data/flags/h80/sy.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "760",
-      "alpha_2": "SY",
-      "alpha_3": "SYR"
+      "alpha_2": "sy",
+      "alpha_3": "syr"
     },
-    "ccTLD": ".sy"
+    "cctld": ".sy"
   },
   {
     "country": "taiwan",
@@ -2914,13 +2914,13 @@
     "phone_code": "+886",
     "flag": "https://flagpedia.net/data/flags/h80/tw.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "158",
-      "alpha_2": "TW",
-      "alpha_3": "TWN"
+      "alpha_2": "tw",
+      "alpha_3": "twn"
     },
-    "ccTLD": ".tw"
+    "cctld": ".tw"
   },
   {
     "country": "tajikistan",
@@ -2931,13 +2931,13 @@
     "phone_code": "+992",
     "flag": "https://flagpedia.net/data/flags/h80/tj.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "762",
-      "alpha_2": "TJ",
-      "alpha_3": "TJK"
+      "alpha_2": "tj",
+      "alpha_3": "tjk"
     },
-    "ccTLD": ".tj"
+    "cctld": ".tj"
   },
   {
     "country": "tanzania",
@@ -2948,13 +2948,13 @@
     "phone_code": "+255",
     "flag": "https://flagpedia.net/data/flags/h80/tz.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "834",
-      "alpha_2": "TZ",
-      "alpha_3": "TZA"
+      "alpha_2": "tz",
+      "alpha_3": "tza"
     },
-    "ccTLD": ".tz"
+    "cctld": ".tz"
   },
   {
     "country": "thailand",
@@ -2965,13 +2965,13 @@
     "phone_code": "+66",
     "flag": "https://flagpedia.net/data/flags/h80/th.png",
     "drive_direction": "left",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "764",
-      "alpha_2": "TH",
-      "alpha_3": "THA"
+      "alpha_2": "th",
+      "alpha_3": "tha"
     },
-    "ccTLD": ".th"
+    "cctld": ".th"
   },
   {
     "country": "togo",
@@ -2982,13 +2982,13 @@
     "phone_code": "+228",
     "flag": "https://flagpedia.net/data/flags/h80/tg.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "768",
-      "alpha_2": "TG",
-      "alpha_3": "TGO"
+      "alpha_2": "tg",
+      "alpha_3": "tgo"
     },
-    "ccTLD": ".tg"
+    "cctld": ".tg"
   },
   {
     "country": "tonga",
@@ -2999,13 +2999,13 @@
     "phone_code": "+676",
     "flag": "https://flagpedia.net/data/flags/h80/to.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "776",
-      "alpha_2": "TO",
-      "alpha_3": "TON"
+      "alpha_2": "to",
+      "alpha_3": "ton"
     },
-    "ccTLD": ".to"
+    "cctld": ".to"
   },
   {
     "country": "trinidad and tobago",
@@ -3016,13 +3016,13 @@
     "phone_code": "+1-868",
     "flag": "https://flagpedia.net/data/flags/h80/tt.png",
     "drive_direction": "left",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "780",
-      "alpha_2": "TT",
-      "alpha_3": "TTO"
+      "alpha_2": "tt",
+      "alpha_3": "tto"
     },
-    "ccTLD": ".tt"
+    "cctld": ".tt"
   },
   {
     "country": "tunisia",
@@ -3033,13 +3033,13 @@
     "phone_code": "+216",
     "flag": "https://flagpedia.net/data/flags/h80/tn.png",
     "drive_direction": "right",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "788",
-      "alpha_2": "TN",
-      "alpha_3": "TUN"
+      "alpha_2": "tn",
+      "alpha_3": "tun"
     },
-    "ccTLD": ".tn"
+    "cctld": ".tn"
   },
   {
     "country": "turkey",
@@ -3050,13 +3050,13 @@
     "phone_code": "+90",
     "flag": "https://flagpedia.net/data/flags/h80/tr.png",
     "drive_direction": "right",
-    "continent": "EU/AS",
+    "continent": "eu/as",
     "iso": {
       "numeric": "792",
-      "alpha_2": "TR",
-      "alpha_3": "TUR"
+      "alpha_2": "tr",
+      "alpha_3": "tur"
     },
-    "ccTLD": ".tr"
+    "cctld": ".tr"
   },
   {
     "country": "turkmenistan",
@@ -3067,13 +3067,13 @@
     "phone_code": "+993",
     "flag": "https://flagpedia.net/data/flags/h80/tm.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "795",
-      "alpha_2": "TM",
-      "alpha_3": "TKM"
+      "alpha_2": "tm",
+      "alpha_3": "tkm"
     },
-    "ccTLD": ".tm"
+    "cctld": ".tm"
   },
   {
     "country": "tuvalu",
@@ -3084,13 +3084,13 @@
     "phone_code": "+668",
     "flag": "https://flagpedia.net/data/flags/h80/tv.png",
     "drive_direction": "left",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "798",
-      "alpha_2": "TV",
-      "alpha_3": "TUV"
+      "alpha_2": "tv",
+      "alpha_3": "tuv"
     },
-    "ccTLD": ".tv"
+    "cctld": ".tv"
   },
   {
     "country": "uganda",
@@ -3101,13 +3101,13 @@
     "phone_code": "+256",
     "flag": "https://flagpedia.net/data/flags/h80/ug.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "800",
-      "alpha_2": "UG",
-      "alpha_3": "UGA"
+      "alpha_2": "ug",
+      "alpha_3": "uga"
     },
-    "ccTLD": ".ug"
+    "cctld": ".ug"
   },
   {
     "country": "ukraine",
@@ -3118,13 +3118,13 @@
     "phone_code": "+380",
     "flag": "https://flagpedia.net/data/flags/h80/ua.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "804",
-      "alpha_2": "UA",
-      "alpha_3": "UKR"
+      "alpha_2": "ua",
+      "alpha_3": "ukr"
     },
-    "ccTLD": ".ua"
+    "cctld": ".ua"
   },
   {
     "country": "united arab emirates",
@@ -3135,13 +3135,13 @@
     "phone_code": "+971",
     "flag": "https://flagpedia.net/data/flags/h80/ae.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "784",
-      "alpha_2": "AE",
-      "alpha_3": "ARE"
+      "alpha_2": "ae",
+      "alpha_3": "are"
     },
-    "ccTLD": ".ae"
+    "cctld": ".ae"
   },
   {
     "country": "united kingdom",
@@ -3152,13 +3152,13 @@
     "phone_code": "+44",
     "flag": "https://flagpedia.net/data/flags/h80/gb.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "826",
-      "alpha_2": "GB",
-      "alpha_3": "GBR"
+      "alpha_2": "gb",
+      "alpha_3": "gbr"
     },
-    "ccTLD": ".gb/.uk"
+    "cctld": ".gb/.uk"
   },
   {
     "country": "united states of america",
@@ -3169,13 +3169,13 @@
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/us.png",
     "drive_direction": "right",
-    "continent": "NA",
+    "continent": "na",
     "iso": {
       "numeric": "840",
-      "alpha_2": "US",
-      "alpha_3": "USA"
+      "alpha_2": "us",
+      "alpha_3": "usa"
     },
-    "ccTLD": ".us"
+    "cctld": ".us"
   },
   {
     "country": "uruguay",
@@ -3186,13 +3186,13 @@
     "phone_code": "+589",
     "flag": "https://flagpedia.net/data/flags/h80/uy.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "858",
-      "alpha_2": "UY",
-      "alpha_3": "URY"
+      "alpha_2": "uy",
+      "alpha_3": "ury"
     },
-    "ccTLD": ".uy"
+    "cctld": ".uy"
   },
   {
     "country": "uzbekistan",
@@ -3203,13 +3203,13 @@
     "phone_code": "+998",
     "flag": "https://flagpedia.net/data/flags/h80/uz.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "860",
-      "alpha_2": "UZ",
-      "alpha_3": "UZB"
+      "alpha_2": "uz",
+      "alpha_3": "uzb"
     },
-    "ccTLD": ".uz"
+    "cctld": ".uz"
   },
   {
     "country": "vanuatu",
@@ -3220,13 +3220,13 @@
     "phone_code": "+978",
     "flag": "https://flagpedia.net/data/flags/h80/vu.png",
     "drive_direction": "right",
-    "continent": "OC",
+    "continent": "oc",
     "iso": {
       "numeric": "548",
-      "alpha_2": "VU",
-      "alpha_3": "VUT"
+      "alpha_2": "vu",
+      "alpha_3": "vut"
     },
-    "ccTLD": ".vu"
+    "cctld": ".vu"
   },
   {
     "country": "vatican city",
@@ -3237,13 +3237,13 @@
     "phone_code": "+379",
     "flag": "https://flagpedia.net/data/flags/h80/va.png",
     "drive_direction": "right",
-    "continent": "EU",
+    "continent": "eu",
     "iso": {
       "numeric": "336",
-      "alpha_2": "VA",
-      "alpha_3": "VAT"
+      "alpha_2": "va",
+      "alpha_3": "vat"
     },
-    "ccTLD": ".va"
+    "cctld": ".va"
   },
   {
     "country": "venezuela",
@@ -3254,13 +3254,13 @@
     "phone_code": "+58",
     "flag": "https://flagpedia.net/data/flags/h80/ve.png",
     "drive_direction": "right",
-    "continent": "SA",
+    "continent": "sa",
     "iso": {
       "numeric": "862",
-      "alpha_2": "VE",
-      "alpha_3": "VEN"
+      "alpha_2": "ve",
+      "alpha_3": "ven"
     },
-    "ccTLD": ".ve"
+    "cctld": ".ve"
   },
   {
     "country": "vietnam",
@@ -3271,13 +3271,13 @@
     "phone_code": "+84",
     "flag": "https://flagpedia.net/data/flags/h80/vn.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "704",
-      "alpha_2": "VN",
-      "alpha_3": "VNM"
+      "alpha_2": "vn",
+      "alpha_3": "vnm"
     },
-    "ccTLD": ".vn"
+    "cctld": ".vn"
   },
   {
     "country": "yemen",
@@ -3288,13 +3288,13 @@
     "phone_code": "+967",
     "flag": "https://flagpedia.net/data/flags/h80/ye.png",
     "drive_direction": "right",
-    "continent": "AS",
+    "continent": "as",
     "iso": {
       "numeric": "887",
-      "alpha_2": "YE",
-      "alpha_3": "YEM"
+      "alpha_2": "ye",
+      "alpha_3": "yem"
     },
-    "ccTLD": ".ye"
+    "cctld": ".ye"
   },
   {
     "country": "zambia",
@@ -3305,13 +3305,13 @@
     "phone_code": "+260",
     "flag": "https://flagpedia.net/data/flags/h80/zm.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "894",
-      "alpha_2": "ZM",
-      "alpha_3": "ZMB"
+      "alpha_2": "zm",
+      "alpha_3": "zmb"
     },
-    "ccTLD": ".zm"
+    "cctld": ".zm"
   },
   {
     "country": "zimbabwe",
@@ -3322,12 +3322,12 @@
     "phone_code": "+263",
     "flag": "https://flagpedia.net/data/flags/h80/zw.png",
     "drive_direction": "left",
-    "continent": "AF",
+    "continent": "af",
     "iso": {
       "numeric": "716",
-      "alpha_2": "ZW",
-      "alpha_3": "ZWE"
+      "alpha_2": "zw",
+      "alpha_3": "zwe"
     },
-    "ccTLD": ".zw"
+    "cctld": ".zw"
   }
 ]
