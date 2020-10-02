@@ -401,8 +401,10 @@ describe("The index", () => {
         "tld": ".vu"
       },
     ];
+    const asiaCountries = countryApi.getCountriesByContinent("as");
+    const [russiaCountry] = countryApi.getCountryDetailsByName("russia");
 
-    it("returns correct amount of africa countries using UPPERCASE", () => {
+    it("returns correct amount of africa countries (uppercase)", () => {
       expect(africaCountries.length).toBe(55);
     });
     it("returns correct amount of europe countries", () => {
@@ -410,6 +412,10 @@ describe("The index", () => {
     });
     it("returns all oceania countries", () => {
       expect(oceaniaCountries).toEqual(expectedOceaniaCountries);
+    });
+    it("returns the same country using 'eu' or 'as' continent", () => {
+      expect(europeCountries).toContain(jasmine.objectContaining(russiaCountry));
+      expect(asiaCountries).toContain(jasmine.objectContaining(russiaCountry));
     });
   });
 
@@ -438,7 +444,7 @@ describe("The index", () => {
     it("returns correct country using numeric ISO", () => {
       expect(numericCountry).toEqual(expectedCountry);
     });
-    it("returns correct country using Alpha-2 ISO with UPPERCASE", () => {
+    it("returns correct country using Alpha-2 ISO (uppercase)", () => {
       expect(alpha2Country).toEqual(expectedCountry);
     });
     it("returns correct country using Alpha-3 ISO", () => {
@@ -525,13 +531,13 @@ describe("The index", () => {
     it("returns correct country using '.pl' domain", () => {
       expect(dotPLCountry).toEqual(expectedDotPLCountry);
     });
-    it("returns correct countries using '.RS' domain", () => {
+    it("returns correct countries using '.RS' (uppercase) domain", () => {
       expect(dotRSCountries).toEqual(expectedDotRSCountries);
     });
     it("returns correct country using '.uk' domain", () => {
       expect(dotUKCountry).toEqual(expectedDotUKCountry);
     });
-    it("returns the same country using '.uk' or '.GB' domain", () => {
+    it("returns the same country using '.uk' or '.GB' (uppercase) domain", () => {
       expect(dotUKCountry).toEqual(dotGBCountry);
     });
   });

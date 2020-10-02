@@ -133,7 +133,12 @@ const getCountriesByFamousFor = (famousThing) => {
  * @returns {Array} An array of country objects
  */
 const getCountriesByContinent = (continentCode) => {
-  return getCountriesByObject(continentCode, "continent");
+  continentCode = continentCode.toLowerCase();
+
+  return data.filter(country => country.continent
+    .split('/')
+    .includes(continentCode)
+  );
 };
 
 /**
