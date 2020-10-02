@@ -25,6 +25,13 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
+        continent: "as",
+        iso: {
+          numeric: "004",
+          alpha_2: "af",
+          alpha_3: "afg",
+        },
+        tld: ".af",
       });
     });
   });
@@ -40,6 +47,13 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
+        continent: "eu",
+        iso: {
+          numeric: "008",
+          alpha_2: "al",
+          alpha_3: "alb",
+        },
+        tld: ".al",
       });
     });
   });
@@ -61,6 +75,13 @@ describe("The index", () => {
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
         drive_direction: "right",
+        continent: "eu",
+        iso: {
+          numeric: "070",
+          alpha_2: "ba",
+          alpha_3: "bih",
+        },
+        tld: ".ba",
       });
     });
   });
