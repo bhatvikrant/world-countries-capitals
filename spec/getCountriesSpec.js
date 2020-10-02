@@ -412,4 +412,37 @@ describe("The index", () => {
       expect(oceaniaCountries).toEqual(expectedOceaniaCountries);
     });
   });
+
+  describe("The getCountryDetailsByISO", () => {
+    const [numericCountry] = countryApi.getCountryDetailsByISO("numeric", "616");
+    const [alpha2Country] = countryApi.getCountryDetailsByISO("ALPHA_2", "PL");
+    const [alpha3Country] = countryApi.getCountryDetailsByISO("alpha_3", "pol");
+    const expectedCountry = {
+      "country": "poland",
+      "capital": "warsaw",
+      "currency": "zloty",
+      "native_language": ["polish"],
+      "famous_for": "pierogi and potatoes",
+      "phone_code": "+48",
+      "flag": "https://flagpedia.net/data/flags/h80/pl.png",
+      "drive_direction": "right",
+      "continent": "eu",
+      "iso": {
+        "numeric": "616",
+        "alpha_2": "pl",
+        "alpha_3": "pol"
+      },
+      "tld": ".pl"
+    };
+
+    it("returns correct country using numeric ISO", () => {
+      expect(numericCountry).toEqual(expectedCountry);
+    });
+    it("returns correct country using Alpha-2 ISO with UPPERCASE", () => {
+      expect(alpha2Country).toEqual(expectedCountry);
+    });
+    it("returns correct country using Alpha-3 ISO", () => {
+      expect(alpha3Country).toEqual(expectedCountry);
+    });
+  });
 });
