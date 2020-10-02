@@ -445,4 +445,94 @@ describe("The index", () => {
       expect(alpha3Country).toEqual(expectedCountry);
     });
   });
+
+  describe("The getCountriesByTLD", () => {
+    const [dotPLCountry] = countryApi.getCountriesByTLD(".pl");
+    const expectedDotPLCountry = {
+      "country": "poland",
+      "capital": "warsaw",
+      "currency": "zloty",
+      "native_language": ["polish"],
+      "famous_for": "pierogi and potatoes",
+      "phone_code": "+48",
+      "flag": "https://flagpedia.net/data/flags/h80/pl.png",
+      "drive_direction": "right",
+      "continent": "eu",
+      "iso": {
+        "numeric": "616",
+        "alpha_2": "pl",
+        "alpha_3": "pol"
+      },
+      "tld": ".pl"
+    };
+    const dotRSCountries = countryApi.getCountriesByTLD(".RS");
+    const expectedDotRSCountries = [
+      {
+        "country": "kosovo",
+        "capital": "pristina",
+        "currency": "euro",
+        "native_language": ["albanian", "serbian"],
+        "famous_for": "mountains and wine",
+        "phone_code": "+383",
+        "flag": "https://flagpedia.net/data/flags/h80/xk.png",
+        "drive_direction": "right",
+        "continent": "eu",
+        "iso": {
+          "numeric": "383",
+          "alpha_2": "xk",
+          "alpha_3": "xkx"
+        },
+        "tld": ".rs"
+      },
+      {
+        "country": "serbia",
+        "capital": "belgrade",
+        "currency": "serbian dinar",
+        "native_language": ["serbian"],
+        "famous_for": "culture, history, delicious cuisine, and nightlife",
+        "phone_code": "+381",
+        "flag": "https://flagpedia.net/data/flags/h80/rs.png",
+        "drive_direction": "right",
+        "continent": "eu",
+        "iso": {
+          "numeric": "688",
+          "alpha_2": "rs",
+          "alpha_3": "srb"
+        },
+        "tld": ".rs"
+      },
+    ];
+    const [dotUKCountry] = countryApi.getCountriesByTLD(".uk");
+    const expectedDotUKCountry = {
+      "country": "united kingdom",
+      "capital": "london",
+      "currency": "pound sterling",
+      "native_language": ["english"],
+      "famous_for": "david beckham, fish and chips, big ben, red buses, black cabs, oasis, blur, the beatles, london and tea",
+      "phone_code": "+44",
+      "flag": "https://flagpedia.net/data/flags/h80/gb.png",
+      "drive_direction": "right",
+      "continent": "eu",
+      "iso": {
+        "numeric": "826",
+        "alpha_2": "gb",
+        "alpha_3": "gbr"
+      },
+      "tld": ".gb/.uk"
+    };
+    const [dotGBCountry] = countryApi.getCountriesByTLD(".GB");
+
+    it("returns correct country using '.pl' domain", () => {
+      expect(dotPLCountry).toEqual(expectedDotPLCountry);
+    });
+    it("returns correct countries using '.RS' domain", () => {
+      expect(dotRSCountries).toEqual(expectedDotRSCountries);
+    });
+    it("returns correct country using '.uk' domain", () => {
+      expect(dotUKCountry).toEqual(expectedDotUKCountry);
+    });
+    it("returns the same country using '.uk' or '.GB' domain", () => {
+      expect(dotUKCountry).toEqual(dotGBCountry);
+    });
+  });
 });
