@@ -94,7 +94,7 @@
     "capital": "vienna",
     "currency": "euro",
     "native_language": ["german"],
-    "famous_for": "hitler, mozart, franz ferdinand and arnold schwarzenegger",
+    "famous_for": "hitler, mozart, redbull, franz ferdinand and arnold schwarzenegger",
     "phone_code": "+43",
     "flag": "https://flagpedia.net/data/flags/h80/at.png",
     "drive_direction": "right"
@@ -1684,7 +1684,7 @@
     "capital": "stockholm",
     "currency": "swedish krona",
     "native_language": ["swedish"],
-    "famous_for": "ikea",
+    "famous_for": "ikea, meatballs, volvo",
     "phone_code": "+46",
     "flag": "https://flagpedia.net/data/flags/h80/se.png",
     "drive_direction": "right"
@@ -1703,7 +1703,7 @@
     "capital": "damascus",
     "currency": "syrian pound",
     "native_language": ["arabic"],
-    "famous_for": "isis",
+    "famous_for": "old heritage cities",
     "phone_code": "+963",
     "flag": "https://flagpedia.net/data/flags/h80/sy.png",
     "drive_direction": "right"
@@ -1793,7 +1793,7 @@
     "capital": "ankara",
     "currency": "turkish lira",
     "native_language": ["turkish"],
-    "famous_for": "big mountain ranges, istanbul",
+    "famous_for": "big mountain ranges, istanbul, shawarma",
     "phone_code": "+90",
     "flag": "https://flagpedia.net/data/flags/h80/tr.png",
     "drive_direction": "right"
