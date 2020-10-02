@@ -14,7 +14,7 @@
       "alpha_2": "af",
       "alpha_3": "afg"
     },
-    "cctld": ".af"
+    "tld": ".af"
   },
   {
     "country": "albania",
@@ -31,7 +31,7 @@
       "alpha_2": "al",
       "alpha_3": "alb"
     },
-    "cctld": ".al"
+    "tld": ".al"
   },
   {
     "country": "algeria",
@@ -48,7 +48,7 @@
       "alpha_2": "dz",
       "alpha_3": "dza"
     },
-    "cctld": ".dz"
+    "tld": ".dz"
   },
   {
     "country": "andorra",
@@ -65,7 +65,7 @@
       "alpha_2": "ad",
       "alpha_3": "and"
     },
-    "cctld": ".ad"
+    "tld": ".ad"
   },
   {
     "country": "angola",
@@ -82,7 +82,7 @@
       "alpha_2": "ao",
       "alpha_3": "ago"
     },
-    "cctld": ".ao"
+    "tld": ".ao"
   },
   {
     "country": "antigua & barbuda",
@@ -99,7 +99,7 @@
       "alpha_2": "ag",
       "alpha_3": "atg"
     },
-    "cctld": ".ag"
+    "tld": ".ag"
   },
   {
     "country": "argentina",
@@ -116,7 +116,7 @@
       "alpha_2": "ar",
       "alpha_3": "arg"
     },
-    "cctld": ".ar"
+    "tld": ".ar"
   },
   {
     "country": "armenia",
@@ -133,7 +133,7 @@
       "alpha_2": "am",
       "alpha_3": "arm"
     },
-    "cctld": ".am"
+    "tld": ".am"
   },
   {
     "country": "australia",
@@ -150,7 +150,7 @@
       "alpha_2": "au",
       "alpha_3": "aus"
     },
-    "cctld": ".au"
+    "tld": ".au"
   },
   {
     "country": "austria",
@@ -167,7 +167,7 @@
       "alpha_2": "at",
       "alpha_3": "aut"
     },
-    "cctld": ".at"
+    "tld": ".at"
   },
   {
     "country": "azerbaijan",
@@ -184,7 +184,7 @@
       "alpha_2": "az",
       "alpha_3": "aze"
     },
-    "cctld": ".az"
+    "tld": ".az"
   },
   {
     "country": "the bahamas",
@@ -201,7 +201,7 @@
       "alpha_2": "bs",
       "alpha_3": "bhs"
     },
-    "cctld": ".bs"
+    "tld": ".bs"
   },
   {
     "country": "bahrain",
@@ -218,7 +218,7 @@
       "alpha_2": "bh",
       "alpha_3": "bhr"
     },
-    "cctld": ".bh"
+    "tld": ".bh"
   },
   {
     "country": "bangladesh",
@@ -235,7 +235,7 @@
       "alpha_2": "bd",
       "alpha_3": "bgd"
     },
-    "cctld": ".bd"
+    "tld": ".bd"
   },
   {
     "country": "barbados",
@@ -252,7 +252,7 @@
       "alpha_2": "bb",
       "alpha_3": "brb"
     },
-    "cctld": ".bb"
+    "tld": ".bb"
   },
   {
     "country": "belarus",
@@ -269,7 +269,7 @@
       "alpha_2": "by",
       "alpha_3": "blr"
     },
-    "cctld": ".by"
+    "tld": ".by"
   },
   {
     "country": "belgium",
@@ -286,7 +286,7 @@
       "alpha_2": "be",
       "alpha_3": "bel"
     },
-    "cctld": ".be"
+    "tld": ".be"
   },
   {
     "country": "belize",
@@ -303,7 +303,7 @@
       "alpha_2": "bz",
       "alpha_3": "blz"
     },
-    "cctld": ".bz"
+    "tld": ".bz"
   },
   {
     "country": "benin",
@@ -320,7 +320,7 @@
       "alpha_2": "bj",
       "alpha_3": "ben"
     },
-    "cctld": ".bj"
+    "tld": ".bj"
   },
   {
     "country": "bhutan",
@@ -337,7 +337,7 @@
       "alpha_2": "bt",
       "alpha_3": "btn"
     },
-    "cctld": ".bt"
+    "tld": ".bt"
   },
   {
     "country": "bolivia",
@@ -354,7 +354,7 @@
       "alpha_2": "bo",
       "alpha_3": "bol"
     },
-    "cctld": ".bo"
+    "tld": ".bo"
   },
   {
     "country": "bosnia and herzegovina",
@@ -371,7 +371,7 @@
       "alpha_2": "ba",
       "alpha_3": "bih"
     },
-    "cctld": ".ba"
+    "tld": ".ba"
   },
   {
     "country": "botswana",
@@ -388,7 +388,7 @@
       "alpha_2": "bw",
       "alpha_3": "bwa"
     },
-    "cctld": ".bw"
+    "tld": ".bw"
   },
   {
     "country": "brazil",
@@ -405,7 +405,7 @@
       "alpha_2": "br",
       "alpha_3": "bra"
     },
-    "cctld": ".br"
+    "tld": ".br"
   },
   {
     "country": "brunei",
@@ -422,7 +422,7 @@
       "alpha_2": "bn",
       "alpha_3": "brn"
     },
-    "cctld": ".bn"
+    "tld": ".bn"
   },
   {
     "country": "bulgaria",
@@ -439,7 +439,7 @@
       "alpha_2": "bg",
       "alpha_3": "bgr"
     },
-    "cctld": ".bg"
+    "tld": ".bg"
   },
   {
     "country": "burkina faso",
@@ -456,7 +456,7 @@
       "alpha_2": "bf",
       "alpha_3": "bfa"
     },
-    "cctld": ".bf"
+    "tld": ".bf"
   },
   {
     "country": "burundi",
@@ -473,7 +473,7 @@
       "alpha_2": "bi",
       "alpha_3": "bdi"
     },
-    "cctld": ".bi"
+    "tld": ".bi"
   },
   {
     "country": "cambodia",
@@ -490,7 +490,7 @@
       "alpha_2": "kh",
       "alpha_3": "khm"
     },
-    "cctld": ".kh"
+    "tld": ".kh"
   },
   {
     "country": "cameroon",
@@ -507,7 +507,7 @@
       "alpha_2": "cm",
       "alpha_3": "cmr"
     },
-    "cctld": ".cm"
+    "tld": ".cm"
   },
   {
     "country": "canada",
@@ -524,7 +524,7 @@
       "alpha_2": "ca",
       "alpha_3": "can"
     },
-    "cctld": ".ca"
+    "tld": ".ca"
   },
   {
     "country": "cape verde",
@@ -541,7 +541,7 @@
       "alpha_2": "cv",
       "alpha_3": "cpv"
     },
-    "cctld": ".cv"
+    "tld": ".cv"
   },
   {
     "country": "central african republic",
@@ -558,7 +558,7 @@
       "alpha_2": "cf",
       "alpha_3": "caf"
     },
-    "cctld": ".cf"
+    "tld": ".cf"
   },
   {
     "country": "chad",
@@ -575,7 +575,7 @@
       "alpha_2": "td",
       "alpha_3": "tcd"
     },
-    "cctld": ".td"
+    "tld": ".td"
   },
   {
     "country": "chile",
@@ -592,7 +592,7 @@
       "alpha_2": "cl",
       "alpha_3": "chl"
     },
-    "cctld": ".cl"
+    "tld": ".cl"
   },
   {
     "country": "china",
@@ -609,7 +609,7 @@
       "alpha_2": "cn",
       "alpha_3": "chn"
     },
-    "cctld": ".cn"
+    "tld": ".cn"
   },
   {
     "country": "colombia",
@@ -626,7 +626,7 @@
       "alpha_2": "co",
       "alpha_3": "col"
     },
-    "cctld": ".co"
+    "tld": ".co"
   },
   {
     "country": "comoros",
@@ -643,7 +643,7 @@
       "alpha_2": "km",
       "alpha_3": "com"
     },
-    "cctld": ".km"
+    "tld": ".km"
   },
   {
     "country": "democratic republic of the congo",
@@ -660,7 +660,7 @@
       "alpha_2": "cd",
       "alpha_3": "cod"
     },
-    "cctld": ".cd"
+    "tld": ".cd"
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -677,7 +677,7 @@
       "alpha_2": "cg",
       "alpha_3": "cog"
     },
-    "cctld": ".cg"
+    "tld": ".cg"
   },
   {
     "country": "costa rica",
@@ -694,7 +694,7 @@
       "alpha_2": "cr",
       "alpha_3": "cri"
     },
-    "cctld": ".cr"
+    "tld": ".cr"
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -711,7 +711,7 @@
       "alpha_2": "ci",
       "alpha_3": "civ"
     },
-    "cctld": ".ci"
+    "tld": ".ci"
   },
   {
     "country": "croatia",
@@ -728,7 +728,7 @@
       "alpha_2": "hr",
       "alpha_3": "hrv"
     },
-    "cctld": ".hr"
+    "tld": ".hr"
   },
   {
     "country": "cuba",
@@ -745,7 +745,7 @@
       "alpha_2": "cu",
       "alpha_3": "cub"
     },
-    "cctld": ".cu"
+    "tld": ".cu"
   },
   {
     "country": "cyprus",
@@ -762,7 +762,7 @@
       "alpha_2": "cy",
       "alpha_3": "cyp"
     },
-    "cctld": ".cy"
+    "tld": ".cy"
   },
   {
     "country": "czechia",
@@ -779,7 +779,7 @@
       "alpha_2": "cz",
       "alpha_3": "cze"
     },
-    "cctld": ".cz"
+    "tld": ".cz"
   },
   {
     "country": "denmark",
@@ -796,7 +796,7 @@
       "alpha_2": "dk",
       "alpha_3": "dnk"
     },
-    "cctld": ".dk"
+    "tld": ".dk"
   },
   {
     "country": "djibouti",
@@ -813,7 +813,7 @@
       "alpha_2": "dj",
       "alpha_3": "dji"
     },
-    "cctld": ".dj"
+    "tld": ".dj"
   },
   {
     "country": "dominica",
@@ -830,7 +830,7 @@
       "alpha_2": "dm",
       "alpha_3": "dma"
     },
-    "cctld": ".dm"
+    "tld": ".dm"
   },
   {
     "country": "dominican republic",
@@ -847,7 +847,7 @@
       "alpha_2": "do",
       "alpha_3": "dom"
     },
-    "cctld": ".do"
+    "tld": ".do"
   },
   {
     "country": "east timor (timor-leste)",
@@ -864,7 +864,7 @@
       "alpha_2": "tl",
       "alpha_3": "tls"
     },
-    "cctld": ".tl"
+    "tld": ".tl"
   },
   {
     "country": "ecuador",
@@ -881,7 +881,7 @@
       "alpha_2": "ec",
       "alpha_3": "ecu"
     },
-    "cctld": ".ec"
+    "tld": ".ec"
   },
   {
     "country": "egypt",
@@ -898,7 +898,7 @@
       "alpha_2": "eg",
       "alpha_3": "egy"
     },
-    "cctld": ".eg"
+    "tld": ".eg"
   },
   {
     "country": "el salvador",
@@ -915,7 +915,7 @@
       "alpha_2": "sv",
       "alpha_3": "slv"
     },
-    "cctld": ".sv"
+    "tld": ".sv"
   },
   {
     "country": "equitorial guinea",
@@ -932,7 +932,7 @@
       "alpha_2": "gq",
       "alpha_3": "gnq"
     },
-    "cctld": ".gq"
+    "tld": ".gq"
   },
   {
     "country": "eritrea",
@@ -949,7 +949,7 @@
       "alpha_2": "er",
       "alpha_3": "eri"
     },
-    "cctld": ".er"
+    "tld": ".er"
   },
   {
     "country": "estonia",
@@ -966,7 +966,7 @@
       "alpha_2": "ee",
       "alpha_3": "est"
     },
-    "cctld": ".ee"
+    "tld": ".ee"
   },
   {
     "country": "ethiopia",
@@ -983,7 +983,7 @@
       "alpha_2": "et",
       "alpha_3": "eth"
     },
-    "cctld": ".et"
+    "tld": ".et"
   },
   {
     "country": "fiji",
@@ -1000,7 +1000,7 @@
       "alpha_2": "fj",
       "alpha_3": "fji"
     },
-    "cctld": ".fj"
+    "tld": ".fj"
   },
   {
     "country": "finland",
@@ -1017,7 +1017,7 @@
       "alpha_2": "fi",
       "alpha_3": "fin"
     },
-    "cctld": ".fi"
+    "tld": ".fi"
   },
   {
     "country": "france",
@@ -1034,7 +1034,7 @@
       "alpha_2": "fr",
       "alpha_3": "fra"
     },
-    "cctld": ".fr"
+    "tld": ".fr"
   },
   {
     "country": "gabon",
@@ -1051,7 +1051,7 @@
       "alpha_2": "ga",
       "alpha_3": "gab"
     },
-    "cctld": ".ga"
+    "tld": ".ga"
   },
   {
     "country": "the gambia",
@@ -1068,7 +1068,7 @@
       "alpha_2": "gm",
       "alpha_3": "gmb"
     },
-    "cctld": ".gm"
+    "tld": ".gm"
   },
   {
     "country": "georgia",
@@ -1085,7 +1085,7 @@
       "alpha_2": "ge",
       "alpha_3": "geo"
     },
-    "cctld": ".ge"
+    "tld": ".ge"
   },
   {
     "country": "germany",
@@ -1102,7 +1102,7 @@
       "alpha_2": "de",
       "alpha_3": "deu"
     },
-    "cctld": ".de"
+    "tld": ".de"
   },
   {
     "country": "ghana",
@@ -1119,7 +1119,7 @@
       "alpha_2": "gh",
       "alpha_3": "gha"
     },
-    "cctld": ".gh"
+    "tld": ".gh"
   },
   {
     "country": "greece",
@@ -1136,7 +1136,7 @@
       "alpha_2": "gr",
       "alpha_3": "grc"
     },
-    "cctld": ".gr"
+    "tld": ".gr"
   },
   {
     "country": "grenada",
@@ -1153,7 +1153,7 @@
       "alpha_2": "gd",
       "alpha_3": "grd"
     },
-    "cctld": ".gd"
+    "tld": ".gd"
   },
   {
     "country": "guatemala",
@@ -1170,7 +1170,7 @@
       "alpha_2": "gt",
       "alpha_3": "gtm"
     },
-    "cctld": ".gt"
+    "tld": ".gt"
   },
   {
     "country": "guinea",
@@ -1187,7 +1187,7 @@
       "alpha_2": "gn",
       "alpha_3": "gin"
     },
-    "cctld": ".gn"
+    "tld": ".gn"
   },
   {
     "country": "guinea-bissau",
@@ -1204,7 +1204,7 @@
       "alpha_2": "gw",
       "alpha_3": "gnb"
     },
-    "cctld": ".gw"
+    "tld": ".gw"
   },
   {
     "country": "guyana",
@@ -1221,7 +1221,7 @@
       "alpha_2": "gy",
       "alpha_3": "guy"
     },
-    "cctld": ".gy"
+    "tld": ".gy"
   },
   {
     "country": "haiti",
@@ -1238,7 +1238,7 @@
       "alpha_2": "ht",
       "alpha_3": "hti"
     },
-    "cctld": ".ht"
+    "tld": ".ht"
   },
   {
     "country": "honduras",
@@ -1255,7 +1255,7 @@
       "alpha_2": "hn",
       "alpha_3": "hnd"
     },
-    "cctld": ".hn"
+    "tld": ".hn"
   },
   {
     "country": "hungary",
@@ -1272,7 +1272,7 @@
       "alpha_2": "hu",
       "alpha_3": "hun"
     },
-    "cctld": ".hu"
+    "tld": ".hu"
   },
   {
     "country": "iceland",
@@ -1289,7 +1289,7 @@
       "alpha_2": "is",
       "alpha_3": "isl"
     },
-    "cctld": ".is"
+    "tld": ".is"
   },
   {
     "country": "india",
@@ -1306,7 +1306,7 @@
       "alpha_2": "in",
       "alpha_3": "ind"
     },
-    "cctld": ".in"
+    "tld": ".in"
   },
   {
     "country": "indonesia",
@@ -1323,7 +1323,7 @@
       "alpha_2": "id",
       "alpha_3": "idn"
     },
-    "cctld": ".id"
+    "tld": ".id"
   },
   {
     "country": "iran",
@@ -1340,7 +1340,7 @@
       "alpha_2": "ir",
       "alpha_3": "irn"
     },
-    "cctld": ".ir"
+    "tld": ".ir"
   },
   {
     "country": "iraq",
@@ -1357,7 +1357,7 @@
       "alpha_2": "iq",
       "alpha_3": "irq"
     },
-    "cctld": ".iq"
+    "tld": ".iq"
   },
   {
     "country": "republic of ireland",
@@ -1374,7 +1374,7 @@
       "alpha_2": "ie",
       "alpha_3": "irl"
     },
-    "cctld": ".ie"
+    "tld": ".ie"
   },
   {
     "country": "israel",
@@ -1391,7 +1391,7 @@
       "alpha_2": "il",
       "alpha_3": "isr"
     },
-    "cctld": ".il"
+    "tld": ".il"
   },
   {
     "country": "italy",
@@ -1408,7 +1408,7 @@
       "alpha_2": "it",
       "alpha_3": "ita"
     },
-    "cctld": ".it"
+    "tld": ".it"
   },
   {
     "country": "jamaica",
@@ -1425,7 +1425,7 @@
       "alpha_2": "jm",
       "alpha_3": "jam"
     },
-    "cctld": ".jm"
+    "tld": ".jm"
   },
   {
     "country": "japan",
@@ -1442,7 +1442,7 @@
       "alpha_2": "jp",
       "alpha_3": "jpn"
     },
-    "cctld": ".jp"
+    "tld": ".jp"
   },
   {
     "country": "jordan",
@@ -1459,7 +1459,7 @@
       "alpha_2": "jo",
       "alpha_3": "jor"
     },
-    "cctld": ".jo"
+    "tld": ".jo"
   },
   {
     "country": "kazakhstan",
@@ -1476,7 +1476,7 @@
       "alpha_2": "kz",
       "alpha_3": "kaz"
     },
-    "cctld": ".kz"
+    "tld": ".kz"
   },
   {
     "country": "kenya",
@@ -1493,7 +1493,7 @@
       "alpha_2": "ke",
       "alpha_3": "ken"
     },
-    "cctld": ".ke"
+    "tld": ".ke"
   },
   {
     "country": "kiribati",
@@ -1510,7 +1510,7 @@
       "alpha_2": "ki",
       "alpha_3": "kir"
     },
-    "cctld": ".ki"
+    "tld": ".ki"
   },
   {
     "country": "north korea",
@@ -1527,7 +1527,7 @@
       "alpha_2": "kp",
       "alpha_3": "prk"
     },
-    "cctld": ".kp"
+    "tld": ".kp"
   },
   {
     "country": "south korea",
@@ -1544,7 +1544,7 @@
       "alpha_2": "kr",
       "alpha_3": "kor"
     },
-    "cctld": ".kr"
+    "tld": ".kr"
   },
   {
     "country": "kosovo",
@@ -1561,7 +1561,7 @@
       "alpha_2": "xk",
       "alpha_3": "xkx"
     },
-    "cctld": ".rs"
+    "tld": ".rs"
   },
   {
     "country": "kuwait",
@@ -1578,7 +1578,7 @@
       "alpha_2": "kw",
       "alpha_3": "kwt"
     },
-    "cctld": ".kw"
+    "tld": ".kw"
   },
   {
     "country": "kyrgyzstan",
@@ -1595,7 +1595,7 @@
       "alpha_2": "kg",
       "alpha_3": "kgz"
     },
-    "cctld": ".kg"
+    "tld": ".kg"
   },
   {
     "country": "laos",
@@ -1612,7 +1612,7 @@
       "alpha_2": "la",
       "alpha_3": "lao"
     },
-    "cctld": ".la"
+    "tld": ".la"
   },
   {
     "country": "latvia",
@@ -1629,7 +1629,7 @@
       "alpha_2": "lv",
       "alpha_3": "lva"
     },
-    "cctld": ".lv"
+    "tld": ".lv"
   },
   {
     "country": "lebanon",
@@ -1646,7 +1646,7 @@
       "alpha_2": "lb",
       "alpha_3": "lbn"
     },
-    "cctld": ".lb"
+    "tld": ".lb"
   },
   {
     "country": "lesotho",
@@ -1663,7 +1663,7 @@
       "alpha_2": "ls",
       "alpha_3": "lso"
     },
-    "cctld": ".ls"
+    "tld": ".ls"
   },
   {
     "country": "liberia",
@@ -1680,7 +1680,7 @@
       "alpha_2": "lr",
       "alpha_3": "lbr"
     },
-    "cctld": ".lr"
+    "tld": ".lr"
   },
   {
     "country": "libya",
@@ -1697,7 +1697,7 @@
       "alpha_2": "ly",
       "alpha_3": "lby"
     },
-    "cctld": ".ly"
+    "tld": ".ly"
   },
   {
     "country": "liechtenstein",
@@ -1714,7 +1714,7 @@
       "alpha_2": "li",
       "alpha_3": "lie"
     },
-    "cctld": ".li"
+    "tld": ".li"
   },
   {
     "country": "lithuania",
@@ -1731,7 +1731,7 @@
       "alpha_2": "lt",
       "alpha_3": "ltu"
     },
-    "cctld": ".lt"
+    "tld": ".lt"
   },
   {
     "country": "luxembourg",
@@ -1748,7 +1748,7 @@
       "alpha_2": "lu",
       "alpha_3": "lux"
     },
-    "cctld": ".lu"
+    "tld": ".lu"
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1765,7 +1765,7 @@
       "alpha_2": "mk",
       "alpha_3": "mkd"
     },
-    "cctld": ".mk"
+    "tld": ".mk"
   },
   {
     "country": "madagascar",
@@ -1782,7 +1782,7 @@
       "alpha_2": "mg",
       "alpha_3": "mdg"
     },
-    "cctld": ".mg"
+    "tld": ".mg"
   },
   {
     "country": "malawi",
@@ -1799,7 +1799,7 @@
       "alpha_2": "mw",
       "alpha_3": "mwi"
     },
-    "cctld": ".mw"
+    "tld": ".mw"
   },
   {
     "country": "malaysia",
@@ -1816,7 +1816,7 @@
       "alpha_2": "my",
       "alpha_3": "mys"
     },
-    "cctld": ".my"
+    "tld": ".my"
   },
   {
     "country": "maldives",
@@ -1833,7 +1833,7 @@
       "alpha_2": "mv",
       "alpha_3": "mdv"
     },
-    "cctld": ".mv"
+    "tld": ".mv"
   },
   {
     "country": "mali",
@@ -1850,7 +1850,7 @@
       "alpha_2": "ml",
       "alpha_3": "mli"
     },
-    "cctld": ".ml"
+    "tld": ".ml"
   },
   {
     "country": "malta",
@@ -1867,7 +1867,7 @@
       "alpha_2": "mt",
       "alpha_3": "mlt"
     },
-    "cctld": ".mt"
+    "tld": ".mt"
   },
   {
     "country": "marshall islands",
@@ -1884,7 +1884,7 @@
       "alpha_2": "mh",
       "alpha_3": "mhl"
     },
-    "cctld": ".mh"
+    "tld": ".mh"
   },
   {
     "country": "mauritania",
@@ -1901,7 +1901,7 @@
       "alpha_2": "mr",
       "alpha_3": "mrt"
     },
-    "cctld": ".mr"
+    "tld": ".mr"
   },
   {
     "country": "mauritius",
@@ -1918,7 +1918,7 @@
       "alpha_2": "mu",
       "alpha_3": "mus"
     },
-    "cctld": ".mu"
+    "tld": ".mu"
   },
   {
     "country": "mexico",
@@ -1935,7 +1935,7 @@
       "alpha_2": "mx",
       "alpha_3": "mex"
     },
-    "cctld": ".mx"
+    "tld": ".mx"
   },
   {
     "country": "federal states of micronesia",
@@ -1952,7 +1952,7 @@
       "alpha_2": "fm",
       "alpha_3": "fsm"
     },
-    "cctld": ".fm"
+    "tld": ".fm"
   },
   {
     "country": "moldova",
@@ -1969,7 +1969,7 @@
       "alpha_2": "md",
       "alpha_3": "mda"
     },
-    "cctld": ".md"
+    "tld": ".md"
   },
   {
     "country": "monaco",
@@ -1986,7 +1986,7 @@
       "alpha_2": "mc",
       "alpha_3": "mco"
     },
-    "cctld": ".mc"
+    "tld": ".mc"
   },
   {
     "country": "mongolia",
@@ -2003,7 +2003,7 @@
       "alpha_2": "mn",
       "alpha_3": "mng"
     },
-    "cctld": ".mn"
+    "tld": ".mn"
   },
   {
     "country": "montenegro",
@@ -2020,7 +2020,7 @@
       "alpha_2": "me",
       "alpha_3": "mne"
     },
-    "cctld": ".me"
+    "tld": ".me"
   },
   {
     "country": "morocco",
@@ -2037,7 +2037,7 @@
       "alpha_2": "ma",
       "alpha_3": "mar"
     },
-    "cctld": ".ma"
+    "tld": ".ma"
   },
   {
     "country": "mozambique",
@@ -2054,7 +2054,7 @@
       "alpha_2": "mz",
       "alpha_3": "moz"
     },
-    "cctld": ".mz"
+    "tld": ".mz"
   },
   {
     "country": "myanmar (burma)",
@@ -2071,7 +2071,7 @@
       "alpha_2": "mm",
       "alpha_3": "mmr"
     },
-    "cctld": ".mm"
+    "tld": ".mm"
   },
   {
     "country": "namibia",
@@ -2088,7 +2088,7 @@
       "alpha_2": "na",
       "alpha_3": "nam"
     },
-    "cctld": ".na"
+    "tld": ".na"
   },
   {
     "country": "nauru",
@@ -2105,7 +2105,7 @@
       "alpha_2": "nr",
       "alpha_3": "nru"
     },
-    "cctld": ".nr"
+    "tld": ".nr"
   },
   {
     "country": "nepal",
@@ -2122,7 +2122,7 @@
       "alpha_2": "np",
       "alpha_3": "npl"
     },
-    "cctld": ".np"
+    "tld": ".np"
   },
   {
     "country": "netherlands",
@@ -2139,7 +2139,7 @@
       "alpha_2": "nl",
       "alpha_3": "nld"
     },
-    "cctld": ".nl"
+    "tld": ".nl"
   },
   {
     "country": "new zealand",
@@ -2156,7 +2156,7 @@
       "alpha_2": "nz",
       "alpha_3": "nzl"
     },
-    "cctld": ".nz"
+    "tld": ".nz"
   },
   {
     "country": "nicaragua",
@@ -2173,7 +2173,7 @@
       "alpha_2": "ni",
       "alpha_3": "nic"
     },
-    "cctld": ".ni"
+    "tld": ".ni"
   },
   {
     "country": "niger",
@@ -2190,7 +2190,7 @@
       "alpha_2": "ne",
       "alpha_3": "ner"
     },
-    "cctld": ".ne"
+    "tld": ".ne"
   },
   {
     "country": "nigeria",
@@ -2207,7 +2207,7 @@
       "alpha_2": "ng",
       "alpha_3": "nga"
     },
-    "cctld": ".ng"
+    "tld": ".ng"
   },
   {
     "country": "norway",
@@ -2224,7 +2224,7 @@
       "alpha_2": "no",
       "alpha_3": "nor"
     },
-    "cctld": ".no"
+    "tld": ".no"
   },
   {
     "country": "oman",
@@ -2241,7 +2241,7 @@
       "alpha_2": "om",
       "alpha_3": "omn"
     },
-    "cctld": ".om"
+    "tld": ".om"
   },
   {
     "country": "pakistan",
@@ -2258,7 +2258,7 @@
       "alpha_2": "pk",
       "alpha_3": "pak"
     },
-    "cctld": ".pk"
+    "tld": ".pk"
   },
   {
     "country": "palau",
@@ -2275,7 +2275,7 @@
       "alpha_2": "pw",
       "alpha_3": "plw"
     },
-    "cctld": ".pw"
+    "tld": ".pw"
   },
   {
     "country": "panama",
@@ -2292,7 +2292,7 @@
       "alpha_2": "pa",
       "alpha_3": "pan"
     },
-    "cctld": ".pa"
+    "tld": ".pa"
   },
   {
     "country": "papa new guinea",
@@ -2309,7 +2309,7 @@
       "alpha_2": "pg",
       "alpha_3": "png"
     },
-    "cctld": ".pg"
+    "tld": ".pg"
   },
   {
     "country": "paraguay",
@@ -2326,7 +2326,7 @@
       "alpha_2": "py",
       "alpha_3": "pry"
     },
-    "cctld": ".py"
+    "tld": ".py"
   },
   {
     "country": "peru",
@@ -2343,7 +2343,7 @@
       "alpha_2": "pe",
       "alpha_3": "per"
     },
-    "cctld": ".pe"
+    "tld": ".pe"
   },
   {
     "country": "philippines",
@@ -2360,7 +2360,7 @@
       "alpha_2": "ph",
       "alpha_3": "phl"
     },
-    "cctld": ".ph"
+    "tld": ".ph"
   },
   {
     "country": "poland",
@@ -2377,7 +2377,7 @@
       "alpha_2": "pl",
       "alpha_3": "pol"
     },
-    "cctld": ".pl"
+    "tld": ".pl"
   },
   {
     "country": "portugal",
@@ -2394,7 +2394,7 @@
       "alpha_2": "pt",
       "alpha_3": "prt"
     },
-    "cctld": ".pt"
+    "tld": ".pt"
   },
   {
     "country": "qatar",
@@ -2411,7 +2411,7 @@
       "alpha_2": "qa",
       "alpha_3": "qat"
     },
-    "cctld": ".qa"
+    "tld": ".qa"
   },
   {
     "country": "romania",
@@ -2428,7 +2428,7 @@
       "alpha_2": "ro",
       "alpha_3": "rou"
     },
-    "cctld": ".ro"
+    "tld": ".ro"
   },
   {
     "country": "russia",
@@ -2445,7 +2445,7 @@
       "alpha_2": "ru",
       "alpha_3": "rus"
     },
-    "cctld": ".ru"
+    "tld": ".ru"
   },
   {
     "country": "rwanda",
@@ -2462,7 +2462,7 @@
       "alpha_2": "rw",
       "alpha_3": "rwa"
     },
-    "cctld": ".rw"
+    "tld": ".rw"
   },
   {
     "country": "saint kitts and nevis",
@@ -2479,7 +2479,7 @@
       "alpha_2": "kn",
       "alpha_3": "kna"
     },
-    "cctld": ".kn"
+    "tld": ".kn"
   },
   {
     "country": "saint lucia",
@@ -2496,7 +2496,7 @@
       "alpha_2": "lc",
       "alpha_3": "lca"
     },
-    "cctld": ".lc"
+    "tld": ".lc"
   },
   {
     "country": "saint vincent and the grenadines",
@@ -2513,7 +2513,7 @@
       "alpha_2": "vc",
       "alpha_3": "vct"
     },
-    "cctld": ".vc"
+    "tld": ".vc"
   },
   {
     "country": "samoa",
@@ -2530,7 +2530,7 @@
       "alpha_2": "ws",
       "alpha_3": "wsm"
     },
-    "cctld": ".ws"
+    "tld": ".ws"
   },
   {
     "country": "san marino",
@@ -2547,7 +2547,7 @@
       "alpha_2": "sm",
       "alpha_3": "smr"
     },
-    "cctld": ".sm"
+    "tld": ".sm"
   },
   {
     "country": "sao tome and principe",
@@ -2564,7 +2564,7 @@
       "alpha_2": "st",
       "alpha_3": "stp"
     },
-    "cctld": ".st"
+    "tld": ".st"
   },
   {
     "country": "saudi arabia",
@@ -2581,7 +2581,7 @@
       "alpha_2": "sa",
       "alpha_3": "sau"
     },
-    "cctld": ".sa"
+    "tld": ".sa"
   },
   {
     "country": "senegal",
@@ -2598,7 +2598,7 @@
       "alpha_2": "sn",
       "alpha_3": "sen"
     },
-    "cctld": ".sn"
+    "tld": ".sn"
   },
   {
     "country": "serbia",
@@ -2615,7 +2615,7 @@
       "alpha_2": "rs",
       "alpha_3": "srb"
     },
-    "cctld": ".rs"
+    "tld": ".rs"
   },
   {
     "country": "seychelles",
@@ -2632,7 +2632,7 @@
       "alpha_2": "sc",
       "alpha_3": "syc"
     },
-    "cctld": ".sc"
+    "tld": ".sc"
   },
   {
     "country": "sierra leone",
@@ -2649,7 +2649,7 @@
       "alpha_2": "sl",
       "alpha_3": "sle"
     },
-    "cctld": ".sl"
+    "tld": ".sl"
   },
   {
     "country": "singapore",
@@ -2666,7 +2666,7 @@
       "alpha_2": "sg",
       "alpha_3": "sgp"
     },
-    "cctld": ".sg"
+    "tld": ".sg"
   },
   {
     "country": "slovakia",
@@ -2683,7 +2683,7 @@
       "alpha_2": "sk",
       "alpha_3": "svk"
     },
-    "cctld": ".sk"
+    "tld": ".sk"
   },
   {
     "country": "slovenia",
@@ -2700,7 +2700,7 @@
       "alpha_2": "si",
       "alpha_3": "svn"
     },
-    "cctld": ".si"
+    "tld": ".si"
   },
   {
     "country": "solomon islands",
@@ -2717,7 +2717,7 @@
       "alpha_2": "sb",
       "alpha_3": "slb"
     },
-    "cctld": ".sb"
+    "tld": ".sb"
   },
   {
     "country": "somalia",
@@ -2734,7 +2734,7 @@
       "alpha_2": "so",
       "alpha_3": "som"
     },
-    "cctld": ".so"
+    "tld": ".so"
   },
   {
     "country": "south africa",
@@ -2751,7 +2751,7 @@
       "alpha_2": "za",
       "alpha_3": "zaf"
     },
-    "cctld": ".za"
+    "tld": ".za"
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -2768,7 +2768,7 @@
       "alpha_2": "ss",
       "alpha_3": "ssd"
     },
-    "cctld": ".ss"
+    "tld": ".ss"
   },
   {
     "country": "spain",
@@ -2785,7 +2785,7 @@
       "alpha_2": "es",
       "alpha_3": "esp"
     },
-    "cctld": ".es"
+    "tld": ".es"
   },
   {
     "country": "sri lanka",
@@ -2802,7 +2802,7 @@
       "alpha_2": "lk",
       "alpha_3": "lka"
     },
-    "cctld": ".lk"
+    "tld": ".lk"
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -2819,7 +2819,7 @@
       "alpha_2": "sd",
       "alpha_3": "sdn"
     },
-    "cctld": ".sd"
+    "tld": ".sd"
   },
   {
     "country": "suriname",
@@ -2836,7 +2836,7 @@
       "alpha_2": "sr",
       "alpha_3": "sur"
     },
-    "cctld": ".sr"
+    "tld": ".sr"
   },
   {
     "country": "eswatini (swaziland)",
@@ -2853,7 +2853,7 @@
       "alpha_2": "sz",
       "alpha_3": "swz"
     },
-    "cctld": ".sz"
+    "tld": ".sz"
   },
   {
     "country": "sweden",
@@ -2870,7 +2870,7 @@
       "alpha_2": "se",
       "alpha_3": "swe"
     },
-    "cctld": ".se"
+    "tld": ".se"
   },
   {
     "country": "switzerland",
@@ -2886,7 +2886,7 @@
       "alpha_2": "ch",
       "alpha_3": "che"
     },
-    "cctld": ".ch"
+    "tld": ".ch"
   },
   {
     "country": "syria",
@@ -2903,7 +2903,7 @@
       "alpha_2": "sy",
       "alpha_3": "syr"
     },
-    "cctld": ".sy"
+    "tld": ".sy"
   },
   {
     "country": "taiwan",
@@ -2920,7 +2920,7 @@
       "alpha_2": "tw",
       "alpha_3": "twn"
     },
-    "cctld": ".tw"
+    "tld": ".tw"
   },
   {
     "country": "tajikistan",
@@ -2937,7 +2937,7 @@
       "alpha_2": "tj",
       "alpha_3": "tjk"
     },
-    "cctld": ".tj"
+    "tld": ".tj"
   },
   {
     "country": "tanzania",
@@ -2954,7 +2954,7 @@
       "alpha_2": "tz",
       "alpha_3": "tza"
     },
-    "cctld": ".tz"
+    "tld": ".tz"
   },
   {
     "country": "thailand",
@@ -2971,7 +2971,7 @@
       "alpha_2": "th",
       "alpha_3": "tha"
     },
-    "cctld": ".th"
+    "tld": ".th"
   },
   {
     "country": "togo",
@@ -2988,7 +2988,7 @@
       "alpha_2": "tg",
       "alpha_3": "tgo"
     },
-    "cctld": ".tg"
+    "tld": ".tg"
   },
   {
     "country": "tonga",
@@ -3005,7 +3005,7 @@
       "alpha_2": "to",
       "alpha_3": "ton"
     },
-    "cctld": ".to"
+    "tld": ".to"
   },
   {
     "country": "trinidad and tobago",
@@ -3022,7 +3022,7 @@
       "alpha_2": "tt",
       "alpha_3": "tto"
     },
-    "cctld": ".tt"
+    "tld": ".tt"
   },
   {
     "country": "tunisia",
@@ -3039,7 +3039,7 @@
       "alpha_2": "tn",
       "alpha_3": "tun"
     },
-    "cctld": ".tn"
+    "tld": ".tn"
   },
   {
     "country": "turkey",
@@ -3056,7 +3056,7 @@
       "alpha_2": "tr",
       "alpha_3": "tur"
     },
-    "cctld": ".tr"
+    "tld": ".tr"
   },
   {
     "country": "turkmenistan",
@@ -3073,7 +3073,7 @@
       "alpha_2": "tm",
       "alpha_3": "tkm"
     },
-    "cctld": ".tm"
+    "tld": ".tm"
   },
   {
     "country": "tuvalu",
@@ -3090,7 +3090,7 @@
       "alpha_2": "tv",
       "alpha_3": "tuv"
     },
-    "cctld": ".tv"
+    "tld": ".tv"
   },
   {
     "country": "uganda",
@@ -3107,7 +3107,7 @@
       "alpha_2": "ug",
       "alpha_3": "uga"
     },
-    "cctld": ".ug"
+    "tld": ".ug"
   },
   {
     "country": "ukraine",
@@ -3124,7 +3124,7 @@
       "alpha_2": "ua",
       "alpha_3": "ukr"
     },
-    "cctld": ".ua"
+    "tld": ".ua"
   },
   {
     "country": "united arab emirates",
@@ -3141,7 +3141,7 @@
       "alpha_2": "ae",
       "alpha_3": "are"
     },
-    "cctld": ".ae"
+    "tld": ".ae"
   },
   {
     "country": "united kingdom",
@@ -3158,7 +3158,7 @@
       "alpha_2": "gb",
       "alpha_3": "gbr"
     },
-    "cctld": ".gb/.uk"
+    "tld": ".gb/.uk"
   },
   {
     "country": "united states of america",
@@ -3175,7 +3175,7 @@
       "alpha_2": "us",
       "alpha_3": "usa"
     },
-    "cctld": ".us"
+    "tld": ".us"
   },
   {
     "country": "uruguay",
@@ -3192,7 +3192,7 @@
       "alpha_2": "uy",
       "alpha_3": "ury"
     },
-    "cctld": ".uy"
+    "tld": ".uy"
   },
   {
     "country": "uzbekistan",
@@ -3209,7 +3209,7 @@
       "alpha_2": "uz",
       "alpha_3": "uzb"
     },
-    "cctld": ".uz"
+    "tld": ".uz"
   },
   {
     "country": "vanuatu",
@@ -3226,7 +3226,7 @@
       "alpha_2": "vu",
       "alpha_3": "vut"
     },
-    "cctld": ".vu"
+    "tld": ".vu"
   },
   {
     "country": "vatican city",
@@ -3243,7 +3243,7 @@
       "alpha_2": "va",
       "alpha_3": "vat"
     },
-    "cctld": ".va"
+    "tld": ".va"
   },
   {
     "country": "venezuela",
@@ -3260,7 +3260,7 @@
       "alpha_2": "ve",
       "alpha_3": "ven"
     },
-    "cctld": ".ve"
+    "tld": ".ve"
   },
   {
     "country": "vietnam",
@@ -3277,7 +3277,7 @@
       "alpha_2": "vn",
       "alpha_3": "vnm"
     },
-    "cctld": ".vn"
+    "tld": ".vn"
   },
   {
     "country": "yemen",
@@ -3294,7 +3294,7 @@
       "alpha_2": "ye",
       "alpha_3": "yem"
     },
-    "cctld": ".ye"
+    "tld": ".ye"
   },
   {
     "country": "zambia",
@@ -3311,7 +3311,7 @@
       "alpha_2": "zm",
       "alpha_3": "zmb"
     },
-    "cctld": ".zm"
+    "tld": ".zm"
   },
   {
     "country": "zimbabwe",
@@ -3328,6 +3328,6 @@
       "alpha_2": "zw",
       "alpha_3": "zwe"
     },
-    "cctld": ".zw"
+    "tld": ".zw"
   }
 ]
