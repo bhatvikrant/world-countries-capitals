@@ -156,4 +156,260 @@ describe("The index", () => {
       ).toBeTrue();
     });
   });
+
+  describe("The getCountriesByContinent", () => {
+    const africaCountries = countryApi.getCountriesByContinent("AF");
+    const europeCountries = countryApi.getCountriesByContinent("eu");
+    const oceaniaCountries = countryApi.getCountriesByContinent("oc");
+    const expectedOceaniaCountries = [
+      {
+        "country": "australia",
+        "capital": "canberra",
+        "currency": "australian dollar",
+        "native_language": ["english"],
+        "famous_for": "koalas and kangaroos",
+        "phone_code": "+61",
+        "flag": "https://flagpedia.net/data/flags/h80/au.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "036",
+          "alpha_2": "au",
+          "alpha_3": "aus"
+        },
+        "tld": ".au"
+      },
+      {
+        "country": "fiji",
+        "capital": "suva",
+        "currency": "fijian dollar",
+        "native_language": ["english", "bau fijian", "hindi"],
+        "famous_for": "friendly people and heavenly tropical islands",
+        "phone_code": "+679",
+        "flag": "https://flagpedia.net/data/flags/h80/fj.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "242",
+          "alpha_2": "fj",
+          "alpha_3": "fji"
+        },
+        "tld": ".fj"
+      },
+      {
+        "country": "kiribati",
+        "capital": "tarawa atoll",
+        "currency": "kiribati dollar",
+        "native_language": ["english", "gilbertese"],
+        "famous_for": "flyfishing, scuba diving and astounding seabird wildlife",
+        "phone_code": "+686",
+        "flag": "https://flagpedia.net/data/flags/h80/ki.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "296",
+          "alpha_2": "ki",
+          "alpha_3": "kir"
+        },
+        "tld": ".ki"
+      },
+      {
+        "country": "marshall islands",
+        "capital": "majuro",
+        "currency": "united states dollar",
+        "native_language": ["marshallese", "english"],
+        "famous_for": "being fierce and hostile to strangers",
+        "phone_code": "+692",
+        "flag": "https://flagpedia.net/data/flags/h80/mh.png",
+        "drive_direction": "right",
+        "continent": "oc",
+        "iso": {
+          "numeric": "584",
+          "alpha_2": "mh",
+          "alpha_3": "mhl"
+        },
+        "tld": ".mh"
+      },
+      {
+        "country": "federal states of micronesia",
+        "capital": "palikir",
+        "currency": "united states dollar",
+        "native_language": ["english"],
+        "famous_for": "manta rays, eco-tourism",
+        "phone_code": "+691",
+        "flag": "https://flagpedia.net/data/flags/h80/fm.png",
+        "drive_direction": "right",
+        "continent": "oc",
+        "iso": {
+          "numeric": "583",
+          "alpha_2": "fm",
+          "alpha_3": "fsm"
+        },
+        "tld": ".fm"
+      },
+      {
+        "country": "nauru",
+        "capital": "yaren",
+        "currency": "australian dollar",
+        "native_language": ["english", "nauran"],
+        "famous_for": "islands of banaba",
+        "phone_code": "+674",
+        "flag": "https://flagpedia.net/data/flags/h80/nr.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "520",
+          "alpha_2": "nr",
+          "alpha_3": "nru"
+        },
+        "tld": ".nr"
+      },
+      {
+        "country": "new zealand",
+        "capital": "wellington",
+        "currency": "new zealand dollar",
+        "native_language": ["english"],
+        "famous_for": "national rugby team",
+        "phone_code": "+64",
+        "flag": "https://flagpedia.net/data/flags/h80/nz.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "554",
+          "alpha_2": "nz",
+          "alpha_3": "nzl"
+        },
+        "tld": ".nz"
+      },
+      {
+        "country": "palau",
+        "capital": "melekeok",
+        "currency": "united states dollar",
+        "native_language": ["english", "palauan"],
+        "famous_for": "jellyfish lake",
+        "phone_code": "+680",
+        "flag": "https://flagpedia.net/data/flags/h80/pw.png",
+        "drive_direction": "right",
+        "continent": "oc",
+        "iso": {
+          "numeric": "585",
+          "alpha_2": "pw",
+          "alpha_3": "plw"
+        },
+        "tld": ".pw"
+      },
+      {
+        "country": "papa new guinea",
+        "capital": "port moresby papa",
+        "currency": "papa new guinean kina",
+        "native_language": ["english", "tok pisin", "hiri motu"],
+        "famous_for": "scuba diving and marine diversity",
+        "phone_code": "+675",
+        "flag": "https://flagpedia.net/data/flags/h80/pg.png",
+        "drive_direction": "right",
+        "continent": "oc",
+        "iso": {
+          "numeric": "598",
+          "alpha_2": "pg",
+          "alpha_3": "png"
+        },
+        "tld": ".pg"
+      },
+      {
+        "country": "samoa",
+        "capital": "apia",
+        "currency": "tala",
+        "native_language": ["samoan", "english"],
+        "famous_for": "samoan culture, music, dance and visual arts",
+        "phone_code": "+685",
+        "flag": "https://flagpedia.net/data/flags/h80/ws.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "882",
+          "alpha_2": "ws",
+          "alpha_3": "wsm"
+        },
+        "tld": ".ws"
+      },
+      {
+        "country": "solomon islands",
+        "capital": "honiara",
+        "currency": "solomon islands dollar",
+        "native_language": ["solomons pijin"],
+        "famous_for": "world war 2",
+        "phone_code": "+677",
+        "flag": "https://flagpedia.net/data/flags/h80/sb.png",
+        "drive_direction": "right",
+        "continent": "oc",
+        "iso": {
+          "numeric": "090",
+          "alpha_2": "sb",
+          "alpha_3": "slb"
+        },
+        "tld": ".sb"
+      },
+      {
+        "country": "tonga",
+        "capital": "nuku'alofa",
+        "currency": "pa'anga",
+        "native_language": ["tongan", "english"],
+        "famous_for": "graceful and dignified dancing of the kingdom",
+        "phone_code": "+676",
+        "flag": "https://flagpedia.net/data/flags/h80/to.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "776",
+          "alpha_2": "to",
+          "alpha_3": "ton"
+        },
+        "tld": ".to"
+      },
+      {
+        "country": "tuvalu",
+        "capital": "vaiaku",
+        "currency": "tuvaluan dollar",
+        "native_language": ["tuvaluan", "english"],
+        "famous_for": "seafaring skills",
+        "phone_code": "+668",
+        "flag": "https://flagpedia.net/data/flags/h80/tv.png",
+        "drive_direction": "left",
+        "continent": "oc",
+        "iso": {
+          "numeric": "798",
+          "alpha_2": "tv",
+          "alpha_3": "tuv"
+        },
+        "tld": ".tv"
+      },
+      {
+        "country": "vanuatu",
+        "capital": "port-vila",
+        "currency": "vanuatu vatu",
+        "native_language": ["bislama", "english", "french"],
+        "famous_for": "vanuatu's underwater world",
+        "phone_code": "+978",
+        "flag": "https://flagpedia.net/data/flags/h80/vu.png",
+        "drive_direction": "right",
+        "continent": "oc",
+        "iso": {
+          "numeric": "548",
+          "alpha_2": "vu",
+          "alpha_3": "vut"
+        },
+        "tld": ".vu"
+      },
+    ];
+
+    it("returns correct amount of africa countries using UPPERCASE", () => {
+      expect(africaCountries.length).toBe(55);
+    });
+    it("returns correct amount of europe countries", () => {
+      expect(europeCountries.length).toBe(47);
+    });
+    it("returns all oceania countries", () => {
+      expect(oceaniaCountries).toEqual(expectedOceaniaCountries);
+    });
+  });
 });
