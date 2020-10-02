@@ -125,6 +125,17 @@ const getCountriesByFamousFor = (famousThing) => {
   );
 };
 
+/**
+ * Returns an array of objects, each containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by `continentCode`
+ * @param {string} continentCode The continent 2-letter code (not case-sensitive)
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByContinent = (continentCode) => {
+  return getCountriesByObject(continentCode, "continent");
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -135,4 +146,5 @@ module.exports = {
   getCountriesByLanguage,
   getCountriesByFamousFor,
   getCountriesByDriveDirection,
+  getCountriesByContinent,
 };
