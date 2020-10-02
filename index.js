@@ -167,6 +167,22 @@ const getCountryDetailsByISO = (isoType, isoValue) => {
   return data.filter(country => country.iso[type] === isoValue);
 };
 
+/**
+ * Returns an array of objects containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by `tld`
+ * @param {string} tldName The name (not case-sensitive) of the country code top-level domain
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByTLD = (tldName) => {
+  tldName = tldName.toLowerCase();
+
+  return data.filter(country => country.tld
+    .split('/')
+    .includes(tldName)
+  );
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -179,4 +195,5 @@ module.exports = {
   getCountriesByDriveDirection,
   getCountriesByContinent,
   getCountryDetailsByISO,
+  getCountriesByTLD,
 };
