@@ -36,42 +36,6 @@ const wcc = require("world-countries-capitals");
 
 This section contains nt to _contribute_ to open source? Try solving our issues [here](https://github.com/bhatvikrant/world-countries-capitals/issues)\_
 
-# world-countries-capitals
-
-A simple [npm](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
-
-![world-countries-capitals](assets/world-countries-capitals.gif)
-
-[![Rate on Openbase](https://badges.openbase.io/js/rating/world-countries-capitals.svg)](https://openbase.io/js/world-countries-capitals?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
-
-[Demo](https://codesandbox.io/s/wcc-demo-tux1b)
-
-[Docs](https://bhatvikrant.github.io/world-countries-capitals/)
-
-## Installation
-
-[![npm install](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![Node.js](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![Node.js](https://img.shields.io/npm/v/world-countries-capitals?logo=npm&label=world-countries-capitals&style=for-the-badge)](https://www.npmjs.com/package/world-countries-capitals)
-
-`world-countries-capital` is a [Node.js](https://nodejs.org/en/) module, and can be installed using the npm package manager.
-
-Ensure that you have Node.js and npm installed. If you don't have Node.js or npm, you can download and install it [here](https://nodejs.org/en/download/).
-
-Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)** command on the terminal if you are on Linux / MacOS or on Command Prompt if you are using Windows:
-
-[![NPM](https://nodei.co/npm/world-countries-capitals.png?compact=true)](https://nodei.co/npm/world-countries-capitals/)
-
-## Importing
-
-Before you can start using this package in your project, you need to import it. It can be imported as follows:
-
-```javascript
-const wcc = require("world-countries-capitals");
-```
-
-## Usage
-
-This section contains information about various functions that are currently supported.
-
 - `getAllCountryDetails()` <br>
   This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, **phone_code**, and its **flag**.
 
