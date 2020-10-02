@@ -136,7 +136,7 @@ const getCountriesByContinent = (continentCode) => {
   continentCode = continentCode.toLowerCase();
 
   return data.filter(country => country.continent
-    .split('/')
+    .split("/")
     .includes(continentCode)
   );
 };
@@ -166,7 +166,7 @@ const getCountryDetailsByISO = (isoType, isoValue) => {
       type = "alpha_3";
       break;
     default:
-      throw new Error('isoType must be "numeric", "alpha_2" or "alpha_3"');
+      throw new Error("isoType must be 'numeric', 'alpha_2' or 'alpha_3'");
   }
 
   return data.filter(country => country.iso[type] === isoValue);
@@ -183,7 +183,7 @@ const getCountriesByTLD = (tldName) => {
   tldName = tldName.toLowerCase();
 
   return data.filter(country => country.tld
-    .split('/')
+    .split("/")
     .includes(tldName)
   );
 };
