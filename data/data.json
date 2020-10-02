@@ -13,7 +13,8 @@
       "numeric": "004",
       "alpha_2": "AF",
       "alpha_3": "AFG"
-    }
+    },
+    "ccTLD": ".af"
   },
   {
     "country": "albania",
@@ -29,7 +30,8 @@
       "numeric": "008",
       "alpha_2": "AL",
       "alpha_3": "ALB"
-    }
+    },
+    "ccTLD": ".al"
   },
   {
     "country": "algeria",
@@ -45,7 +47,8 @@
       "numeric": "012",
       "alpha_2": "DZ",
       "alpha_3": "DZA"
-    }
+    },
+    "ccTLD": ".dz"
   },
   {
     "country": "andorra",
@@ -61,7 +64,8 @@
       "numeric": "020",
       "alpha_2": "AD",
       "alpha_3": "AND"
-    }
+    },
+    "ccTLD": ".ad"
   },
   {
     "country": "angola",
@@ -77,7 +81,8 @@
       "numeric": "024",
       "alpha_2": "AO",
       "alpha_3": "AGO"
-    }
+    },
+    "ccTLD": ".ao"
   },
   {
     "country": "antigua & barbuda",
@@ -93,7 +98,8 @@
       "numeric": "028",
       "alpha_2": "AG",
       "alpha_3": "ATG"
-    }
+    },
+    "ccTLD": ".ag"
   },
   {
     "country": "argentina",
@@ -109,7 +115,8 @@
       "numeric": "032",
       "alpha_2": "AR",
       "alpha_3": "ARG"
-    }
+    },
+    "ccTLD": ".ar"
   },
   {
     "country": "armenia",
@@ -125,7 +132,8 @@
       "numeric": "051",
       "alpha_2": "AM",
       "alpha_3": "ARM"
-    }
+    },
+    "ccTLD": ".am"
   },
   {
     "country": "australia",
@@ -141,7 +149,8 @@
       "numeric": "036",
       "alpha_2": "AU",
       "alpha_3": "AUS"
-    }
+    },
+    "ccTLD": ".au"
   },
   {
     "country": "austria",
@@ -157,7 +166,8 @@
       "numeric": "040",
       "alpha_2": "AT",
       "alpha_3": "AUT"
-    }
+    },
+    "ccTLD": ".at"
   },
   {
     "country": "azerbaijan",
@@ -173,7 +183,8 @@
       "numeric": "031",
       "alpha_2": "AZ",
       "alpha_3": "AZE"
-    }
+    },
+    "ccTLD": ".az"
   },
   {
     "country": "the bahamas",
@@ -189,7 +200,8 @@
       "numeric": "044",
       "alpha_2": "BS",
       "alpha_3": "BHS"
-    }
+    },
+    "ccTLD": ".bs"
   },
   {
     "country": "bahrain",
@@ -205,7 +217,8 @@
       "numeric": "048",
       "alpha_2": "BH",
       "alpha_3": "BHR"
-    }
+    },
+    "ccTLD": ".bh"
   },
   {
     "country": "bangladesh",
@@ -221,7 +234,8 @@
       "numeric": "050",
       "alpha_2": "BD",
       "alpha_3": "BGD"
-    }
+    },
+    "ccTLD": ".bd"
   },
   {
     "country": "barbados",
@@ -237,7 +251,8 @@
       "numeric": "052",
       "alpha_2": "BB",
       "alpha_3": "BRB"
-    }
+    },
+    "ccTLD": ".bb"
   },
   {
     "country": "belarus",
@@ -253,7 +268,8 @@
       "numeric": "112",
       "alpha_2": "BY",
       "alpha_3": "BLR"
-    }
+    },
+    "ccTLD": ".by"
   },
   {
     "country": "belgium",
@@ -269,7 +285,8 @@
       "numeric": "056",
       "alpha_2": "BE",
       "alpha_3": "BEL"
-    }
+    },
+    "ccTLD": ".be"
   },
   {
     "country": "belize",
@@ -285,7 +302,8 @@
       "numeric": "084",
       "alpha_2": "BZ",
       "alpha_3": "BLZ"
-    }
+    },
+    "ccTLD": ".bz"
   },
   {
     "country": "benin",
@@ -301,7 +319,8 @@
       "numeric": "204",
       "alpha_2": "BJ",
       "alpha_3": "BEN"
-    }
+    },
+    "ccTLD": ".bj"
   },
   {
     "country": "bhutan",
@@ -317,7 +336,8 @@
       "numeric": "064",
       "alpha_2": "BT",
       "alpha_3": "BTN"
-    }
+    },
+    "ccTLD": ".bt"
   },
   {
     "country": "bolivia",
@@ -333,7 +353,8 @@
       "numeric": "068",
       "alpha_2": "BO",
       "alpha_3": "BOL"
-    }
+    },
+    "ccTLD": ".bo"
   },
   {
     "country": "bosnia and herzegovina",
@@ -349,7 +370,8 @@
       "numeric": "070",
       "alpha_2": "BA",
       "alpha_3": "BIH"
-    }
+    },
+    "ccTLD": ".ba"
   },
   {
     "country": "botswana",
@@ -365,7 +387,8 @@
       "numeric": "072",
       "alpha_2": "BW",
       "alpha_3": "BWA"
-    }
+    },
+    "ccTLD": ".bw"
   },
   {
     "country": "brazil",
@@ -381,7 +404,8 @@
       "numeric": "076",
       "alpha_2": "BR",
       "alpha_3": "BRA"
-    }
+    },
+    "ccTLD": ".br"
   },
   {
     "country": "brunei",
@@ -397,7 +421,8 @@
       "numeric": "096",
       "alpha_2": "BN",
       "alpha_3": "BRN"
-    }
+    },
+    "ccTLD": ".bn"
   },
   {
     "country": "bulgaria",
@@ -413,7 +438,8 @@
       "numeric": "100",
       "alpha_2": "BG",
       "alpha_3": "BGR"
-    }
+    },
+    "ccTLD": ".bg"
   },
   {
     "country": "burkina faso",
@@ -429,7 +455,8 @@
       "numeric": "854",
       "alpha_2": "BF",
       "alpha_3": "BFA"
-    }
+    },
+    "ccTLD": ".bf"
   },
   {
     "country": "burundi",
@@ -445,7 +472,8 @@
       "numeric": "108",
       "alpha_2": "BI",
       "alpha_3": "BDI"
-    }
+    },
+    "ccTLD": ".bi"
   },
   {
     "country": "cambodia",
@@ -461,7 +489,8 @@
       "numeric": "116",
       "alpha_2": "KH",
       "alpha_3": "KHM"
-    }
+    },
+    "ccTLD": ".kh"
   },
   {
     "country": "cameroon",
@@ -477,7 +506,8 @@
       "numeric": "120",
       "alpha_2": "CM",
       "alpha_3": "CMR"
-    }
+    },
+    "ccTLD": ".cm"
   },
   {
     "country": "canada",
@@ -493,7 +523,8 @@
       "numeric": "124",
       "alpha_2": "CA",
       "alpha_3": "CAN"
-    }
+    },
+    "ccTLD": ".ca"
   },
   {
     "country": "cape verde",
@@ -509,7 +540,8 @@
       "numeric": "132",
       "alpha_2": "CV",
       "alpha_3": "CPV"
-    }
+    },
+    "ccTLD": ".cv"
   },
   {
     "country": "central african republic",
@@ -525,7 +557,8 @@
       "numeric": "140",
       "alpha_2": "CF",
       "alpha_3": "CAF"
-    }
+    },
+    "ccTLD": ".cf"
   },
   {
     "country": "chad",
@@ -541,7 +574,8 @@
       "numeric": "148",
       "alpha_2": "TD",
       "alpha_3": "TCD"
-    }
+    },
+    "ccTLD": ".td"
   },
   {
     "country": "chile",
@@ -557,7 +591,8 @@
       "numeric": "152",
       "alpha_2": "CL",
       "alpha_3": "CHL"
-    }
+    },
+    "ccTLD": ".cl"
   },
   {
     "country": "china",
@@ -573,7 +608,8 @@
       "numeric": "156",
       "alpha_2": "CN",
       "alpha_3": "CHN"
-    }
+    },
+    "ccTLD": ".cn"
   },
   {
     "country": "colombia",
@@ -589,7 +625,8 @@
       "numeric": "170",
       "alpha_2": "CO",
       "alpha_3": "COL"
-    }
+    },
+    "ccTLD": ".co"
   },
   {
     "country": "comoros",
@@ -605,7 +642,8 @@
       "numeric": "174",
       "alpha_2": "KM",
       "alpha_3": "COM"
-    }
+    },
+    "ccTLD": ".km"
   },
   {
     "country": "democratic republic of the congo",
@@ -621,7 +659,8 @@
       "numeric": "180",
       "alpha_2": "CD",
       "alpha_3": "COD"
-    }
+    },
+    "ccTLD": ".cd"
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -637,7 +676,8 @@
       "numeric": "178",
       "alpha_2": "CG",
       "alpha_3": "COG"
-    }
+    },
+    "ccTLD": ".cg"
   },
   {
     "country": "costa rica",
@@ -653,7 +693,8 @@
       "numeric": "188",
       "alpha_2": "CR",
       "alpha_3": "CRI"
-    }
+    },
+    "ccTLD": ".cr"
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -669,7 +710,8 @@
       "numeric": "384",
       "alpha_2": "CI",
       "alpha_3": "CIV"
-    }
+    },
+    "ccTLD": ".ci"
   },
   {
     "country": "croatia",
@@ -685,7 +727,8 @@
       "numeric": "191",
       "alpha_2": "HR",
       "alpha_3": "HRV"
-    }
+    },
+    "ccTLD": ".hr"
   },
   {
     "country": "cuba",
@@ -701,7 +744,8 @@
       "numeric": "192",
       "alpha_2": "CU",
       "alpha_3": "CUB"
-    }
+    },
+    "ccTLD": ".cu"
   },
   {
     "country": "cyprus",
@@ -717,7 +761,8 @@
       "numeric": "196",
       "alpha_2": "CY",
       "alpha_3": "CYP"
-    }
+    },
+    "ccTLD": ".cy"
   },
   {
     "country": "czechia",
@@ -733,7 +778,8 @@
       "numeric": "203",
       "alpha_2": "CZ",
       "alpha_3": "CZE"
-    }
+    },
+    "ccTLD": ".cz"
   },
   {
     "country": "denmark",
@@ -749,7 +795,8 @@
       "numeric": "208",
       "alpha_2": "DK",
       "alpha_3": "DNK"
-    }
+    },
+    "ccTLD": ".dk"
   },
   {
     "country": "djibouti",
@@ -765,7 +812,8 @@
       "numeric": "262",
       "alpha_2": "DJ",
       "alpha_3": "DJI"
-    }
+    },
+    "ccTLD": ".dj"
   },
   {
     "country": "dominica",
@@ -781,7 +829,8 @@
       "numeric": "212",
       "alpha_2": "DM",
       "alpha_3": "DMA"
-    }
+    },
+    "ccTLD": ".dm"
   },
   {
     "country": "dominican republic",
@@ -797,7 +846,8 @@
       "numeric": "214",
       "alpha_2": "DO",
       "alpha_3": "DOM"
-    }
+    },
+    "ccTLD": ".do"
   },
   {
     "country": "east timor (timor-leste)",
@@ -813,7 +863,8 @@
       "numeric": "626",
       "alpha_2": "TL",
       "alpha_3": "TLS"
-    }
+    },
+    "ccTLD": ".tl"
   },
   {
     "country": "ecuador",
@@ -829,7 +880,8 @@
       "numeric": "218",
       "alpha_2": "EC",
       "alpha_3": "ECU"
-    }
+    },
+    "ccTLD": ".ec"
   },
   {
     "country": "egypt",
@@ -845,7 +897,8 @@
       "numeric": "818",
       "alpha_2": "EG",
       "alpha_3": "EGY"
-    }
+    },
+    "ccTLD": ".eg"
   },
   {
     "country": "el salvador",
@@ -861,7 +914,8 @@
       "numeric": "222",
       "alpha_2": "SV",
       "alpha_3": "SLV"
-    }
+    },
+    "ccTLD": ".sv"
   },
   {
     "country": "equitorial guinea",
@@ -877,7 +931,8 @@
       "numeric": "226",
       "alpha_2": "GQ",
       "alpha_3": "GNQ"
-    }
+    },
+    "ccTLD": ".gq"
   },
   {
     "country": "eritrea",
@@ -893,7 +948,8 @@
       "numeric": "232",
       "alpha_2": "ER",
       "alpha_3": "ERI"
-    }
+    },
+    "ccTLD": ".er"
   },
   {
     "country": "estonia",
@@ -909,7 +965,8 @@
       "numeric": "233",
       "alpha_2": "EE",
       "alpha_3": "EST"
-    }
+    },
+    "ccTLD": ".ee"
   },
   {
     "country": "ethiopia",
@@ -925,7 +982,8 @@
       "numeric": "231",
       "alpha_2": "ET",
       "alpha_3": "ETH"
-    }
+    },
+    "ccTLD": ".et"
   },
   {
     "country": "fiji",
@@ -941,7 +999,8 @@
       "numeric": "242",
       "alpha_2": "FJ",
       "alpha_3": "FJI"
-    }
+    },
+    "ccTLD": ".fj"
   },
   {
     "country": "finland",
@@ -957,7 +1016,8 @@
       "numeric": "246",
       "alpha_2": "FI",
       "alpha_3": "FIN"
-    }
+    },
+    "ccTLD": ".fi"
   },
   {
     "country": "france",
@@ -973,7 +1033,8 @@
       "numeric": "250",
       "alpha_2": "FR",
       "alpha_3": "FRA"
-    }
+    },
+    "ccTLD": ".fr"
   },
   {
     "country": "gabon",
@@ -989,7 +1050,8 @@
       "numeric": "266",
       "alpha_2": "GA",
       "alpha_3": "GAB"
-    }
+    },
+    "ccTLD": ".ga"
   },
   {
     "country": "the gambia",
@@ -1005,7 +1067,8 @@
       "numeric": "270",
       "alpha_2": "GM",
       "alpha_3": "GMB"
-    }
+    },
+    "ccTLD": ".gm"
   },
   {
     "country": "georgia",
@@ -1021,7 +1084,8 @@
       "numeric": "268",
       "alpha_2": "GE",
       "alpha_3": "GEO"
-    }
+    },
+    "ccTLD": ".ge"
   },
   {
     "country": "germany",
@@ -1037,7 +1101,8 @@
       "numeric": "276",
       "alpha_2": "DE",
       "alpha_3": "DEU"
-    }
+    },
+    "ccTLD": ".de"
   },
   {
     "country": "ghana",
@@ -1053,7 +1118,8 @@
       "numeric": "288",
       "alpha_2": "GH",
       "alpha_3": "GHA"
-    }
+    },
+    "ccTLD": ".gh"
   },
   {
     "country": "greece",
@@ -1069,7 +1135,8 @@
       "numeric": "300",
       "alpha_2": "GR",
       "alpha_3": "GRC"
-    }
+    },
+    "ccTLD": ".gr"
   },
   {
     "country": "grenada",
@@ -1085,7 +1152,8 @@
       "numeric": "308",
       "alpha_2": "GD",
       "alpha_3": "GRD"
-    }
+    },
+    "ccTLD": ".gd"
   },
   {
     "country": "guatemala",
@@ -1101,7 +1169,8 @@
       "numeric": "320",
       "alpha_2": "GT",
       "alpha_3": "GTM"
-    }
+    },
+    "ccTLD": ".gt"
   },
   {
     "country": "guinea",
@@ -1117,7 +1186,8 @@
       "numeric": "324",
       "alpha_2": "GN",
       "alpha_3": "GIN"
-    }
+    },
+    "ccTLD": ".gn"
   },
   {
     "country": "guinea-bissau",
@@ -1133,7 +1203,8 @@
       "numeric": "624",
       "alpha_2": "GW",
       "alpha_3": "GNB"
-    }
+    },
+    "ccTLD": ".gw"
   },
   {
     "country": "guyana",
@@ -1149,7 +1220,8 @@
       "numeric": "328",
       "alpha_2": "GY",
       "alpha_3": "GUY"
-    }
+    },
+    "ccTLD": ".gy"
   },
   {
     "country": "haiti",
@@ -1165,7 +1237,8 @@
       "numeric": "332",
       "alpha_2": "HT",
       "alpha_3": "HTI"
-    }
+    },
+    "ccTLD": ".ht"
   },
   {
     "country": "honduras",
@@ -1181,7 +1254,8 @@
       "numeric": "340",
       "alpha_2": "HN",
       "alpha_3": "HND"
-    }
+    },
+    "ccTLD": ".hn"
   },
   {
     "country": "hungary",
@@ -1197,7 +1271,8 @@
       "numeric": "348",
       "alpha_2": "HU",
       "alpha_3": "HUN"
-    }
+    },
+    "ccTLD": ".hu"
   },
   {
     "country": "iceland",
@@ -1213,7 +1288,8 @@
       "numeric": "352",
       "alpha_2": "IS",
       "alpha_3": "ISL"
-    }
+    },
+    "ccTLD": ".is"
   },
   {
     "country": "india",
@@ -1229,7 +1305,8 @@
       "numeric": "356",
       "alpha_2": "IN",
       "alpha_3": "IND"
-    }
+    },
+    "ccTLD": ".in"
   },
   {
     "country": "indonesia",
@@ -1245,7 +1322,8 @@
       "numeric": "360",
       "alpha_2": "ID",
       "alpha_3": "IDN"
-    }
+    },
+    "ccTLD": ".id"
   },
   {
     "country": "iran",
@@ -1261,7 +1339,8 @@
       "numeric": "364",
       "alpha_2": "IR",
       "alpha_3": "IRN"
-    }
+    },
+    "ccTLD": ".ir"
   },
   {
     "country": "iraq",
@@ -1277,7 +1356,8 @@
       "numeric": "368",
       "alpha_2": "IQ",
       "alpha_3": "IRQ"
-    }
+    },
+    "ccTLD": ".iq"
   },
   {
     "country": "republic of ireland",
@@ -1293,7 +1373,8 @@
       "numeric": "372",
       "alpha_2": "IE",
       "alpha_3": "IRL"
-    }
+    },
+    "ccTLD": ".ie"
   },
   {
     "country": "israel",
@@ -1309,7 +1390,8 @@
       "numeric": "376",
       "alpha_2": "IL",
       "alpha_3": "ISR"
-    }
+    },
+    "ccTLD": ".il"
   },
   {
     "country": "italy",
@@ -1325,7 +1407,8 @@
       "numeric": "380",
       "alpha_2": "IT",
       "alpha_3": "ITA"
-    }
+    },
+    "ccTLD": ".it"
   },
   {
     "country": "jamaica",
@@ -1341,7 +1424,8 @@
       "numeric": "388",
       "alpha_2": "JM",
       "alpha_3": "JAM"
-    }
+    },
+    "ccTLD": ".jm"
   },
   {
     "country": "japan",
@@ -1357,7 +1441,8 @@
       "numeric": "392",
       "alpha_2": "JP",
       "alpha_3": "JPN"
-    }
+    },
+    "ccTLD": ".jp"
   },
   {
     "country": "jordan",
@@ -1373,7 +1458,8 @@
       "numeric": "400",
       "alpha_2": "JO",
       "alpha_3": "JOR"
-    }
+    },
+    "ccTLD": ".jo"
   },
   {
     "country": "kazakhstan",
@@ -1389,7 +1475,8 @@
       "numeric": "398",
       "alpha_2": "KZ",
       "alpha_3": "KAZ"
-    }
+    },
+    "ccTLD": ".kz"
   },
   {
     "country": "kenya",
@@ -1405,7 +1492,8 @@
       "numeric": "404",
       "alpha_2": "KE",
       "alpha_3": "KEN"
-    }
+    },
+    "ccTLD": ".ke"
   },
   {
     "country": "kiribati",
@@ -1421,7 +1509,8 @@
       "numeric": "296",
       "alpha_2": "KI",
       "alpha_3": "KIR"
-    }
+    },
+    "ccTLD": ".ki"
   },
   {
     "country": "north korea",
@@ -1437,7 +1526,8 @@
       "numeric": "408",
       "alpha_2": "KP",
       "alpha_3": "PRK"
-    }
+    },
+    "ccTLD": ".kp"
   },
   {
     "country": "south korea",
@@ -1453,7 +1543,8 @@
       "numeric": "410",
       "alpha_2": "KR",
       "alpha_3": "KOR"
-    }
+    },
+    "ccTLD": ".kr"
   },
   {
     "country": "kosovo",
@@ -1469,7 +1560,8 @@
       "numeric": "383",
       "alpha_2": "XK",
       "alpha_3": "XKX"
-    }
+    },
+    "ccTLD": ".rs"
   },
   {
     "country": "kuwait",
@@ -1485,7 +1577,8 @@
       "numeric": "414",
       "alpha_2": "KW",
       "alpha_3": "KWT"
-    }
+    },
+    "ccTLD": ".kw"
   },
   {
     "country": "kyrgyzstan",
@@ -1501,7 +1594,8 @@
       "numeric": "417",
       "alpha_2": "KG",
       "alpha_3": "KGZ"
-    }
+    },
+    "ccTLD": ".kg"
   },
   {
     "country": "laos",
@@ -1517,7 +1611,8 @@
       "numeric": "418",
       "alpha_2": "LA",
       "alpha_3": "LAO"
-    }
+    },
+    "ccTLD": ".la"
   },
   {
     "country": "latvia",
@@ -1533,7 +1628,8 @@
       "numeric": "428",
       "alpha_2": "LV",
       "alpha_3": "LVA"
-    }
+    },
+    "ccTLD": ".lv"
   },
   {
     "country": "lebanon",
@@ -1549,7 +1645,8 @@
       "numeric": "422",
       "alpha_2": "LB",
       "alpha_3": "LBN"
-    }
+    },
+    "ccTLD": ".lb"
   },
   {
     "country": "lesotho",
@@ -1565,7 +1662,8 @@
       "numeric": "426",
       "alpha_2": "LS",
       "alpha_3": "LSO"
-    }
+    },
+    "ccTLD": ".ls"
   },
   {
     "country": "liberia",
@@ -1581,7 +1679,8 @@
       "numeric": "430",
       "alpha_2": "LR",
       "alpha_3": "LBR"
-    }
+    },
+    "ccTLD": ".lr"
   },
   {
     "country": "libya",
@@ -1597,7 +1696,8 @@
       "numeric": "434",
       "alpha_2": "LY",
       "alpha_3": "LBY"
-    }
+    },
+    "ccTLD": ".ly"
   },
   {
     "country": "liechtenstein",
@@ -1613,7 +1713,8 @@
       "numeric": "438",
       "alpha_2": "LI",
       "alpha_3": "LIE"
-    }
+    },
+    "ccTLD": ".li"
   },
   {
     "country": "lithuania",
@@ -1629,7 +1730,8 @@
       "numeric": "440",
       "alpha_2": "LT",
       "alpha_3": "LTU"
-    }
+    },
+    "ccTLD": ".lt"
   },
   {
     "country": "luxembourg",
@@ -1645,7 +1747,8 @@
       "numeric": "442",
       "alpha_2": "LU",
       "alpha_3": "LUX"
-    }
+    },
+    "ccTLD": ".lu"
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1661,7 +1764,8 @@
       "numeric": "807",
       "alpha_2": "MK",
       "alpha_3": "MKD"
-    }
+    },
+    "ccTLD": ".mk"
   },
   {
     "country": "madagascar",
@@ -1677,7 +1781,8 @@
       "numeric": "450",
       "alpha_2": "MG",
       "alpha_3": "MDG"
-    }
+    },
+    "ccTLD": ".mg"
   },
   {
     "country": "malawi",
@@ -1693,7 +1798,8 @@
       "numeric": "454",
       "alpha_2": "MW",
       "alpha_3": "MWI"
-    }
+    },
+    "ccTLD": ".mw"
   },
   {
     "country": "malaysia",
@@ -1709,7 +1815,8 @@
       "numeric": "458",
       "alpha_2": "MY",
       "alpha_3": "MYS"
-    }
+    },
+    "ccTLD": ".my"
   },
   {
     "country": "maldives",
@@ -1725,7 +1832,8 @@
       "numeric": "462",
       "alpha_2": "MV",
       "alpha_3": "MDV"
-    }
+    },
+    "ccTLD": ".mv"
   },
   {
     "country": "mali",
@@ -1741,7 +1849,8 @@
       "numeric": "466",
       "alpha_2": "ML",
       "alpha_3": "MLI"
-    }
+    },
+    "ccTLD": ".ml"
   },
   {
     "country": "malta",
@@ -1757,7 +1866,8 @@
       "numeric": "470",
       "alpha_2": "MT",
       "alpha_3": "MLT"
-    }
+    },
+    "ccTLD": ".mt"
   },
   {
     "country": "marshall islands",
@@ -1773,7 +1883,8 @@
       "numeric": "584",
       "alpha_2": "MH",
       "alpha_3": "MHL"
-    }
+    },
+    "ccTLD": ".mh"
   },
   {
     "country": "mauritania",
@@ -1789,7 +1900,8 @@
       "numeric": "478",
       "alpha_2": "MR",
       "alpha_3": "MRT"
-    }
+    },
+    "ccTLD": ".mr"
   },
   {
     "country": "mauritius",
@@ -1805,7 +1917,8 @@
       "numeric": "480",
       "alpha_2": "MU",
       "alpha_3": "MUS"
-    }
+    },
+    "ccTLD": ".mu"
   },
   {
     "country": "mexico",
@@ -1821,7 +1934,8 @@
       "numeric": "484",
       "alpha_2": "MX",
       "alpha_3": "MEX"
-    }
+    },
+    "ccTLD": ".mx"
   },
   {
     "country": "federal states of micronesia",
@@ -1837,7 +1951,8 @@
       "numeric": "583",
       "alpha_2": "FM",
       "alpha_3": "FSM"
-    }
+    },
+    "ccTLD": ".fm"
   },
   {
     "country": "moldova",
@@ -1853,7 +1968,8 @@
       "numeric": "498",
       "alpha_2": "MD",
       "alpha_3": "MDA"
-    }
+    },
+    "ccTLD": ".md"
   },
   {
     "country": "monaco",
@@ -1869,7 +1985,8 @@
       "numeric": "492",
       "alpha_2": "MC",
       "alpha_3": "MCO"
-    }
+    },
+    "ccTLD": ".mc"
   },
   {
     "country": "mongolia",
@@ -1885,7 +2002,8 @@
       "numeric": "496",
       "alpha_2": "MN",
       "alpha_3": "MNG"
-    }
+    },
+    "ccTLD": ".mn"
   },
   {
     "country": "montenegro",
@@ -1901,7 +2019,8 @@
       "numeric": "499",
       "alpha_2": "ME",
       "alpha_3": "MNE"
-    }
+    },
+    "ccTLD": ".me"
   },
   {
     "country": "morocco",
@@ -1917,7 +2036,8 @@
       "numeric": "504",
       "alpha_2": "MA",
       "alpha_3": "MAR"
-    }
+    },
+    "ccTLD": ".ma"
   },
   {
     "country": "mozambique",
@@ -1933,7 +2053,8 @@
       "numeric": "508",
       "alpha_2": "MZ",
       "alpha_3": "MOZ"
-    }
+    },
+    "ccTLD": ".mz"
   },
   {
     "country": "myanmar (burma)",
@@ -1949,7 +2070,8 @@
       "numeric": "104",
       "alpha_2": "MM",
       "alpha_3": "MMR"
-    }
+    },
+    "ccTLD": ".mm"
   },
   {
     "country": "namibia",
@@ -1965,7 +2087,8 @@
       "numeric": "516",
       "alpha_2": "NA",
       "alpha_3": "NAM"
-    }
+    },
+    "ccTLD": ".na"
   },
   {
     "country": "nauru",
@@ -1981,7 +2104,8 @@
       "numeric": "520",
       "alpha_2": "NR",
       "alpha_3": "NRU"
-    }
+    },
+    "ccTLD": ".nr"
   },
   {
     "country": "nepal",
@@ -1997,7 +2121,8 @@
       "numeric": "524",
       "alpha_2": "NP",
       "alpha_3": "NPL"
-    }
+    },
+    "ccTLD": ".np"
   },
   {
     "country": "netherlands",
@@ -2013,7 +2138,8 @@
       "numeric": "528",
       "alpha_2": "NL",
       "alpha_3": "NLD"
-    }
+    },
+    "ccTLD": ".nl"
   },
   {
     "country": "new zealand",
@@ -2029,7 +2155,8 @@
       "numeric": "554",
       "alpha_2": "NZ",
       "alpha_3": "NZL"
-    }
+    },
+    "ccTLD": ".nz"
   },
   {
     "country": "nicaragua",
@@ -2045,7 +2172,8 @@
       "numeric": "558",
       "alpha_2": "NI",
       "alpha_3": "NIC"
-    }
+    },
+    "ccTLD": ".ni"
   },
   {
     "country": "niger",
@@ -2061,7 +2189,8 @@
       "numeric": "562",
       "alpha_2": "NE",
       "alpha_3": "NER"
-    }
+    },
+    "ccTLD": ".ne"
   },
   {
     "country": "nigeria",
@@ -2077,7 +2206,8 @@
       "numeric": "566",
       "alpha_2": "NG",
       "alpha_3": "NGA"
-    }
+    },
+    "ccTLD": ".ng"
   },
   {
     "country": "norway",
@@ -2093,7 +2223,8 @@
       "numeric": "578",
       "alpha_2": "NO",
       "alpha_3": "NOR"
-    }
+    },
+    "ccTLD": ".no"
   },
   {
     "country": "oman",
@@ -2109,7 +2240,8 @@
       "numeric": "512",
       "alpha_2": "OM",
       "alpha_3": "OMN"
-    }
+    },
+    "ccTLD": ".om"
   },
   {
     "country": "pakistan",
@@ -2125,7 +2257,8 @@
       "numeric": "586",
       "alpha_2": "PK",
       "alpha_3": "PAK"
-    }
+    },
+    "ccTLD": ".pk"
   },
   {
     "country": "palau",
@@ -2141,7 +2274,8 @@
       "numeric": "585",
       "alpha_2": "PW",
       "alpha_3": "PLW"
-    }
+    },
+    "ccTLD": ".pw"
   },
   {
     "country": "panama",
@@ -2157,7 +2291,8 @@
       "numeric": "591",
       "alpha_2": "PA",
       "alpha_3": "PAN"
-    }
+    },
+    "ccTLD": ".pa"
   },
   {
     "country": "papa new guinea",
@@ -2173,7 +2308,8 @@
       "numeric": "598",
       "alpha_2": "PG",
       "alpha_3": "PNG"
-    }
+    },
+    "ccTLD": ".pg"
   },
   {
     "country": "paraguay",
@@ -2189,7 +2325,8 @@
       "numeric": "600",
       "alpha_2": "PY",
       "alpha_3": "PRY"
-    }
+    },
+    "ccTLD": ".py"
   },
   {
     "country": "peru",
@@ -2205,7 +2342,8 @@
       "numeric": "604",
       "alpha_2": "PE",
       "alpha_3": "PER"
-    }
+    },
+    "ccTLD": ".pe"
   },
   {
     "country": "philippines",
@@ -2221,7 +2359,8 @@
       "numeric": "608",
       "alpha_2": "PH",
       "alpha_3": "PHL"
-    }
+    },
+    "ccTLD": ".ph"
   },
   {
     "country": "poland",
@@ -2237,7 +2376,8 @@
       "numeric": "616",
       "alpha_2": "PL",
       "alpha_3": "POL"
-    }
+    },
+    "ccTLD": ".pl"
   },
   {
     "country": "portugal",
@@ -2253,7 +2393,8 @@
       "numeric": "620",
       "alpha_2": "PT",
       "alpha_3": "PRT"
-    }
+    },
+    "ccTLD": ".pt"
   },
   {
     "country": "qatar",
@@ -2269,7 +2410,8 @@
       "numeric": "634",
       "alpha_2": "QA",
       "alpha_3": "QAT"
-    }
+    },
+    "ccTLD": ".qa"
   },
   {
     "country": "romania",
@@ -2285,7 +2427,8 @@
       "numeric": "642",
       "alpha_2": "RO",
       "alpha_3": "ROU"
-    }
+    },
+    "ccTLD": ".ro"
   },
   {
     "country": "russia",
@@ -2301,7 +2444,8 @@
       "numeric": "643",
       "alpha_2": "RU",
       "alpha_3": "RUS"
-    }
+    },
+    "ccTLD": ".ru"
   },
   {
     "country": "rwanda",
@@ -2317,7 +2461,8 @@
       "numeric": "646",
       "alpha_2": "RW",
       "alpha_3": "RWA"
-    }
+    },
+    "ccTLD": ".rw"
   },
   {
     "country": "saint kitts and nevis",
@@ -2333,7 +2478,8 @@
       "numeric": "659",
       "alpha_2": "KN",
       "alpha_3": "KNA"
-    }
+    },
+    "ccTLD": ".kn"
   },
   {
     "country": "saint lucia",
@@ -2349,7 +2495,8 @@
       "numeric": "662",
       "alpha_2": "LC",
       "alpha_3": "LCA"
-    }
+    },
+    "ccTLD": ".lc"
   },
   {
     "country": "saint vincent and the grenadines",
@@ -2365,7 +2512,8 @@
       "numeric": "670",
       "alpha_2": "VC",
       "alpha_3": "VCT"
-    }
+    },
+    "ccTLD": ".vc"
   },
   {
     "country": "samoa",
@@ -2381,7 +2529,8 @@
       "numeric": "882",
       "alpha_2": "WS",
       "alpha_3": "WSM"
-    }
+    },
+    "ccTLD": ".ws"
   },
   {
     "country": "san marino",
@@ -2397,7 +2546,8 @@
       "numeric": "674",
       "alpha_2": "SM",
       "alpha_3": "SMR"
-    }
+    },
+    "ccTLD": ".sm"
   },
   {
     "country": "sao tome and principe",
@@ -2413,7 +2563,8 @@
       "numeric": "678",
       "alpha_2": "ST",
       "alpha_3": "STP"
-    }
+    },
+    "ccTLD": ".st"
   },
   {
     "country": "saudi arabia",
@@ -2429,7 +2580,8 @@
       "numeric": "682",
       "alpha_2": "SA",
       "alpha_3": "SAU"
-    }
+    },
+    "ccTLD": ".sa"
   },
   {
     "country": "senegal",
@@ -2445,7 +2597,8 @@
       "numeric": "686",
       "alpha_2": "SN",
       "alpha_3": "SEN"
-    }
+    },
+    "ccTLD": ".sn"
   },
   {
     "country": "serbia",
@@ -2461,7 +2614,8 @@
       "numeric": "688",
       "alpha_2": "RS",
       "alpha_3": "SRB"
-    }
+    },
+    "ccTLD": ".rs"
   },
   {
     "country": "seychelles",
@@ -2477,7 +2631,8 @@
       "numeric": "690",
       "alpha_2": "SC",
       "alpha_3": "SYC"
-    }
+    },
+    "ccTLD": ".sc"
   },
   {
     "country": "sierra leone",
@@ -2493,7 +2648,8 @@
       "numeric": "694",
       "alpha_2": "SL",
       "alpha_3": "SLE"
-    }
+    },
+    "ccTLD": ".sl"
   },
   {
     "country": "singapore",
@@ -2509,7 +2665,8 @@
       "numeric": "702",
       "alpha_2": "SG",
       "alpha_3": "SGP"
-    }
+    },
+    "ccTLD": ".sg"
   },
   {
     "country": "slovakia",
@@ -2525,7 +2682,8 @@
       "numeric": "703",
       "alpha_2": "SK",
       "alpha_3": "SVK"
-    }
+    },
+    "ccTLD": ".sk"
   },
   {
     "country": "slovenia",
@@ -2541,7 +2699,8 @@
       "numeric": "705",
       "alpha_2": "SI",
       "alpha_3": "SVN"
-    }
+    },
+    "ccTLD": ".si"
   },
   {
     "country": "solomon islands",
@@ -2557,7 +2716,8 @@
       "numeric": "090",
       "alpha_2": "SB",
       "alpha_3": "SLB"
-    }
+    },
+    "ccTLD": ".sb"
   },
   {
     "country": "somalia",
@@ -2573,7 +2733,8 @@
       "numeric": "706",
       "alpha_2": "SO",
       "alpha_3": "SOM"
-    }
+    },
+    "ccTLD": ".so"
   },
   {
     "country": "south africa",
@@ -2589,7 +2750,8 @@
       "numeric": "710",
       "alpha_2": "ZA",
       "alpha_3": "ZAF"
-    }
+    },
+    "ccTLD": ".za"
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -2605,7 +2767,8 @@
       "numeric": "728",
       "alpha_2": "SS",
       "alpha_3": "SSD"
-    }
+    },
+    "ccTLD": ".ss"
   },
   {
     "country": "spain",
@@ -2621,7 +2784,8 @@
       "numeric": "724",
       "alpha_2": "ES",
       "alpha_3": "ESP"
-    }
+    },
+    "ccTLD": ".es"
   },
   {
     "country": "sri lanka",
@@ -2637,7 +2801,8 @@
       "numeric": "144",
       "alpha_2": "LK",
       "alpha_3": "LKA"
-    }
+    },
+    "ccTLD": ".lk"
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -2653,7 +2818,8 @@
       "numeric": "729",
       "alpha_2": "SD",
       "alpha_3": "SDN"
-    }
+    },
+    "ccTLD": ".sd"
   },
   {
     "country": "suriname",
@@ -2669,7 +2835,8 @@
       "numeric": "740",
       "alpha_2": "SR",
       "alpha_3": "SUR"
-    }
+    },
+    "ccTLD": ".sr"
   },
   {
     "country": "eswatini (swaziland)",
@@ -2685,7 +2852,8 @@
       "numeric": "748",
       "alpha_2": "SZ",
       "alpha_3": "SWZ"
-    }
+    },
+    "ccTLD": ".sz"
   },
   {
     "country": "sweden",
@@ -2701,7 +2869,8 @@
       "numeric": "752",
       "alpha_2": "SE",
       "alpha_3": "SWE"
-    }
+    },
+    "ccTLD": ".se"
   },
   {
     "country": "switzerland",
@@ -2716,7 +2885,8 @@
       "numeric": "756",
       "alpha_2": "CH",
       "alpha_3": "CHE"
-    }
+    },
+    "ccTLD": ".ch"
   },
   {
     "country": "syria",
@@ -2732,7 +2902,8 @@
       "numeric": "760",
       "alpha_2": "SY",
       "alpha_3": "SYR"
-    }
+    },
+    "ccTLD": ".sy"
   },
   {
     "country": "taiwan",
@@ -2748,7 +2919,8 @@
       "numeric": "158",
       "alpha_2": "TW",
       "alpha_3": "TWN"
-    }
+    },
+    "ccTLD": ".tw"
   },
   {
     "country": "tajikistan",
@@ -2764,7 +2936,8 @@
       "numeric": "762",
       "alpha_2": "TJ",
       "alpha_3": "TJK"
-    }
+    },
+    "ccTLD": ".tj"
   },
   {
     "country": "tanzania",
@@ -2780,7 +2953,8 @@
       "numeric": "834",
       "alpha_2": "TZ",
       "alpha_3": "TZA"
-    }
+    },
+    "ccTLD": ".tz"
   },
   {
     "country": "thailand",
@@ -2796,7 +2970,8 @@
       "numeric": "764",
       "alpha_2": "TH",
       "alpha_3": "THA"
-    }
+    },
+    "ccTLD": ".th"
   },
   {
     "country": "togo",
@@ -2812,7 +2987,8 @@
       "numeric": "768",
       "alpha_2": "TG",
       "alpha_3": "TGO"
-    }
+    },
+    "ccTLD": ".tg"
   },
   {
     "country": "tonga",
@@ -2828,7 +3004,8 @@
       "numeric": "776",
       "alpha_2": "TO",
       "alpha_3": "TON"
-    }
+    },
+    "ccTLD": ".to"
   },
   {
     "country": "trinidad and tobago",
@@ -2844,7 +3021,8 @@
       "numeric": "780",
       "alpha_2": "TT",
       "alpha_3": "TTO"
-    }
+    },
+    "ccTLD": ".tt"
   },
   {
     "country": "tunisia",
@@ -2860,7 +3038,8 @@
       "numeric": "788",
       "alpha_2": "TN",
       "alpha_3": "TUN"
-    }
+    },
+    "ccTLD": ".tn"
   },
   {
     "country": "turkey",
@@ -2876,7 +3055,8 @@
       "numeric": "792",
       "alpha_2": "TR",
       "alpha_3": "TUR"
-    }
+    },
+    "ccTLD": ".tr"
   },
   {
     "country": "turkmenistan",
@@ -2892,7 +3072,8 @@
       "numeric": "795",
       "alpha_2": "TM",
       "alpha_3": "TKM"
-    }
+    },
+    "ccTLD": ".tm"
   },
   {
     "country": "tuvalu",
@@ -2908,7 +3089,8 @@
       "numeric": "798",
       "alpha_2": "TV",
       "alpha_3": "TUV"
-    }
+    },
+    "ccTLD": ".tv"
   },
   {
     "country": "uganda",
@@ -2924,7 +3106,8 @@
       "numeric": "800",
       "alpha_2": "UG",
       "alpha_3": "UGA"
-    }
+    },
+    "ccTLD": ".ug"
   },
   {
     "country": "ukraine",
@@ -2940,7 +3123,8 @@
       "numeric": "804",
       "alpha_2": "UA",
       "alpha_3": "UKR"
-    }
+    },
+    "ccTLD": ".ua"
   },
   {
     "country": "united arab emirates",
@@ -2956,7 +3140,8 @@
       "numeric": "784",
       "alpha_2": "AE",
       "alpha_3": "ARE"
-    }
+    },
+    "ccTLD": ".ae"
   },
   {
     "country": "united kingdom",
@@ -2972,7 +3157,8 @@
       "numeric": "826",
       "alpha_2": "GB",
       "alpha_3": "GBR"
-    }
+    },
+    "ccTLD": ".gb/.uk"
   },
   {
     "country": "united states of america",
@@ -2988,7 +3174,8 @@
       "numeric": "840",
       "alpha_2": "US",
       "alpha_3": "USA"
-    }
+    },
+    "ccTLD": ".us"
   },
   {
     "country": "uruguay",
@@ -3004,7 +3191,8 @@
       "numeric": "858",
       "alpha_2": "UY",
       "alpha_3": "URY"
-    }
+    },
+    "ccTLD": ".uy"
   },
   {
     "country": "uzbekistan",
@@ -3020,7 +3208,8 @@
       "numeric": "860",
       "alpha_2": "UZ",
       "alpha_3": "UZB"
-    }
+    },
+    "ccTLD": ".uz"
   },
   {
     "country": "vanuatu",
@@ -3036,7 +3225,8 @@
       "numeric": "548",
       "alpha_2": "VU",
       "alpha_3": "VUT"
-    }
+    },
+    "ccTLD": ".vu"
   },
   {
     "country": "vatican city",
@@ -3052,7 +3242,8 @@
       "numeric": "336",
       "alpha_2": "VA",
       "alpha_3": "VAT"
-    }
+    },
+    "ccTLD": ".va"
   },
   {
     "country": "venezuela",
@@ -3068,7 +3259,8 @@
       "numeric": "862",
       "alpha_2": "VE",
       "alpha_3": "VEN"
-    }
+    },
+    "ccTLD": ".ve"
   },
   {
     "country": "vietnam",
@@ -3084,7 +3276,8 @@
       "numeric": "704",
       "alpha_2": "VN",
       "alpha_3": "VNM"
-    }
+    },
+    "ccTLD": ".vn"
   },
   {
     "country": "yemen",
@@ -3100,7 +3293,8 @@
       "numeric": "887",
       "alpha_2": "YE",
       "alpha_3": "YEM"
-    }
+    },
+    "ccTLD": ".ye"
   },
   {
     "country": "zambia",
@@ -3116,7 +3310,8 @@
       "numeric": "894",
       "alpha_2": "ZM",
       "alpha_3": "ZMB"
-    }
+    },
+    "ccTLD": ".zm"
   },
   {
     "country": "zimbabwe",
@@ -3132,6 +3327,7 @@
       "numeric": "716",
       "alpha_2": "ZW",
       "alpha_3": "ZWE"
-    }
+    },
+    "ccTLD": ".zw"
   }
 ]
