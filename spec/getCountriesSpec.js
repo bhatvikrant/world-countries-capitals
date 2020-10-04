@@ -25,6 +25,7 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
+        constitutional_form: "republic",
       });
     });
   });
@@ -40,6 +41,7 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
+        constitutional_form: "republic",
       });
     });
   });
@@ -61,6 +63,7 @@ describe("The index", () => {
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
         drive_direction: "right",
+        constitutional_form: "republic",
       });
     });
   });
