@@ -304,7 +304,7 @@
     "drive_direction": "right",
     "area": {
       "km2": 51209,
-      "mi2": 19722
+      "mi2": 19772
     }
   },
   {
@@ -1983,7 +1983,7 @@
     "flag": "https://flagpedia.net/data/flags/h80/qa.png",
     "drive_direction": "right",
     "area": {
-      "km2": 9104,
+      "km2": 11586,
       "mi2": 4473
     }
   },
@@ -2430,7 +2430,7 @@
     "flag": "https://flagpedia.net/data/flags/h80/tz.png",
     "drive_direction": "left",
     "area": {
-      "km2": 845087,
+      "km2": 945087,
       "mi2": 364900
     }
   },
@@ -2514,7 +2514,7 @@
     "flag": "https://flagpedia.net/data/flags/h80/tr.png",
     "drive_direction": "right",
     "area": {
-      "km2": 738562,
+      "km2": 783562,
       "mi2": 302535
     }
   },

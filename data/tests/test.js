@@ -82,6 +82,29 @@ axios.get(flagURL).then((response) => {
     console.error(error);
 });
 
+function roundTo(num, nearest = 1){
+    return Math.round(num/nearest)*nearest;
+}
 
-
-
+console.log("Areas Consistency Test");
+var numberOfCountriesWithCorrectAreas = 0;
+var totalCountries = countriesJSON.length;
+for(var i = 0; i < totalCountries; i++){
+    var countryJSON = countriesJSON[i];
+    var areaInKm2 = countryJSON.area.km2;
+    var areaInMi2 = countryJSON.area.mi2;
+    var expectedAreaInMi2 = 0.386102*areaInKm2;
+    var roundingPlace = -3;
+    var roundedAreaInMi2 = roundTo(expectedAreaInMi2, Math.pow(10, roundingPlace));
+    while(roundedAreaInMi2){
+      var diff = Math.abs(roundedAreaInMi2 - areaInMi2);
+      if(diff<=1){
+          numberOfCountriesWithCorrectAreas += 1;
+          break;
+      }
+      roundingPlace += 1;
+      roundedAreaInMi2 = roundTo(expectedAreaInMi2, Math.pow(10, roundingPlace));
+    }
+}
+console.log(`Consistent: ${numberOfCountriesWithCorrectAreas}`);
+console.log(`Total: ${totalCountries}\n`);
