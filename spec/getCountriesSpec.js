@@ -25,6 +25,7 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
+        is_landlocked: true
       });
     });
   });
@@ -40,6 +41,7 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
+        is_landlocked: false
       });
     });
   });
@@ -61,6 +63,7 @@ describe("The index", () => {
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
         drive_direction: "right",
+        is_landlocked: false
       });
     });
   });
@@ -133,6 +136,48 @@ describe("The index", () => {
       expect(
         testUtils.countryArraysAreEqual(actualCountries, expectedCountries)
       ).toBeTrue();
+    });
+  });
+
+  describe("The getAllCountriesByLandlock", () => {
+    it("returns all the landlocked countries", () => {
+      expect(countryApi.getCountriesByLandLock(true).length).toEqual(45);
+    });
+
+    it("returns all the countries which are not landlocked", () => {
+      expect(countryApi.getCountriesByLandLock(false).length).toEqual(151);
+    });
+
+    it("returns countries with isLandLocked set to true", () => {
+      expect(countryApi.getCountriesByLandLock(true)[0]).toEqual({
+        country: "afghanistan",
+        capital: "kabul",
+        currency: "afghani",
+        native_language: ["dari persian", "pashto"],
+        famous_for: "rugs, taliban",
+        phone_code: "+93",
+        flag: "https://flagpedia.net/data/flags/h80/af.png",
+        drive_direction: "right",
+        is_landlocked: true
+      });
+    });
+
+    it("returns countries with isLandLocked set to false", () => {
+      expect(countryApi.getCountriesByLandLock(false)[0]).toEqual({
+        country: "albania",
+        capital: "tirane",
+        currency: "lek",
+        native_language: ["albanian"],
+        famous_for: "mother teresa",
+        phone_code: "+355",
+        flag: "https://flagpedia.net/data/flags/h80/al.png",
+        drive_direction: "right",
+        is_landlocked: false
+      });
+    });
+
+    it("should return undefined if passed any value other than boolean", () => {
+      expect(countryApi.getCountriesByLandLock(1).length).toEqual(undefined);
     });
   });
 });

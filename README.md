@@ -205,7 +205,7 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 ---
 
 - `getCountriesByFamousFor(famousThing)` <br>
-  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, and **flag** sorted by the _famousThing_ passed as the parameter.<br>
+  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _famousThing_ passed as the parameter.<br>
   Response for getCountriesByFamousFor('oil')
 
       	```javascript
@@ -264,6 +264,38 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       		phone_code: '+47',
       		flag: "https://flagpedia.net/data/flags/h80/no.png"
       		},
+      	];
+      	```
+---
+
+- `getCountriesByLandLock(isLandLocked: boolean)` <br>
+  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_direction** and **is_landlocked** sorted by the _isLandlocked property which is boolean_ passed as the parameter.<br>
+  Response for getCountriesByLandLock(true)
+
+      	```javascript
+      	[
+      		{
+				country: 'afghanistan',
+				capital: 'kabul',
+				currency: 'afghani',
+				native_language: ['dari persian', 'pashto'],
+				famous_for: 'rugs, taliban',
+				phone_code: '+93',
+				flag: 'https://flagpedia.net/data/flags/h80/af.png',
+				drive_direction: 'right',
+				is_landlocked: true
+  			},
+      		{
+      			country: 'andorra',
+      			capital: 'andorra la vella',
+      			currency: 'euro',
+      			native_language: ['catalan'],
+      			famous_for: 'tourism and tobacco',
+				phone_code: '+244',
+				flag: 'https://flagpedia.net/data/flags/h80/ad.png',
+				drive_direction: 'right',
+    			is_landlocked: true
+      		}
       	];
       	```
 
@@ -367,6 +399,18 @@ console.log(wcc.getAllCountries());
 const wcc = require("world-countries-capitals");
 
 console.log(wcc.getCountriesByFamousFor("oil"));
+```
+
+---
+
+### Example #9
+
+> Get the details of all `countries` that are '_landlocked_'.
+
+```javascript
+const wcc = require("world-countries-capitals");
+
+console.log(wcc.getCountriesByLandLock(true));
 ```
 
 ---
