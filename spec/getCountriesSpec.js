@@ -138,4 +138,27 @@ describe("The index", () => {
       ).toBeTrue();
     });
   });
+
+  describe("The getCountriesByConstitutionalForm", () => {
+    const republicCountries = countryApi.getCountriesByConstitutionalForm("republic");
+    const monarchyCountries = countryApi.getCountriesByConstitutionalForm("monarchy");
+    const absoluteMonarchyCountries = countryApi
+      .getCountriesByConstitutionalForm("absolute monarchy");
+    const constitutionalMonarchyCountries = countryApi
+      .getCountriesByConstitutionalForm("constitutional monarchy");
+
+    it("returns the countries that have 'republic' constitutional form", () => {
+      expect(republicCountries.length).toBe(148);
+    });
+    it("returns the countries that have 'monarchy' constitutional form", () => {
+      expect(monarchyCountries.length).toBe(44);
+    });
+    it("returns the countries that have 'absolute monarchy' constitutional form", () => {
+      expect(absoluteMonarchyCountries.length).toBe(6);
+    });
+    it("returns the countries that have 'constitutional monarchy' constitutional form", () => {
+      expect(constitutionalMonarchyCountries.length)
+        .toBe(monarchyCountries.length - absoluteMonarchyCountries.length);
+    });
+  });
 });
