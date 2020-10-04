@@ -25,6 +25,10 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
+        area: {
+          km2: 652864,
+          mi2: 252072
+        },
       });
     });
   });
@@ -40,6 +44,10 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
+        area: {
+          km2: 28748,
+          mi2: 11100
+        },
       });
     });
   });
@@ -61,6 +69,10 @@ describe("The index", () => {
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
         drive_direction: "right",
+        area: {
+          km2: 51209,
+          mi2: 19772
+        },
       });
     });
   });
