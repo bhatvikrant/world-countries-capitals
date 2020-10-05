@@ -125,6 +125,27 @@ const getCountriesByFamousFor = (famousThing) => {
   );
 };
 
+const getCountriesByAlcoholProhibition = (prohibitionType) =>{
+  let value;
+  switch (prohibitionType) {
+    case "none":
+      value = "none";
+      break;
+    case "limited":
+      value = "limited";
+      break;
+    case "regional":
+      value = "regional";
+      break;
+    case "nationwide":
+      value = "nationwide";
+      break;
+    default:
+      throw new Error('Prohibition type must be "none", "limited", "regional" or "nationwide"');
+  }
+  return getCountriesByObject(value,"alcohol_prohibition");
+}
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -135,4 +156,5 @@ module.exports = {
   getCountriesByLanguage,
   getCountriesByFamousFor,
   getCountriesByDriveDirection,
+  getCountriesByAlcoholProhibition
 };
