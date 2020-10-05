@@ -46,7 +46,7 @@ describe("The index", () => {
         drive_direction: "right",
         area: {
           km2: 28748,
-          mi2: 11100
+          mi2: 11100,
         },
       });
     });
@@ -71,7 +71,7 @@ describe("The index", () => {
         drive_direction: "right",
         area: {
           km2: 51209,
-          mi2: 19772
+          mi2: 19772,
         },
       });
     });
