@@ -25,7 +25,7 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
-        is_landlocked: true
+        is_landlocked: true,
       });
     });
   });
@@ -41,7 +41,7 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
-        is_landlocked: false
+        is_landlocked: false,
       });
     });
   });
@@ -63,7 +63,7 @@ describe("The index", () => {
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
         drive_direction: "right",
-        is_landlocked: false
+        is_landlocked: false,
       });
     });
   });
@@ -140,16 +140,19 @@ describe("The index", () => {
   });
 
   describe("The getAllCountriesByLandlock", () => {
+    const landLockedCountries = countryApi.getCountriesByLandLock(true);
+    const notLandLockedCountries = countryApi.getCountriesByLandLock(false);
+
     it("returns all the landlocked countries", () => {
-      expect(countryApi.getCountriesByLandLock(true).length).toEqual(45);
+      expect(landLockedCountries.length).toEqual(45);
     });
 
     it("returns all the countries which are not landlocked", () => {
-      expect(countryApi.getCountriesByLandLock(false).length).toEqual(151);
+      expect(notLandLockedCountries.length).toEqual(151);
     });
 
     it("returns countries with isLandLocked set to true", () => {
-      expect(countryApi.getCountriesByLandLock(true)[0]).toEqual({
+      expect(landLockedCountries[0]).toEqual({
         country: "afghanistan",
         capital: "kabul",
         currency: "afghani",
@@ -158,12 +161,12 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
-        is_landlocked: true
+        is_landlocked: true,
       });
     });
 
     it("returns countries with isLandLocked set to false", () => {
-      expect(countryApi.getCountriesByLandLock(false)[0]).toEqual({
+      expect(notLandLockedCountries[0]).toEqual({
         country: "albania",
         capital: "tirane",
         currency: "lek",
@@ -172,12 +175,8 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
-        is_landlocked: false
+        is_landlocked: false,
       });
-    });
-
-    it("should return undefined if passed any value other than boolean", () => {
-      expect(countryApi.getCountriesByLandLock(1).length).toEqual(undefined);
     });
   });
 });

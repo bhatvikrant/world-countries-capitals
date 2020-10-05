@@ -128,15 +128,11 @@ const getCountriesByFamousFor = (famousThing) => {
 /** 
  * Returns an array of objects containing all countries, each containing `country`, `capital`,
  * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
- * @param {'true' | 'false'} isLandLocked  Country is said to be landlocked when it is surrounded on all sides by one or more countries
+ * @param {true | false} isLandLocked  Country is said to be landlocked when it is surrounded on all sides by one or more countries
  * @returns {Array} An array of country objects
 */
 const getCountriesByLandLock = (isLandLocked) => {
-  const isBoolean = typeof isLandLocked === 'boolean'
-  const filterBy = isBoolean && isLandLocked
-  return isBoolean && data.filter( 
-    (country) => country.is_landlocked === filterBy
-  );
+  return data.filter( country => country.is_landlocked === isLandLocked);
 };
 
 module.exports = {
