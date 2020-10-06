@@ -25,7 +25,7 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       });
     });
   });
@@ -41,7 +41,7 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
-        alcohol_prohibition: 'none'
+        alcohol_prohibition: 'none',
       });
     });
   });
@@ -63,7 +63,7 @@ describe("The index", () => {
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
         drive_direction: "right",
-        alcohol_prohibition: 'none'
+        alcohol_prohibition: 'none',
       });
     });
   });
@@ -146,112 +146,114 @@ describe("The index", () => {
   });
 
   describe("The getCountriesByAlcoholProhibition where parameter is nationwide", () => {
-    const results=countryApi.getCountriesByAlcoholProhibition("nationwide");
-    const expectedResults=[
+    const results = countryApi.getCountriesByAlcoholProhibition("nationwide");
+
+    const expectedResults = [
+
       {
         country: 'afghanistan',
         capital: 'kabul',
         currency: 'afghani',
-        native_language: [ 'dari persian', 'pashto' ],
+        native_language: ['dari persian', 'pashto'],
+
         famous_for: 'rugs, taliban',
         phone_code: '+93',
         flag: 'https://flagpedia.net/data/flags/h80/af.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'brunei',
         capital: 'bandar seri begawan',
         currency: 'brunei dollar',
-        native_language: [ 'malay' ],
+        native_language: ['malay'],
+
         famous_for: 'gorgeous mosques and islamic architecture',
         phone_code: '+673',
         flag: 'https://flagpedia.net/data/flags/h80/bn.png',
         drive_direction: 'left',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'djibouti',
         capital: 'djibouti',
         currency: 'djiboutian franc',
-        native_language: [ 'arabic', 'french' ],
+        native_language: ['arabic', 'french'],
         famous_for: 'amazing landscapes, limestone vents and flamingos',
         phone_code: '+253',
         flag: 'https://flagpedia.net/data/flags/h80/dj.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'iran',
         capital: 'tehran',
         currency: 'rial',
-        native_language: [ 'persian' ],
+        native_language: ['persian'],
         famous_for: 'nuclear weapon, shia muslims, poetry, persian carpet',
         phone_code: '+98',
         flag: 'https://flagpedia.net/data/flags/h80/ir.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'kuwait',
         capital: 'kuwait city',
         currency: 'kuwaiti dollar',
-        native_language: [ 'arabic', 'english' ],
+        native_language: ['arabic', 'english'],
         famous_for: "victim of saddam's invasion",
         phone_code: '965',
         flag: 'https://flagpedia.net/data/flags/h80/kw.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'libya',
         capital: 'tripoli',
         currency: 'libyan dinar',
-        native_language: [ 'arabic' ],
+        native_language: ['arabic'],
         famous_for: 'sahara desert',
         phone_code: '+218',
         flag: 'https://flagpedia.net/data/flags/h80/ly.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'mauritania',
         capital: 'nouakchott',
         currency: 'ouguiya',
-        native_language: [ 'arabic' ],
+        native_language: ['arabic'],
         famous_for: 'large reserves of iron ore, copper, and gypsum',
         phone_code: '+222',
         flag: 'https://flagpedia.net/data/flags/h80/mr.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'saudi arabia',
         capital: 'riyadh',
         currency: 'saudi riyal',
-        native_language: [ 'arabic' ],
+        native_language: ['arabic'],
         famous_for: 'strict rules, wahhabism, mecca and madina',
         phone_code: '+966',
         flag: 'https://flagpedia.net/data/flags/h80/sa.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       },
       {
         country: 'somalia',
         capital: 'mogadishu',
         currency: 'somali shilling',
-        native_language: [ 'somali', 'arabic' ],
+        native_language: ['somali', 'arabic'],
         famous_for: 'frankincense and myrrh',
         phone_code: '+252',
         flag: 'https://flagpedia.net/data/flags/h80/so.png',
         drive_direction: 'right',
-        alcohol_prohibition: 'nationwide'
+        alcohol_prohibition: 'nationwide',
       }
     ];
     it("returns the details of all countries where nationwide alcohol prohibition is applicable", () => {
-      expect(
-        testUtils.countryArraysAreEqual(results, expectedResults)
-      ).toBeTrue();
+       expect(results).toEqual(expectedResults); 
     });
   });
 });
