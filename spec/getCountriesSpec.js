@@ -139,17 +139,9 @@ describe("The index", () => {
     });
   });
   
-  describe("The getCountriesByAlcoholProhibition where parameter is none", () => {
-    it("returns the total number of countries where no alcohol prohibition is applicable", () => {
-      expect(countryApi.getCountriesByAlcoholProhibition("none").length).toEqual(176);
-    });
-  });
-
-  describe("The getCountriesByAlcoholProhibition where parameter is nationwide", () => {
+  describe("The getCountriesByAlcoholProhibition", () => {
     const results = countryApi.getCountriesByAlcoholProhibition("nationwide");
-
     const expectedResults = [
-
       {
         country: 'afghanistan',
         capital: 'kabul',
@@ -254,6 +246,9 @@ describe("The index", () => {
     ];
     it("returns the details of all countries where nationwide alcohol prohibition is applicable", () => {
        expect(results).toEqual(expectedResults); 
+    });
+    it("returns the total number of countries where no alcohol prohibition is applicable", () => {
+      expect(countryApi.getCountriesByAlcoholProhibition("none").length).toEqual(176);
     });
   });
 });
