@@ -47,8 +47,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			"currency": "afghani",
       			"native_language": ["dari persian", "pashto"],
       			"famous_for": "rugs, taliban",
-				"phone_code": "+93",
-				"flag": "https://flagpedia.net/data/flags/h80/af.png"
+			"phone_code": "+93",
+			"flag": "https://flagpedia.net/data/flags/h80/af.png"
       		},
       		{
       			"country": "albania",
@@ -56,8 +56,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			"currency": "lek",
       			"native_language": ["albanian"],
       			"famous_for" : "mother teresa",
-				"phone_code": "+355",
-				"flag": "https://flagpedia.net/data/flags/h80/al.png"
+			"phone_code": "+355",
+			"flag": "https://flagpedia.net/data/flags/h80/al.png"
       		},
       		...
       	]
@@ -120,8 +120,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: "indian rupee",
       			native_language: ["hindi", "english"],
       			famous_for: "bollywood, yoga, hinduism, food and diversity",
-				phone_code: "+91",
-				flag: "https://flagpedia.net/data/flags/h80/in.png"
+			phone_code: "+91",
+			flag: "https://flagpedia.net/data/flags/h80/in.png"
       		},
       	];
       	```
@@ -140,8 +140,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: "indian rupee",
       			native_language: ["hindi", "english"],
       			famous_for: "bollywood, yoga, hinduism, food and diversity",
-				phone_code: "+91",
-				flag: "https://flagpedia.net/data/flags/h80/in.png"
+			phone_code: "+91",
+			flag: "https://flagpedia.net/data/flags/h80/in.png"
       		},
       	];
       	```
@@ -178,8 +178,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: "burundi franc",
       			native_language: ["kirundi", "french"],
       			famous_for: "wildlife and greenery",
-				phone_code: "+257",
-				flag: "https://flagpedia.net/data/flags/h80/bi.png"
+			phone_code: "+257",
+			flag: "https://flagpedia.net/data/flags/h80/bi.png"
       		},
       		{
       			country: "palau",
@@ -187,8 +187,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: "united states dollar",
       			native_language: ["english", "palauan"],
       			famous_for: "jellyfish lake",
-				phone_code: "+680",
-				flag: "https://flagpedia.net/data/flags/h80/pw.png"
+			phone_code: "+680",
+			flag: "https://flagpedia.net/data/flags/h80/pw.png"
       		},
       		{
       			country: "dominican republic",
@@ -196,8 +196,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: "dominican peso",
       			native_language: ["spanish"],
       			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
-				phone_code: "+1-809, +1-829, +1-849",
-				flag: "https://flagpedia.net/data/flags/h80/do.png"
+			phone_code: "+1-809, +1-829, +1-849",
+			flag: "https://flagpedia.net/data/flags/h80/do.png"
       		},
       	];
       	```
@@ -216,8 +216,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: 'algerian dinar',
       			native_language: ['arabic', 'tamazight', 'french'],
       			famous_for: 'oil and gas reserves',
-				phone_code: '+213',
-				flag: "https://flagpedia.net/data/flags/h80/dz.png"
+			phone_code: '+213',
+			flag: "https://flagpedia.net/data/flags/h80/dz.png"
       		},
       		{
       			country: 'angola',
@@ -225,8 +225,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: 'kwanza',
       			native_language: ['portuguese'],
       			famous_for: 'oil',
-				phone_code: '+244',
-				flag: "https://flagpedia.net/data/flags/h80/ao.png"
+			phone_code: '+244',
+			flag: "https://flagpedia.net/data/flags/h80/ao.png"
       		},
       		{
       			country: 'bahrain',
@@ -234,8 +234,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: 'bahraini dinar',
       			native_language: ['arabic'],
       			famous_for: 'oil, pearls and world heritage sites',
-				phone_code: '+973',
-				flag: "https://flagpedia.net/data/flags/h80/bh.png"
+			phone_code: '+973',
+			flag: "https://flagpedia.net/data/flags/h80/bh.png"
       		},
       		{
       			country: 'bulgaria',
@@ -243,8 +243,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: 'lev',
       			native_language: ['bulgarian'],
       			famous_for: 'lavender oil and the rose valley',
-				phone_code: '+359',
-				flag: "https://flagpedia.net/data/flags/h80/bg.png"
+			phone_code: '+359',
+			flag: "https://flagpedia.net/data/flags/h80/bg.png"
       		},
       		{
       			country: 'central african republic',
@@ -252,8 +252,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: 'central african cfa franc',
       			native_language: ['sango', 'french'],
       			famous_for: 'diamonds, gold, oil and uranium',
-				phone_code: '+236',
-				flag: "https://flagpedia.net/data/flags/h80/cf.png"
+			phone_code: '+236',
+			flag: "https://flagpedia.net/data/flags/h80/cf.png"
       		},
       		{
       			country: 'norway',
@@ -261,8 +261,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       			currency: 'norwegian krone',
       			native_language: ['norwegian'],
       			famous_for: 'oil, fjords, mountains and midnight sun',
-				phone_code: '+47',
-				flag: "https://flagpedia.net/data/flags/h80/no.png"
+			phone_code: '+47',
+			flag: "https://flagpedia.net/data/flags/h80/no.png"
       		},
       	];
       	```
@@ -275,25 +275,25 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       	```javascript
       	[
       		{
-				country: 'afghanistan',
-				capital: 'kabul',
-				currency: 'afghani',
-				native_language: ['dari persian', 'pashto'],
-				famous_for: 'rugs, taliban',
-				phone_code: '+93',
-				flag: 'https://flagpedia.net/data/flags/h80/af.png',
-				drive_direction: 'right',
-				is_landlocked: true
-  			},
+			country: 'afghanistan',
+			capital: 'kabul',
+			currency: 'afghani',
+			native_language: ['dari persian', 'pashto'],
+			famous_for: 'rugs, taliban',
+			phone_code: '+93',
+			flag: 'https://flagpedia.net/data/flags/h80/af.png',
+			drive_direction: 'right',
+			is_landlocked: true
+		},
       		{
       			country: 'andorra',
       			capital: 'andorra la vella',
       			currency: 'euro',
       			native_language: ['catalan'],
       			famous_for: 'tourism and tobacco',
-				phone_code: '+244',
-				flag: 'https://flagpedia.net/data/flags/h80/ad.png',
-				drive_direction: 'right',
+			phone_code: '+244',
+			flag: 'https://flagpedia.net/data/flags/h80/ad.png',
+			drive_direction: 'right',
     			is_landlocked: true
       		}
       	];
