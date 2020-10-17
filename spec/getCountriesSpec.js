@@ -153,6 +153,7 @@ describe("The index", () => {
         phone_code: "+47",
       },
     ];
+
     it("returns countries famous for oil", () => {
       expect(
         testUtils.countryArraysAreEqual(actualCountries, expectedCountries)
@@ -178,7 +179,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "036",
           "alpha_2": "au",
-          "alpha_3": "aus"
+          "alpha_3": "aus",
         },
         "tld": ".au",
         "constitutional_form": "constitutional monarchy",
@@ -196,7 +197,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "242",
           "alpha_2": "fj",
-          "alpha_3": "fji"
+          "alpha_3": "fji",
         },
         "tld": ".fj",
         "constitutional_form": "republic",
@@ -214,7 +215,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "296",
           "alpha_2": "ki",
-          "alpha_3": "kir"
+          "alpha_3": "kir",
         },
         "tld": ".ki",
         "constitutional_form": "republic",
@@ -232,7 +233,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "584",
           "alpha_2": "mh",
-          "alpha_3": "mhl"
+          "alpha_3": "mhl",
         },
         "tld": ".mh",
         "constitutional_form": "republic",
@@ -250,7 +251,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "583",
           "alpha_2": "fm",
-          "alpha_3": "fsm"
+          "alpha_3": "fsm",
         },
         "tld": ".fm",
         "constitutional_form": "republic",
@@ -268,7 +269,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "520",
           "alpha_2": "nr",
-          "alpha_3": "nru"
+          "alpha_3": "nru",
         },
         "tld": ".nr",
         "constitutional_form": "republic",
@@ -286,7 +287,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "554",
           "alpha_2": "nz",
-          "alpha_3": "nzl"
+          "alpha_3": "nzl",
         },
         "tld": ".nz",
         "constitutional_form": "constitutional monarchy",
@@ -304,7 +305,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "585",
           "alpha_2": "pw",
-          "alpha_3": "plw"
+          "alpha_3": "plw",
         },
         "tld": ".pw",
         "constitutional_form": "republic",
@@ -322,7 +323,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "598",
           "alpha_2": "pg",
-          "alpha_3": "png"
+          "alpha_3": "png",
         },
         "tld": ".pg",
         "constitutional_form": "constitutional monarchy",
@@ -340,7 +341,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "882",
           "alpha_2": "ws",
-          "alpha_3": "wsm"
+          "alpha_3": "wsm",
         },
         "tld": ".ws",
         "constitutional_form": "republic",
@@ -358,7 +359,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "090",
           "alpha_2": "sb",
-          "alpha_3": "slb"
+          "alpha_3": "slb",
         },
         "tld": ".sb",
         "constitutional_form": "constitutional monarchy",
@@ -376,7 +377,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "776",
           "alpha_2": "to",
-          "alpha_3": "ton"
+          "alpha_3": "ton",
         },
         "tld": ".to",
         "constitutional_form": "constitutional monarchy",
@@ -394,7 +395,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "798",
           "alpha_2": "tv",
-          "alpha_3": "tuv"
+          "alpha_3": "tuv",
         },
         "tld": ".tv",
         "constitutional_form": "constitutional monarchy",
@@ -412,7 +413,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "548",
           "alpha_2": "vu",
-          "alpha_3": "vut"
+          "alpha_3": "vut",
         },
         "tld": ".vu",
         "constitutional_form": "republic",
@@ -453,7 +454,7 @@ describe("The index", () => {
       "iso": {
         "numeric": "616",
         "alpha_2": "pl",
-        "alpha_3": "pol"
+        "alpha_3": "pol",
       },
       "tld": ".pl",
       "constitutional_form": "republic",
@@ -485,7 +486,7 @@ describe("The index", () => {
       "iso": {
         "numeric": "616",
         "alpha_2": "pl",
-        "alpha_3": "pol"
+        "alpha_3": "pol",
       },
       "tld": ".pl",
       "constitutional_form": "republic",
@@ -505,7 +506,7 @@ describe("The index", () => {
         "iso": {
           "numeric": "383",
           "alpha_2": "xk",
-          "alpha_3": "xkx"
+          "alpha_3": "xkx",
         },
         "tld": ".rs",
         "constitutional_form": "republic",
@@ -543,7 +544,7 @@ describe("The index", () => {
       "iso": {
         "numeric": "826",
         "alpha_2": "gb",
-        "alpha_3": "gbr"
+        "alpha_3": "gbr",
       },
       "tld": ".gb/.uk",
       "constitutional_form": "constitutional monarchy",
