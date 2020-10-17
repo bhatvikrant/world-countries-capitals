@@ -7,7 +7,14 @@
     "famous_for": "rugs, taliban",
     "phone_code": "+93",
     "flag": "https://flagpedia.net/data/flags/h80/af.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "004",
+      "alpha_2": "af",
+      "alpha_3": "afg"
+    },
+    "tld": ".af"
   },
   {
     "country": "albania",
@@ -17,7 +24,14 @@
     "famous_for": "mother teresa",
     "phone_code": "+355",
     "flag": "https://flagpedia.net/data/flags/h80/al.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "008",
+      "alpha_2": "al",
+      "alpha_3": "alb"
+    },
+    "tld": ".al"
   },
   {
     "country": "algeria",
@@ -27,7 +41,14 @@
     "famous_for": "oil and gas reserves",
     "phone_code": "+213",
     "flag": "https://flagpedia.net/data/flags/h80/dz.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "012",
+      "alpha_2": "dz",
+      "alpha_3": "dza"
+    },
+    "tld": ".dz"
   },
   {
     "country": "andorra",
@@ -37,7 +58,14 @@
     "famous_for": "tourism and tobacco",
     "phone_code": "+376",
     "flag": "https://flagpedia.net/data/flags/h80/ad.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "020",
+      "alpha_2": "ad",
+      "alpha_3": "and"
+    },
+    "tld": ".ad"
   },
   {
     "country": "angola",
@@ -47,7 +75,14 @@
     "famous_for": "oil",
     "phone_code": "+244",
     "flag": "https://flagpedia.net/data/flags/h80/ao.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "024",
+      "alpha_2": "ao",
+      "alpha_3": "ago"
+    },
+    "tld": ".ao"
   },
   {
     "country": "antigua & barbuda",
@@ -57,17 +92,31 @@
     "famous_for": "spectacular racing and rum",
     "phone_code": "+1-268",
     "flag": "https://flagpedia.net/data/flags/h80/ag.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "028",
+      "alpha_2": "ag",
+      "alpha_3": "atg"
+    },
+    "tld": ".ag"
   },
   {
     "country": "argentina",
     "capital": "buenos aires",
     "currency": "argentine peso",
     "native_language": ["spanish"],
-    "famous_for": "Football",
+    "famous_for": "football",
     "phone_code": "+54",
     "flag": "https://flagpedia.net/data/flags/h80/ar.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "032",
+      "alpha_2": "ar",
+      "alpha_3": "arg"
+    },
+    "tld": ".ar"
   },
   {
     "country": "armenia",
@@ -77,7 +126,14 @@
     "famous_for": "genocide and kim kardashian",
     "phone_code": "+374",
     "flag": "https://flagpedia.net/data/flags/h80/am.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "051",
+      "alpha_2": "am",
+      "alpha_3": "arm"
+    },
+    "tld": ".am"
   },
   {
     "country": "australia",
@@ -87,7 +143,14 @@
     "famous_for": "koalas and kangaroos",
     "phone_code": "+61",
     "flag": "https://flagpedia.net/data/flags/h80/au.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "036",
+      "alpha_2": "au",
+      "alpha_3": "aus"
+    },
+    "tld": ".au"
   },
   {
     "country": "austria",
@@ -97,7 +160,14 @@
     "famous_for": "hitler, mozart, redbull, franz ferdinand and arnold schwarzenegger",
     "phone_code": "+43",
     "flag": "https://flagpedia.net/data/flags/h80/at.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "040",
+      "alpha_2": "at",
+      "alpha_3": "aut"
+    },
+    "tld": ".at"
   },
   {
     "country": "azerbaijan",
@@ -107,7 +177,14 @@
     "famous_for": "burning mountain",
     "phone_code": "+994",
     "flag": "https://flagpedia.net/data/flags/h80/az.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "031",
+      "alpha_2": "az",
+      "alpha_3": "aze"
+    },
+    "tld": ".az"
   },
   {
     "country": "the bahamas",
@@ -117,7 +194,14 @@
     "famous_for": "scenic beauty and year-round tropical weather",
     "phone_code": "+1-242",
     "flag": "https://flagpedia.net/data/flags/h80/bs.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "044",
+      "alpha_2": "bs",
+      "alpha_3": "bhs"
+    },
+    "tld": ".bs"
   },
   {
     "country": "bahrain",
@@ -127,7 +211,14 @@
     "famous_for": "oil, pearls and world heritage sites",
     "phone_code": "+973",
     "flag": "https://flagpedia.net/data/flags/h80/bh.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "048",
+      "alpha_2": "bh",
+      "alpha_3": "bhr"
+    },
+    "tld": ".bh"
   },
   {
     "country": "bangladesh",
@@ -137,7 +228,14 @@
     "famous_for": "cox's bazar sea",
     "phone_code": "+880",
     "flag": "https://flagpedia.net/data/flags/h80/bd.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "050",
+      "alpha_2": "bd",
+      "alpha_3": "bgd"
+    },
+    "tld": ".bd"
   },
   {
     "country": "barbados",
@@ -147,17 +245,31 @@
     "famous_for": "flying fish",
     "phone_code": "+1-246",
     "flag": "https://flagpedia.net/data/flags/h80/bb.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "052",
+      "alpha_2": "bb",
+      "alpha_3": "brb"
+    },
+    "tld": ".bb"
   },
   {
     "country": "belarus",
     "capital": "minsk",
     "currency": "belarusian ruble",
     "native_language": ["belarusian", "russian"],
-    "famous_for": "Variety of sweets",
+    "famous_for": "variety of sweets",
     "phone_code": "+375",
     "flag": "https://flagpedia.net/data/flags/h80/by.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "112",
+      "alpha_2": "by",
+      "alpha_3": "blr"
+    },
+    "tld": ".by"
   },
   {
     "country": "belgium",
@@ -167,7 +279,14 @@
     "famous_for": "chocolates, waffles, fries and beer",
     "phone_code": "+32",
     "flag": "https://flagpedia.net/data/flags/h80/be.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "056",
+      "alpha_2": "be",
+      "alpha_3": "bel"
+    },
+    "tld": ".be"
   },
   {
     "country": "belize",
@@ -177,7 +296,14 @@
     "famous_for": "scuba diving sites",
     "phone_code": "+501",
     "flag": "https://flagpedia.net/data/flags/h80/bz.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "084",
+      "alpha_2": "bz",
+      "alpha_3": "blz"
+    },
+    "tld": ".bz"
   },
   {
     "country": "benin",
@@ -187,7 +313,14 @@
     "famous_for": "bronzes - brass work",
     "phone_code": "+229",
     "flag": "https://flagpedia.net/data/flags/h80/bj.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "204",
+      "alpha_2": "bj",
+      "alpha_3": "ben"
+    },
+    "tld": ".bj"
   },
   {
     "country": "bhutan",
@@ -197,7 +330,14 @@
     "famous_for": "natural beauty, forest conservation, great culture and heritage",
     "phone_code": "+975",
     "flag": "https://flagpedia.net/data/flags/h80/bt.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "064",
+      "alpha_2": "bt",
+      "alpha_3": "btn"
+    },
+    "tld": ".bt"
   },
   {
     "country": "bolivia",
@@ -207,7 +347,14 @@
     "famous_for": "salar de uyuni",
     "phone_code": "+591",
     "flag": "https://flagpedia.net/data/flags/h80/bo.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "068",
+      "alpha_2": "bo",
+      "alpha_3": "bol"
+    },
+    "tld": ".bo"
   },
   {
     "country": "bosnia and herzegovina",
@@ -217,7 +364,14 @@
     "famous_for": "natural environment and cultural heritage",
     "phone_code": "+387",
     "flag": "https://flagpedia.net/data/flags/h80/ba.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "070",
+      "alpha_2": "ba",
+      "alpha_3": "bih"
+    },
+    "tld": ".ba"
   },
   {
     "country": "botswana",
@@ -227,7 +381,14 @@
     "famous_for": "safari destinations",
     "phone_code": "+267",
     "flag": "https://flagpedia.net/data/flags/h80/bw.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "072",
+      "alpha_2": "bw",
+      "alpha_3": "bwa"
+    },
+    "tld": ".bw"
   },
   {
     "country": "brazil",
@@ -237,7 +398,14 @@
     "famous_for": "soccer and football",
     "phone_code": "+55",
     "flag": "https://flagpedia.net/data/flags/h80/br.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "076",
+      "alpha_2": "br",
+      "alpha_3": "bra"
+    },
+    "tld": ".br"
   },
   {
     "country": "brunei",
@@ -247,7 +415,14 @@
     "famous_for": "gorgeous mosques and islamic architecture",
     "phone_code": "+673",
     "flag": "https://flagpedia.net/data/flags/h80/bn.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "096",
+      "alpha_2": "bn",
+      "alpha_3": "brn"
+    },
+    "tld": ".bn"
   },
   {
     "country": "bulgaria",
@@ -257,7 +432,14 @@
     "famous_for": "lavender oil and the rose valley",
     "phone_code": "+359",
     "flag": "https://flagpedia.net/data/flags/h80/bg.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "100",
+      "alpha_2": "bg",
+      "alpha_3": "bgr"
+    },
+    "tld": ".bg"
   },
   {
     "country": "burkina faso",
@@ -267,7 +449,14 @@
     "famous_for": "african art and culture",
     "phone_code": "+226",
     "flag": "https://flagpedia.net/data/flags/h80/bf.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "854",
+      "alpha_2": "bf",
+      "alpha_3": "bfa"
+    },
+    "tld": ".bf"
   },
   {
     "country": "burundi",
@@ -277,7 +466,14 @@
     "famous_for": "wildlife and greenery",
     "phone_code": "+257",
     "flag": "https://flagpedia.net/data/flags/h80/bi.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "108",
+      "alpha_2": "bi",
+      "alpha_3": "bdi"
+    },
+    "tld": ".bi"
   },
   {
     "country": "cambodia",
@@ -287,7 +483,14 @@
     "famous_for": "angkor wat hindu temple",
     "phone_code": "+855",
     "flag": "https://flagpedia.net/data/flags/h80/kh.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "116",
+      "alpha_2": "kh",
+      "alpha_3": "khm"
+    },
+    "tld": ".kh"
   },
   {
     "country": "cameroon",
@@ -297,7 +500,14 @@
     "famous_for": "coffee, cocoa, cotton and oilseeds",
     "phone_code": "+237",
     "flag": "https://flagpedia.net/data/flags/h80/cm.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "120",
+      "alpha_2": "cm",
+      "alpha_3": "cmr"
+    },
+    "tld": ".cm"
   },
   {
     "country": "canada",
@@ -307,7 +517,14 @@
     "famous_for": "mapple syrup, mapple trees, politeness and hockey",
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/ca.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "124",
+      "alpha_2": "ca",
+      "alpha_3": "can"
+    },
+    "tld": ".ca"
   },
   {
     "country": "cape verde",
@@ -317,7 +534,14 @@
     "famous_for": "warm tropical climate, volcanic islands, wonderful musicians",
     "phone_code": "+238",
     "flag": "https://flagpedia.net/data/flags/h80/cv.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "132",
+      "alpha_2": "cv",
+      "alpha_3": "cpv"
+    },
+    "tld": ".cv"
   },
   {
     "country": "central african republic",
@@ -327,7 +551,14 @@
     "famous_for": "diamonds, gold, oil and uranium",
     "phone_code": "+236",
     "flag": "https://flagpedia.net/data/flags/h80/cf.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "140",
+      "alpha_2": "cf",
+      "alpha_3": "caf"
+    },
+    "tld": ".cf"
   },
   {
     "country": "chad",
@@ -337,7 +568,14 @@
     "famous_for": "chad lake",
     "phone_code": "+235",
     "flag": "https://flagpedia.net/data/flags/h80/td.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "148",
+      "alpha_2": "td",
+      "alpha_3": "tcd"
+    },
+    "tld": ".td"
   },
   {
     "country": "chile",
@@ -347,7 +585,14 @@
     "famous_for": "country of poets",
     "phone_code": "+56",
     "flag": "https://flagpedia.net/data/flags/h80/cl.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "152",
+      "alpha_2": "cl",
+      "alpha_3": "chl"
+    },
+    "tld": ".cl"
   },
   {
     "country": "china",
@@ -357,7 +602,14 @@
     "famous_for": "kung fu, spitting habit, panda, cheap electronics",
     "phone_code": "+86",
     "flag": "https://flagpedia.net/data/flags/h80/cn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "156",
+      "alpha_2": "cn",
+      "alpha_3": "chn"
+    },
+    "tld": ".cn"
   },
   {
     "country": "colombia",
@@ -367,7 +619,14 @@
     "famous_for": "mines of muzo, chivor and coscuez",
     "phone_code": "+57",
     "flag": "https://flagpedia.net/data/flags/h80/co.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "170",
+      "alpha_2": "co",
+      "alpha_3": "col"
+    },
+    "tld": ".co"
   },
   {
     "country": "comoros",
@@ -377,7 +636,14 @@
     "famous_for": "fragrant plant life and scenic beauty",
     "phone_code": "+269",
     "flag": "https://flagpedia.net/data/flags/h80/km.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "174",
+      "alpha_2": "km",
+      "alpha_3": "com"
+    },
+    "tld": ".km"
   },
   {
     "country": "democratic republic of the congo",
@@ -387,7 +653,14 @@
     "famous_for": "diamonds, cobalt and copper",
     "phone_code": "+243",
     "flag": "https://flagpedia.net/data/flags/h80/dr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "180",
+      "alpha_2": "cd",
+      "alpha_3": "cod"
+    },
+    "tld": ".cd"
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -397,7 +670,14 @@
     "famous_for": "natural resources",
     "phone_code": "+242",
     "flag": "https://flagpedia.net/data/flags/h80/cg.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "178",
+      "alpha_2": "cg",
+      "alpha_3": "cog"
+    },
+    "tld": ".cg"
   },
   {
     "country": "costa rica",
@@ -407,7 +687,14 @@
     "famous_for": "coffee beans",
     "phone_code": "+506",
     "flag": "https://flagpedia.net/data/flags/h80/cr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "188",
+      "alpha_2": "cr",
+      "alpha_3": "cri"
+    },
+    "tld": ".cr"
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -417,7 +704,14 @@
     "famous_for": "religious and ethnic harmony",
     "phone_code": "+225",
     "flag": "https://flagpedia.net/data/flags/h80/ci.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "384",
+      "alpha_2": "ci",
+      "alpha_3": "civ"
+    },
+    "tld": ".ci"
   },
   {
     "country": "croatia",
@@ -427,7 +721,14 @@
     "famous_for": "game of thrones, stunning natural beauty and 6000km long coast",
     "phone_code": "+385",
     "flag": "https://flagpedia.net/data/flags/h80/hr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "191",
+      "alpha_2": "hr",
+      "alpha_3": "hrv"
+    },
+    "tld": ".hr"
   },
   {
     "country": "cuba",
@@ -437,7 +738,14 @@
     "famous_for": "beaches, rum, cigars, fascinating architecture",
     "phone_code": "+53",
     "flag": "https://flagpedia.net/data/flags/h80/cu.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "192",
+      "alpha_2": "cu",
+      "alpha_3": "cub"
+    },
+    "tld": ".cu"
   },
   {
     "country": "cyprus",
@@ -447,7 +755,14 @@
     "famous_for": "incredible scenery and history",
     "phone_code": "+357",
     "flag": "https://flagpedia.net/data/flags/h80/cy.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "eu",
+    "iso": {
+      "numeric": "196",
+      "alpha_2": "cy",
+      "alpha_3": "cyp"
+    },
+    "tld": ".cy"
   },
   {
     "country": "czechia",
@@ -457,7 +772,14 @@
     "famous_for": "museums, puppetry, marionette exhibitions and folk festivals",
     "phone_code": "+420",
     "flag": "https://flagpedia.net/data/flags/h80/cz.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "203",
+      "alpha_2": "cz",
+      "alpha_3": "cze"
+    },
+    "tld": ".cz"
   },
   {
     "country": "denmark",
@@ -467,7 +789,14 @@
     "famous_for": "pig meat, healthcare, pastries and cuisine",
     "phone_code": "+45",
     "flag": "https://flagpedia.net/data/flags/h80/dk.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "208",
+      "alpha_2": "dk",
+      "alpha_3": "dnk"
+    },
+    "tld": ".dk"
   },
   {
     "country": "djibouti",
@@ -477,7 +806,14 @@
     "famous_for": "amazing landscapes, limestone vents and flamingos",
     "phone_code": "+253",
     "flag": "https://flagpedia.net/data/flags/h80/dj.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "262",
+      "alpha_2": "dj",
+      "alpha_3": "dji"
+    },
+    "tld": ".dj"
   },
   {
     "country": "dominica",
@@ -487,7 +823,14 @@
     "famous_for": "boiling lake",
     "phone_code": "+1-767",
     "flag": "https://flagpedia.net/data/flags/h80/dm.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "212",
+      "alpha_2": "dm",
+      "alpha_3": "dma"
+    },
+    "tld": ".dm"
   },
   {
     "country": "dominican republic",
@@ -497,7 +840,14 @@
     "famous_for": "blue ocean water, white-sand beaches and beautiful resorts",
     "phone_code": "+1-809, +1-829, +1-849",
     "flag": "https://flagpedia.net/data/flags/h80/do.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "214",
+      "alpha_2": "do",
+      "alpha_3": "dom"
+    },
+    "tld": ".do"
   },
   {
     "country": "east timor (timor-leste)",
@@ -507,7 +857,14 @@
     "famous_for": "rich culture and beautiful beaches",
     "phone_code": "+670",
     "flag": "https://flagpedia.net/data/flags/h80/tl.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "626",
+      "alpha_2": "tl",
+      "alpha_3": "tls"
+    },
+    "tld": ".tl"
   },
   {
     "country": "ecuador",
@@ -517,7 +874,14 @@
     "famous_for": "home to galapagos islands",
     "phone_code": "+593",
     "flag": "https://flagpedia.net/data/flags/h80/ec.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "218",
+      "alpha_2": "ec",
+      "alpha_3": "ecu"
+    },
+    "tld": ".ec"
   },
   {
     "country": "egypt",
@@ -527,7 +891,14 @@
     "famous_for": "pyramids, sphinx, ai aqsa university and mummies",
     "phone_code": "+20",
     "flag": "https://flagpedia.net/data/flags/h80/eg.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "818",
+      "alpha_2": "eg",
+      "alpha_3": "egy"
+    },
+    "tld": ".eg"
   },
   {
     "country": "el salvador",
@@ -537,7 +908,14 @@
     "famous_for": "land of volcanoes",
     "phone_code": "+503",
     "flag": "https://flagpedia.net/data/flags/h80/sv.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "222",
+      "alpha_2": "sv",
+      "alpha_3": "slv"
+    },
+    "tld": ".sv"
   },
   {
     "country": "equitorial guinea",
@@ -547,7 +925,14 @@
     "famous_for": "spanish speaking country in africa",
     "phone_code": "+240",
     "flag": "https://flagpedia.net/data/flags/h80/gq.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "226",
+      "alpha_2": "gq",
+      "alpha_3": "gnq"
+    },
+    "tld": ".gq"
   },
   {
     "country": "eritrea",
@@ -557,7 +942,14 @@
     "famous_for": "coastal location in history and culture",
     "phone_code": "+291",
     "flag": "https://flagpedia.net/data/flags/h80/er.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "232",
+      "alpha_2": "er",
+      "alpha_3": "eri"
+    },
+    "tld": ".er"
   },
   {
     "country": "estonia",
@@ -567,7 +959,14 @@
     "famous_for": "medieval architecture",
     "phone_code": "+372",
     "flag": "https://flagpedia.net/data/flags/h80/ee.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "233",
+      "alpha_2": "ee",
+      "alpha_3": "est"
+    },
+    "tld": ".ee"
   },
   {
     "country": "ethiopia",
@@ -577,7 +976,14 @@
     "famous_for": "cradle of mankind",
     "phone_code": "+251",
     "flag": "https://flagpedia.net/data/flags/h80/et.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "231",
+      "alpha_2": "et",
+      "alpha_3": "eth"
+    },
+    "tld": ".et"
   },
   {
     "country": "fiji",
@@ -587,7 +993,14 @@
     "famous_for": "friendly people and heavenly tropical islands",
     "phone_code": "+679",
     "flag": "https://flagpedia.net/data/flags/h80/fj.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "242",
+      "alpha_2": "fj",
+      "alpha_3": "fji"
+    },
+    "tld": ".fj"
   },
   {
     "country": "finland",
@@ -597,7 +1010,14 @@
     "famous_for": "glassware, littala",
     "phone_code": "+358",
     "flag": "https://flagpedia.net/data/flags/h80/fi.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "246",
+      "alpha_2": "fi",
+      "alpha_3": "fin"
+    },
+    "tld": ".fi"
   },
   {
     "country": "france",
@@ -607,7 +1027,14 @@
     "famous_for": "eiffel tower, croissant, fashion, smoking and wine",
     "phone_code": "+33",
     "flag": "https://flagpedia.net/data/flags/h80/fr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "250",
+      "alpha_2": "fr",
+      "alpha_3": "fra"
+    },
+    "tld": ".fr"
   },
   {
     "country": "gabon",
@@ -617,7 +1044,14 @@
     "famous_for": "preserving the natural environment",
     "phone_code": "+241",
     "flag": "https://flagpedia.net/data/flags/h80/ga.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "266",
+      "alpha_2": "ga",
+      "alpha_3": "gab"
+    },
+    "tld": ".ga"
   },
   {
     "country": "the gambia",
@@ -627,7 +1061,14 @@
     "famous_for": "beaches, home to juffure",
     "phone_code": "+220",
     "flag": "https://flagpedia.net/data/flags/h80/gm.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "270",
+      "alpha_2": "gm",
+      "alpha_3": "gmb"
+    },
+    "tld": ".gm"
   },
   {
     "country": "georgia",
@@ -637,7 +1078,14 @@
     "famous_for": "joseph stalin",
     "phone_code": "+995",
     "flag": "https://flagpedia.net/data/flags/h80/ge.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "268",
+      "alpha_2": "ge",
+      "alpha_3": "geo"
+    },
+    "tld": ".ge"
   },
   {
     "country": "germany",
@@ -647,7 +1095,14 @@
     "famous_for": "beer, sausage, nazi and cars",
     "phone_code": "+49",
     "flag": "https://flagpedia.net/data/flags/h80/de.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "276",
+      "alpha_2": "de",
+      "alpha_3": "deu"
+    },
+    "tld": ".de"
   },
   {
     "country": "ghana",
@@ -657,7 +1112,14 @@
     "famous_for": "lush forests, diverse animal life, cocoa and gold",
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/gh.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "288",
+      "alpha_2": "gh",
+      "alpha_3": "gha"
+    },
+    "tld": ".gh"
   },
   {
     "country": "greece",
@@ -667,7 +1129,14 @@
     "famous_for": "ancient philosophers, ancient greek gods, sparta and orthodox christianity",
     "phone_code": "+30",
     "flag": "https://flagpedia.net/data/flags/h80/gr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "300",
+      "alpha_2": "gr",
+      "alpha_3": "grc"
+    },
+    "tld": ".gr"
   },
   {
     "country": "grenada",
@@ -677,7 +1146,14 @@
     "famous_for": "spices",
     "phone_code": "+1-473",
     "flag": "https://flagpedia.net/data/flags/h80/gd.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "308",
+      "alpha_2": "gd",
+      "alpha_3": "grd"
+    },
+    "tld": ".gd"
   },
   {
     "country": "guatemala",
@@ -687,7 +1163,14 @@
     "famous_for": "volcanic landscape and fascinating mayan culture",
     "phone_code": "+502",
     "flag": "https://flagpedia.net/data/flags/h80/gt.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "320",
+      "alpha_2": "gt",
+      "alpha_3": "gtm"
+    },
+    "tld": ".gt"
   },
   {
     "country": "guinea",
@@ -697,7 +1180,14 @@
     "famous_for": "hydroelectric power, bauxite reserves",
     "phone_code": "+224",
     "flag": "https://flagpedia.net/data/flags/h80/gn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "324",
+      "alpha_2": "gn",
+      "alpha_3": "gin"
+    },
+    "tld": ".gn"
   },
   {
     "country": "guinea-bissau",
@@ -707,7 +1197,14 @@
     "famous_for": "transit point for latin american cocain",
     "phone_code": "+245",
     "flag": "https://flagpedia.net/data/flags/h80/gw.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "624",
+      "alpha_2": "gw",
+      "alpha_3": "gnb"
+    },
+    "tld": ".gw"
   },
   {
     "country": "guyana",
@@ -717,7 +1214,14 @@
     "famous_for": "pristine rainforests, sugarcane plantations, rice fields and bauxite reserves",
     "phone_code": "+592",
     "flag": "https://flagpedia.net/data/flags/h80/gy.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "sa",
+    "iso": {
+      "numeric": "328",
+      "alpha_2": "gy",
+      "alpha_3": "guy"
+    },
+    "tld": ".gy"
   },
   {
     "country": "haiti",
@@ -727,7 +1231,14 @@
     "famous_for": "breathtaking beaches and crystal blue waters",
     "phone_code": "+509",
     "flag": "https://flagpedia.net/data/flags/h80/ht.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "332",
+      "alpha_2": "ht",
+      "alpha_3": "hti"
+    },
+    "tld": ".ht"
   },
   {
     "country": "honduras",
@@ -737,7 +1248,14 @@
     "famous_for": "rich natural resources, tropical fruit, sugarcane, coffee and growing textiles industry",
     "phone_code": "+504",
     "flag": "https://flagpedia.net/data/flags/h80/hn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "340",
+      "alpha_2": "hn",
+      "alpha_3": "hnd"
+    },
+    "tld": ".hn"
   },
   {
     "country": "hungary",
@@ -747,7 +1265,14 @@
     "famous_for": "rich natural resources and textiles",
     "phone_code": "+36",
     "flag": "https://flagpedia.net/data/flags/h80/hu.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "348",
+      "alpha_2": "hu",
+      "alpha_3": "hun"
+    },
+    "tld": ".hu"
   },
   {
     "country": "iceland",
@@ -757,7 +1282,14 @@
     "famous_for": "lagest glaciers in europe",
     "phone_code": "+354",
     "flag": "https://flagpedia.net/data/flags/h80/is.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "352",
+      "alpha_2": "is",
+      "alpha_3": "isl"
+    },
+    "tld": ".is"
   },
   {
     "country": "india",
@@ -767,7 +1299,14 @@
     "famous_for": "bollywood, yoga, hinduism, food and diversity",
     "phone_code": "+91",
     "flag": "https://flagpedia.net/data/flags/h80/in.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "356",
+      "alpha_2": "in",
+      "alpha_3": "ind"
+    },
+    "tld": ".in"
   },
   {
     "country": "indonesia",
@@ -777,7 +1316,14 @@
     "famous_for": "bali, komodo dragon, domestic workers and rendang",
     "phone_code": "+62",
     "flag": "https://flagpedia.net/data/flags/h80/id.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "360",
+      "alpha_2": "id",
+      "alpha_3": "idn"
+    },
+    "tld": ".id"
   },
   {
     "country": "iran",
@@ -787,7 +1333,14 @@
     "famous_for": "nuclear weapon, shia muslims, poetry, persian carpet",
     "phone_code": "+98",
     "flag": "https://flagpedia.net/data/flags/h80/ir.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "364",
+      "alpha_2": "ir",
+      "alpha_3": "irn"
+    },
+    "tld": ".ir"
   },
   {
     "country": "iraq",
@@ -797,7 +1350,14 @@
     "famous_for": "saddam hussein, isis",
     "phone_code": "+964",
     "flag": "https://flagpedia.net/data/flags/h80/iq.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "368",
+      "alpha_2": "iq",
+      "alpha_3": "irq"
+    },
+    "tld": ".iq"
   },
   {
     "country": "republic of ireland",
@@ -807,7 +1367,14 @@
     "famous_for": "meadows and leprechaun",
     "phone_code": "+353",
     "flag": "https://flagpedia.net/data/flags/h80/ie.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "372",
+      "alpha_2": "ie",
+      "alpha_3": "irl"
+    },
+    "tld": ".ie"
   },
   {
     "country": "israel",
@@ -817,7 +1384,14 @@
     "famous_for": "jewish-majority, aliyah, al aqsa mosque, jerusalem",
     "phone_code": "+972",
     "flag": "https://flagpedia.net/data/flags/h80/il.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "376",
+      "alpha_2": "il",
+      "alpha_3": "isr"
+    },
+    "tld": ".il"
   },
   {
     "country": "italy",
@@ -827,7 +1401,14 @@
     "famous_for": "ferrari, spaghetti, pizza, fashion, venice",
     "phone_code": "+39",
     "flag": "https://flagpedia.net/data/flags/h80/it.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "380",
+      "alpha_2": "it",
+      "alpha_3": "ita"
+    },
+    "tld": ".it"
   },
   {
     "country": "jamaica",
@@ -837,7 +1418,14 @@
     "famous_for": "blue mountain coffee",
     "phone_code": "+1-876",
     "flag": "https://flagpedia.net/data/flags/h80/jm.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "388",
+      "alpha_2": "jm",
+      "alpha_3": "jam"
+    },
+    "tld": ".jm"
   },
   {
     "country": "japan",
@@ -847,7 +1435,14 @@
     "famous_for": "politeness, anime, sushi, samurai, nitendo karate, cars and robotics",
     "phone_code": "+81",
     "flag": "https://flagpedia.net/data/flags/h80/jp.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "392",
+      "alpha_2": "jp",
+      "alpha_3": "jpn"
+    },
+    "tld": ".jp"
   },
   {
     "country": "jordan",
@@ -857,7 +1452,14 @@
     "famous_for": "petra",
     "phone_code": "+962",
     "flag": "https://flagpedia.net/data/flags/h80/jo.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "400",
+      "alpha_2": "jo",
+      "alpha_3": "jor"
+    },
+    "tld": ".jo"
   },
   {
     "country": "kazakhstan",
@@ -867,7 +1469,14 @@
     "famous_for": "architectural marvels, the caspian sea and wild horses",
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/kz.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "398",
+      "alpha_2": "kz",
+      "alpha_3": "kaz"
+    },
+    "tld": ".kz"
   },
   {
     "country": "kenya",
@@ -877,7 +1486,14 @@
     "famous_for": "masai people, safari tourism",
     "phone_code": "+254",
     "flag": "https://flagpedia.net/data/flags/h80/ke.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "404",
+      "alpha_2": "ke",
+      "alpha_3": "ken"
+    },
+    "tld": ".ke"
   },
   {
     "country": "kiribati",
@@ -887,7 +1503,14 @@
     "famous_for": "flyfishing, scuba diving and astounding seabird wildlife",
     "phone_code": "+686",
     "flag": "https://flagpedia.net/data/flags/h80/ki.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "296",
+      "alpha_2": "ki",
+      "alpha_3": "kir"
+    },
+    "tld": ".ki"
   },
   {
     "country": "north korea",
@@ -897,7 +1520,14 @@
     "famous_for": "communism, kim jeong 2, nuclear weapon",
     "phone_code": "+850",
     "flag": "https://flagpedia.net/data/flags/h80/kp.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "408",
+      "alpha_2": "kp",
+      "alpha_3": "prk"
+    },
+    "tld": ".kp"
   },
   {
     "country": "south korea",
@@ -907,7 +1537,14 @@
     "famous_for": "k-pop, samsung, hyundai, kia and kim chi",
     "phone_code": "+82",
     "flag": "https://flagpedia.net/data/flags/h80/kr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "410",
+      "alpha_2": "kr",
+      "alpha_3": "kor"
+    },
+    "tld": ".kr"
   },
   {
     "country": "kosovo",
@@ -917,7 +1554,14 @@
     "famous_for": "mountains and wine",
     "phone_code": "+383",
     "flag": "https://flagpedia.net/data/flags/h80/xk.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "383",
+      "alpha_2": "xk",
+      "alpha_3": "xkx"
+    },
+    "tld": ".rs"
   },
   {
     "country": "kuwait",
@@ -927,7 +1571,14 @@
     "famous_for": "victim of saddam's invasion",
     "phone_code": "965",
     "flag": "https://flagpedia.net/data/flags/h80/kw.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "414",
+      "alpha_2": "kw",
+      "alpha_3": "kwt"
+    },
+    "tld": ".kw"
   },
   {
     "country": "kyrgyzstan",
@@ -937,7 +1588,14 @@
     "famous_for": "lake issyk kul",
     "phone_code": "+996",
     "flag": "https://flagpedia.net/data/flags/h80/kg.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "417",
+      "alpha_2": "kg",
+      "alpha_3": "kgz"
+    },
+    "tld": ".kg"
   },
   {
     "country": "laos",
@@ -947,7 +1605,14 @@
     "famous_for": "bolaven plateau, ethnic villages",
     "phone_code": "+856",
     "flag": "https://flagpedia.net/data/flags/h80/la.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "418",
+      "alpha_2": "la",
+      "alpha_3": "lao"
+    },
+    "tld": ".la"
   },
   {
     "country": "latvia",
@@ -957,7 +1622,14 @@
     "famous_for": "old town, home to widest waterfall in europe",
     "phone_code": "+371",
     "flag": "https://flagpedia.net/data/flags/h80/lv.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "428",
+      "alpha_2": "lv",
+      "alpha_3": "lva"
+    },
+    "tld": ".lv"
   },
   {
     "country": "lebanon",
@@ -967,7 +1639,14 @@
     "famous_for": "rome and phoenica culture",
     "phone_code": "+961",
     "flag": "https://flagpedia.net/data/flags/h80/lb.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "422",
+      "alpha_2": "lb",
+      "alpha_3": "lbn"
+    },
+    "tld": ".lb"
   },
   {
     "country": "lesotho",
@@ -977,7 +1656,14 @@
     "famous_for": "sehlabathebe national park",
     "phone_code": "+266",
     "flag": "https://flagpedia.net/data/flags/h80/ls.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "426",
+      "alpha_2": "ls",
+      "alpha_3": "lso"
+    },
+    "tld": ".ls"
   },
   {
     "country": "liberia",
@@ -987,7 +1673,14 @@
     "famous_for": "long running ruinous civil war",
     "phone_code": "+231",
     "flag": "https://flagpedia.net/data/flags/h80/lr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "430",
+      "alpha_2": "lr",
+      "alpha_3": "lbr"
+    },
+    "tld": ".lr"
   },
   {
     "country": "libya",
@@ -997,7 +1690,14 @@
     "famous_for": "sahara desert",
     "phone_code": "+218",
     "flag": "https://flagpedia.net/data/flags/h80/ly.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "434",
+      "alpha_2": "ly",
+      "alpha_3": "lby"
+    },
+    "tld": ".ly"
   },
   {
     "country": "liechtenstein",
@@ -1007,7 +1707,14 @@
     "famous_for": "unbelievable transformation from rural to wealthiest poulation within 60 years",
     "phone_code": "+423",
     "flag": "https://flagpedia.net/data/flags/h80/li.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "438",
+      "alpha_2": "li",
+      "alpha_3": "lie"
+    },
+    "tld": ".li"
   },
   {
     "country": "lithuania",
@@ -1017,7 +1724,14 @@
     "famous_for": "own official lithuania scent, amber on shores of baltic sea",
     "phone_code": "+370",
     "flag": "https://flagpedia.net/data/flags/h80/lt.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "440",
+      "alpha_2": "lt",
+      "alpha_3": "ltu"
+    },
+    "tld": ".lt"
   },
   {
     "country": "luxembourg",
@@ -1027,7 +1741,14 @@
     "famous_for": "europe's most powerful investement management centre and steel manufacturing",
     "phone_code": "+352",
     "flag": "https://flagpedia.net/data/flags/h80/lu.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "442",
+      "alpha_2": "lu",
+      "alpha_3": "lux"
+    },
+    "tld": ".lu"
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1037,7 +1758,14 @@
     "famous_for": "great empire's history",
     "phone_code": "+389",
     "flag": "https://flagpedia.net/data/flags/h80/mk.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "807",
+      "alpha_2": "mk",
+      "alpha_3": "mkd"
+    },
+    "tld": ".mk"
   },
   {
     "country": "madagascar",
@@ -1047,7 +1775,14 @@
     "famous_for": "lemurs, colourful chameleons, stunning orchids and home to flora and fauna",
     "phone_code": "+261",
     "flag": "https://flagpedia.net/data/flags/h80/mg.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "450",
+      "alpha_2": "mg",
+      "alpha_3": "mdg"
+    },
+    "tld": ".mg"
   },
   {
     "country": "malawi",
@@ -1057,7 +1792,14 @@
     "famous_for": "home to largest number of fish species in the world",
     "phone_code": "+265",
     "flag": "https://flagpedia.net/data/flags/h80/mw.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "454",
+      "alpha_2": "mw",
+      "alpha_3": "mwi"
+    },
+    "tld": ".mw"
   },
   {
     "country": "malaysia",
@@ -1067,7 +1809,14 @@
     "famous_for": "rendang, teh tark, nasi lemak and yuna",
     "phone_code": "+60",
     "flag": "https://flagpedia.net/data/flags/h80/my.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "458",
+      "alpha_2": "my",
+      "alpha_3": "mys"
+    },
+    "tld": ".my"
   },
   {
     "country": "maldives",
@@ -1077,7 +1826,14 @@
     "famous_for": "natural environment and water sports",
     "phone_code": "+960",
     "flag": "https://flagpedia.net/data/flags/h80/mv.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "462",
+      "alpha_2": "mv",
+      "alpha_3": "mdv"
+    },
+    "tld": ".mv"
   },
   {
     "country": "mali",
@@ -1087,7 +1843,14 @@
     "famous_for": "salt mines",
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/ml.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "466",
+      "alpha_2": "ml",
+      "alpha_3": "mli"
+    },
+    "tld": ".ml"
   },
   {
     "country": "malta",
@@ -1097,7 +1860,14 @@
     "famous_for": "warm climate, architectural and historical monuments",
     "phone_code": "+356",
     "flag": "https://flagpedia.net/data/flags/h80/mt.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "eu",
+    "iso": {
+      "numeric": "470",
+      "alpha_2": "mt",
+      "alpha_3": "mlt"
+    },
+    "tld": ".mt"
   },
   {
     "country": "marshall islands",
@@ -1107,7 +1877,14 @@
     "famous_for": "being fierce and hostile to strangers",
     "phone_code": "+692",
     "flag": "https://flagpedia.net/data/flags/h80/mh.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "584",
+      "alpha_2": "mh",
+      "alpha_3": "mhl"
+    },
+    "tld": ".mh"
   },
   {
     "country": "mauritania",
@@ -1117,7 +1894,14 @@
     "famous_for": "large reserves of iron ore, copper, and gypsum",
     "phone_code": "+222",
     "flag": "https://flagpedia.net/data/flags/h80/mr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "478",
+      "alpha_2": "mr",
+      "alpha_3": "mrt"
+    },
+    "tld": ".mr"
   },
   {
     "country": "mauritius",
@@ -1127,7 +1911,14 @@
     "famous_for": "extinct dodo and rare species of plants and animals",
     "phone_code": "+230",
     "flag": "https://flagpedia.net/data/flags/h80/mu.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "480",
+      "alpha_2": "mu",
+      "alpha_3": "mus"
+    },
+    "tld": ".mu"
   },
   {
     "country": "mexico",
@@ -1137,7 +1928,14 @@
     "famous_for": "sombero hat, taco, aztec, salsa",
     "phone_code": "+52",
     "flag": "https://flagpedia.net/data/flags/h80/mx.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "484",
+      "alpha_2": "mx",
+      "alpha_3": "mex"
+    },
+    "tld": ".mx"
   },
   {
     "country": "federal states of micronesia",
@@ -1147,7 +1945,14 @@
     "famous_for": "manta rays, eco-tourism",
     "phone_code": "+691",
     "flag": "https://flagpedia.net/data/flags/h80/fm.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "583",
+      "alpha_2": "fm",
+      "alpha_3": "fsm"
+    },
+    "tld": ".fm"
   },
   {
     "country": "moldova",
@@ -1157,7 +1962,14 @@
     "famous_for": "wine",
     "phone_code": "+373",
     "flag": "https://flagpedia.net/data/flags/h80/md.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "498",
+      "alpha_2": "md",
+      "alpha_3": "mda"
+    },
+    "tld": ".md"
   },
   {
     "country": "monaco",
@@ -1167,7 +1979,14 @@
     "famous_for": "high-end casinos, beautiful yachts and scenic montecarlo",
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/mc.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "492",
+      "alpha_2": "mc",
+      "alpha_3": "mco"
+    },
+    "tld": ".mc"
   },
   {
     "country": "mongolia",
@@ -1177,7 +1996,14 @@
     "famous_for": "siberian ibex, snow leopard, gobi bear and wild bactrian camel",
     "phone_code": "+976",
     "flag": "https://flagpedia.net/data/flags/h80/mn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "496",
+      "alpha_2": "mn",
+      "alpha_3": "mng"
+    },
+    "tld": ".mn"
   },
   {
     "country": "montenegro",
@@ -1187,7 +2013,14 @@
     "famous_for": "montenegrin coast",
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/me.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "499",
+      "alpha_2": "me",
+      "alpha_3": "mne"
+    },
+    "tld": ".me"
   },
   {
     "country": "morocco",
@@ -1197,7 +2030,14 @@
     "famous_for": "medinas, beautiful handcrafts and traditional products",
     "phone_code": "+212",
     "flag": "https://flagpedia.net/data/flags/h80/ma.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "504",
+      "alpha_2": "ma",
+      "alpha_3": "mar"
+    },
+    "tld": ".ma"
   },
   {
     "country": "mozambique",
@@ -1207,7 +2047,14 @@
     "famous_for": "fresh seafood",
     "phone_code": "+258",
     "flag": "https://flagpedia.net/data/flags/h80/mz.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "508",
+      "alpha_2": "mz",
+      "alpha_3": "moz"
+    },
+    "tld": ".mz"
   },
   {
     "country": "myanmar (burma)",
@@ -1217,7 +2064,14 @@
     "famous_for": "greatest archeological sites and sule pagoda",
     "phone_code": "+95",
     "flag": "https://flagpedia.net/data/flags/h80/mm.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "104",
+      "alpha_2": "mm",
+      "alpha_3": "mmr"
+    },
+    "tld": ".mm"
   },
   {
     "country": "namibia",
@@ -1227,7 +2081,14 @@
     "famous_for": "highest dunes and etosha national park",
     "phone_code": "+264",
     "flag": "https://flagpedia.net/data/flags/h80/na.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "516",
+      "alpha_2": "na",
+      "alpha_3": "nam"
+    },
+    "tld": ".na"
   },
   {
     "country": "nauru",
@@ -1237,7 +2098,14 @@
     "famous_for": "islands of banaba",
     "phone_code": "+674",
     "flag": "https://flagpedia.net/data/flags/h80/nr.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "520",
+      "alpha_2": "nr",
+      "alpha_3": "nru"
+    },
+    "tld": ".nr"
   },
   {
     "country": "nepal",
@@ -1247,7 +2115,14 @@
     "famous_for": "mountain peaks, mount everest and kanchenjunga",
     "phone_code": "+977",
     "flag": "https://flagpedia.net/data/flags/h80/np.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "524",
+      "alpha_2": "np",
+      "alpha_3": "npl"
+    },
+    "tld": ".np"
   },
   {
     "country": "netherlands",
@@ -1257,7 +2132,14 @@
     "famous_for": "legal drugs, tulip flowers and windmills",
     "phone_code": "+31",
     "flag": "https://flagpedia.net/data/flags/h80/nl.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "528",
+      "alpha_2": "nl",
+      "alpha_3": "nld"
+    },
+    "tld": ".nl"
   },
   {
     "country": "new zealand",
@@ -1267,7 +2149,14 @@
     "famous_for": "national rugby team",
     "phone_code": "+64",
     "flag": "https://flagpedia.net/data/flags/h80/nz.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "554",
+      "alpha_2": "nz",
+      "alpha_3": "nzl"
+    },
+    "tld": ".nz"
   },
   {
     "country": "nicaragua",
@@ -1277,7 +2166,14 @@
     "famous_for": "volcanoes and lakes",
     "phone_code": "+505",
     "flag": "https://flagpedia.net/data/flags/h80/ni.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "558",
+      "alpha_2": "ni",
+      "alpha_3": "nic"
+    },
+    "tld": ".ni"
   },
   {
     "country": "niger",
@@ -1287,7 +2183,14 @@
     "famous_for": "world's largest uranium deposits",
     "phone_code": "+277",
     "flag": "https://flagpedia.net/data/flags/h80/ne.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "562",
+      "alpha_2": "ne",
+      "alpha_3": "ner"
+    },
+    "tld": ".ne"
   },
   {
     "country": "nigeria",
@@ -1297,7 +2200,14 @@
     "famous_for": "most common sub saharan tourists, petroleum production",
     "phone_code": "+234",
     "flag": "https://flagpedia.net/data/flags/h80/ng.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "566",
+      "alpha_2": "ng",
+      "alpha_3": "nga"
+    },
+    "tld": ".ng"
   },
   {
     "country": "norway",
@@ -1307,7 +2217,14 @@
     "famous_for": "oil, fjords, mountains and midnight sun",
     "phone_code": "+47",
     "flag": "https://flagpedia.net/data/flags/h80/no.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "578",
+      "alpha_2": "no",
+      "alpha_3": "nor"
+    },
+    "tld": ".no"
   },
   {
     "country": "oman",
@@ -1317,7 +2234,14 @@
     "famous_for": "fresh sea and air breathing",
     "phone_code": "+968",
     "flag": "https://flagpedia.net/data/flags/h80/om.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "512",
+      "alpha_2": "om",
+      "alpha_3": "omn"
+    },
+    "tld": ".om"
   },
   {
     "country": "pakistan",
@@ -1327,7 +2251,14 @@
     "famous_for": "producing footballs, cricket team",
     "phone_code": "+92",
     "flag": "https://flagpedia.net/data/flags/h80/pk.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "586",
+      "alpha_2": "pk",
+      "alpha_3": "pak"
+    },
+    "tld": ".pk"
   },
   {
     "country": "palau",
@@ -1337,7 +2268,14 @@
     "famous_for": "jellyfish lake",
     "phone_code": "+680",
     "flag": "https://flagpedia.net/data/flags/h80/pw.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "585",
+      "alpha_2": "pw",
+      "alpha_3": "plw"
+    },
+    "tld": ".pw"
   },
   {
     "country": "panama",
@@ -1347,7 +2285,14 @@
     "famous_for": "panama canal, birding, snorkeling and rafting",
     "phone_code": "+507",
     "flag": "https://flagpedia.net/data/flags/h80/pa.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "591",
+      "alpha_2": "pa",
+      "alpha_3": "pan"
+    },
+    "tld": ".pa"
   },
   {
     "country": "papa new guinea",
@@ -1357,7 +2302,14 @@
     "famous_for": "scuba diving and marine diversity",
     "phone_code": "+675",
     "flag": "https://flagpedia.net/data/flags/h80/pg.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "598",
+      "alpha_2": "pg",
+      "alpha_3": "png"
+    },
+    "tld": ".pg"
   },
   {
     "country": "paraguay",
@@ -1367,7 +2319,14 @@
     "famous_for": "largest naval power",
     "phone_code": "+595",
     "flag": "https://flagpedia.net/data/flags/h80/py.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "600",
+      "alpha_2": "py",
+      "alpha_3": "pry"
+    },
+    "tld": ".py"
   },
   {
     "country": "peru",
@@ -1377,7 +2336,14 @@
     "famous_for": "machu picchu",
     "phone_code": "+51",
     "flag": "https://flagpedia.net/data/flags/h80/pe.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "604",
+      "alpha_2": "pe",
+      "alpha_3": "per"
+    },
+    "tld": ".pe"
   },
   {
     "country": "philippines",
@@ -1387,7 +2353,14 @@
     "famous_for": "domestic workers, ferdinand marcos, manny pacquiao",
     "phone_code": "+63",
     "flag": "https://flagpedia.net/data/flags/h80/ph.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "608",
+      "alpha_2": "ph",
+      "alpha_3": "phl"
+    },
+    "tld": ".ph"
   },
   {
     "country": "poland",
@@ -1397,7 +2370,14 @@
     "famous_for": "pierogi and potatoes",
     "phone_code": "+48",
     "flag": "https://flagpedia.net/data/flags/h80/pl.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "616",
+      "alpha_2": "pl",
+      "alpha_3": "pol"
+    },
+    "tld": ".pl"
   },
   {
     "country": "portugal",
@@ -1407,7 +2387,14 @@
     "famous_for": "beaches, food and cristiano ronaldo",
     "phone_code": "+351",
     "flag": "https://flagpedia.net/data/flags/h80/pt.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "620",
+      "alpha_2": "pt",
+      "alpha_3": "prt"
+    },
+    "tld": ".pt"
   },
   {
     "country": "qatar",
@@ -1417,7 +2404,14 @@
     "famous_for": "qatar airlines",
     "phone_code": "+974",
     "flag": "https://flagpedia.net/data/flags/h80/qa.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "634",
+      "alpha_2": "qa",
+      "alpha_3": "qat"
+    },
+    "tld": ".qa"
   },
   {
     "country": "romania",
@@ -1427,7 +2421,14 @@
     "famous_for": "dracula",
     "phone_code": "+40",
     "flag": "https://flagpedia.net/data/flags/h80/ro.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "642",
+      "alpha_2": "ro",
+      "alpha_3": "rou"
+    },
+    "tld": ".ro"
   },
   {
     "country": "russia",
@@ -1437,7 +2438,14 @@
     "famous_for": "vodka, military, matroyshka dolls and cold climate",
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/ru.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu/as",
+    "iso": {
+      "numeric": "643",
+      "alpha_2": "ru",
+      "alpha_3": "rus"
+    },
+    "tld": ".ru"
   },
   {
     "country": "rwanda",
@@ -1447,7 +2455,14 @@
     "famous_for": "chimpanzee species and home  of mountain gorillas",
     "phone_code": "+250",
     "flag": "https://flagpedia.net/data/flags/h80/rw.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "646",
+      "alpha_2": "rw",
+      "alpha_3": "rwa"
+    },
+    "tld": ".rw"
   },
   {
     "country": "saint kitts and nevis",
@@ -1457,7 +2472,14 @@
     "famous_for": "beautiful beaches and pristine tropical forests",
     "phone_code": "+1-869",
     "flag": "https://flagpedia.net/data/flags/h80/kn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "659",
+      "alpha_2": "kn",
+      "alpha_3": "kna"
+    },
+    "tld": ".kn"
   },
   {
     "country": "saint lucia",
@@ -1467,7 +2489,14 @@
     "famous_for": "volcanic island",
     "phone_code": "+1-758",
     "flag": "https://flagpedia.net/data/flags/h80/lc.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "662",
+      "alpha_2": "lc",
+      "alpha_3": "lca"
+    },
+    "tld": ".lc"
   },
   {
     "country": "saint vincent and the grenadines",
@@ -1477,7 +2506,14 @@
     "famous_for": "beautiful white-sand beaches and snorking",
     "phone_code": "+1-784",
     "flag": "https://flagpedia.net/data/flags/h80/vc.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "670",
+      "alpha_2": "vc",
+      "alpha_3": "vct"
+    },
+    "tld": ".vc"
   },
   {
     "country": "samoa",
@@ -1487,7 +2523,14 @@
     "famous_for": "samoan culture, music, dance and visual arts",
     "phone_code": "+685",
     "flag": "https://flagpedia.net/data/flags/h80/ws.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "882",
+      "alpha_2": "ws",
+      "alpha_3": "wsm"
+    },
+    "tld": ".ws"
   },
   {
     "country": "san marino",
@@ -1497,7 +2540,14 @@
     "famous_for": "world's oldest surviving republic",
     "phone_code": "+378",
     "flag": "https://flagpedia.net/data/flags/h80/sm.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "674",
+      "alpha_2": "sm",
+      "alpha_3": "smr"
+    },
+    "tld": ".sm"
   },
   {
     "country": "sao tome and principe",
@@ -1507,7 +2557,14 @@
     "famous_for": "cocoa production",
     "phone_code": "+239",
     "flag": "https://flagpedia.net/data/flags/h80/st.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "678",
+      "alpha_2": "st",
+      "alpha_3": "stp"
+    },
+    "tld": ".st"
   },
   {
     "country": "saudi arabia",
@@ -1517,7 +2574,14 @@
     "famous_for": "strict rules, wahhabism, mecca and madina",
     "phone_code": "+966",
     "flag": "https://flagpedia.net/data/flags/h80/sa.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "682",
+      "alpha_2": "sa",
+      "alpha_3": "sau"
+    },
+    "tld": ".sa"
   },
   {
     "country": "senegal",
@@ -1527,7 +2591,14 @@
     "famous_for": "traditional wrestling, football and exotic dance",
     "phone_code": "+221",
     "flag": "https://flagpedia.net/data/flags/h80/sn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "686",
+      "alpha_2": "sn",
+      "alpha_3": "sen"
+    },
+    "tld": ".sn"
   },
   {
     "country": "serbia",
@@ -1537,7 +2608,14 @@
     "famous_for": "culture, history, delicious cuisine, and nightlife",
     "phone_code": "+381",
     "flag": "https://flagpedia.net/data/flags/h80/rs.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "688",
+      "alpha_2": "rs",
+      "alpha_3": "srb"
+    },
+    "tld": ".rs"
   },
   {
     "country": "seychelles",
@@ -1547,7 +2625,14 @@
     "famous_for": "deep blue waters, white sandy beaches and honeymoon destination",
     "phone_code": "+248",
     "flag": "https://flagpedia.net/data/flags/h80/sc.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "690",
+      "alpha_2": "sc",
+      "alpha_3": "syc"
+    },
+    "tld": ".sc"
   },
   {
     "country": "sierra leone",
@@ -1557,7 +2642,14 @@
     "famous_for": "producers of titanium and bauxite, natural harbour",
     "phone_code": "+232",
     "flag": "https://flagpedia.net/data/flags/h80/sl.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "694",
+      "alpha_2": "sl",
+      "alpha_3": "sle"
+    },
+    "tld": ".sl"
   },
   {
     "country": "singapore",
@@ -1567,7 +2659,14 @@
     "famous_for": "cleanliness, marina bay and strict laws",
     "phone_code": "+65",
     "flag": "https://flagpedia.net/data/flags/h80/sg.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "702",
+      "alpha_2": "sg",
+      "alpha_3": "sgp"
+    },
+    "tld": ".sg"
   },
   {
     "country": "slovakia",
@@ -1577,7 +2676,14 @@
     "famous_for": "eset and sygic",
     "phone_code": "+421",
     "flag": "https://flagpedia.net/data/flags/h80/sk.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "703",
+      "alpha_2": "sk",
+      "alpha_3": "svk"
+    },
+    "tld": ".sk"
   },
   {
     "country": "slovenia",
@@ -1587,7 +2693,14 @@
     "famous_for": "caves",
     "phone_code": "+386",
     "flag": "https://flagpedia.net/data/flags/h80/si.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "705",
+      "alpha_2": "si",
+      "alpha_3": "svn"
+    },
+    "tld": ".si"
   },
   {
     "country": "solomon islands",
@@ -1597,7 +2710,14 @@
     "famous_for": "world war 2",
     "phone_code": "+677",
     "flag": "https://flagpedia.net/data/flags/h80/sb.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "090",
+      "alpha_2": "sb",
+      "alpha_3": "slb"
+    },
+    "tld": ".sb"
   },
   {
     "country": "somalia",
@@ -1607,7 +2727,14 @@
     "famous_for": "frankincense and myrrh",
     "phone_code": "+252",
     "flag": "https://flagpedia.net/data/flags/h80/so.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "706",
+      "alpha_2": "so",
+      "alpha_3": "som"
+    },
+    "tld": ".so"
   },
   {
     "country": "south africa",
@@ -1617,7 +2744,14 @@
     "famous_for": "nelson mandela and safari",
     "phone_code": "+27",
     "flag": "https://flagpedia.net/data/flags/h80/za.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "710",
+      "alpha_2": "za",
+      "alpha_3": "zaf"
+    },
+    "tld": ".za"
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -1627,7 +2761,14 @@
     "famous_for": "national parks and oil",
     "phone_code": "+211",
     "flag": "https://flagpedia.net/data/flags/h80/ss.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "728",
+      "alpha_2": "ss",
+      "alpha_3": "ssd"
+    },
+    "tld": ".ss"
   },
   {
     "country": "spain",
@@ -1637,7 +2778,14 @@
     "famous_for": "salsa and bullfight",
     "phone_code": "+34",
     "flag": "https://flagpedia.net/data/flags/h80/es.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "724",
+      "alpha_2": "es",
+      "alpha_3": "esp"
+    },
+    "tld": ".es"
   },
   {
     "country": "sri lanka",
@@ -1647,7 +2795,14 @@
     "famous_for": "ceylon tea",
     "phone_code": "+94",
     "flag": "https://flagpedia.net/data/flags/h80/lk.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "144",
+      "alpha_2": "lk",
+      "alpha_3": "lka"
+    },
+    "tld": ".lk"
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -1657,7 +2812,14 @@
     "famous_for": "largest collection of pyramids",
     "phone_code": "+249",
     "flag": "https://flagpedia.net/data/flags/h80/sd.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "729",
+      "alpha_2": "sd",
+      "alpha_3": "sdn"
+    },
+    "tld": ".sd"
   },
   {
     "country": "suriname",
@@ -1667,7 +2829,14 @@
     "famous_for": "water lilies and orchids",
     "phone_code": "+597",
     "flag": "https://flagpedia.net/data/flags/h80/sr.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "sa",
+    "iso": {
+      "numeric": "740",
+      "alpha_2": "sr",
+      "alpha_3": "sur"
+    },
+    "tld": ".sr"
   },
   {
     "country": "eswatini (swaziland)",
@@ -1677,7 +2846,14 @@
     "famous_for": "sibebe rock and largest exposed granite dome",
     "phone_code": "+268",
     "flag": "https://flagpedia.net/data/flags/h80/sz.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "748",
+      "alpha_2": "sz",
+      "alpha_3": "swz"
+    },
+    "tld": ".sz"
   },
   {
     "country": "sweden",
@@ -1687,7 +2863,14 @@
     "famous_for": "ikea, meatballs, volvo",
     "phone_code": "+46",
     "flag": "https://flagpedia.net/data/flags/h80/se.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "752",
+      "alpha_2": "se",
+      "alpha_3": "swe"
+    },
+    "tld": ".se"
   },
   {
     "country": "switzerland",
@@ -1696,7 +2879,14 @@
     "native_language": ["german", "french", "italian"],
     "famous_for": "alps, natural beauty, chocolates and watches",
     "flag": "https://flagpedia.net/data/flags/h80/ch.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "756",
+      "alpha_2": "ch",
+      "alpha_3": "che"
+    },
+    "tld": ".ch"
   },
   {
     "country": "syria",
@@ -1706,7 +2896,14 @@
     "famous_for": "old heritage cities",
     "phone_code": "+963",
     "flag": "https://flagpedia.net/data/flags/h80/sy.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "760",
+      "alpha_2": "sy",
+      "alpha_3": "syr"
+    },
+    "tld": ".sy"
   },
   {
     "country": "taiwan",
@@ -1716,7 +2913,14 @@
     "famous_for": "best food",
     "phone_code": "+886",
     "flag": "https://flagpedia.net/data/flags/h80/tw.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "158",
+      "alpha_2": "tw",
+      "alpha_3": "twn"
+    },
+    "tld": ".tw"
   },
   {
     "country": "tajikistan",
@@ -1726,7 +2930,14 @@
     "famous_for": "the pamir plateau",
     "phone_code": "+992",
     "flag": "https://flagpedia.net/data/flags/h80/tj.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "762",
+      "alpha_2": "tj",
+      "alpha_3": "tjk"
+    },
+    "tld": ".tj"
   },
   {
     "country": "tanzania",
@@ -1736,7 +2947,14 @@
     "famous_for": "mining and fishing",
     "phone_code": "+255",
     "flag": "https://flagpedia.net/data/flags/h80/tz.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "834",
+      "alpha_2": "tz",
+      "alpha_3": "tza"
+    },
+    "tld": ".tz"
   },
   {
     "country": "thailand",
@@ -1746,7 +2964,14 @@
     "famous_for": "massages, shopping and buddhists",
     "phone_code": "+66",
     "flag": "https://flagpedia.net/data/flags/h80/th.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "764",
+      "alpha_2": "th",
+      "alpha_3": "tha"
+    },
+    "tld": ".th"
   },
   {
     "country": "togo",
@@ -1756,7 +2981,14 @@
     "famous_for": "history, attraction sites, culture, and commercial activities",
     "phone_code": "+228",
     "flag": "https://flagpedia.net/data/flags/h80/tg.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "768",
+      "alpha_2": "tg",
+      "alpha_3": "tgo"
+    },
+    "tld": ".tg"
   },
   {
     "country": "tonga",
@@ -1766,7 +2998,14 @@
     "famous_for": "graceful and dignified dancing of the kingdom",
     "phone_code": "+676",
     "flag": "https://flagpedia.net/data/flags/h80/to.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "776",
+      "alpha_2": "to",
+      "alpha_3": "ton"
+    },
+    "tld": ".to"
   },
   {
     "country": "trinidad and tobago",
@@ -1776,7 +3015,14 @@
     "famous_for": "stable economy, steel pans, carnival festivity, caribbean dance and lush greenary",
     "phone_code": "+1-868",
     "flag": "https://flagpedia.net/data/flags/h80/tt.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "780",
+      "alpha_2": "tt",
+      "alpha_3": "tto"
+    },
+    "tld": ".tt"
   },
   {
     "country": "tunisia",
@@ -1786,7 +3032,14 @@
     "famous_for": "gold beaches, sunny weather and affordable luxuries",
     "phone_code": "+216",
     "flag": "https://flagpedia.net/data/flags/h80/tn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "788",
+      "alpha_2": "tn",
+      "alpha_3": "tun"
+    },
+    "tld": ".tn"
   },
   {
     "country": "turkey",
@@ -1796,7 +3049,14 @@
     "famous_for": "big mountain ranges, istanbul, shawarma",
     "phone_code": "+90",
     "flag": "https://flagpedia.net/data/flags/h80/tr.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu/as",
+    "iso": {
+      "numeric": "792",
+      "alpha_2": "tr",
+      "alpha_3": "tur"
+    },
+    "tld": ".tr"
   },
   {
     "country": "turkmenistan",
@@ -1806,7 +3066,14 @@
     "famous_for": "autocratic government and large gas reserves",
     "phone_code": "+993",
     "flag": "https://flagpedia.net/data/flags/h80/tm.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "795",
+      "alpha_2": "tm",
+      "alpha_3": "tkm"
+    },
+    "tld": ".tm"
   },
   {
     "country": "tuvalu",
@@ -1816,7 +3083,14 @@
     "famous_for": "seafaring skills",
     "phone_code": "+668",
     "flag": "https://flagpedia.net/data/flags/h80/tv.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "798",
+      "alpha_2": "tv",
+      "alpha_3": "tuv"
+    },
+    "tld": ".tv"
   },
   {
     "country": "uganda",
@@ -1826,7 +3100,14 @@
     "famous_for": "cotton, tobacco, tea and home to variety of wildlife",
     "phone_code": "+256",
     "flag": "https://flagpedia.net/data/flags/h80/ug.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "800",
+      "alpha_2": "ug",
+      "alpha_3": "uga"
+    },
+    "tld": ".ug"
   },
   {
     "country": "ukraine",
@@ -1836,7 +3117,14 @@
     "famous_for": "agricultural production",
     "phone_code": "+380",
     "flag": "https://flagpedia.net/data/flags/h80/ua.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "804",
+      "alpha_2": "ua",
+      "alpha_3": "ukr"
+    },
+    "tld": ".ua"
   },
   {
     "country": "united arab emirates",
@@ -1846,7 +3134,14 @@
     "famous_for": "dubai, rich seikhs, burj al arab",
     "phone_code": "+971",
     "flag": "https://flagpedia.net/data/flags/h80/ae.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "784",
+      "alpha_2": "ae",
+      "alpha_3": "are"
+    },
+    "tld": ".ae"
   },
   {
     "country": "united kingdom",
@@ -1856,7 +3151,14 @@
     "famous_for": "david beckham, fish and chips, big ben, red buses, black cabs, oasis, blur, the beatles, london and tea",
     "phone_code": "+44",
     "flag": "https://flagpedia.net/data/flags/h80/gb.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "826",
+      "alpha_2": "gb",
+      "alpha_3": "gbr"
+    },
+    "tld": ".gb/.uk"
   },
   {
     "country": "united states of america",
@@ -1866,7 +3168,14 @@
     "famous_for": "grand canyon and mount rushmore",
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/us.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "840",
+      "alpha_2": "us",
+      "alpha_3": "usa"
+    },
+    "tld": ".us"
   },
   {
     "country": "uruguay",
@@ -1876,7 +3185,14 @@
     "famous_for": "wine producers",
     "phone_code": "+589",
     "flag": "https://flagpedia.net/data/flags/h80/uy.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "858",
+      "alpha_2": "uy",
+      "alpha_3": "ury"
+    },
+    "tld": ".uy"
   },
   {
     "country": "uzbekistan",
@@ -1886,7 +3202,14 @@
     "famous_for": "mosques and mausoleums",
     "phone_code": "+998",
     "flag": "https://flagpedia.net/data/flags/h80/uz.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "860",
+      "alpha_2": "uz",
+      "alpha_3": "uzb"
+    },
+    "tld": ".uz"
   },
   {
     "country": "vanuatu",
@@ -1896,7 +3219,14 @@
     "famous_for": "vanuatu's underwater world",
     "phone_code": "+978",
     "flag": "https://flagpedia.net/data/flags/h80/vu.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "548",
+      "alpha_2": "vu",
+      "alpha_3": "vut"
+    },
+    "tld": ".vu"
   },
   {
     "country": "vatican city",
@@ -1906,7 +3236,14 @@
     "famous_for": "st. peter's basilica, the sistine chapel, and the vatican museums",
     "phone_code": "+379",
     "flag": "https://flagpedia.net/data/flags/h80/va.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "336",
+      "alpha_2": "va",
+      "alpha_3": "vat"
+    },
+    "tld": ".va"
   },
   {
     "country": "venezuela",
@@ -1916,7 +3253,14 @@
     "famous_for": "petroleum industry",
     "phone_code": "+58",
     "flag": "https://flagpedia.net/data/flags/h80/ve.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "862",
+      "alpha_2": "ve",
+      "alpha_3": "ven"
+    },
+    "tld": ".ve"
   },
   {
     "country": "vietnam",
@@ -1926,7 +3270,14 @@
     "famous_for": "rice exporter",
     "phone_code": "+84",
     "flag": "https://flagpedia.net/data/flags/h80/vn.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "704",
+      "alpha_2": "vn",
+      "alpha_3": "vnm"
+    },
+    "tld": ".vn"
   },
   {
     "country": "yemen",
@@ -1936,7 +3287,14 @@
     "famous_for": "home to world's oldest skyscraper city",
     "phone_code": "+967",
     "flag": "https://flagpedia.net/data/flags/h80/ye.png",
-    "drive_direction": "right"
+    "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "887",
+      "alpha_2": "ye",
+      "alpha_3": "yem"
+    },
+    "tld": ".ye"
   },
   {
     "country": "zambia",
@@ -1946,7 +3304,14 @@
     "famous_for": "iconic victoria falls",
     "phone_code": "+260",
     "flag": "https://flagpedia.net/data/flags/h80/zm.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "894",
+      "alpha_2": "zm",
+      "alpha_3": "zmb"
+    },
+    "tld": ".zm"
   },
   {
     "country": "zimbabwe",
@@ -1956,6 +3321,13 @@
     "famous_for": "hwange and mana pools teem with wildlife",
     "phone_code": "+263",
     "flag": "https://flagpedia.net/data/flags/h80/zw.png",
-    "drive_direction": "left"
+    "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "716",
+      "alpha_2": "zw",
+      "alpha_3": "zwe"
+    },
+    "tld": ".zw"
   }
 ]
