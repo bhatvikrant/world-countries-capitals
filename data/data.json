@@ -14,7 +14,8 @@
       "alpha_2": "af",
       "alpha_3": "afg"
     },
-    "tld": ".af"
+    "tld": ".af",
+    "constitutional_form": "republic"
   },
   {
     "country": "albania",
@@ -31,7 +32,8 @@
       "alpha_2": "al",
       "alpha_3": "alb"
     },
-    "tld": ".al"
+    "tld": ".al",
+    "constitutional_form": "republic"
   },
   {
     "country": "algeria",
@@ -48,7 +50,8 @@
       "alpha_2": "dz",
       "alpha_3": "dza"
     },
-    "tld": ".dz"
+    "tld": ".dz",
+    "constitutional_form": "republic"
   },
   {
     "country": "andorra",
@@ -65,7 +68,8 @@
       "alpha_2": "ad",
       "alpha_3": "and"
     },
-    "tld": ".ad"
+    "tld": ".ad",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "angola",
@@ -82,7 +86,8 @@
       "alpha_2": "ao",
       "alpha_3": "ago"
     },
-    "tld": ".ao"
+    "tld": ".ao",
+    "constitutional_form": "republic"
   },
   {
     "country": "antigua & barbuda",
@@ -99,7 +104,8 @@
       "alpha_2": "ag",
       "alpha_3": "atg"
     },
-    "tld": ".ag"
+    "tld": ".ag",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "argentina",
@@ -116,7 +122,8 @@
       "alpha_2": "ar",
       "alpha_3": "arg"
     },
-    "tld": ".ar"
+    "tld": ".ar",
+    "constitutional_form": "republic"
   },
   {
     "country": "armenia",
@@ -133,7 +140,8 @@
       "alpha_2": "am",
       "alpha_3": "arm"
     },
-    "tld": ".am"
+    "tld": ".am",
+    "constitutional_form": "republic"
   },
   {
     "country": "australia",
@@ -150,7 +158,8 @@
       "alpha_2": "au",
       "alpha_3": "aus"
     },
-    "tld": ".au"
+    "tld": ".au",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "austria",
@@ -167,7 +176,8 @@
       "alpha_2": "at",
       "alpha_3": "aut"
     },
-    "tld": ".at"
+    "tld": ".at",
+    "constitutional_form": "republic"
   },
   {
     "country": "azerbaijan",
@@ -184,7 +194,8 @@
       "alpha_2": "az",
       "alpha_3": "aze"
     },
-    "tld": ".az"
+    "tld": ".az",
+    "constitutional_form": "republic"
   },
   {
     "country": "the bahamas",
@@ -201,7 +212,8 @@
       "alpha_2": "bs",
       "alpha_3": "bhs"
     },
-    "tld": ".bs"
+    "tld": ".bs",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "bahrain",
@@ -218,7 +230,8 @@
       "alpha_2": "bh",
       "alpha_3": "bhr"
     },
-    "tld": ".bh"
+    "tld": ".bh",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "bangladesh",
@@ -235,7 +248,8 @@
       "alpha_2": "bd",
       "alpha_3": "bgd"
     },
-    "tld": ".bd"
+    "tld": ".bd",
+    "constitutional_form": "republic"
   },
   {
     "country": "barbados",
@@ -252,7 +266,8 @@
       "alpha_2": "bb",
       "alpha_3": "brb"
     },
-    "tld": ".bb"
+    "tld": ".bb",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "belarus",
@@ -269,7 +284,8 @@
       "alpha_2": "by",
       "alpha_3": "blr"
     },
-    "tld": ".by"
+    "tld": ".by",
+    "constitutional_form": "republic"
   },
   {
     "country": "belgium",
@@ -286,7 +302,8 @@
       "alpha_2": "be",
       "alpha_3": "bel"
     },
-    "tld": ".be"
+    "tld": ".be",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "belize",
@@ -303,7 +320,8 @@
       "alpha_2": "bz",
       "alpha_3": "blz"
     },
-    "tld": ".bz"
+    "tld": ".bz",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "benin",
@@ -320,7 +338,8 @@
       "alpha_2": "bj",
       "alpha_3": "ben"
     },
-    "tld": ".bj"
+    "tld": ".bj",
+    "constitutional_form": "republic"
   },
   {
     "country": "bhutan",
@@ -337,7 +356,8 @@
       "alpha_2": "bt",
       "alpha_3": "btn"
     },
-    "tld": ".bt"
+    "tld": ".bt",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "bolivia",
@@ -354,7 +374,8 @@
       "alpha_2": "bo",
       "alpha_3": "bol"
     },
-    "tld": ".bo"
+    "tld": ".bo",
+    "constitutional_form": "republic"
   },
   {
     "country": "bosnia and herzegovina",
@@ -371,7 +392,8 @@
       "alpha_2": "ba",
       "alpha_3": "bih"
     },
-    "tld": ".ba"
+    "tld": ".ba",
+    "constitutional_form": "republic"
   },
   {
     "country": "botswana",
@@ -388,7 +410,8 @@
       "alpha_2": "bw",
       "alpha_3": "bwa"
     },
-    "tld": ".bw"
+    "tld": ".bw",
+    "constitutional_form": "republic"
   },
   {
     "country": "brazil",
@@ -405,7 +428,8 @@
       "alpha_2": "br",
       "alpha_3": "bra"
     },
-    "tld": ".br"
+    "tld": ".br",
+    "constitutional_form": "republic"
   },
   {
     "country": "brunei",
@@ -422,7 +446,8 @@
       "alpha_2": "bn",
       "alpha_3": "brn"
     },
-    "tld": ".bn"
+    "tld": ".bn",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "bulgaria",
@@ -439,7 +464,8 @@
       "alpha_2": "bg",
       "alpha_3": "bgr"
     },
-    "tld": ".bg"
+    "tld": ".bg",
+    "constitutional_form": "republic"
   },
   {
     "country": "burkina faso",
@@ -456,7 +482,8 @@
       "alpha_2": "bf",
       "alpha_3": "bfa"
     },
-    "tld": ".bf"
+    "tld": ".bf",
+    "constitutional_form": "republic"
   },
   {
     "country": "burundi",
@@ -473,7 +500,8 @@
       "alpha_2": "bi",
       "alpha_3": "bdi"
     },
-    "tld": ".bi"
+    "tld": ".bi",
+    "constitutional_form": "republic"
   },
   {
     "country": "cambodia",
@@ -490,7 +518,8 @@
       "alpha_2": "kh",
       "alpha_3": "khm"
     },
-    "tld": ".kh"
+    "tld": ".kh",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "cameroon",
@@ -507,7 +536,8 @@
       "alpha_2": "cm",
       "alpha_3": "cmr"
     },
-    "tld": ".cm"
+    "tld": ".cm",
+    "constitutional_form": "republic"
   },
   {
     "country": "canada",
@@ -524,7 +554,8 @@
       "alpha_2": "ca",
       "alpha_3": "can"
     },
-    "tld": ".ca"
+    "tld": ".ca",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "cape verde",
@@ -541,7 +572,8 @@
       "alpha_2": "cv",
       "alpha_3": "cpv"
     },
-    "tld": ".cv"
+    "tld": ".cv",
+    "constitutional_form": "republic"
   },
   {
     "country": "central african republic",
@@ -558,7 +590,8 @@
       "alpha_2": "cf",
       "alpha_3": "caf"
     },
-    "tld": ".cf"
+    "tld": ".cf",
+    "constitutional_form": "republic"
   },
   {
     "country": "chad",
@@ -575,7 +608,8 @@
       "alpha_2": "td",
       "alpha_3": "tcd"
     },
-    "tld": ".td"
+    "tld": ".td",
+    "constitutional_form": "republic"
   },
   {
     "country": "chile",
@@ -592,7 +626,8 @@
       "alpha_2": "cl",
       "alpha_3": "chl"
     },
-    "tld": ".cl"
+    "tld": ".cl",
+    "constitutional_form": "republic"
   },
   {
     "country": "china",
@@ -609,7 +644,8 @@
       "alpha_2": "cn",
       "alpha_3": "chn"
     },
-    "tld": ".cn"
+    "tld": ".cn",
+    "constitutional_form": "republic"
   },
   {
     "country": "colombia",
@@ -626,7 +662,8 @@
       "alpha_2": "co",
       "alpha_3": "col"
     },
-    "tld": ".co"
+    "tld": ".co",
+    "constitutional_form": "republic"
   },
   {
     "country": "comoros",
@@ -643,7 +680,8 @@
       "alpha_2": "km",
       "alpha_3": "com"
     },
-    "tld": ".km"
+    "tld": ".km",
+    "constitutional_form": "republic"
   },
   {
     "country": "democratic republic of the congo",
@@ -660,7 +698,8 @@
       "alpha_2": "cd",
       "alpha_3": "cod"
     },
-    "tld": ".cd"
+    "tld": ".cd",
+    "constitutional_form": "republic"
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -677,7 +716,8 @@
       "alpha_2": "cg",
       "alpha_3": "cog"
     },
-    "tld": ".cg"
+    "tld": ".cg",
+    "constitutional_form": "republic"
   },
   {
     "country": "costa rica",
@@ -694,7 +734,8 @@
       "alpha_2": "cr",
       "alpha_3": "cri"
     },
-    "tld": ".cr"
+    "tld": ".cr",
+    "constitutional_form": "republic"
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -711,7 +752,8 @@
       "alpha_2": "ci",
       "alpha_3": "civ"
     },
-    "tld": ".ci"
+    "tld": ".ci",
+    "constitutional_form": "republic"
   },
   {
     "country": "croatia",
@@ -728,7 +770,8 @@
       "alpha_2": "hr",
       "alpha_3": "hrv"
     },
-    "tld": ".hr"
+    "tld": ".hr",
+    "constitutional_form": "republic"
   },
   {
     "country": "cuba",
@@ -745,7 +788,8 @@
       "alpha_2": "cu",
       "alpha_3": "cub"
     },
-    "tld": ".cu"
+    "tld": ".cu",
+    "constitutional_form": "republic"
   },
   {
     "country": "cyprus",
@@ -762,7 +806,8 @@
       "alpha_2": "cy",
       "alpha_3": "cyp"
     },
-    "tld": ".cy"
+    "tld": ".cy",
+    "constitutional_form": "republic"
   },
   {
     "country": "czechia",
@@ -779,7 +824,8 @@
       "alpha_2": "cz",
       "alpha_3": "cze"
     },
-    "tld": ".cz"
+    "tld": ".cz",
+    "constitutional_form": "republic"
   },
   {
     "country": "denmark",
@@ -796,7 +842,8 @@
       "alpha_2": "dk",
       "alpha_3": "dnk"
     },
-    "tld": ".dk"
+    "tld": ".dk",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "djibouti",
@@ -813,7 +860,8 @@
       "alpha_2": "dj",
       "alpha_3": "dji"
     },
-    "tld": ".dj"
+    "tld": ".dj",
+    "constitutional_form": "republic"
   },
   {
     "country": "dominica",
@@ -830,7 +878,8 @@
       "alpha_2": "dm",
       "alpha_3": "dma"
     },
-    "tld": ".dm"
+    "tld": ".dm",
+    "constitutional_form": "republic"
   },
   {
     "country": "dominican republic",
@@ -847,7 +896,8 @@
       "alpha_2": "do",
       "alpha_3": "dom"
     },
-    "tld": ".do"
+    "tld": ".do",
+    "constitutional_form": "republic"
   },
   {
     "country": "east timor (timor-leste)",
@@ -864,7 +914,8 @@
       "alpha_2": "tl",
       "alpha_3": "tls"
     },
-    "tld": ".tl"
+    "tld": ".tl",
+    "constitutional_form": "republic"
   },
   {
     "country": "ecuador",
@@ -881,7 +932,8 @@
       "alpha_2": "ec",
       "alpha_3": "ecu"
     },
-    "tld": ".ec"
+    "tld": ".ec",
+    "constitutional_form": "republic"
   },
   {
     "country": "egypt",
@@ -898,7 +950,8 @@
       "alpha_2": "eg",
       "alpha_3": "egy"
     },
-    "tld": ".eg"
+    "tld": ".eg",
+    "constitutional_form": "republic"
   },
   {
     "country": "el salvador",
@@ -915,7 +968,8 @@
       "alpha_2": "sv",
       "alpha_3": "slv"
     },
-    "tld": ".sv"
+    "tld": ".sv",
+    "constitutional_form": "republic"
   },
   {
     "country": "equitorial guinea",
@@ -932,7 +986,8 @@
       "alpha_2": "gq",
       "alpha_3": "gnq"
     },
-    "tld": ".gq"
+    "tld": ".gq",
+    "constitutional_form": "republic"
   },
   {
     "country": "eritrea",
@@ -949,7 +1004,8 @@
       "alpha_2": "er",
       "alpha_3": "eri"
     },
-    "tld": ".er"
+    "tld": ".er",
+    "constitutional_form": "republic"
   },
   {
     "country": "estonia",
@@ -966,7 +1022,8 @@
       "alpha_2": "ee",
       "alpha_3": "est"
     },
-    "tld": ".ee"
+    "tld": ".ee",
+    "constitutional_form": "republic"
   },
   {
     "country": "ethiopia",
@@ -983,7 +1040,8 @@
       "alpha_2": "et",
       "alpha_3": "eth"
     },
-    "tld": ".et"
+    "tld": ".et",
+    "constitutional_form": "republic"
   },
   {
     "country": "fiji",
@@ -1000,7 +1058,8 @@
       "alpha_2": "fj",
       "alpha_3": "fji"
     },
-    "tld": ".fj"
+    "tld": ".fj",
+    "constitutional_form": "republic"
   },
   {
     "country": "finland",
@@ -1017,7 +1076,8 @@
       "alpha_2": "fi",
       "alpha_3": "fin"
     },
-    "tld": ".fi"
+    "tld": ".fi",
+    "constitutional_form": "republic"
   },
   {
     "country": "france",
@@ -1034,7 +1094,8 @@
       "alpha_2": "fr",
       "alpha_3": "fra"
     },
-    "tld": ".fr"
+    "tld": ".fr",
+    "constitutional_form": "republic"
   },
   {
     "country": "gabon",
@@ -1051,7 +1112,8 @@
       "alpha_2": "ga",
       "alpha_3": "gab"
     },
-    "tld": ".ga"
+    "tld": ".ga",
+    "constitutional_form": "republic"
   },
   {
     "country": "the gambia",
@@ -1068,7 +1130,8 @@
       "alpha_2": "gm",
       "alpha_3": "gmb"
     },
-    "tld": ".gm"
+    "tld": ".gm",
+    "constitutional_form": "republic"
   },
   {
     "country": "georgia",
@@ -1085,7 +1148,8 @@
       "alpha_2": "ge",
       "alpha_3": "geo"
     },
-    "tld": ".ge"
+    "tld": ".ge",
+    "constitutional_form": "republic"
   },
   {
     "country": "germany",
@@ -1102,7 +1166,8 @@
       "alpha_2": "de",
       "alpha_3": "deu"
     },
-    "tld": ".de"
+    "tld": ".de",
+    "constitutional_form": "republic"
   },
   {
     "country": "ghana",
@@ -1119,7 +1184,8 @@
       "alpha_2": "gh",
       "alpha_3": "gha"
     },
-    "tld": ".gh"
+    "tld": ".gh",
+    "constitutional_form": "republic"
   },
   {
     "country": "greece",
@@ -1136,7 +1202,8 @@
       "alpha_2": "gr",
       "alpha_3": "grc"
     },
-    "tld": ".gr"
+    "tld": ".gr",
+    "constitutional_form": "republic"
   },
   {
     "country": "grenada",
@@ -1153,7 +1220,8 @@
       "alpha_2": "gd",
       "alpha_3": "grd"
     },
-    "tld": ".gd"
+    "tld": ".gd",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "guatemala",
@@ -1170,7 +1238,8 @@
       "alpha_2": "gt",
       "alpha_3": "gtm"
     },
-    "tld": ".gt"
+    "tld": ".gt",
+    "constitutional_form": "republic"
   },
   {
     "country": "guinea",
@@ -1187,7 +1256,8 @@
       "alpha_2": "gn",
       "alpha_3": "gin"
     },
-    "tld": ".gn"
+    "tld": ".gn",
+    "constitutional_form": "republic"
   },
   {
     "country": "guinea-bissau",
@@ -1204,7 +1274,8 @@
       "alpha_2": "gw",
       "alpha_3": "gnb"
     },
-    "tld": ".gw"
+    "tld": ".gw",
+    "constitutional_form": "republic"
   },
   {
     "country": "guyana",
@@ -1221,7 +1292,8 @@
       "alpha_2": "gy",
       "alpha_3": "guy"
     },
-    "tld": ".gy"
+    "tld": ".gy",
+    "constitutional_form": "republic"
   },
   {
     "country": "haiti",
@@ -1238,7 +1310,8 @@
       "alpha_2": "ht",
       "alpha_3": "hti"
     },
-    "tld": ".ht"
+    "tld": ".ht",
+    "constitutional_form": "republic"
   },
   {
     "country": "honduras",
@@ -1255,7 +1328,8 @@
       "alpha_2": "hn",
       "alpha_3": "hnd"
     },
-    "tld": ".hn"
+    "tld": ".hn",
+    "constitutional_form": "republic"
   },
   {
     "country": "hungary",
@@ -1272,7 +1346,8 @@
       "alpha_2": "hu",
       "alpha_3": "hun"
     },
-    "tld": ".hu"
+    "tld": ".hu",
+    "constitutional_form": "republic"
   },
   {
     "country": "iceland",
@@ -1289,7 +1364,8 @@
       "alpha_2": "is",
       "alpha_3": "isl"
     },
-    "tld": ".is"
+    "tld": ".is",
+    "constitutional_form": "republic"
   },
   {
     "country": "india",
@@ -1306,7 +1382,8 @@
       "alpha_2": "in",
       "alpha_3": "ind"
     },
-    "tld": ".in"
+    "tld": ".in",
+    "constitutional_form": "republic"
   },
   {
     "country": "indonesia",
@@ -1323,7 +1400,8 @@
       "alpha_2": "id",
       "alpha_3": "idn"
     },
-    "tld": ".id"
+    "tld": ".id",
+    "constitutional_form": "republic"
   },
   {
     "country": "iran",
@@ -1340,7 +1418,8 @@
       "alpha_2": "ir",
       "alpha_3": "irn"
     },
-    "tld": ".ir"
+    "tld": ".ir",
+    "constitutional_form": "republic"
   },
   {
     "country": "iraq",
@@ -1357,7 +1436,8 @@
       "alpha_2": "iq",
       "alpha_3": "irq"
     },
-    "tld": ".iq"
+    "tld": ".iq",
+    "constitutional_form": "republic"
   },
   {
     "country": "republic of ireland",
@@ -1374,7 +1454,8 @@
       "alpha_2": "ie",
       "alpha_3": "irl"
     },
-    "tld": ".ie"
+    "tld": ".ie",
+    "constitutional_form": "republic"
   },
   {
     "country": "israel",
@@ -1391,7 +1472,8 @@
       "alpha_2": "il",
       "alpha_3": "isr"
     },
-    "tld": ".il"
+    "tld": ".il",
+    "constitutional_form": "republic"
   },
   {
     "country": "italy",
@@ -1408,7 +1490,8 @@
       "alpha_2": "it",
       "alpha_3": "ita"
     },
-    "tld": ".it"
+    "tld": ".it",
+    "constitutional_form": "republic"
   },
   {
     "country": "jamaica",
@@ -1425,7 +1508,8 @@
       "alpha_2": "jm",
       "alpha_3": "jam"
     },
-    "tld": ".jm"
+    "tld": ".jm",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "japan",
@@ -1442,7 +1526,8 @@
       "alpha_2": "jp",
       "alpha_3": "jpn"
     },
-    "tld": ".jp"
+    "tld": ".jp",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "jordan",
@@ -1459,7 +1544,8 @@
       "alpha_2": "jo",
       "alpha_3": "jor"
     },
-    "tld": ".jo"
+    "tld": ".jo",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "kazakhstan",
@@ -1476,7 +1562,8 @@
       "alpha_2": "kz",
       "alpha_3": "kaz"
     },
-    "tld": ".kz"
+    "tld": ".kz",
+    "constitutional_form": "republic"
   },
   {
     "country": "kenya",
@@ -1493,7 +1580,8 @@
       "alpha_2": "ke",
       "alpha_3": "ken"
     },
-    "tld": ".ke"
+    "tld": ".ke",
+    "constitutional_form": "republic"
   },
   {
     "country": "kiribati",
@@ -1510,7 +1598,8 @@
       "alpha_2": "ki",
       "alpha_3": "kir"
     },
-    "tld": ".ki"
+    "tld": ".ki",
+    "constitutional_form": "republic"
   },
   {
     "country": "north korea",
@@ -1527,7 +1616,8 @@
       "alpha_2": "kp",
       "alpha_3": "prk"
     },
-    "tld": ".kp"
+    "tld": ".kp",
+    "constitutional_form": "republic"
   },
   {
     "country": "south korea",
@@ -1544,7 +1634,8 @@
       "alpha_2": "kr",
       "alpha_3": "kor"
     },
-    "tld": ".kr"
+    "tld": ".kr",
+    "constitutional_form": "republic"
   },
   {
     "country": "kosovo",
@@ -1561,7 +1652,8 @@
       "alpha_2": "xk",
       "alpha_3": "xkx"
     },
-    "tld": ".rs"
+    "tld": ".rs",
+    "constitutional_form": "republic"
   },
   {
     "country": "kuwait",
@@ -1578,7 +1670,8 @@
       "alpha_2": "kw",
       "alpha_3": "kwt"
     },
-    "tld": ".kw"
+    "tld": ".kw",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "kyrgyzstan",
@@ -1595,7 +1688,8 @@
       "alpha_2": "kg",
       "alpha_3": "kgz"
     },
-    "tld": ".kg"
+    "tld": ".kg",
+    "constitutional_form": "republic"
   },
   {
     "country": "laos",
@@ -1612,7 +1706,8 @@
       "alpha_2": "la",
       "alpha_3": "lao"
     },
-    "tld": ".la"
+    "tld": ".la",
+    "constitutional_form": "republic"
   },
   {
     "country": "latvia",
@@ -1629,7 +1724,8 @@
       "alpha_2": "lv",
       "alpha_3": "lva"
     },
-    "tld": ".lv"
+    "tld": ".lv",
+    "constitutional_form": "republic"
   },
   {
     "country": "lebanon",
@@ -1646,7 +1742,8 @@
       "alpha_2": "lb",
       "alpha_3": "lbn"
     },
-    "tld": ".lb"
+    "tld": ".lb",
+    "constitutional_form": "republic"
   },
   {
     "country": "lesotho",
@@ -1663,7 +1760,8 @@
       "alpha_2": "ls",
       "alpha_3": "lso"
     },
-    "tld": ".ls"
+    "tld": ".ls",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "liberia",
@@ -1680,7 +1778,8 @@
       "alpha_2": "lr",
       "alpha_3": "lbr"
     },
-    "tld": ".lr"
+    "tld": ".lr",
+    "constitutional_form": "republic"
   },
   {
     "country": "libya",
@@ -1697,7 +1796,8 @@
       "alpha_2": "ly",
       "alpha_3": "lby"
     },
-    "tld": ".ly"
+    "tld": ".ly",
+    "constitutional_form": "n/a"
   },
   {
     "country": "liechtenstein",
@@ -1714,7 +1814,8 @@
       "alpha_2": "li",
       "alpha_3": "lie"
     },
-    "tld": ".li"
+    "tld": ".li",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "lithuania",
@@ -1731,7 +1832,8 @@
       "alpha_2": "lt",
       "alpha_3": "ltu"
     },
-    "tld": ".lt"
+    "tld": ".lt",
+    "constitutional_form": "republic"
   },
   {
     "country": "luxembourg",
@@ -1748,7 +1850,8 @@
       "alpha_2": "lu",
       "alpha_3": "lux"
     },
-    "tld": ".lu"
+    "tld": ".lu",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1765,7 +1868,8 @@
       "alpha_2": "mk",
       "alpha_3": "mkd"
     },
-    "tld": ".mk"
+    "tld": ".mk",
+    "constitutional_form": "republic"
   },
   {
     "country": "madagascar",
@@ -1782,7 +1886,8 @@
       "alpha_2": "mg",
       "alpha_3": "mdg"
     },
-    "tld": ".mg"
+    "tld": ".mg",
+    "constitutional_form": "republic"
   },
   {
     "country": "malawi",
@@ -1799,7 +1904,8 @@
       "alpha_2": "mw",
       "alpha_3": "mwi"
     },
-    "tld": ".mw"
+    "tld": ".mw",
+    "constitutional_form": "republic"
   },
   {
     "country": "malaysia",
@@ -1816,7 +1922,8 @@
       "alpha_2": "my",
       "alpha_3": "mys"
     },
-    "tld": ".my"
+    "tld": ".my",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "maldives",
@@ -1833,7 +1940,8 @@
       "alpha_2": "mv",
       "alpha_3": "mdv"
     },
-    "tld": ".mv"
+    "tld": ".mv",
+    "constitutional_form": "republic"
   },
   {
     "country": "mali",
@@ -1850,7 +1958,8 @@
       "alpha_2": "ml",
       "alpha_3": "mli"
     },
-    "tld": ".ml"
+    "tld": ".ml",
+    "constitutional_form": "n/a"
   },
   {
     "country": "malta",
@@ -1867,7 +1976,8 @@
       "alpha_2": "mt",
       "alpha_3": "mlt"
     },
-    "tld": ".mt"
+    "tld": ".mt",
+    "constitutional_form": "republic"
   },
   {
     "country": "marshall islands",
@@ -1884,7 +1994,8 @@
       "alpha_2": "mh",
       "alpha_3": "mhl"
     },
-    "tld": ".mh"
+    "tld": ".mh",
+    "constitutional_form": "republic"
   },
   {
     "country": "mauritania",
@@ -1901,7 +2012,8 @@
       "alpha_2": "mr",
       "alpha_3": "mrt"
     },
-    "tld": ".mr"
+    "tld": ".mr",
+    "constitutional_form": "republic"
   },
   {
     "country": "mauritius",
@@ -1918,7 +2030,8 @@
       "alpha_2": "mu",
       "alpha_3": "mus"
     },
-    "tld": ".mu"
+    "tld": ".mu",
+    "constitutional_form": "republic"
   },
   {
     "country": "mexico",
@@ -1935,7 +2048,8 @@
       "alpha_2": "mx",
       "alpha_3": "mex"
     },
-    "tld": ".mx"
+    "tld": ".mx",
+    "constitutional_form": "republic"
   },
   {
     "country": "federal states of micronesia",
@@ -1952,7 +2066,8 @@
       "alpha_2": "fm",
       "alpha_3": "fsm"
     },
-    "tld": ".fm"
+    "tld": ".fm",
+    "constitutional_form": "republic"
   },
   {
     "country": "moldova",
@@ -1969,7 +2084,8 @@
       "alpha_2": "md",
       "alpha_3": "mda"
     },
-    "tld": ".md"
+    "tld": ".md",
+    "constitutional_form": "republic"
   },
   {
     "country": "monaco",
@@ -1986,7 +2102,8 @@
       "alpha_2": "mc",
       "alpha_3": "mco"
     },
-    "tld": ".mc"
+    "tld": ".mc",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "mongolia",
@@ -2003,7 +2120,8 @@
       "alpha_2": "mn",
       "alpha_3": "mng"
     },
-    "tld": ".mn"
+    "tld": ".mn",
+    "constitutional_form": "republic"
   },
   {
     "country": "montenegro",
@@ -2020,7 +2138,8 @@
       "alpha_2": "me",
       "alpha_3": "mne"
     },
-    "tld": ".me"
+    "tld": ".me",
+    "constitutional_form": "republic"
   },
   {
     "country": "morocco",
@@ -2037,7 +2156,8 @@
       "alpha_2": "ma",
       "alpha_3": "mar"
     },
-    "tld": ".ma"
+    "tld": ".ma",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "mozambique",
@@ -2054,7 +2174,8 @@
       "alpha_2": "mz",
       "alpha_3": "moz"
     },
-    "tld": ".mz"
+    "tld": ".mz",
+    "constitutional_form": "republic"
   },
   {
     "country": "myanmar (burma)",
@@ -2071,7 +2192,8 @@
       "alpha_2": "mm",
       "alpha_3": "mmr"
     },
-    "tld": ".mm"
+    "tld": ".mm",
+    "constitutional_form": "republic"
   },
   {
     "country": "namibia",
@@ -2088,7 +2210,8 @@
       "alpha_2": "na",
       "alpha_3": "nam"
     },
-    "tld": ".na"
+    "tld": ".na",
+    "constitutional_form": "republic"
   },
   {
     "country": "nauru",
@@ -2105,7 +2228,8 @@
       "alpha_2": "nr",
       "alpha_3": "nru"
     },
-    "tld": ".nr"
+    "tld": ".nr",
+    "constitutional_form": "republic"
   },
   {
     "country": "nepal",
@@ -2122,7 +2246,8 @@
       "alpha_2": "np",
       "alpha_3": "npl"
     },
-    "tld": ".np"
+    "tld": ".np",
+    "constitutional_form": "republic"
   },
   {
     "country": "netherlands",
@@ -2139,7 +2264,8 @@
       "alpha_2": "nl",
       "alpha_3": "nld"
     },
-    "tld": ".nl"
+    "tld": ".nl",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "new zealand",
@@ -2156,7 +2282,8 @@
       "alpha_2": "nz",
       "alpha_3": "nzl"
     },
-    "tld": ".nz"
+    "tld": ".nz",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "nicaragua",
@@ -2173,7 +2300,8 @@
       "alpha_2": "ni",
       "alpha_3": "nic"
     },
-    "tld": ".ni"
+    "tld": ".ni",
+    "constitutional_form": "republic"
   },
   {
     "country": "niger",
@@ -2190,7 +2318,8 @@
       "alpha_2": "ne",
       "alpha_3": "ner"
     },
-    "tld": ".ne"
+    "tld": ".ne",
+    "constitutional_form": "republic"
   },
   {
     "country": "nigeria",
@@ -2207,7 +2336,8 @@
       "alpha_2": "ng",
       "alpha_3": "nga"
     },
-    "tld": ".ng"
+    "tld": ".ng",
+    "constitutional_form": "republic"
   },
   {
     "country": "norway",
@@ -2224,7 +2354,8 @@
       "alpha_2": "no",
       "alpha_3": "nor"
     },
-    "tld": ".no"
+    "tld": ".no",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "oman",
@@ -2241,7 +2372,8 @@
       "alpha_2": "om",
       "alpha_3": "omn"
     },
-    "tld": ".om"
+    "tld": ".om",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "pakistan",
@@ -2258,7 +2390,8 @@
       "alpha_2": "pk",
       "alpha_3": "pak"
     },
-    "tld": ".pk"
+    "tld": ".pk",
+    "constitutional_form": "republic"
   },
   {
     "country": "palau",
@@ -2275,7 +2408,8 @@
       "alpha_2": "pw",
       "alpha_3": "plw"
     },
-    "tld": ".pw"
+    "tld": ".pw",
+    "constitutional_form": "republic"
   },
   {
     "country": "panama",
@@ -2292,7 +2426,8 @@
       "alpha_2": "pa",
       "alpha_3": "pan"
     },
-    "tld": ".pa"
+    "tld": ".pa",
+    "constitutional_form": "republic"
   },
   {
     "country": "papa new guinea",
@@ -2309,7 +2444,8 @@
       "alpha_2": "pg",
       "alpha_3": "png"
     },
-    "tld": ".pg"
+    "tld": ".pg",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "paraguay",
@@ -2326,7 +2462,8 @@
       "alpha_2": "py",
       "alpha_3": "pry"
     },
-    "tld": ".py"
+    "tld": ".py",
+    "constitutional_form": "republic"
   },
   {
     "country": "peru",
@@ -2343,7 +2480,8 @@
       "alpha_2": "pe",
       "alpha_3": "per"
     },
-    "tld": ".pe"
+    "tld": ".pe",
+    "constitutional_form": "republic"
   },
   {
     "country": "philippines",
@@ -2360,7 +2498,8 @@
       "alpha_2": "ph",
       "alpha_3": "phl"
     },
-    "tld": ".ph"
+    "tld": ".ph",
+    "constitutional_form": "republic"
   },
   {
     "country": "poland",
@@ -2377,7 +2516,8 @@
       "alpha_2": "pl",
       "alpha_3": "pol"
     },
-    "tld": ".pl"
+    "tld": ".pl",
+    "constitutional_form": "republic"
   },
   {
     "country": "portugal",
@@ -2394,7 +2534,8 @@
       "alpha_2": "pt",
       "alpha_3": "prt"
     },
-    "tld": ".pt"
+    "tld": ".pt",
+    "constitutional_form": "republic"
   },
   {
     "country": "qatar",
@@ -2411,7 +2552,8 @@
       "alpha_2": "qa",
       "alpha_3": "qat"
     },
-    "tld": ".qa"
+    "tld": ".qa",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "romania",
@@ -2428,7 +2570,8 @@
       "alpha_2": "ro",
       "alpha_3": "rou"
     },
-    "tld": ".ro"
+    "tld": ".ro",
+    "constitutional_form": "republic"
   },
   {
     "country": "russia",
@@ -2445,7 +2588,8 @@
       "alpha_2": "ru",
       "alpha_3": "rus"
     },
-    "tld": ".ru"
+    "tld": ".ru",
+    "constitutional_form": "republic"
   },
   {
     "country": "rwanda",
@@ -2462,7 +2606,8 @@
       "alpha_2": "rw",
       "alpha_3": "rwa"
     },
-    "tld": ".rw"
+    "tld": ".rw",
+    "constitutional_form": "republic"
   },
   {
     "country": "saint kitts and nevis",
@@ -2479,7 +2624,8 @@
       "alpha_2": "kn",
       "alpha_3": "kna"
     },
-    "tld": ".kn"
+    "tld": ".kn",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "saint lucia",
@@ -2496,7 +2642,8 @@
       "alpha_2": "lc",
       "alpha_3": "lca"
     },
-    "tld": ".lc"
+    "tld": ".lc",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "saint vincent and the grenadines",
@@ -2513,7 +2660,8 @@
       "alpha_2": "vc",
       "alpha_3": "vct"
     },
-    "tld": ".vc"
+    "tld": ".vc",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "samoa",
@@ -2530,7 +2678,8 @@
       "alpha_2": "ws",
       "alpha_3": "wsm"
     },
-    "tld": ".ws"
+    "tld": ".ws",
+    "constitutional_form": "republic"
   },
   {
     "country": "san marino",
@@ -2547,7 +2696,8 @@
       "alpha_2": "sm",
       "alpha_3": "smr"
     },
-    "tld": ".sm"
+    "tld": ".sm",
+    "constitutional_form": "republic"
   },
   {
     "country": "sao tome and principe",
@@ -2564,7 +2714,8 @@
       "alpha_2": "st",
       "alpha_3": "stp"
     },
-    "tld": ".st"
+    "tld": ".st",
+    "constitutional_form": "republic"
   },
   {
     "country": "saudi arabia",
@@ -2581,7 +2732,8 @@
       "alpha_2": "sa",
       "alpha_3": "sau"
     },
-    "tld": ".sa"
+    "tld": ".sa",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "senegal",
@@ -2598,7 +2750,8 @@
       "alpha_2": "sn",
       "alpha_3": "sen"
     },
-    "tld": ".sn"
+    "tld": ".sn",
+    "constitutional_form": "republic"
   },
   {
     "country": "serbia",
@@ -2615,7 +2768,8 @@
       "alpha_2": "rs",
       "alpha_3": "srb"
     },
-    "tld": ".rs"
+    "tld": ".rs",
+    "constitutional_form": "republic"
   },
   {
     "country": "seychelles",
@@ -2632,7 +2786,8 @@
       "alpha_2": "sc",
       "alpha_3": "syc"
     },
-    "tld": ".sc"
+    "tld": ".sc",
+    "constitutional_form": "republic"
   },
   {
     "country": "sierra leone",
@@ -2649,7 +2804,8 @@
       "alpha_2": "sl",
       "alpha_3": "sle"
     },
-    "tld": ".sl"
+    "tld": ".sl",
+    "constitutional_form": "republic"
   },
   {
     "country": "singapore",
@@ -2666,7 +2822,8 @@
       "alpha_2": "sg",
       "alpha_3": "sgp"
     },
-    "tld": ".sg"
+    "tld": ".sg",
+    "constitutional_form": "republic"
   },
   {
     "country": "slovakia",
@@ -2683,7 +2840,8 @@
       "alpha_2": "sk",
       "alpha_3": "svk"
     },
-    "tld": ".sk"
+    "tld": ".sk",
+    "constitutional_form": "republic"
   },
   {
     "country": "slovenia",
@@ -2700,7 +2858,8 @@
       "alpha_2": "si",
       "alpha_3": "svn"
     },
-    "tld": ".si"
+    "tld": ".si",
+    "constitutional_form": "republic"
   },
   {
     "country": "solomon islands",
@@ -2717,7 +2876,8 @@
       "alpha_2": "sb",
       "alpha_3": "slb"
     },
-    "tld": ".sb"
+    "tld": ".sb",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "somalia",
@@ -2734,7 +2894,8 @@
       "alpha_2": "so",
       "alpha_3": "som"
     },
-    "tld": ".so"
+    "tld": ".so",
+    "constitutional_form": "republic"
   },
   {
     "country": "south africa",
@@ -2751,7 +2912,8 @@
       "alpha_2": "za",
       "alpha_3": "zaf"
     },
-    "tld": ".za"
+    "tld": ".za",
+    "constitutional_form": "republic"
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -2768,7 +2930,8 @@
       "alpha_2": "ss",
       "alpha_3": "ssd"
     },
-    "tld": ".ss"
+    "tld": ".ss",
+    "constitutional_form": "republic"
   },
   {
     "country": "spain",
@@ -2785,7 +2948,8 @@
       "alpha_2": "es",
       "alpha_3": "esp"
     },
-    "tld": ".es"
+    "tld": ".es",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "sri lanka",
@@ -2802,7 +2966,8 @@
       "alpha_2": "lk",
       "alpha_3": "lka"
     },
-    "tld": ".lk"
+    "tld": ".lk",
+    "constitutional_form": "republic"
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -2819,7 +2984,8 @@
       "alpha_2": "sd",
       "alpha_3": "sdn"
     },
-    "tld": ".sd"
+    "tld": ".sd",
+    "constitutional_form": "n/a"
   },
   {
     "country": "suriname",
@@ -2836,7 +3002,8 @@
       "alpha_2": "sr",
       "alpha_3": "sur"
     },
-    "tld": ".sr"
+    "tld": ".sr",
+    "constitutional_form": "republic"
   },
   {
     "country": "eswatini (swaziland)",
@@ -2853,7 +3020,8 @@
       "alpha_2": "sz",
       "alpha_3": "swz"
     },
-    "tld": ".sz"
+    "tld": ".sz",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "sweden",
@@ -2870,7 +3038,8 @@
       "alpha_2": "se",
       "alpha_3": "swe"
     },
-    "tld": ".se"
+    "tld": ".se",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "switzerland",
@@ -2886,7 +3055,8 @@
       "alpha_2": "ch",
       "alpha_3": "che"
     },
-    "tld": ".ch"
+    "tld": ".ch",
+    "constitutional_form": "republic"
   },
   {
     "country": "syria",
@@ -2903,7 +3073,8 @@
       "alpha_2": "sy",
       "alpha_3": "syr"
     },
-    "tld": ".sy"
+    "tld": ".sy",
+    "constitutional_form": "republic"
   },
   {
     "country": "taiwan",
@@ -2920,7 +3091,8 @@
       "alpha_2": "tw",
       "alpha_3": "twn"
     },
-    "tld": ".tw"
+    "tld": ".tw",
+    "constitutional_form": "republic"
   },
   {
     "country": "tajikistan",
@@ -2937,7 +3109,8 @@
       "alpha_2": "tj",
       "alpha_3": "tjk"
     },
-    "tld": ".tj"
+    "tld": ".tj",
+    "constitutional_form": "republic"
   },
   {
     "country": "tanzania",
@@ -2954,7 +3127,8 @@
       "alpha_2": "tz",
       "alpha_3": "tza"
     },
-    "tld": ".tz"
+    "tld": ".tz",
+    "constitutional_form": "republic"
   },
   {
     "country": "thailand",
@@ -2971,7 +3145,8 @@
       "alpha_2": "th",
       "alpha_3": "tha"
     },
-    "tld": ".th"
+    "tld": ".th",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "togo",
@@ -2988,7 +3163,8 @@
       "alpha_2": "tg",
       "alpha_3": "tgo"
     },
-    "tld": ".tg"
+    "tld": ".tg",
+    "constitutional_form": "republic"
   },
   {
     "country": "tonga",
@@ -3005,7 +3181,8 @@
       "alpha_2": "to",
       "alpha_3": "ton"
     },
-    "tld": ".to"
+    "tld": ".to",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "trinidad and tobago",
@@ -3022,7 +3199,8 @@
       "alpha_2": "tt",
       "alpha_3": "tto"
     },
-    "tld": ".tt"
+    "tld": ".tt",
+    "constitutional_form": "republic"
   },
   {
     "country": "tunisia",
@@ -3039,7 +3217,8 @@
       "alpha_2": "tn",
       "alpha_3": "tun"
     },
-    "tld": ".tn"
+    "tld": ".tn",
+    "constitutional_form": "republic"
   },
   {
     "country": "turkey",
@@ -3056,7 +3235,8 @@
       "alpha_2": "tr",
       "alpha_3": "tur"
     },
-    "tld": ".tr"
+    "tld": ".tr",
+    "constitutional_form": "republic"
   },
   {
     "country": "turkmenistan",
@@ -3073,7 +3253,8 @@
       "alpha_2": "tm",
       "alpha_3": "tkm"
     },
-    "tld": ".tm"
+    "tld": ".tm",
+    "constitutional_form": "republic"
   },
   {
     "country": "tuvalu",
@@ -3090,7 +3271,8 @@
       "alpha_2": "tv",
       "alpha_3": "tuv"
     },
-    "tld": ".tv"
+    "tld": ".tv",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "uganda",
@@ -3107,7 +3289,8 @@
       "alpha_2": "ug",
       "alpha_3": "uga"
     },
-    "tld": ".ug"
+    "tld": ".ug",
+    "constitutional_form": "republic"
   },
   {
     "country": "ukraine",
@@ -3124,7 +3307,8 @@
       "alpha_2": "ua",
       "alpha_3": "ukr"
     },
-    "tld": ".ua"
+    "tld": ".ua",
+    "constitutional_form": "republic"
   },
   {
     "country": "united arab emirates",
@@ -3141,7 +3325,8 @@
       "alpha_2": "ae",
       "alpha_3": "are"
     },
-    "tld": ".ae"
+    "tld": ".ae",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "united kingdom",
@@ -3158,7 +3343,8 @@
       "alpha_2": "gb",
       "alpha_3": "gbr"
     },
-    "tld": ".gb/.uk"
+    "tld": ".gb/.uk",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "united states of america",
@@ -3175,7 +3361,8 @@
       "alpha_2": "us",
       "alpha_3": "usa"
     },
-    "tld": ".us"
+    "tld": ".us",
+    "constitutional_form": "republic"
   },
   {
     "country": "uruguay",
@@ -3192,7 +3379,8 @@
       "alpha_2": "uy",
       "alpha_3": "ury"
     },
-    "tld": ".uy"
+    "tld": ".uy",
+    "constitutional_form": "republic"
   },
   {
     "country": "uzbekistan",
@@ -3209,7 +3397,8 @@
       "alpha_2": "uz",
       "alpha_3": "uzb"
     },
-    "tld": ".uz"
+    "tld": ".uz",
+    "constitutional_form": "republic"
   },
   {
     "country": "vanuatu",
@@ -3226,7 +3415,8 @@
       "alpha_2": "vu",
       "alpha_3": "vut"
     },
-    "tld": ".vu"
+    "tld": ".vu",
+    "constitutional_form": "republic"
   },
   {
     "country": "vatican city",
@@ -3243,7 +3433,8 @@
       "alpha_2": "va",
       "alpha_3": "vat"
     },
-    "tld": ".va"
+    "tld": ".va",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "venezuela",
@@ -3260,7 +3451,8 @@
       "alpha_2": "ve",
       "alpha_3": "ven"
     },
-    "tld": ".ve"
+    "tld": ".ve",
+    "constitutional_form": "republic"
   },
   {
     "country": "vietnam",
@@ -3277,7 +3469,8 @@
       "alpha_2": "vn",
       "alpha_3": "vnm"
     },
-    "tld": ".vn"
+    "tld": ".vn",
+    "constitutional_form": "republic"
   },
   {
     "country": "yemen",
@@ -3294,7 +3487,8 @@
       "alpha_2": "ye",
       "alpha_3": "yem"
     },
-    "tld": ".ye"
+    "tld": ".ye",
+    "constitutional_form": "n/a"
   },
   {
     "country": "zambia",
@@ -3311,7 +3505,8 @@
       "alpha_2": "zm",
       "alpha_3": "zmb"
     },
-    "tld": ".zm"
+    "tld": ".zm",
+    "constitutional_form": "republic"
   },
   {
     "country": "zimbabwe",
@@ -3328,6 +3523,7 @@
       "alpha_2": "zw",
       "alpha_3": "zwe"
     },
-    "tld": ".zw"
+    "tld": ".zw",
+    "constitutional_form": "republic"
   }
 ]

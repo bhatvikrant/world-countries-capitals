@@ -32,6 +32,7 @@ describe("The index", () => {
           alpha_3: "afg",
         },
         tld: ".af",
+        constitutional_form: "republic",
       });
     });
   });
@@ -54,6 +55,7 @@ describe("The index", () => {
           alpha_3: "alb",
         },
         tld: ".al",
+        constitutional_form: "republic",
       });
     });
   });
@@ -82,6 +84,7 @@ describe("The index", () => {
           alpha_3: "bih",
         },
         tld: ".ba",
+        constitutional_form: "republic",
       });
     });
   });
@@ -150,6 +153,7 @@ describe("The index", () => {
         phone_code: "+47",
       },
     ];
+
     it("returns countries famous for oil", () => {
       expect(
         testUtils.countryArraysAreEqual(actualCountries, expectedCountries)
@@ -175,9 +179,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "036",
           "alpha_2": "au",
-          "alpha_3": "aus"
+          "alpha_3": "aus",
         },
-        "tld": ".au"
+        "tld": ".au",
+        "constitutional_form": "constitutional monarchy",
       },
       {
         "country": "fiji",
@@ -192,9 +197,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "242",
           "alpha_2": "fj",
-          "alpha_3": "fji"
+          "alpha_3": "fji",
         },
-        "tld": ".fj"
+        "tld": ".fj",
+        "constitutional_form": "republic",
       },
       {
         "country": "kiribati",
@@ -209,9 +215,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "296",
           "alpha_2": "ki",
-          "alpha_3": "kir"
+          "alpha_3": "kir",
         },
-        "tld": ".ki"
+        "tld": ".ki",
+        "constitutional_form": "republic",
       },
       {
         "country": "marshall islands",
@@ -226,9 +233,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "584",
           "alpha_2": "mh",
-          "alpha_3": "mhl"
+          "alpha_3": "mhl",
         },
-        "tld": ".mh"
+        "tld": ".mh",
+        "constitutional_form": "republic",
       },
       {
         "country": "federal states of micronesia",
@@ -243,9 +251,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "583",
           "alpha_2": "fm",
-          "alpha_3": "fsm"
+          "alpha_3": "fsm",
         },
-        "tld": ".fm"
+        "tld": ".fm",
+        "constitutional_form": "republic",
       },
       {
         "country": "nauru",
@@ -260,9 +269,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "520",
           "alpha_2": "nr",
-          "alpha_3": "nru"
+          "alpha_3": "nru",
         },
-        "tld": ".nr"
+        "tld": ".nr",
+        "constitutional_form": "republic",
       },
       {
         "country": "new zealand",
@@ -277,9 +287,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "554",
           "alpha_2": "nz",
-          "alpha_3": "nzl"
+          "alpha_3": "nzl",
         },
-        "tld": ".nz"
+        "tld": ".nz",
+        "constitutional_form": "constitutional monarchy",
       },
       {
         "country": "palau",
@@ -294,9 +305,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "585",
           "alpha_2": "pw",
-          "alpha_3": "plw"
+          "alpha_3": "plw",
         },
-        "tld": ".pw"
+        "tld": ".pw",
+        "constitutional_form": "republic",
       },
       {
         "country": "papa new guinea",
@@ -311,9 +323,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "598",
           "alpha_2": "pg",
-          "alpha_3": "png"
+          "alpha_3": "png",
         },
-        "tld": ".pg"
+        "tld": ".pg",
+        "constitutional_form": "constitutional monarchy",
       },
       {
         "country": "samoa",
@@ -328,9 +341,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "882",
           "alpha_2": "ws",
-          "alpha_3": "wsm"
+          "alpha_3": "wsm",
         },
-        "tld": ".ws"
+        "tld": ".ws",
+        "constitutional_form": "republic",
       },
       {
         "country": "solomon islands",
@@ -345,9 +359,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "090",
           "alpha_2": "sb",
-          "alpha_3": "slb"
+          "alpha_3": "slb",
         },
-        "tld": ".sb"
+        "tld": ".sb",
+        "constitutional_form": "constitutional monarchy",
       },
       {
         "country": "tonga",
@@ -362,9 +377,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "776",
           "alpha_2": "to",
-          "alpha_3": "ton"
+          "alpha_3": "ton",
         },
-        "tld": ".to"
+        "tld": ".to",
+        "constitutional_form": "constitutional monarchy",
       },
       {
         "country": "tuvalu",
@@ -379,9 +395,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "798",
           "alpha_2": "tv",
-          "alpha_3": "tuv"
+          "alpha_3": "tuv",
         },
-        "tld": ".tv"
+        "tld": ".tv",
+        "constitutional_form": "constitutional monarchy",
       },
       {
         "country": "vanuatu",
@@ -396,9 +413,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "548",
           "alpha_2": "vu",
-          "alpha_3": "vut"
+          "alpha_3": "vut",
         },
-        "tld": ".vu"
+        "tld": ".vu",
+        "constitutional_form": "republic",
       },
     ];
     const asiaCountries = countryApi.getCountriesByContinent("as");
@@ -436,9 +454,10 @@ describe("The index", () => {
       "iso": {
         "numeric": "616",
         "alpha_2": "pl",
-        "alpha_3": "pol"
+        "alpha_3": "pol",
       },
-      "tld": ".pl"
+      "tld": ".pl",
+      "constitutional_form": "republic",
     };
 
     it("returns correct country using numeric ISO", () => {
@@ -467,9 +486,10 @@ describe("The index", () => {
       "iso": {
         "numeric": "616",
         "alpha_2": "pl",
-        "alpha_3": "pol"
+        "alpha_3": "pol",
       },
-      "tld": ".pl"
+      "tld": ".pl",
+      "constitutional_form": "republic",
     };
     const dotRSCountries = countryApi.getCountriesByTLD(".RS");
     const expectedDotRSCountries = [
@@ -486,9 +506,10 @@ describe("The index", () => {
         "iso": {
           "numeric": "383",
           "alpha_2": "xk",
-          "alpha_3": "xkx"
+          "alpha_3": "xkx",
         },
-        "tld": ".rs"
+        "tld": ".rs",
+        "constitutional_form": "republic",
       },
       {
         "country": "serbia",
@@ -505,7 +526,8 @@ describe("The index", () => {
           "alpha_2": "rs",
           "alpha_3": "srb"
         },
-        "tld": ".rs"
+        "tld": ".rs",
+        "constitutional_form": "republic",
       },
     ];
     const [dotUKCountry] = countryApi.getCountriesByTLD(".uk");
@@ -522,9 +544,10 @@ describe("The index", () => {
       "iso": {
         "numeric": "826",
         "alpha_2": "gb",
-        "alpha_3": "gbr"
+        "alpha_3": "gbr",
       },
-      "tld": ".gb/.uk"
+      "tld": ".gb/.uk",
+      "constitutional_form": "constitutional monarchy",
     };
     const [dotGBCountry] = countryApi.getCountriesByTLD(".GB");
 
@@ -539,6 +562,29 @@ describe("The index", () => {
     });
     it("returns the same country using '.uk' or '.GB' (uppercase) domain", () => {
       expect(dotUKCountry).toEqual(dotGBCountry);
+    });
+  });
+
+  describe("The getCountriesByConstitutionalForm", () => {
+    const republicCountries = countryApi.getCountriesByConstitutionalForm("republic");
+    const monarchyCountries = countryApi.getCountriesByConstitutionalForm("monarchy");
+    const absoluteMonarchyCountries = countryApi
+      .getCountriesByConstitutionalForm("absolute monarchy");
+    const constitutionalMonarchyCountries = countryApi
+      .getCountriesByConstitutionalForm("constitutional monarchy");
+
+    it("returns the countries that have 'republic' constitutional form", () => {
+      expect(republicCountries.length).toBe(148);
+    });
+    it("returns the countries that have 'monarchy' constitutional form", () => {
+      expect(monarchyCountries.length).toBe(44);
+    });
+    it("returns the countries that have 'absolute monarchy' constitutional form", () => {
+      expect(absoluteMonarchyCountries.length).toBe(6);
+    });
+    it("returns the countries that have 'constitutional monarchy' constitutional form", () => {
+      expect(constitutionalMonarchyCountries.length)
+        .toBe(monarchyCountries.length - absoluteMonarchyCountries.length);
     });
   });
 });

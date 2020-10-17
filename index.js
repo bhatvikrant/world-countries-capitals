@@ -188,6 +188,28 @@ const getCountriesByTLD = (tldName) => {
   );
 };
 
+/**
+ * Returns an array of objects containing all countries, each containing `country`, `capital`,
+ * `currency`, `native_language`, `famous_for`, and `phone_code`, `flag`, `drive_direction`
+ * and `constitutional_form` filtered by `constitutional_form`
+ * @param {string} constitutionalFormName Name of country constitutional form
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByConstitutionalForm = (constitutionalFormName) => {
+  const result = data.filter((country) => {
+    return country.constitutional_form.includes(constitutionalFormName)
+  });
+
+  if (!result.length) {
+    throw new Error(
+      `No country was found! Available constitutional forms are:
+      'republic', 'constitutional monarchy', 'absolute monarchy' and 'n/a'
+    `);
+  }
+
+  return result;
+}
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -201,4 +223,5 @@ module.exports = {
   getCountriesByContinent,
   getCountryDetailsByISO,
   getCountriesByTLD,
+  getCountriesByConstitutionalForm,
 };

@@ -267,6 +267,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
       	];
       	```
 
+---
+
 - `getCountriesByContinent(continentCode)`<br>
   This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **drive_direction**, **continent**, **iso** and **tld** sorted by the _continentCode_
 	passed as the parameter.<br>
@@ -515,6 +517,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 	]
 	```
 
+---
+
 - `getCountryDetailsByISO(isoType, isoValue)`<br>
   This method returns an array with object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **drive_direction**, **continent**, **iso** and **tld** filtered by specific _iso_<br>
   Response for `getCountryDetailsByISO('numeric', '616')`
@@ -538,6 +542,8 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 		"tld": ".pl"
 	}
 	```
+
+---
 
 - `getCountriesByTLD(tldName)`<br>
   This method returns an array of objects containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **drive_direction**, **continent**, **iso** and **tld** filtered by _tld_<br>
@@ -564,6 +570,82 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
     }
 	]
 	```
+
+---
+
+- `getCountriesByConstitutionalForm(constitutionalFormName)`<br>
+  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **driving_direction**
+	and **constitutional_form** sorted by the _constitutionalFormName_ passed as the parameter.<br>
+  Response for `getCountriesByConstitutionalForm("absolute monarchy")`:
+
+	```js
+	[
+		{
+			country: 'brunei',
+			capital: 'bandar seri begawan',
+			currency: 'brunei dollar',
+			native_language: ['malay'],
+			famous_for: 'gorgeous mosques and islamic architecture',
+			phone_code: '+673',
+			flag: 'https://flagpedia.net/data/flags/h80/bn.png',
+			drive_direction: 'left',
+			constitutional_form: 'absolute monarchy'
+		},
+		{
+			country: 'oman',
+			capital: 'muscat',
+			currency: 'omani rial',
+			native_language: ['arabic'],
+			famous_for: 'fresh sea and air breathing',
+			phone_code: '+968',
+			flag: 'https://flagpedia.net/data/flags/h80/om.png',
+			drive_direction: 'right',
+			constitutional_form: 'absolute monarchy'
+		},
+		{ country: 'qatar',
+			capital: 'doha',
+			currency: 'qatari riyal',
+			native_language: ['arabic'],
+			famous_for: 'qatar airlines',
+			phone_code: '+974',
+			flag: 'https://flagpedia.net/data/flags/h80/qa.png',
+			drive_direction: 'right',
+			constitutional_form: 'absolute monarchy'
+		},
+		{ country: 'saudi arabia',
+			capital: 'riyadh',
+			currency: 'saudi riyal',
+			native_language: ['arabic'],
+			famous_for: 'strict rules, wahhabism, mecca and madina',
+			phone_code: '+966',
+			flag: 'https://flagpedia.net/data/flags/h80/sa.png',
+			drive_direction: 'right',
+			constitutional_form: 'absolute monarchy'
+		},
+		{ country: 'eswatini (swaziland)',
+			capital: 'mbabane',
+			currency: 'lilangeni',
+			native_language: ['english', 'siswati'],
+			famous_for: 'sibebe rock and largest exposed granite dome',
+			phone_code: '+268',
+			flag: 'https://flagpedia.net/data/flags/h80/sz.png',
+			drive_direction: 'right',
+			constitutional_form: 'absolute monarchy'
+		},
+		{ country: 'vatican city',
+			capital: 'vatican city',
+			currency: 'euro',
+			native_language: ['latin', 'italian'],
+			famous_for: 'st. peter\'s basilica, the sistine chapel, and the vatican museums',
+			phone_code: '+379',
+			flag: 'https://flagpedia.net/data/flags/h80/va.png',
+			drive_direction: 'right',
+			constitutional_form: 'absolute monarchy'
+		}
+	]
+	```
+
+---
 
 # Example Use Cases
 
@@ -701,6 +783,18 @@ console.log(wcc.getCountryDetailsByISO("numeric", "616"));
 const wcc = require("world-countries-capitals");
 
 console.log(wcc.getCountriesByTLD(".uk"));
+```
+
+---
+
+### Example #12
+
+> Get the details of all `countries` that have '_republic_' constitutional form.
+
+```javascript
+const wcc = require("world-countries-capitals");
+
+console.log(wcc.getCountriesByConstitutionalForm("republic"));
 ```
 
 ---
