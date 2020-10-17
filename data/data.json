@@ -8,6 +8,13 @@
     "phone_code": "+93",
     "flag": "https://flagpedia.net/data/flags/h80/af.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "004",
+      "alpha_2": "af",
+      "alpha_3": "afg"
+    },
+    "tld": ".af",
     "constitutional_form": "republic"
   },
   {
@@ -19,6 +26,13 @@
     "phone_code": "+355",
     "flag": "https://flagpedia.net/data/flags/h80/al.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "008",
+      "alpha_2": "al",
+      "alpha_3": "alb"
+    },
+    "tld": ".al",
     "constitutional_form": "republic"
   },
   {
@@ -30,6 +44,13 @@
     "phone_code": "+213",
     "flag": "https://flagpedia.net/data/flags/h80/dz.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "012",
+      "alpha_2": "dz",
+      "alpha_3": "dza"
+    },
+    "tld": ".dz",
     "constitutional_form": "republic"
   },
   {
@@ -41,6 +62,13 @@
     "phone_code": "+376",
     "flag": "https://flagpedia.net/data/flags/h80/ad.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "020",
+      "alpha_2": "ad",
+      "alpha_3": "and"
+    },
+    "tld": ".ad",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -52,6 +80,13 @@
     "phone_code": "+244",
     "flag": "https://flagpedia.net/data/flags/h80/ao.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "024",
+      "alpha_2": "ao",
+      "alpha_3": "ago"
+    },
+    "tld": ".ao",
     "constitutional_form": "republic"
   },
   {
@@ -63,6 +98,13 @@
     "phone_code": "+1-268",
     "flag": "https://flagpedia.net/data/flags/h80/ag.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "028",
+      "alpha_2": "ag",
+      "alpha_3": "atg"
+    },
+    "tld": ".ag",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -70,10 +112,17 @@
     "capital": "buenos aires",
     "currency": "argentine peso",
     "native_language": ["spanish"],
-    "famous_for": "Football",
+    "famous_for": "football",
     "phone_code": "+54",
     "flag": "https://flagpedia.net/data/flags/h80/ar.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "032",
+      "alpha_2": "ar",
+      "alpha_3": "arg"
+    },
+    "tld": ".ar",
     "constitutional_form": "republic"
   },
   {
@@ -85,6 +134,13 @@
     "phone_code": "+374",
     "flag": "https://flagpedia.net/data/flags/h80/am.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "051",
+      "alpha_2": "am",
+      "alpha_3": "arm"
+    },
+    "tld": ".am",
     "constitutional_form": "republic"
   },
   {
@@ -96,6 +152,13 @@
     "phone_code": "+61",
     "flag": "https://flagpedia.net/data/flags/h80/au.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "036",
+      "alpha_2": "au",
+      "alpha_3": "aus"
+    },
+    "tld": ".au",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -107,6 +170,13 @@
     "phone_code": "+43",
     "flag": "https://flagpedia.net/data/flags/h80/at.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "040",
+      "alpha_2": "at",
+      "alpha_3": "aut"
+    },
+    "tld": ".at",
     "constitutional_form": "republic"
   },
   {
@@ -118,6 +188,13 @@
     "phone_code": "+994",
     "flag": "https://flagpedia.net/data/flags/h80/az.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "031",
+      "alpha_2": "az",
+      "alpha_3": "aze"
+    },
+    "tld": ".az",
     "constitutional_form": "republic"
   },
   {
@@ -129,6 +206,13 @@
     "phone_code": "+1-242",
     "flag": "https://flagpedia.net/data/flags/h80/bs.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "044",
+      "alpha_2": "bs",
+      "alpha_3": "bhs"
+    },
+    "tld": ".bs",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -140,6 +224,13 @@
     "phone_code": "+973",
     "flag": "https://flagpedia.net/data/flags/h80/bh.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "048",
+      "alpha_2": "bh",
+      "alpha_3": "bhr"
+    },
+    "tld": ".bh",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -151,6 +242,13 @@
     "phone_code": "+880",
     "flag": "https://flagpedia.net/data/flags/h80/bd.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "050",
+      "alpha_2": "bd",
+      "alpha_3": "bgd"
+    },
+    "tld": ".bd",
     "constitutional_form": "republic"
   },
   {
@@ -162,6 +260,13 @@
     "phone_code": "+1-246",
     "flag": "https://flagpedia.net/data/flags/h80/bb.png",
     "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "052",
+      "alpha_2": "bb",
+      "alpha_3": "brb"
+    },
+    "tld": ".bb",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -169,10 +274,17 @@
     "capital": "minsk",
     "currency": "belarusian ruble",
     "native_language": ["belarusian", "russian"],
-    "famous_for": "Variety of sweets",
+    "famous_for": "variety of sweets",
     "phone_code": "+375",
     "flag": "https://flagpedia.net/data/flags/h80/by.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "112",
+      "alpha_2": "by",
+      "alpha_3": "blr"
+    },
+    "tld": ".by",
     "constitutional_form": "republic"
   },
   {
@@ -184,6 +296,13 @@
     "phone_code": "+32",
     "flag": "https://flagpedia.net/data/flags/h80/be.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "056",
+      "alpha_2": "be",
+      "alpha_3": "bel"
+    },
+    "tld": ".be",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -195,6 +314,13 @@
     "phone_code": "+501",
     "flag": "https://flagpedia.net/data/flags/h80/bz.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "084",
+      "alpha_2": "bz",
+      "alpha_3": "blz"
+    },
+    "tld": ".bz",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -206,6 +332,13 @@
     "phone_code": "+229",
     "flag": "https://flagpedia.net/data/flags/h80/bj.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "204",
+      "alpha_2": "bj",
+      "alpha_3": "ben"
+    },
+    "tld": ".bj",
     "constitutional_form": "republic"
   },
   {
@@ -217,6 +350,13 @@
     "phone_code": "+975",
     "flag": "https://flagpedia.net/data/flags/h80/bt.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "064",
+      "alpha_2": "bt",
+      "alpha_3": "btn"
+    },
+    "tld": ".bt",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -228,6 +368,13 @@
     "phone_code": "+591",
     "flag": "https://flagpedia.net/data/flags/h80/bo.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "068",
+      "alpha_2": "bo",
+      "alpha_3": "bol"
+    },
+    "tld": ".bo",
     "constitutional_form": "republic"
   },
   {
@@ -239,6 +386,13 @@
     "phone_code": "+387",
     "flag": "https://flagpedia.net/data/flags/h80/ba.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "070",
+      "alpha_2": "ba",
+      "alpha_3": "bih"
+    },
+    "tld": ".ba",
     "constitutional_form": "republic"
   },
   {
@@ -250,6 +404,13 @@
     "phone_code": "+267",
     "flag": "https://flagpedia.net/data/flags/h80/bw.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "072",
+      "alpha_2": "bw",
+      "alpha_3": "bwa"
+    },
+    "tld": ".bw",
     "constitutional_form": "republic"
   },
   {
@@ -261,6 +422,13 @@
     "phone_code": "+55",
     "flag": "https://flagpedia.net/data/flags/h80/br.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "076",
+      "alpha_2": "br",
+      "alpha_3": "bra"
+    },
+    "tld": ".br",
     "constitutional_form": "republic"
   },
   {
@@ -272,6 +440,13 @@
     "phone_code": "+673",
     "flag": "https://flagpedia.net/data/flags/h80/bn.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "096",
+      "alpha_2": "bn",
+      "alpha_3": "brn"
+    },
+    "tld": ".bn",
     "constitutional_form": "absolute monarchy"
   },
   {
@@ -283,6 +458,13 @@
     "phone_code": "+359",
     "flag": "https://flagpedia.net/data/flags/h80/bg.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "100",
+      "alpha_2": "bg",
+      "alpha_3": "bgr"
+    },
+    "tld": ".bg",
     "constitutional_form": "republic"
   },
   {
@@ -294,6 +476,13 @@
     "phone_code": "+226",
     "flag": "https://flagpedia.net/data/flags/h80/bf.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "854",
+      "alpha_2": "bf",
+      "alpha_3": "bfa"
+    },
+    "tld": ".bf",
     "constitutional_form": "republic"
   },
   {
@@ -305,6 +494,13 @@
     "phone_code": "+257",
     "flag": "https://flagpedia.net/data/flags/h80/bi.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "108",
+      "alpha_2": "bi",
+      "alpha_3": "bdi"
+    },
+    "tld": ".bi",
     "constitutional_form": "republic"
   },
   {
@@ -316,6 +512,13 @@
     "phone_code": "+855",
     "flag": "https://flagpedia.net/data/flags/h80/kh.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "116",
+      "alpha_2": "kh",
+      "alpha_3": "khm"
+    },
+    "tld": ".kh",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -327,6 +530,13 @@
     "phone_code": "+237",
     "flag": "https://flagpedia.net/data/flags/h80/cm.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "120",
+      "alpha_2": "cm",
+      "alpha_3": "cmr"
+    },
+    "tld": ".cm",
     "constitutional_form": "republic"
   },
   {
@@ -338,6 +548,13 @@
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/ca.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "124",
+      "alpha_2": "ca",
+      "alpha_3": "can"
+    },
+    "tld": ".ca",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -349,6 +566,13 @@
     "phone_code": "+238",
     "flag": "https://flagpedia.net/data/flags/h80/cv.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "132",
+      "alpha_2": "cv",
+      "alpha_3": "cpv"
+    },
+    "tld": ".cv",
     "constitutional_form": "republic"
   },
   {
@@ -360,6 +584,13 @@
     "phone_code": "+236",
     "flag": "https://flagpedia.net/data/flags/h80/cf.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "140",
+      "alpha_2": "cf",
+      "alpha_3": "caf"
+    },
+    "tld": ".cf",
     "constitutional_form": "republic"
   },
   {
@@ -371,6 +602,13 @@
     "phone_code": "+235",
     "flag": "https://flagpedia.net/data/flags/h80/td.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "148",
+      "alpha_2": "td",
+      "alpha_3": "tcd"
+    },
+    "tld": ".td",
     "constitutional_form": "republic"
   },
   {
@@ -382,6 +620,13 @@
     "phone_code": "+56",
     "flag": "https://flagpedia.net/data/flags/h80/cl.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "152",
+      "alpha_2": "cl",
+      "alpha_3": "chl"
+    },
+    "tld": ".cl",
     "constitutional_form": "republic"
   },
   {
@@ -393,6 +638,13 @@
     "phone_code": "+86",
     "flag": "https://flagpedia.net/data/flags/h80/cn.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "156",
+      "alpha_2": "cn",
+      "alpha_3": "chn"
+    },
+    "tld": ".cn",
     "constitutional_form": "republic"
   },
   {
@@ -404,6 +656,13 @@
     "phone_code": "+57",
     "flag": "https://flagpedia.net/data/flags/h80/co.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "170",
+      "alpha_2": "co",
+      "alpha_3": "col"
+    },
+    "tld": ".co",
     "constitutional_form": "republic"
   },
   {
@@ -415,6 +674,13 @@
     "phone_code": "+269",
     "flag": "https://flagpedia.net/data/flags/h80/km.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "174",
+      "alpha_2": "km",
+      "alpha_3": "com"
+    },
+    "tld": ".km",
     "constitutional_form": "republic"
   },
   {
@@ -426,6 +692,13 @@
     "phone_code": "+243",
     "flag": "https://flagpedia.net/data/flags/h80/dr.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "180",
+      "alpha_2": "cd",
+      "alpha_3": "cod"
+    },
+    "tld": ".cd",
     "constitutional_form": "republic"
   },
   {
@@ -437,6 +710,13 @@
     "phone_code": "+242",
     "flag": "https://flagpedia.net/data/flags/h80/cg.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "178",
+      "alpha_2": "cg",
+      "alpha_3": "cog"
+    },
+    "tld": ".cg",
     "constitutional_form": "republic"
   },
   {
@@ -448,6 +728,13 @@
     "phone_code": "+506",
     "flag": "https://flagpedia.net/data/flags/h80/cr.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "188",
+      "alpha_2": "cr",
+      "alpha_3": "cri"
+    },
+    "tld": ".cr",
     "constitutional_form": "republic"
   },
   {
@@ -459,6 +746,13 @@
     "phone_code": "+225",
     "flag": "https://flagpedia.net/data/flags/h80/ci.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "384",
+      "alpha_2": "ci",
+      "alpha_3": "civ"
+    },
+    "tld": ".ci",
     "constitutional_form": "republic"
   },
   {
@@ -470,6 +764,13 @@
     "phone_code": "+385",
     "flag": "https://flagpedia.net/data/flags/h80/hr.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "191",
+      "alpha_2": "hr",
+      "alpha_3": "hrv"
+    },
+    "tld": ".hr",
     "constitutional_form": "republic"
   },
   {
@@ -481,6 +782,13 @@
     "phone_code": "+53",
     "flag": "https://flagpedia.net/data/flags/h80/cu.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "192",
+      "alpha_2": "cu",
+      "alpha_3": "cub"
+    },
+    "tld": ".cu",
     "constitutional_form": "republic"
   },
   {
@@ -492,6 +800,13 @@
     "phone_code": "+357",
     "flag": "https://flagpedia.net/data/flags/h80/cy.png",
     "drive_direction": "left",
+    "continent": "eu",
+    "iso": {
+      "numeric": "196",
+      "alpha_2": "cy",
+      "alpha_3": "cyp"
+    },
+    "tld": ".cy",
     "constitutional_form": "republic"
   },
   {
@@ -503,6 +818,13 @@
     "phone_code": "+420",
     "flag": "https://flagpedia.net/data/flags/h80/cz.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "203",
+      "alpha_2": "cz",
+      "alpha_3": "cze"
+    },
+    "tld": ".cz",
     "constitutional_form": "republic"
   },
   {
@@ -514,6 +836,13 @@
     "phone_code": "+45",
     "flag": "https://flagpedia.net/data/flags/h80/dk.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "208",
+      "alpha_2": "dk",
+      "alpha_3": "dnk"
+    },
+    "tld": ".dk",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -525,6 +854,13 @@
     "phone_code": "+253",
     "flag": "https://flagpedia.net/data/flags/h80/dj.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "262",
+      "alpha_2": "dj",
+      "alpha_3": "dji"
+    },
+    "tld": ".dj",
     "constitutional_form": "republic"
   },
   {
@@ -536,6 +872,13 @@
     "phone_code": "+1-767",
     "flag": "https://flagpedia.net/data/flags/h80/dm.png",
     "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "212",
+      "alpha_2": "dm",
+      "alpha_3": "dma"
+    },
+    "tld": ".dm",
     "constitutional_form": "republic"
   },
   {
@@ -547,6 +890,13 @@
     "phone_code": "+1-809, +1-829, +1-849",
     "flag": "https://flagpedia.net/data/flags/h80/do.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "214",
+      "alpha_2": "do",
+      "alpha_3": "dom"
+    },
+    "tld": ".do",
     "constitutional_form": "republic"
   },
   {
@@ -558,6 +908,13 @@
     "phone_code": "+670",
     "flag": "https://flagpedia.net/data/flags/h80/tl.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "626",
+      "alpha_2": "tl",
+      "alpha_3": "tls"
+    },
+    "tld": ".tl",
     "constitutional_form": "republic"
   },
   {
@@ -569,6 +926,13 @@
     "phone_code": "+593",
     "flag": "https://flagpedia.net/data/flags/h80/ec.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "218",
+      "alpha_2": "ec",
+      "alpha_3": "ecu"
+    },
+    "tld": ".ec",
     "constitutional_form": "republic"
   },
   {
@@ -580,6 +944,13 @@
     "phone_code": "+20",
     "flag": "https://flagpedia.net/data/flags/h80/eg.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "818",
+      "alpha_2": "eg",
+      "alpha_3": "egy"
+    },
+    "tld": ".eg",
     "constitutional_form": "republic"
   },
   {
@@ -591,6 +962,13 @@
     "phone_code": "+503",
     "flag": "https://flagpedia.net/data/flags/h80/sv.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "222",
+      "alpha_2": "sv",
+      "alpha_3": "slv"
+    },
+    "tld": ".sv",
     "constitutional_form": "republic"
   },
   {
@@ -602,6 +980,13 @@
     "phone_code": "+240",
     "flag": "https://flagpedia.net/data/flags/h80/gq.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "226",
+      "alpha_2": "gq",
+      "alpha_3": "gnq"
+    },
+    "tld": ".gq",
     "constitutional_form": "republic"
   },
   {
@@ -613,6 +998,13 @@
     "phone_code": "+291",
     "flag": "https://flagpedia.net/data/flags/h80/er.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "232",
+      "alpha_2": "er",
+      "alpha_3": "eri"
+    },
+    "tld": ".er",
     "constitutional_form": "republic"
   },
   {
@@ -624,6 +1016,13 @@
     "phone_code": "+372",
     "flag": "https://flagpedia.net/data/flags/h80/ee.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "233",
+      "alpha_2": "ee",
+      "alpha_3": "est"
+    },
+    "tld": ".ee",
     "constitutional_form": "republic"
   },
   {
@@ -635,6 +1034,13 @@
     "phone_code": "+251",
     "flag": "https://flagpedia.net/data/flags/h80/et.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "231",
+      "alpha_2": "et",
+      "alpha_3": "eth"
+    },
+    "tld": ".et",
     "constitutional_form": "republic"
   },
   {
@@ -646,6 +1052,13 @@
     "phone_code": "+679",
     "flag": "https://flagpedia.net/data/flags/h80/fj.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "242",
+      "alpha_2": "fj",
+      "alpha_3": "fji"
+    },
+    "tld": ".fj",
     "constitutional_form": "republic"
   },
   {
@@ -657,6 +1070,13 @@
     "phone_code": "+358",
     "flag": "https://flagpedia.net/data/flags/h80/fi.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "246",
+      "alpha_2": "fi",
+      "alpha_3": "fin"
+    },
+    "tld": ".fi",
     "constitutional_form": "republic"
   },
   {
@@ -668,6 +1088,13 @@
     "phone_code": "+33",
     "flag": "https://flagpedia.net/data/flags/h80/fr.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "250",
+      "alpha_2": "fr",
+      "alpha_3": "fra"
+    },
+    "tld": ".fr",
     "constitutional_form": "republic"
   },
   {
@@ -679,6 +1106,13 @@
     "phone_code": "+241",
     "flag": "https://flagpedia.net/data/flags/h80/ga.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "266",
+      "alpha_2": "ga",
+      "alpha_3": "gab"
+    },
+    "tld": ".ga",
     "constitutional_form": "republic"
   },
   {
@@ -690,6 +1124,13 @@
     "phone_code": "+220",
     "flag": "https://flagpedia.net/data/flags/h80/gm.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "270",
+      "alpha_2": "gm",
+      "alpha_3": "gmb"
+    },
+    "tld": ".gm",
     "constitutional_form": "republic"
   },
   {
@@ -701,6 +1142,13 @@
     "phone_code": "+995",
     "flag": "https://flagpedia.net/data/flags/h80/ge.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "268",
+      "alpha_2": "ge",
+      "alpha_3": "geo"
+    },
+    "tld": ".ge",
     "constitutional_form": "republic"
   },
   {
@@ -712,6 +1160,13 @@
     "phone_code": "+49",
     "flag": "https://flagpedia.net/data/flags/h80/de.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "276",
+      "alpha_2": "de",
+      "alpha_3": "deu"
+    },
+    "tld": ".de",
     "constitutional_form": "republic"
   },
   {
@@ -723,6 +1178,13 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/gh.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "288",
+      "alpha_2": "gh",
+      "alpha_3": "gha"
+    },
+    "tld": ".gh",
     "constitutional_form": "republic"
   },
   {
@@ -734,6 +1196,13 @@
     "phone_code": "+30",
     "flag": "https://flagpedia.net/data/flags/h80/gr.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "300",
+      "alpha_2": "gr",
+      "alpha_3": "grc"
+    },
+    "tld": ".gr",
     "constitutional_form": "republic"
   },
   {
@@ -745,6 +1214,13 @@
     "phone_code": "+1-473",
     "flag": "https://flagpedia.net/data/flags/h80/gd.png",
     "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "308",
+      "alpha_2": "gd",
+      "alpha_3": "grd"
+    },
+    "tld": ".gd",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -756,6 +1232,13 @@
     "phone_code": "+502",
     "flag": "https://flagpedia.net/data/flags/h80/gt.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "320",
+      "alpha_2": "gt",
+      "alpha_3": "gtm"
+    },
+    "tld": ".gt",
     "constitutional_form": "republic"
   },
   {
@@ -767,6 +1250,13 @@
     "phone_code": "+224",
     "flag": "https://flagpedia.net/data/flags/h80/gn.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "324",
+      "alpha_2": "gn",
+      "alpha_3": "gin"
+    },
+    "tld": ".gn",
     "constitutional_form": "republic"
   },
   {
@@ -778,6 +1268,13 @@
     "phone_code": "+245",
     "flag": "https://flagpedia.net/data/flags/h80/gw.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "624",
+      "alpha_2": "gw",
+      "alpha_3": "gnb"
+    },
+    "tld": ".gw",
     "constitutional_form": "republic"
   },
   {
@@ -789,6 +1286,13 @@
     "phone_code": "+592",
     "flag": "https://flagpedia.net/data/flags/h80/gy.png",
     "drive_direction": "left",
+    "continent": "sa",
+    "iso": {
+      "numeric": "328",
+      "alpha_2": "gy",
+      "alpha_3": "guy"
+    },
+    "tld": ".gy",
     "constitutional_form": "republic"
   },
   {
@@ -800,6 +1304,13 @@
     "phone_code": "+509",
     "flag": "https://flagpedia.net/data/flags/h80/ht.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "332",
+      "alpha_2": "ht",
+      "alpha_3": "hti"
+    },
+    "tld": ".ht",
     "constitutional_form": "republic"
   },
   {
@@ -811,6 +1322,13 @@
     "phone_code": "+504",
     "flag": "https://flagpedia.net/data/flags/h80/hn.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "340",
+      "alpha_2": "hn",
+      "alpha_3": "hnd"
+    },
+    "tld": ".hn",
     "constitutional_form": "republic"
   },
   {
@@ -822,6 +1340,13 @@
     "phone_code": "+36",
     "flag": "https://flagpedia.net/data/flags/h80/hu.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "348",
+      "alpha_2": "hu",
+      "alpha_3": "hun"
+    },
+    "tld": ".hu",
     "constitutional_form": "republic"
   },
   {
@@ -833,6 +1358,13 @@
     "phone_code": "+354",
     "flag": "https://flagpedia.net/data/flags/h80/is.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "352",
+      "alpha_2": "is",
+      "alpha_3": "isl"
+    },
+    "tld": ".is",
     "constitutional_form": "republic"
   },
   {
@@ -844,6 +1376,13 @@
     "phone_code": "+91",
     "flag": "https://flagpedia.net/data/flags/h80/in.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "356",
+      "alpha_2": "in",
+      "alpha_3": "ind"
+    },
+    "tld": ".in",
     "constitutional_form": "republic"
   },
   {
@@ -855,6 +1394,13 @@
     "phone_code": "+62",
     "flag": "https://flagpedia.net/data/flags/h80/id.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "360",
+      "alpha_2": "id",
+      "alpha_3": "idn"
+    },
+    "tld": ".id",
     "constitutional_form": "republic"
   },
   {
@@ -866,6 +1412,13 @@
     "phone_code": "+98",
     "flag": "https://flagpedia.net/data/flags/h80/ir.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "364",
+      "alpha_2": "ir",
+      "alpha_3": "irn"
+    },
+    "tld": ".ir",
     "constitutional_form": "republic"
   },
   {
@@ -877,6 +1430,13 @@
     "phone_code": "+964",
     "flag": "https://flagpedia.net/data/flags/h80/iq.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "368",
+      "alpha_2": "iq",
+      "alpha_3": "irq"
+    },
+    "tld": ".iq",
     "constitutional_form": "republic"
   },
   {
@@ -888,6 +1448,13 @@
     "phone_code": "+353",
     "flag": "https://flagpedia.net/data/flags/h80/ie.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "372",
+      "alpha_2": "ie",
+      "alpha_3": "irl"
+    },
+    "tld": ".ie",
     "constitutional_form": "republic"
   },
   {
@@ -899,6 +1466,13 @@
     "phone_code": "+972",
     "flag": "https://flagpedia.net/data/flags/h80/il.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "376",
+      "alpha_2": "il",
+      "alpha_3": "isr"
+    },
+    "tld": ".il",
     "constitutional_form": "republic"
   },
   {
@@ -910,6 +1484,13 @@
     "phone_code": "+39",
     "flag": "https://flagpedia.net/data/flags/h80/it.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "380",
+      "alpha_2": "it",
+      "alpha_3": "ita"
+    },
+    "tld": ".it",
     "constitutional_form": "republic"
   },
   {
@@ -921,6 +1502,13 @@
     "phone_code": "+1-876",
     "flag": "https://flagpedia.net/data/flags/h80/jm.png",
     "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "388",
+      "alpha_2": "jm",
+      "alpha_3": "jam"
+    },
+    "tld": ".jm",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -932,6 +1520,13 @@
     "phone_code": "+81",
     "flag": "https://flagpedia.net/data/flags/h80/jp.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "392",
+      "alpha_2": "jp",
+      "alpha_3": "jpn"
+    },
+    "tld": ".jp",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -943,6 +1538,13 @@
     "phone_code": "+962",
     "flag": "https://flagpedia.net/data/flags/h80/jo.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "400",
+      "alpha_2": "jo",
+      "alpha_3": "jor"
+    },
+    "tld": ".jo",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -954,6 +1556,13 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/kz.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "398",
+      "alpha_2": "kz",
+      "alpha_3": "kaz"
+    },
+    "tld": ".kz",
     "constitutional_form": "republic"
   },
   {
@@ -965,6 +1574,13 @@
     "phone_code": "+254",
     "flag": "https://flagpedia.net/data/flags/h80/ke.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "404",
+      "alpha_2": "ke",
+      "alpha_3": "ken"
+    },
+    "tld": ".ke",
     "constitutional_form": "republic"
   },
   {
@@ -976,6 +1592,13 @@
     "phone_code": "+686",
     "flag": "https://flagpedia.net/data/flags/h80/ki.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "296",
+      "alpha_2": "ki",
+      "alpha_3": "kir"
+    },
+    "tld": ".ki",
     "constitutional_form": "republic"
   },
   {
@@ -987,6 +1610,13 @@
     "phone_code": "+850",
     "flag": "https://flagpedia.net/data/flags/h80/kp.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "408",
+      "alpha_2": "kp",
+      "alpha_3": "prk"
+    },
+    "tld": ".kp",
     "constitutional_form": "republic"
   },
   {
@@ -998,6 +1628,13 @@
     "phone_code": "+82",
     "flag": "https://flagpedia.net/data/flags/h80/kr.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "410",
+      "alpha_2": "kr",
+      "alpha_3": "kor"
+    },
+    "tld": ".kr",
     "constitutional_form": "republic"
   },
   {
@@ -1009,6 +1646,13 @@
     "phone_code": "+383",
     "flag": "https://flagpedia.net/data/flags/h80/xk.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "383",
+      "alpha_2": "xk",
+      "alpha_3": "xkx"
+    },
+    "tld": ".rs",
     "constitutional_form": "republic"
   },
   {
@@ -1020,6 +1664,13 @@
     "phone_code": "965",
     "flag": "https://flagpedia.net/data/flags/h80/kw.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "414",
+      "alpha_2": "kw",
+      "alpha_3": "kwt"
+    },
+    "tld": ".kw",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1031,6 +1682,13 @@
     "phone_code": "+996",
     "flag": "https://flagpedia.net/data/flags/h80/kg.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "417",
+      "alpha_2": "kg",
+      "alpha_3": "kgz"
+    },
+    "tld": ".kg",
     "constitutional_form": "republic"
   },
   {
@@ -1042,6 +1700,13 @@
     "phone_code": "+856",
     "flag": "https://flagpedia.net/data/flags/h80/la.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "418",
+      "alpha_2": "la",
+      "alpha_3": "lao"
+    },
+    "tld": ".la",
     "constitutional_form": "republic"
   },
   {
@@ -1053,6 +1718,13 @@
     "phone_code": "+371",
     "flag": "https://flagpedia.net/data/flags/h80/lv.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "428",
+      "alpha_2": "lv",
+      "alpha_3": "lva"
+    },
+    "tld": ".lv",
     "constitutional_form": "republic"
   },
   {
@@ -1064,6 +1736,13 @@
     "phone_code": "+961",
     "flag": "https://flagpedia.net/data/flags/h80/lb.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "422",
+      "alpha_2": "lb",
+      "alpha_3": "lbn"
+    },
+    "tld": ".lb",
     "constitutional_form": "republic"
   },
   {
@@ -1075,6 +1754,13 @@
     "phone_code": "+266",
     "flag": "https://flagpedia.net/data/flags/h80/ls.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "426",
+      "alpha_2": "ls",
+      "alpha_3": "lso"
+    },
+    "tld": ".ls",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1086,6 +1772,13 @@
     "phone_code": "+231",
     "flag": "https://flagpedia.net/data/flags/h80/lr.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "430",
+      "alpha_2": "lr",
+      "alpha_3": "lbr"
+    },
+    "tld": ".lr",
     "constitutional_form": "republic"
   },
   {
@@ -1097,6 +1790,13 @@
     "phone_code": "+218",
     "flag": "https://flagpedia.net/data/flags/h80/ly.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "434",
+      "alpha_2": "ly",
+      "alpha_3": "lby"
+    },
+    "tld": ".ly",
     "constitutional_form": "n/a"
   },
   {
@@ -1108,6 +1808,13 @@
     "phone_code": "+423",
     "flag": "https://flagpedia.net/data/flags/h80/li.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "438",
+      "alpha_2": "li",
+      "alpha_3": "lie"
+    },
+    "tld": ".li",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1119,6 +1826,13 @@
     "phone_code": "+370",
     "flag": "https://flagpedia.net/data/flags/h80/lt.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "440",
+      "alpha_2": "lt",
+      "alpha_3": "ltu"
+    },
+    "tld": ".lt",
     "constitutional_form": "republic"
   },
   {
@@ -1130,6 +1844,13 @@
     "phone_code": "+352",
     "flag": "https://flagpedia.net/data/flags/h80/lu.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "442",
+      "alpha_2": "lu",
+      "alpha_3": "lux"
+    },
+    "tld": ".lu",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1141,6 +1862,13 @@
     "phone_code": "+389",
     "flag": "https://flagpedia.net/data/flags/h80/mk.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "807",
+      "alpha_2": "mk",
+      "alpha_3": "mkd"
+    },
+    "tld": ".mk",
     "constitutional_form": "republic"
   },
   {
@@ -1152,6 +1880,13 @@
     "phone_code": "+261",
     "flag": "https://flagpedia.net/data/flags/h80/mg.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "450",
+      "alpha_2": "mg",
+      "alpha_3": "mdg"
+    },
+    "tld": ".mg",
     "constitutional_form": "republic"
   },
   {
@@ -1163,6 +1898,13 @@
     "phone_code": "+265",
     "flag": "https://flagpedia.net/data/flags/h80/mw.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "454",
+      "alpha_2": "mw",
+      "alpha_3": "mwi"
+    },
+    "tld": ".mw",
     "constitutional_form": "republic"
   },
   {
@@ -1174,6 +1916,13 @@
     "phone_code": "+60",
     "flag": "https://flagpedia.net/data/flags/h80/my.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "458",
+      "alpha_2": "my",
+      "alpha_3": "mys"
+    },
+    "tld": ".my",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1185,6 +1934,13 @@
     "phone_code": "+960",
     "flag": "https://flagpedia.net/data/flags/h80/mv.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "462",
+      "alpha_2": "mv",
+      "alpha_3": "mdv"
+    },
+    "tld": ".mv",
     "constitutional_form": "republic"
   },
   {
@@ -1196,6 +1952,13 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/ml.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "466",
+      "alpha_2": "ml",
+      "alpha_3": "mli"
+    },
+    "tld": ".ml",
     "constitutional_form": "n/a"
   },
   {
@@ -1207,6 +1970,13 @@
     "phone_code": "+356",
     "flag": "https://flagpedia.net/data/flags/h80/mt.png",
     "drive_direction": "left",
+    "continent": "eu",
+    "iso": {
+      "numeric": "470",
+      "alpha_2": "mt",
+      "alpha_3": "mlt"
+    },
+    "tld": ".mt",
     "constitutional_form": "republic"
   },
   {
@@ -1218,6 +1988,13 @@
     "phone_code": "+692",
     "flag": "https://flagpedia.net/data/flags/h80/mh.png",
     "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "584",
+      "alpha_2": "mh",
+      "alpha_3": "mhl"
+    },
+    "tld": ".mh",
     "constitutional_form": "republic"
   },
   {
@@ -1229,6 +2006,13 @@
     "phone_code": "+222",
     "flag": "https://flagpedia.net/data/flags/h80/mr.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "478",
+      "alpha_2": "mr",
+      "alpha_3": "mrt"
+    },
+    "tld": ".mr",
     "constitutional_form": "republic"
   },
   {
@@ -1240,6 +2024,13 @@
     "phone_code": "+230",
     "flag": "https://flagpedia.net/data/flags/h80/mu.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "480",
+      "alpha_2": "mu",
+      "alpha_3": "mus"
+    },
+    "tld": ".mu",
     "constitutional_form": "republic"
   },
   {
@@ -1251,6 +2042,13 @@
     "phone_code": "+52",
     "flag": "https://flagpedia.net/data/flags/h80/mx.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "484",
+      "alpha_2": "mx",
+      "alpha_3": "mex"
+    },
+    "tld": ".mx",
     "constitutional_form": "republic"
   },
   {
@@ -1262,6 +2060,13 @@
     "phone_code": "+691",
     "flag": "https://flagpedia.net/data/flags/h80/fm.png",
     "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "583",
+      "alpha_2": "fm",
+      "alpha_3": "fsm"
+    },
+    "tld": ".fm",
     "constitutional_form": "republic"
   },
   {
@@ -1273,6 +2078,13 @@
     "phone_code": "+373",
     "flag": "https://flagpedia.net/data/flags/h80/md.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "498",
+      "alpha_2": "md",
+      "alpha_3": "mda"
+    },
+    "tld": ".md",
     "constitutional_form": "republic"
   },
   {
@@ -1284,6 +2096,13 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/mc.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "492",
+      "alpha_2": "mc",
+      "alpha_3": "mco"
+    },
+    "tld": ".mc",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1295,6 +2114,13 @@
     "phone_code": "+976",
     "flag": "https://flagpedia.net/data/flags/h80/mn.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "496",
+      "alpha_2": "mn",
+      "alpha_3": "mng"
+    },
+    "tld": ".mn",
     "constitutional_form": "republic"
   },
   {
@@ -1306,6 +2132,13 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/me.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "499",
+      "alpha_2": "me",
+      "alpha_3": "mne"
+    },
+    "tld": ".me",
     "constitutional_form": "republic"
   },
   {
@@ -1317,6 +2150,13 @@
     "phone_code": "+212",
     "flag": "https://flagpedia.net/data/flags/h80/ma.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "504",
+      "alpha_2": "ma",
+      "alpha_3": "mar"
+    },
+    "tld": ".ma",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1328,6 +2168,13 @@
     "phone_code": "+258",
     "flag": "https://flagpedia.net/data/flags/h80/mz.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "508",
+      "alpha_2": "mz",
+      "alpha_3": "moz"
+    },
+    "tld": ".mz",
     "constitutional_form": "republic"
   },
   {
@@ -1339,6 +2186,13 @@
     "phone_code": "+95",
     "flag": "https://flagpedia.net/data/flags/h80/mm.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "104",
+      "alpha_2": "mm",
+      "alpha_3": "mmr"
+    },
+    "tld": ".mm",
     "constitutional_form": "republic"
   },
   {
@@ -1350,6 +2204,13 @@
     "phone_code": "+264",
     "flag": "https://flagpedia.net/data/flags/h80/na.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "516",
+      "alpha_2": "na",
+      "alpha_3": "nam"
+    },
+    "tld": ".na",
     "constitutional_form": "republic"
   },
   {
@@ -1361,6 +2222,13 @@
     "phone_code": "+674",
     "flag": "https://flagpedia.net/data/flags/h80/nr.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "520",
+      "alpha_2": "nr",
+      "alpha_3": "nru"
+    },
+    "tld": ".nr",
     "constitutional_form": "republic"
   },
   {
@@ -1372,6 +2240,13 @@
     "phone_code": "+977",
     "flag": "https://flagpedia.net/data/flags/h80/np.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "524",
+      "alpha_2": "np",
+      "alpha_3": "npl"
+    },
+    "tld": ".np",
     "constitutional_form": "republic"
   },
   {
@@ -1383,6 +2258,13 @@
     "phone_code": "+31",
     "flag": "https://flagpedia.net/data/flags/h80/nl.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "528",
+      "alpha_2": "nl",
+      "alpha_3": "nld"
+    },
+    "tld": ".nl",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1394,6 +2276,13 @@
     "phone_code": "+64",
     "flag": "https://flagpedia.net/data/flags/h80/nz.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "554",
+      "alpha_2": "nz",
+      "alpha_3": "nzl"
+    },
+    "tld": ".nz",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1405,6 +2294,13 @@
     "phone_code": "+505",
     "flag": "https://flagpedia.net/data/flags/h80/ni.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "558",
+      "alpha_2": "ni",
+      "alpha_3": "nic"
+    },
+    "tld": ".ni",
     "constitutional_form": "republic"
   },
   {
@@ -1416,6 +2312,13 @@
     "phone_code": "+277",
     "flag": "https://flagpedia.net/data/flags/h80/ne.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "562",
+      "alpha_2": "ne",
+      "alpha_3": "ner"
+    },
+    "tld": ".ne",
     "constitutional_form": "republic"
   },
   {
@@ -1427,6 +2330,13 @@
     "phone_code": "+234",
     "flag": "https://flagpedia.net/data/flags/h80/ng.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "566",
+      "alpha_2": "ng",
+      "alpha_3": "nga"
+    },
+    "tld": ".ng",
     "constitutional_form": "republic"
   },
   {
@@ -1438,6 +2348,13 @@
     "phone_code": "+47",
     "flag": "https://flagpedia.net/data/flags/h80/no.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "578",
+      "alpha_2": "no",
+      "alpha_3": "nor"
+    },
+    "tld": ".no",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1449,6 +2366,13 @@
     "phone_code": "+968",
     "flag": "https://flagpedia.net/data/flags/h80/om.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "512",
+      "alpha_2": "om",
+      "alpha_3": "omn"
+    },
+    "tld": ".om",
     "constitutional_form": "absolute monarchy"
   },
   {
@@ -1460,6 +2384,13 @@
     "phone_code": "+92",
     "flag": "https://flagpedia.net/data/flags/h80/pk.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "586",
+      "alpha_2": "pk",
+      "alpha_3": "pak"
+    },
+    "tld": ".pk",
     "constitutional_form": "republic"
   },
   {
@@ -1471,6 +2402,13 @@
     "phone_code": "+680",
     "flag": "https://flagpedia.net/data/flags/h80/pw.png",
     "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "585",
+      "alpha_2": "pw",
+      "alpha_3": "plw"
+    },
+    "tld": ".pw",
     "constitutional_form": "republic"
   },
   {
@@ -1482,6 +2420,13 @@
     "phone_code": "+507",
     "flag": "https://flagpedia.net/data/flags/h80/pa.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "591",
+      "alpha_2": "pa",
+      "alpha_3": "pan"
+    },
+    "tld": ".pa",
     "constitutional_form": "republic"
   },
   {
@@ -1493,6 +2438,13 @@
     "phone_code": "+675",
     "flag": "https://flagpedia.net/data/flags/h80/pg.png",
     "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "598",
+      "alpha_2": "pg",
+      "alpha_3": "png"
+    },
+    "tld": ".pg",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1504,6 +2456,13 @@
     "phone_code": "+595",
     "flag": "https://flagpedia.net/data/flags/h80/py.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "600",
+      "alpha_2": "py",
+      "alpha_3": "pry"
+    },
+    "tld": ".py",
     "constitutional_form": "republic"
   },
   {
@@ -1515,6 +2474,13 @@
     "phone_code": "+51",
     "flag": "https://flagpedia.net/data/flags/h80/pe.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "604",
+      "alpha_2": "pe",
+      "alpha_3": "per"
+    },
+    "tld": ".pe",
     "constitutional_form": "republic"
   },
   {
@@ -1526,6 +2492,13 @@
     "phone_code": "+63",
     "flag": "https://flagpedia.net/data/flags/h80/ph.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "608",
+      "alpha_2": "ph",
+      "alpha_3": "phl"
+    },
+    "tld": ".ph",
     "constitutional_form": "republic"
   },
   {
@@ -1537,6 +2510,13 @@
     "phone_code": "+48",
     "flag": "https://flagpedia.net/data/flags/h80/pl.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "616",
+      "alpha_2": "pl",
+      "alpha_3": "pol"
+    },
+    "tld": ".pl",
     "constitutional_form": "republic"
   },
   {
@@ -1548,6 +2528,13 @@
     "phone_code": "+351",
     "flag": "https://flagpedia.net/data/flags/h80/pt.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "620",
+      "alpha_2": "pt",
+      "alpha_3": "prt"
+    },
+    "tld": ".pt",
     "constitutional_form": "republic"
   },
   {
@@ -1559,6 +2546,13 @@
     "phone_code": "+974",
     "flag": "https://flagpedia.net/data/flags/h80/qa.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "634",
+      "alpha_2": "qa",
+      "alpha_3": "qat"
+    },
+    "tld": ".qa",
     "constitutional_form": "absolute monarchy"
   },
   {
@@ -1570,6 +2564,13 @@
     "phone_code": "+40",
     "flag": "https://flagpedia.net/data/flags/h80/ro.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "642",
+      "alpha_2": "ro",
+      "alpha_3": "rou"
+    },
+    "tld": ".ro",
     "constitutional_form": "republic"
   },
   {
@@ -1581,6 +2582,13 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/ru.png",
     "drive_direction": "right",
+    "continent": "eu/as",
+    "iso": {
+      "numeric": "643",
+      "alpha_2": "ru",
+      "alpha_3": "rus"
+    },
+    "tld": ".ru",
     "constitutional_form": "republic"
   },
   {
@@ -1592,6 +2600,13 @@
     "phone_code": "+250",
     "flag": "https://flagpedia.net/data/flags/h80/rw.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "646",
+      "alpha_2": "rw",
+      "alpha_3": "rwa"
+    },
+    "tld": ".rw",
     "constitutional_form": "republic"
   },
   {
@@ -1603,6 +2618,13 @@
     "phone_code": "+1-869",
     "flag": "https://flagpedia.net/data/flags/h80/kn.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "659",
+      "alpha_2": "kn",
+      "alpha_3": "kna"
+    },
+    "tld": ".kn",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1614,6 +2636,13 @@
     "phone_code": "+1-758",
     "flag": "https://flagpedia.net/data/flags/h80/lc.png",
     "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "662",
+      "alpha_2": "lc",
+      "alpha_3": "lca"
+    },
+    "tld": ".lc",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1625,6 +2654,13 @@
     "phone_code": "+1-784",
     "flag": "https://flagpedia.net/data/flags/h80/vc.png",
     "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "670",
+      "alpha_2": "vc",
+      "alpha_3": "vct"
+    },
+    "tld": ".vc",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1636,6 +2672,13 @@
     "phone_code": "+685",
     "flag": "https://flagpedia.net/data/flags/h80/ws.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "882",
+      "alpha_2": "ws",
+      "alpha_3": "wsm"
+    },
+    "tld": ".ws",
     "constitutional_form": "republic"
   },
   {
@@ -1647,6 +2690,13 @@
     "phone_code": "+378",
     "flag": "https://flagpedia.net/data/flags/h80/sm.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "674",
+      "alpha_2": "sm",
+      "alpha_3": "smr"
+    },
+    "tld": ".sm",
     "constitutional_form": "republic"
   },
   {
@@ -1658,6 +2708,13 @@
     "phone_code": "+239",
     "flag": "https://flagpedia.net/data/flags/h80/st.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "678",
+      "alpha_2": "st",
+      "alpha_3": "stp"
+    },
+    "tld": ".st",
     "constitutional_form": "republic"
   },
   {
@@ -1669,6 +2726,13 @@
     "phone_code": "+966",
     "flag": "https://flagpedia.net/data/flags/h80/sa.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "682",
+      "alpha_2": "sa",
+      "alpha_3": "sau"
+    },
+    "tld": ".sa",
     "constitutional_form": "absolute monarchy"
   },
   {
@@ -1680,6 +2744,13 @@
     "phone_code": "+221",
     "flag": "https://flagpedia.net/data/flags/h80/sn.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "686",
+      "alpha_2": "sn",
+      "alpha_3": "sen"
+    },
+    "tld": ".sn",
     "constitutional_form": "republic"
   },
   {
@@ -1691,6 +2762,13 @@
     "phone_code": "+381",
     "flag": "https://flagpedia.net/data/flags/h80/rs.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "688",
+      "alpha_2": "rs",
+      "alpha_3": "srb"
+    },
+    "tld": ".rs",
     "constitutional_form": "republic"
   },
   {
@@ -1702,6 +2780,13 @@
     "phone_code": "+248",
     "flag": "https://flagpedia.net/data/flags/h80/sc.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "690",
+      "alpha_2": "sc",
+      "alpha_3": "syc"
+    },
+    "tld": ".sc",
     "constitutional_form": "republic"
   },
   {
@@ -1713,6 +2798,13 @@
     "phone_code": "+232",
     "flag": "https://flagpedia.net/data/flags/h80/sl.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "694",
+      "alpha_2": "sl",
+      "alpha_3": "sle"
+    },
+    "tld": ".sl",
     "constitutional_form": "republic"
   },
   {
@@ -1724,6 +2816,13 @@
     "phone_code": "+65",
     "flag": "https://flagpedia.net/data/flags/h80/sg.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "702",
+      "alpha_2": "sg",
+      "alpha_3": "sgp"
+    },
+    "tld": ".sg",
     "constitutional_form": "republic"
   },
   {
@@ -1735,6 +2834,13 @@
     "phone_code": "+421",
     "flag": "https://flagpedia.net/data/flags/h80/sk.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "703",
+      "alpha_2": "sk",
+      "alpha_3": "svk"
+    },
+    "tld": ".sk",
     "constitutional_form": "republic"
   },
   {
@@ -1746,6 +2852,13 @@
     "phone_code": "+386",
     "flag": "https://flagpedia.net/data/flags/h80/si.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "705",
+      "alpha_2": "si",
+      "alpha_3": "svn"
+    },
+    "tld": ".si",
     "constitutional_form": "republic"
   },
   {
@@ -1757,6 +2870,13 @@
     "phone_code": "+677",
     "flag": "https://flagpedia.net/data/flags/h80/sb.png",
     "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "090",
+      "alpha_2": "sb",
+      "alpha_3": "slb"
+    },
+    "tld": ".sb",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1768,6 +2888,13 @@
     "phone_code": "+252",
     "flag": "https://flagpedia.net/data/flags/h80/so.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "706",
+      "alpha_2": "so",
+      "alpha_3": "som"
+    },
+    "tld": ".so",
     "constitutional_form": "republic"
   },
   {
@@ -1779,6 +2906,13 @@
     "phone_code": "+27",
     "flag": "https://flagpedia.net/data/flags/h80/za.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "710",
+      "alpha_2": "za",
+      "alpha_3": "zaf"
+    },
+    "tld": ".za",
     "constitutional_form": "republic"
   },
   {
@@ -1790,6 +2924,13 @@
     "phone_code": "+211",
     "flag": "https://flagpedia.net/data/flags/h80/ss.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "728",
+      "alpha_2": "ss",
+      "alpha_3": "ssd"
+    },
+    "tld": ".ss",
     "constitutional_form": "republic"
   },
   {
@@ -1801,6 +2942,13 @@
     "phone_code": "+34",
     "flag": "https://flagpedia.net/data/flags/h80/es.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "724",
+      "alpha_2": "es",
+      "alpha_3": "esp"
+    },
+    "tld": ".es",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1812,6 +2960,13 @@
     "phone_code": "+94",
     "flag": "https://flagpedia.net/data/flags/h80/lk.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "144",
+      "alpha_2": "lk",
+      "alpha_3": "lka"
+    },
+    "tld": ".lk",
     "constitutional_form": "republic"
   },
   {
@@ -1823,6 +2978,13 @@
     "phone_code": "+249",
     "flag": "https://flagpedia.net/data/flags/h80/sd.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "729",
+      "alpha_2": "sd",
+      "alpha_3": "sdn"
+    },
+    "tld": ".sd",
     "constitutional_form": "n/a"
   },
   {
@@ -1834,6 +2996,13 @@
     "phone_code": "+597",
     "flag": "https://flagpedia.net/data/flags/h80/sr.png",
     "drive_direction": "left",
+    "continent": "sa",
+    "iso": {
+      "numeric": "740",
+      "alpha_2": "sr",
+      "alpha_3": "sur"
+    },
+    "tld": ".sr",
     "constitutional_form": "republic"
   },
   {
@@ -1845,6 +3014,13 @@
     "phone_code": "+268",
     "flag": "https://flagpedia.net/data/flags/h80/sz.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "748",
+      "alpha_2": "sz",
+      "alpha_3": "swz"
+    },
+    "tld": ".sz",
     "constitutional_form": "absolute monarchy"
   },
   {
@@ -1856,6 +3032,13 @@
     "phone_code": "+46",
     "flag": "https://flagpedia.net/data/flags/h80/se.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "752",
+      "alpha_2": "se",
+      "alpha_3": "swe"
+    },
+    "tld": ".se",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1866,6 +3049,13 @@
     "famous_for": "alps, natural beauty, chocolates and watches",
     "flag": "https://flagpedia.net/data/flags/h80/ch.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "756",
+      "alpha_2": "ch",
+      "alpha_3": "che"
+    },
+    "tld": ".ch",
     "constitutional_form": "republic"
   },
   {
@@ -1877,6 +3067,13 @@
     "phone_code": "+963",
     "flag": "https://flagpedia.net/data/flags/h80/sy.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "760",
+      "alpha_2": "sy",
+      "alpha_3": "syr"
+    },
+    "tld": ".sy",
     "constitutional_form": "republic"
   },
   {
@@ -1888,6 +3085,13 @@
     "phone_code": "+886",
     "flag": "https://flagpedia.net/data/flags/h80/tw.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "158",
+      "alpha_2": "tw",
+      "alpha_3": "twn"
+    },
+    "tld": ".tw",
     "constitutional_form": "republic"
   },
   {
@@ -1899,6 +3103,13 @@
     "phone_code": "+992",
     "flag": "https://flagpedia.net/data/flags/h80/tj.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "762",
+      "alpha_2": "tj",
+      "alpha_3": "tjk"
+    },
+    "tld": ".tj",
     "constitutional_form": "republic"
   },
   {
@@ -1910,6 +3121,13 @@
     "phone_code": "+255",
     "flag": "https://flagpedia.net/data/flags/h80/tz.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "834",
+      "alpha_2": "tz",
+      "alpha_3": "tza"
+    },
+    "tld": ".tz",
     "constitutional_form": "republic"
   },
   {
@@ -1921,6 +3139,13 @@
     "phone_code": "+66",
     "flag": "https://flagpedia.net/data/flags/h80/th.png",
     "drive_direction": "left",
+    "continent": "as",
+    "iso": {
+      "numeric": "764",
+      "alpha_2": "th",
+      "alpha_3": "tha"
+    },
+    "tld": ".th",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1932,6 +3157,13 @@
     "phone_code": "+228",
     "flag": "https://flagpedia.net/data/flags/h80/tg.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "768",
+      "alpha_2": "tg",
+      "alpha_3": "tgo"
+    },
+    "tld": ".tg",
     "constitutional_form": "republic"
   },
   {
@@ -1943,6 +3175,13 @@
     "phone_code": "+676",
     "flag": "https://flagpedia.net/data/flags/h80/to.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "776",
+      "alpha_2": "to",
+      "alpha_3": "ton"
+    },
+    "tld": ".to",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -1954,6 +3193,13 @@
     "phone_code": "+1-868",
     "flag": "https://flagpedia.net/data/flags/h80/tt.png",
     "drive_direction": "left",
+    "continent": "na",
+    "iso": {
+      "numeric": "780",
+      "alpha_2": "tt",
+      "alpha_3": "tto"
+    },
+    "tld": ".tt",
     "constitutional_form": "republic"
   },
   {
@@ -1965,6 +3211,13 @@
     "phone_code": "+216",
     "flag": "https://flagpedia.net/data/flags/h80/tn.png",
     "drive_direction": "right",
+    "continent": "af",
+    "iso": {
+      "numeric": "788",
+      "alpha_2": "tn",
+      "alpha_3": "tun"
+    },
+    "tld": ".tn",
     "constitutional_form": "republic"
   },
   {
@@ -1976,6 +3229,13 @@
     "phone_code": "+90",
     "flag": "https://flagpedia.net/data/flags/h80/tr.png",
     "drive_direction": "right",
+    "continent": "eu/as",
+    "iso": {
+      "numeric": "792",
+      "alpha_2": "tr",
+      "alpha_3": "tur"
+    },
+    "tld": ".tr",
     "constitutional_form": "republic"
   },
   {
@@ -1987,6 +3247,13 @@
     "phone_code": "+993",
     "flag": "https://flagpedia.net/data/flags/h80/tm.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "795",
+      "alpha_2": "tm",
+      "alpha_3": "tkm"
+    },
+    "tld": ".tm",
     "constitutional_form": "republic"
   },
   {
@@ -1998,6 +3265,13 @@
     "phone_code": "+668",
     "flag": "https://flagpedia.net/data/flags/h80/tv.png",
     "drive_direction": "left",
+    "continent": "oc",
+    "iso": {
+      "numeric": "798",
+      "alpha_2": "tv",
+      "alpha_3": "tuv"
+    },
+    "tld": ".tv",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -2009,6 +3283,13 @@
     "phone_code": "+256",
     "flag": "https://flagpedia.net/data/flags/h80/ug.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "800",
+      "alpha_2": "ug",
+      "alpha_3": "uga"
+    },
+    "tld": ".ug",
     "constitutional_form": "republic"
   },
   {
@@ -2020,6 +3301,13 @@
     "phone_code": "+380",
     "flag": "https://flagpedia.net/data/flags/h80/ua.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "804",
+      "alpha_2": "ua",
+      "alpha_3": "ukr"
+    },
+    "tld": ".ua",
     "constitutional_form": "republic"
   },
   {
@@ -2031,6 +3319,13 @@
     "phone_code": "+971",
     "flag": "https://flagpedia.net/data/flags/h80/ae.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "784",
+      "alpha_2": "ae",
+      "alpha_3": "are"
+    },
+    "tld": ".ae",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -2042,6 +3337,13 @@
     "phone_code": "+44",
     "flag": "https://flagpedia.net/data/flags/h80/gb.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "826",
+      "alpha_2": "gb",
+      "alpha_3": "gbr"
+    },
+    "tld": ".gb/.uk",
     "constitutional_form": "constitutional monarchy"
   },
   {
@@ -2053,6 +3355,13 @@
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/us.png",
     "drive_direction": "right",
+    "continent": "na",
+    "iso": {
+      "numeric": "840",
+      "alpha_2": "us",
+      "alpha_3": "usa"
+    },
+    "tld": ".us",
     "constitutional_form": "republic"
   },
   {
@@ -2064,6 +3373,13 @@
     "phone_code": "+589",
     "flag": "https://flagpedia.net/data/flags/h80/uy.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "858",
+      "alpha_2": "uy",
+      "alpha_3": "ury"
+    },
+    "tld": ".uy",
     "constitutional_form": "republic"
   },
   {
@@ -2075,6 +3391,13 @@
     "phone_code": "+998",
     "flag": "https://flagpedia.net/data/flags/h80/uz.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "860",
+      "alpha_2": "uz",
+      "alpha_3": "uzb"
+    },
+    "tld": ".uz",
     "constitutional_form": "republic"
   },
   {
@@ -2086,6 +3409,13 @@
     "phone_code": "+978",
     "flag": "https://flagpedia.net/data/flags/h80/vu.png",
     "drive_direction": "right",
+    "continent": "oc",
+    "iso": {
+      "numeric": "548",
+      "alpha_2": "vu",
+      "alpha_3": "vut"
+    },
+    "tld": ".vu",
     "constitutional_form": "republic"
   },
   {
@@ -2097,6 +3427,13 @@
     "phone_code": "+379",
     "flag": "https://flagpedia.net/data/flags/h80/va.png",
     "drive_direction": "right",
+    "continent": "eu",
+    "iso": {
+      "numeric": "336",
+      "alpha_2": "va",
+      "alpha_3": "vat"
+    },
+    "tld": ".va",
     "constitutional_form": "absolute monarchy"
   },
   {
@@ -2108,6 +3445,13 @@
     "phone_code": "+58",
     "flag": "https://flagpedia.net/data/flags/h80/ve.png",
     "drive_direction": "right",
+    "continent": "sa",
+    "iso": {
+      "numeric": "862",
+      "alpha_2": "ve",
+      "alpha_3": "ven"
+    },
+    "tld": ".ve",
     "constitutional_form": "republic"
   },
   {
@@ -2119,6 +3463,13 @@
     "phone_code": "+84",
     "flag": "https://flagpedia.net/data/flags/h80/vn.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "704",
+      "alpha_2": "vn",
+      "alpha_3": "vnm"
+    },
+    "tld": ".vn",
     "constitutional_form": "republic"
   },
   {
@@ -2130,6 +3481,13 @@
     "phone_code": "+967",
     "flag": "https://flagpedia.net/data/flags/h80/ye.png",
     "drive_direction": "right",
+    "continent": "as",
+    "iso": {
+      "numeric": "887",
+      "alpha_2": "ye",
+      "alpha_3": "yem"
+    },
+    "tld": ".ye",
     "constitutional_form": "n/a"
   },
   {
@@ -2141,6 +3499,13 @@
     "phone_code": "+260",
     "flag": "https://flagpedia.net/data/flags/h80/zm.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "894",
+      "alpha_2": "zm",
+      "alpha_3": "zmb"
+    },
+    "tld": ".zm",
     "constitutional_form": "republic"
   },
   {
@@ -2152,6 +3517,13 @@
     "phone_code": "+263",
     "flag": "https://flagpedia.net/data/flags/h80/zw.png",
     "drive_direction": "left",
+    "continent": "af",
+    "iso": {
+      "numeric": "716",
+      "alpha_2": "zw",
+      "alpha_3": "zwe"
+    },
+    "tld": ".zw",
     "constitutional_form": "republic"
   }
 ]

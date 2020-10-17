@@ -126,6 +126,69 @@ const getCountriesByFamousFor = (famousThing) => {
 };
 
 /**
+ * Returns an array of objects, each containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by `continentCode`
+ * @param {string} continentCode The continent 2-letter code (not case-sensitive)
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByContinent = (continentCode) => {
+  continentCode = continentCode.toLowerCase();
+
+  return data.filter(country => country.continent
+    .split("/")
+    .includes(continentCode)
+  );
+};
+
+/**
+ * Returns an array with object containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by specific `iso`
+ * @param {'numeric' | 'alpha_2' | 'alpha_3'} isoType The code of the country (ISO 3166-1 standard)
+ * @param {string} isoValue The ISO code value (not case-sensitive) of the country
+ * @returns {Array} An array with country object
+ */
+const getCountryDetailsByISO = (isoType, isoValue) => {
+  let type;
+
+  isoType = isoType.toLowerCase();
+  isoValue = isoValue.toLowerCase();
+
+  switch (isoType) {
+    case "numeric":
+      type = "numeric";
+      break;
+    case "alpha_2":
+      type = "alpha_2";
+      break;
+    case "alpha_3":
+      type = "alpha_3";
+      break;
+    default:
+      throw new Error("isoType must be 'numeric', 'alpha_2' or 'alpha_3'");
+  }
+
+  return data.filter(country => country.iso[type] === isoValue);
+};
+
+/**
+ * Returns an array of objects containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by `tld`
+ * @param {string} tldName The name (not case-sensitive) of the country code top-level domain
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByTLD = (tldName) => {
+  tldName = tldName.toLowerCase();
+
+  return data.filter(country => country.tld
+    .split("/")
+    .includes(tldName)
+  );
+};
+
+/**
  * Returns an array of objects containing all countries, each containing `country`, `capital`,
  * `currency`, `native_language`, `famous_for`, and `phone_code`, `flag`, `drive_direction`
  * and `constitutional_form` filtered by `constitutional_form`
@@ -145,7 +208,7 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
   }
 
   return result;
-};
+}
 
 module.exports = {
   getRandomCountry,
@@ -157,5 +220,8 @@ module.exports = {
   getCountriesByLanguage,
   getCountriesByFamousFor,
   getCountriesByDriveDirection,
+  getCountriesByContinent,
+  getCountryDetailsByISO,
+  getCountriesByTLD,
   getCountriesByConstitutionalForm,
 };
