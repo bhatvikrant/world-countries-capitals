@@ -353,7 +353,6 @@ This project is [MIT][LICENSE] licensed.
 
 ---
 
-<!-- TODO: Prepare CONTRIBUTING.md file -->
 <!-- TODO: Prepare .github template files -->
 [ASSET_LOGO]: assets/world-countries-capitals.gif
 [BADGE_NPM_RELEASE]: https://img.shields.io/npm/v/world-countries-capitals?style=flat&logo=npm&label=version
@@ -367,7 +366,7 @@ This project is [MIT][LICENSE] licensed.
 [BADGE_LICENSE]: https://img.shields.io/npm/l/world-countries-capitals?style=flat
 [BADGE_OPENBASE_RATING]: https://badges.openbase.io/js/rating/world-countries-capitals.svg
 [DOC_CHANGELOG]: CHANGELOG.md
-[DOC_CONTRIBUTING]: CONTRIBUTING.md
+[DOC_CONTRIBUTING]: .github/CONTRIBUTING.md
 [LICENSE]: LICENSE
 [URL_TOC]: #table-of-contents
 [URL_INTRODUCTION]: #introduction
