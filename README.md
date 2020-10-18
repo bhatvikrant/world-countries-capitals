@@ -37,7 +37,7 @@
 > **World-Countries-Capitals** is _JavaScript_ Library that give access to static data
 > of all countries in the world.
 
-Currenly available data for each country is:
+Currently available data for each country is:
 - **country** - country name
 - **capital** - capital city
 - **currency** - currency that is used
@@ -54,7 +54,7 @@ Currenly available data for each country is:
 You can check all changes in the project at [releases page on Github][URL_GH_RELEASES]
 or in [changelog][DOC_CHANGELOG].
 
-Feel free to give this project a ⭐️ if it helped you! 🤗
+Feel free to give this project a ⭐️&nbsp; if it helped you! 🤗
 
 [↑ Back to menu][URL_TOC]
 

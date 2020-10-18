@@ -141,6 +141,9 @@ Adhering to the following process is the best way to get your work included in t
   ```
 9. [Open a Pull Request][URL_GH_NEW_PULL_REQUEST] with clear title and description
 
+❗️ Remember to run tests before making _Pull Request_. You can do that using `npm test` command.
+It ensures that all current methods are working properly.
+
 Sample _"template"_ for _pull request_:
 > ## General
 > **Reference:** <ISSUE_ID>
