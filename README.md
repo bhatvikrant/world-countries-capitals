@@ -51,6 +51,9 @@ Currenly available data for each country is:
 - **tld** - country code top-level domain
 - **constitutional_form** - official political system
 
+You can check all changes in the project at [releases page on Github][URL_GH_RELEASES]
+or in [changelog][DOC_CHANGELOG].
+
 Feel free to give this project a ⭐️ if it helped you! 🤗
 
 [↑ Back to menu][URL_TOC]
@@ -350,7 +353,6 @@ This project is [MIT][LICENSE] licensed.
 
 ---
 
-<!-- TODO: Prepare CHANGELOG.md file -->
 <!-- TODO: Prepare CONTRIBUTING.md file -->
 <!-- TODO: Prepare .github template files -->
 [ASSET_LOGO]: assets/world-countries-capitals.gif
@@ -384,5 +386,6 @@ This project is [MIT][LICENSE] licensed.
 [URL_GH_ISSUES]: https://github.com/bhatvikrant/world-countries-capitals/issues
 [URL_GH_NEW_ISSUE]: https://github.com/bhatvikrant/world-countries-capitals/issues/new
 [URL_GH_PULL_REQUESTS]: https://github.com/bhatvikrant/world-countries-capitals/pulls
+[URL_GH_RELEASES]: https://github.com/bhatvikrant/world-countries-capitals/releases
 [URL_GH_CONTRIBUTORS]: https://github.com/bhatvikrant/world-countries-capitals/graphs/contributors
 [URL_OPENBASE]: https://openbase.io/js/world-countries-capitals
