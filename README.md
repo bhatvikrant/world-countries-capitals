@@ -353,7 +353,6 @@ This project is [MIT][LICENSE] licensed.
 
 ---
 
-<!-- TODO: Prepare .github template files -->
 [ASSET_LOGO]: assets/world-countries-capitals.gif
 [BADGE_NPM_RELEASE]: https://img.shields.io/npm/v/world-countries-capitals?style=flat&logo=npm&label=version
 [BADGE_NPM_DOWNLOADS]: https://img.shields.io/npm/dt/world-countries-capitals?style=flat&logo=npm
