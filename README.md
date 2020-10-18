@@ -20,19 +20,19 @@
 
 ## Table of Contents
 
-1. [Introduction][URL_🗺]
-2. [Installation][URL_📜]
-3. [How to use][URL_📋]
-4. [Data model][URL_🧬]
-5. [Available methods][URL_🧩]
-6. [Demos][URL_🚀]
-7. [Contributing][URL_🤝]
-8. [Core Team][URL_✨]
-9. [License][URL_📝]
+1. [Introduction][URL_INTRODUCTION]
+2. [Installation][URL_INSTALLATION]
+3. [How to use][URL_HOW_TO_USE]
+4. [Data model][URL_DATA_MODEL]
+5. [Available methods][URL_AVAILABLE_METHODS]
+6. [Demos][URL_DEMOS]
+7. [Contributing][URL_CONTRIBUTING]
+8. [Core Team][URL_CORE_TEAM]
+9. [License][URL_LICENSE]
 
 ---
 
-## 🗺 Introduction
+## Introduction
 
 > **World-Countries-Capitals** is _JavaScript_ Library that give access to static data of all countries in the world.
 
@@ -56,7 +56,7 @@ Feel free to give this project a ⭐️ if it helped you! 🤗
 
 ---
 
-## 📜 Installation
+## Installation
 
 Install with [NPM][URL_NPM]:
 ```
@@ -72,9 +72,9 @@ yarn add world-countries-capitals
 
 ---
 
-## 📋 How to use
+## How to use
 
-Depends which way you choose to [install this package][URL_📜], there will be different way to access it.
+Depends which way you choose to [install this package][URL_INSTALLATION], there will be different way to access it.
 
 If you use it through _Node.js_, you need to import it:
 ```js
@@ -85,7 +85,7 @@ const wcc = require('world-countries-capitals')
 
 ---
 
-## 🧬 Data model
+## Data model
 
 Type definition of each `Country {Object}`:
 ```js
@@ -135,7 +135,7 @@ Sample `Country {Object}`:
 
 ---
 
-## 🧩 Available methods
+## Available methods
 
 | Method                                                      | Parameters                                | Returns                                                                                                  |
 | ----------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -158,7 +158,7 @@ Sample `Country {Object}`:
 
 ---
 
-## 🚀 Demos
+## Demos
 
 Sample basic usage:
 ```js
@@ -179,7 +179,7 @@ More demos/examples created by community ❤️
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are always welcome!
 
@@ -193,7 +193,7 @@ Please wait for confirmation before working on it.
 
 ---
 
-## ✨ Core team
+## Core team
 
 ### Vikrant Bhat
 [![GitHub followers](https://img.shields.io/github/followers/bhatvikrant?style=flat&logo=github&logoColor=181717&label=GitHub&labelColor=FFFFFF&color=181717)](https://github.com/bhatvikrant)
@@ -217,7 +217,7 @@ Thank you to everyone who contributes! 🙌
 
 ---
 
-## 📝 License
+## License
 
 Copyright &copy; 2020 [Vikrant Bhat](https://github.com/bhatvikrant/).
 <br>
@@ -235,15 +235,15 @@ This project is [MIT][LICENSE] licensed.
 [DOC_CONTRIBUTING]: CONTRIBUTING.md
 [LICENSE]: LICENSE
 [URL_TOC]: #table-of-contents
-[URL_🗺]: #🗺-introduction
-[URL_📜]: #📜-installation
-[URL_📋]: #📋-how-to-use
-[URL_🧬]: #🧬-data-model
-[URL_🧩]: #🧩-available-methods
-[URL_🚀]: #🚀-demos
-[URL_🤝]: #🤝-contributing
-[URL_✨]: #✨-core-team
-[URL_📝]: #📝-license
+[URL_INTRODUCTION]: #introduction
+[URL_INSTALLATION]: #installation
+[URL_HOW_TO_USE]: #how-to-use
+[URL_DATA_MODEL]: #data-model
+[URL_AVAILABLE_METHODS]: #available-methods
+[URL_DEMOS]: #demos
+[URL_CONTRIBUTING]: #contributing
+[URL_CORE_TEAM]: #core-team
+[URL_LICENSE]: #license
 [URL_NPM]: https://www.npmjs.com/package/world-countries-capitals
 [URL_YARN]: https://yarnpkg.com/package/world-countries-capitals
 [URL_UNPKG]: https://unpkg.com/world-countries-capitals
