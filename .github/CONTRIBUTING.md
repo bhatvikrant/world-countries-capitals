@@ -144,7 +144,9 @@ Adhering to the following process is the best way to get your work included in t
 Sample _"template"_ for _pull request_:
 > ## General
 > **Reference:** <ISSUE_ID>
+> <br>
 > **Description:**
+> <br>
 > Description of an _Pull Request_ that may direct people what was done
 >
 > ## Types of changes
