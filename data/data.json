@@ -11,7 +11,15 @@
     "area": {
       "km2": 652864,
       "mi2": 252072
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "004",
+      "alpha_2": "af",
+      "alpha_3": "afg"
+    },
+    "tld": ".af",
+    "constitutional_form": "republic"
   },
   {
     "country": "albania",
@@ -25,7 +33,15 @@
     "area": {
       "km2": 28748,
       "mi2": 11100
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "008",
+      "alpha_2": "al",
+      "alpha_3": "alb"
+    },
+    "tld": ".al",
+    "constitutional_form": "republic"
   },
   {
     "country": "algeria",
@@ -39,7 +55,15 @@
     "area": {
       "km2": 2381741,
       "mi2": 919595
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "012",
+      "alpha_2": "dz",
+      "alpha_3": "dza"
+    },
+    "tld": ".dz",
+    "constitutional_form": "republic"
   },
   {
     "country": "andorra",
@@ -53,7 +77,15 @@
     "area": {
       "km2": 468,
       "mi2": 181
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "020",
+      "alpha_2": "ad",
+      "alpha_3": "and"
+    },
+    "tld": ".ad",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "angola",
@@ -67,7 +99,15 @@
     "area": {
       "km2": 1246700,
       "mi2": 481400
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "024",
+      "alpha_2": "ao",
+      "alpha_3": "ago"
+    },
+    "tld": ".ao",
+    "constitutional_form": "republic"
   },
   {
     "country": "antigua & barbuda",
@@ -81,21 +121,37 @@
     "area": {
       "km2": 442,
       "mi2": 171
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "028",
+      "alpha_2": "ag",
+      "alpha_3": "atg"
+    },
+    "tld": ".ag",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "argentina",
     "capital": "buenos aires",
     "currency": "argentine peso",
     "native_language": ["spanish"],
-    "famous_for": "Football",
+    "famous_for": "football",
     "phone_code": "+54",
     "flag": "https://flagpedia.net/data/flags/h80/ar.png",
     "drive_direction": "right",
     "area": {
       "km2": 2780400,
       "mi2": 1073500
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "032",
+      "alpha_2": "ar",
+      "alpha_3": "arg"
+    },
+    "tld": ".ar",
+    "constitutional_form": "republic"
   },
   {
     "country": "armenia",
@@ -109,7 +165,15 @@
     "area": {
       "km2": 29743,
       "mi2": 11484
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "051",
+      "alpha_2": "am",
+      "alpha_3": "arm"
+    },
+    "tld": ".am",
+    "constitutional_form": "republic"
   },
   {
     "country": "australia",
@@ -123,7 +187,15 @@
     "area": {
       "km2": 7692024,
       "mi2": 2969907
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "036",
+      "alpha_2": "au",
+      "alpha_3": "aus"
+    },
+    "tld": ".au",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "austria",
@@ -137,7 +209,15 @@
     "area": {
       "km2": 83871,
       "mi2": 32383
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "040",
+      "alpha_2": "at",
+      "alpha_3": "aut"
+    },
+    "tld": ".at",
+    "constitutional_form": "republic"
   },
   {
     "country": "azerbaijan",
@@ -151,7 +231,15 @@
     "area": {
       "km2": 86600,
       "mi2": 33400
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "031",
+      "alpha_2": "az",
+      "alpha_3": "aze"
+    },
+    "tld": ".az",
+    "constitutional_form": "republic"
   },
   {
     "country": "the bahamas",
@@ -165,7 +253,15 @@
     "area": {
       "km2": 13943,
       "mi2": 5383
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "044",
+      "alpha_2": "bs",
+      "alpha_3": "bhs"
+    },
+    "tld": ".bs",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "bahrain",
@@ -179,7 +275,15 @@
     "area": {
       "km2": 778,
       "mi2": 300
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "048",
+      "alpha_2": "bh",
+      "alpha_3": "bhr"
+    },
+    "tld": ".bh",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "bangladesh",
@@ -193,7 +297,15 @@
     "area": {
       "km2": 147570,
       "mi2": 56980
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "050",
+      "alpha_2": "bd",
+      "alpha_3": "bgd"
+    },
+    "tld": ".bd",
+    "constitutional_form": "republic"
   },
   {
     "country": "barbados",
@@ -207,21 +319,37 @@
     "area": {
       "km2": 430,
       "mi2": 170
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "052",
+      "alpha_2": "bb",
+      "alpha_3": "brb"
+    },
+    "tld": ".bb",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "belarus",
     "capital": "minsk",
     "currency": "belarusian ruble",
     "native_language": ["belarusian", "russian"],
-    "famous_for": "Variety of sweets",
+    "famous_for": "variety of sweets",
     "phone_code": "+375",
     "flag": "https://flagpedia.net/data/flags/h80/by.png",
     "drive_direction": "right",
     "area": {
       "km2": 207600,
       "mi2": 80200
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "112",
+      "alpha_2": "by",
+      "alpha_3": "blr"
+    },
+    "tld": ".by",
+    "constitutional_form": "republic"
   },
   {
     "country": "belgium",
@@ -235,7 +363,15 @@
     "area": {
       "km2": 30528,
       "mi2": 11787
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "056",
+      "alpha_2": "be",
+      "alpha_3": "bel"
+    },
+    "tld": ".be",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "belize",
@@ -249,7 +385,15 @@
     "area": {
       "km2": 22966,
       "mi2": 8867
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "084",
+      "alpha_2": "bz",
+      "alpha_3": "blz"
+    },
+    "tld": ".bz",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "benin",
@@ -263,7 +407,15 @@
     "area": {
       "km2": 114763,
       "mi2": 44310
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "204",
+      "alpha_2": "bj",
+      "alpha_3": "ben"
+    },
+    "tld": ".bj",
+    "constitutional_form": "republic"
   },
   {
     "country": "bhutan",
@@ -277,7 +429,15 @@
     "area": {
       "km2": 38394,
       "mi2": 14824
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "064",
+      "alpha_2": "bt",
+      "alpha_3": "btn"
+    },
+    "tld": ".bt",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "bolivia",
@@ -291,7 +451,15 @@
     "area": {
       "km2": 1098581,
       "mi2": 424164
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "068",
+      "alpha_2": "bo",
+      "alpha_3": "bol"
+    },
+    "tld": ".bo",
+    "constitutional_form": "republic"
   },
   {
     "country": "bosnia and herzegovina",
@@ -305,7 +473,15 @@
     "area": {
       "km2": 51209,
       "mi2": 19772
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "070",
+      "alpha_2": "ba",
+      "alpha_3": "bih"
+    },
+    "tld": ".ba",
+    "constitutional_form": "republic"
   },
   {
     "country": "botswana",
@@ -319,7 +495,15 @@
     "area": {
       "km2": 581730,
       "mi2": 224610
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "072",
+      "alpha_2": "bw",
+      "alpha_3": "bwa"
+    },
+    "tld": ".bw",
+    "constitutional_form": "republic"
   },
   {
     "country": "brazil",
@@ -333,7 +517,15 @@
     "area": {
       "km2": 8515767,
       "mi2": 3287956
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "076",
+      "alpha_2": "br",
+      "alpha_3": "bra"
+    },
+    "tld": ".br",
+    "constitutional_form": "republic"
   },
   {
     "country": "brunei",
@@ -347,7 +539,15 @@
     "area": {
       "km2": 5765,
       "mi2": 2226
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "096",
+      "alpha_2": "bn",
+      "alpha_3": "brn"
+    },
+    "tld": ".bn",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "bulgaria",
@@ -361,7 +561,15 @@
     "area": {
       "km2": 111002,
       "mi2": 42858
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "100",
+      "alpha_2": "bg",
+      "alpha_3": "bgr"
+    },
+    "tld": ".bg",
+    "constitutional_form": "republic"
   },
   {
     "country": "burkina faso",
@@ -375,7 +583,15 @@
     "area": {
       "km2": 274222,
       "mi2": 105878
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "854",
+      "alpha_2": "bf",
+      "alpha_3": "bfa"
+    },
+    "tld": ".bf",
+    "constitutional_form": "republic"
   },
   {
     "country": "burundi",
@@ -389,7 +605,15 @@
     "area": {
       "km2": 27834,
       "mi2": 10747
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "108",
+      "alpha_2": "bi",
+      "alpha_3": "bdi"
+    },
+    "tld": ".bi",
+    "constitutional_form": "republic"
   },
   {
     "country": "cambodia",
@@ -403,7 +627,15 @@
     "area": {
       "km2": 181035,
       "mi2": 69898
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "116",
+      "alpha_2": "kh",
+      "alpha_3": "khm"
+    },
+    "tld": ".kh",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "cameroon",
@@ -417,7 +649,15 @@
     "area": {
       "km2": 475442,
       "mi2": 183569
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "120",
+      "alpha_2": "cm",
+      "alpha_3": "cmr"
+    },
+    "tld": ".cm",
+    "constitutional_form": "republic"
   },
   {
     "country": "canada",
@@ -431,7 +671,15 @@
     "area": {
       "km2": 9984670,
       "mi2": 3855100
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "124",
+      "alpha_2": "ca",
+      "alpha_3": "can"
+    },
+    "tld": ".ca",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "cape verde",
@@ -445,7 +693,15 @@
     "area": {
       "km2": 4033,
       "mi2": 1557
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "132",
+      "alpha_2": "cv",
+      "alpha_3": "cpv"
+    },
+    "tld": ".cv",
+    "constitutional_form": "republic"
   },
   {
     "country": "central african republic",
@@ -459,7 +715,15 @@
     "area": {
       "km2": 622984,
       "mi2": 240535
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "140",
+      "alpha_2": "cf",
+      "alpha_3": "caf"
+    },
+    "tld": ".cf",
+    "constitutional_form": "republic"
   },
   {
     "country": "chad",
@@ -473,7 +737,15 @@
     "area": {
       "km2": 1284000,
       "mi2": 496000
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "148",
+      "alpha_2": "td",
+      "alpha_3": "tcd"
+    },
+    "tld": ".td",
+    "constitutional_form": "republic"
   },
   {
     "country": "chile",
@@ -487,7 +759,15 @@
     "area": {
       "km2": 756102,
       "mi2": 291933
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "152",
+      "alpha_2": "cl",
+      "alpha_3": "chl"
+    },
+    "tld": ".cl",
+    "constitutional_form": "republic"
   },
   {
     "country": "china",
@@ -501,7 +781,15 @@
     "area": {
       "km2": 9596961,
       "mi2": 3705407
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "156",
+      "alpha_2": "cn",
+      "alpha_3": "chn"
+    },
+    "tld": ".cn",
+    "constitutional_form": "republic"
   },
   {
     "country": "colombia",
@@ -515,7 +803,15 @@
     "area": {
       "km2": 1141748,
       "mi2": 440831
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "170",
+      "alpha_2": "co",
+      "alpha_3": "col"
+    },
+    "tld": ".co",
+    "constitutional_form": "republic"
   },
   {
     "country": "comoros",
@@ -529,7 +825,15 @@
     "area": {
       "km2": 1862,
       "mi2": 719
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "174",
+      "alpha_2": "km",
+      "alpha_3": "com"
+    },
+    "tld": ".km",
+    "constitutional_form": "republic"
   },
   {
     "country": "democratic republic of the congo",
@@ -543,7 +847,15 @@
     "area": {
       "km2": 2344858,
       "mi2": 905355
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "180",
+      "alpha_2": "cd",
+      "alpha_3": "cod"
+    },
+    "tld": ".cd",
+    "constitutional_form": "republic"
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -557,7 +869,15 @@
     "area": {
       "km2": 342000,
       "mi2": 132000
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "178",
+      "alpha_2": "cg",
+      "alpha_3": "cog"
+    },
+    "tld": ".cg",
+    "constitutional_form": "republic"
   },
   {
     "country": "costa rica",
@@ -571,7 +891,15 @@
     "area": {
       "km2": 51100,
       "mi2": 19700
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "188",
+      "alpha_2": "cr",
+      "alpha_3": "cri"
+    },
+    "tld": ".cr",
+    "constitutional_form": "republic"
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -585,7 +913,15 @@
     "area": {
       "km2": 322463,
       "mi2": 124504
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "384",
+      "alpha_2": "ci",
+      "alpha_3": "civ"
+    },
+    "tld": ".ci",
+    "constitutional_form": "republic"
   },
   {
     "country": "croatia",
@@ -599,7 +935,15 @@
     "area": {
       "km2": 56594,
       "mi2": 21851
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "191",
+      "alpha_2": "hr",
+      "alpha_3": "hrv"
+    },
+    "tld": ".hr",
+    "constitutional_form": "republic"
   },
   {
     "country": "cuba",
@@ -613,7 +957,15 @@
     "area": {
       "km2": 109884,
       "mi2": 42426
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "192",
+      "alpha_2": "cu",
+      "alpha_3": "cub"
+    },
+    "tld": ".cu",
+    "constitutional_form": "republic"
   },
   {
     "country": "cyprus",
@@ -627,7 +979,15 @@
     "area": {
       "km2": 9251,
       "mi2": 3572
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "196",
+      "alpha_2": "cy",
+      "alpha_3": "cyp"
+    },
+    "tld": ".cy",
+    "constitutional_form": "republic"
   },
   {
     "country": "czechia",
@@ -641,7 +1001,15 @@
     "area": {
       "km2": 78865,
       "mi2": 30450
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "203",
+      "alpha_2": "cz",
+      "alpha_3": "cze"
+    },
+    "tld": ".cz",
+    "constitutional_form": "republic"
   },
   {
     "country": "denmark",
@@ -655,7 +1023,15 @@
     "area": {
       "km2": 43094,
       "mi2": 16639
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "208",
+      "alpha_2": "dk",
+      "alpha_3": "dnk"
+    },
+    "tld": ".dk",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "djibouti",
@@ -669,7 +1045,15 @@
     "area": {
       "km2": 23200,
       "mi2": 9000
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "262",
+      "alpha_2": "dj",
+      "alpha_3": "dji"
+    },
+    "tld": ".dj",
+    "constitutional_form": "republic"
   },
   {
     "country": "dominica",
@@ -683,7 +1067,15 @@
     "area": {
       "km2": 751,
       "mi2": 290
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "212",
+      "alpha_2": "dm",
+      "alpha_3": "dma"
+    },
+    "tld": ".dm",
+    "constitutional_form": "republic"
   },
   {
     "country": "dominican republic",
@@ -697,7 +1089,15 @@
     "area": {
       "km2": 48671,
       "mi2": 18792
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "214",
+      "alpha_2": "do",
+      "alpha_3": "dom"
+    },
+    "tld": ".do",
+    "constitutional_form": "republic"
   },
   {
     "country": "east timor (timor-leste)",
@@ -711,7 +1111,15 @@
     "area": {
       "km2": 14919,
       "mi2": 5760
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "626",
+      "alpha_2": "tl",
+      "alpha_3": "tls"
+    },
+    "tld": ".tl",
+    "constitutional_form": "republic"
   },
   {
     "country": "ecuador",
@@ -725,7 +1133,15 @@
     "area": {
       "km2": 276841,
       "mi2": 106889
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "218",
+      "alpha_2": "ec",
+      "alpha_3": "ecu"
+    },
+    "tld": ".ec",
+    "constitutional_form": "republic"
   },
   {
     "country": "egypt",
@@ -739,7 +1155,15 @@
     "area": {
       "km2": 1002450,
       "mi2": 387050
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "818",
+      "alpha_2": "eg",
+      "alpha_3": "egy"
+    },
+    "tld": ".eg",
+    "constitutional_form": "republic"
   },
   {
     "country": "el salvador",
@@ -753,7 +1177,15 @@
     "area": {
       "km2": 21041,
       "mi2": 8124
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "222",
+      "alpha_2": "sv",
+      "alpha_3": "slv"
+    },
+    "tld": ".sv",
+    "constitutional_form": "republic"
   },
   {
     "country": "equitorial guinea",
@@ -767,7 +1199,15 @@
     "area": {
       "km2": 28051,
       "mi2": 10831
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "226",
+      "alpha_2": "gq",
+      "alpha_3": "gnq"
+    },
+    "tld": ".gq",
+    "constitutional_form": "republic"
   },
   {
     "country": "eritrea",
@@ -781,7 +1221,15 @@
     "area": {
       "km2": 117600,
       "mi2": 45400
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "232",
+      "alpha_2": "er",
+      "alpha_3": "eri"
+    },
+    "tld": ".er",
+    "constitutional_form": "republic"
   },
   {
     "country": "estonia",
@@ -795,7 +1243,15 @@
     "area": {
       "km2": 45227,
       "mi2": 17462
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "233",
+      "alpha_2": "ee",
+      "alpha_3": "est"
+    },
+    "tld": ".ee",
+    "constitutional_form": "republic"
   },
   {
     "country": "ethiopia",
@@ -809,7 +1265,15 @@
     "area": {
       "km2": 1104300,
       "mi2": 426400
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "231",
+      "alpha_2": "et",
+      "alpha_3": "eth"
+    },
+    "tld": ".et",
+    "constitutional_form": "republic"
   },
   {
     "country": "fiji",
@@ -823,7 +1287,15 @@
     "area": {
       "km2": 18272,
       "mi2": 7055
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "242",
+      "alpha_2": "fj",
+      "alpha_3": "fji"
+    },
+    "tld": ".fj",
+    "constitutional_form": "republic"
   },
   {
     "country": "finland",
@@ -837,7 +1309,15 @@
     "area": {
       "km2": 338424,
       "mi2": 130666
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "246",
+      "alpha_2": "fi",
+      "alpha_3": "fin"
+    },
+    "tld": ".fi",
+    "constitutional_form": "republic"
   },
   {
     "country": "france",
@@ -851,7 +1331,15 @@
     "area": {
       "km2": 640679,
       "mi2": 247368
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "250",
+      "alpha_2": "fr",
+      "alpha_3": "fra"
+    },
+    "tld": ".fr",
+    "constitutional_form": "republic"
   },
   {
     "country": "gabon",
@@ -865,7 +1353,15 @@
     "area": {
       "km2": 267668,
       "mi2": 103347
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "266",
+      "alpha_2": "ga",
+      "alpha_3": "gab"
+    },
+    "tld": ".ga",
+    "constitutional_form": "republic"
   },
   {
     "country": "the gambia",
@@ -879,7 +1375,15 @@
     "area": {
       "km2": 11295,
       "mi2": 4361
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "270",
+      "alpha_2": "gm",
+      "alpha_3": "gmb"
+    },
+    "tld": ".gm",
+    "constitutional_form": "republic"
   },
   {
     "country": "georgia",
@@ -893,7 +1397,15 @@
     "area": {
       "km2": 69700,
       "mi2": 26900
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "268",
+      "alpha_2": "ge",
+      "alpha_3": "geo"
+    },
+    "tld": ".ge",
+    "constitutional_form": "republic"
   },
   {
     "country": "germany",
@@ -907,7 +1419,15 @@
     "area": {
       "km2": 357114,
       "mi2": 137882
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "276",
+      "alpha_2": "de",
+      "alpha_3": "deu"
+    },
+    "tld": ".de",
+    "constitutional_form": "republic"
   },
   {
     "country": "ghana",
@@ -921,7 +1441,15 @@
     "area": {
       "km2": 238533,
       "mi2": 92098
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "288",
+      "alpha_2": "gh",
+      "alpha_3": "gha"
+    },
+    "tld": ".gh",
+    "constitutional_form": "republic"
   },
   {
     "country": "greece",
@@ -935,7 +1463,15 @@
     "area": {
       "km2": 131957,
       "mi2": 50949
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "300",
+      "alpha_2": "gr",
+      "alpha_3": "grc"
+    },
+    "tld": ".gr",
+    "constitutional_form": "republic"
   },
   {
     "country": "grenada",
@@ -949,7 +1485,15 @@
     "area": {
       "km2": 344,
       "mi2": 133
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "308",
+      "alpha_2": "gd",
+      "alpha_3": "grd"
+    },
+    "tld": ".gd",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "guatemala",
@@ -963,7 +1507,15 @@
     "area": {
       "km2": 108889,
       "mi2": 42042
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "320",
+      "alpha_2": "gt",
+      "alpha_3": "gtm"
+    },
+    "tld": ".gt",
+    "constitutional_form": "republic"
   },
   {
     "country": "guinea",
@@ -977,7 +1529,15 @@
     "area": {
       "km2": 245857,
       "mi2": 94926
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "324",
+      "alpha_2": "gn",
+      "alpha_3": "gin"
+    },
+    "tld": ".gn",
+    "constitutional_form": "republic"
   },
   {
     "country": "guinea-bissau",
@@ -991,7 +1551,15 @@
     "area": {
       "km2": 36125,
       "mi2": 13948
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "624",
+      "alpha_2": "gw",
+      "alpha_3": "gnb"
+    },
+    "tld": ".gw",
+    "constitutional_form": "republic"
   },
   {
     "country": "guyana",
@@ -1005,7 +1573,15 @@
     "area": {
       "km2": 214969,
       "mi2": 83000
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "328",
+      "alpha_2": "gy",
+      "alpha_3": "guy"
+    },
+    "tld": ".gy",
+    "constitutional_form": "republic"
   },
   {
     "country": "haiti",
@@ -1019,7 +1595,15 @@
     "area": {
       "km2": 27750,
       "mi2": 10710
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "332",
+      "alpha_2": "ht",
+      "alpha_3": "hti"
+    },
+    "tld": ".ht",
+    "constitutional_form": "republic"
   },
   {
     "country": "honduras",
@@ -1033,7 +1617,15 @@
     "area": {
       "km2": 112492,
       "mi2": 43433
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "340",
+      "alpha_2": "hn",
+      "alpha_3": "hnd"
+    },
+    "tld": ".hn",
+    "constitutional_form": "republic"
   },
   {
     "country": "hungary",
@@ -1047,7 +1639,15 @@
     "area": {
       "km2": 93028,
       "mi2": 35918
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "348",
+      "alpha_2": "hu",
+      "alpha_3": "hun"
+    },
+    "tld": ".hu",
+    "constitutional_form": "republic"
   },
   {
     "country": "iceland",
@@ -1061,7 +1661,15 @@
     "area": {
       "km2": 103000,
       "mi2": 40000
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "352",
+      "alpha_2": "is",
+      "alpha_3": "isl"
+    },
+    "tld": ".is",
+    "constitutional_form": "republic"
   },
   {
     "country": "india",
@@ -1075,7 +1683,15 @@
     "area": {
       "km2": 3287263,
       "mi2": 1269219
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "356",
+      "alpha_2": "in",
+      "alpha_3": "ind"
+    },
+    "tld": ".in",
+    "constitutional_form": "republic"
   },
   {
     "country": "indonesia",
@@ -1089,7 +1705,15 @@
     "area": {
       "km2": 1910931,
       "mi2": 737815
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "360",
+      "alpha_2": "id",
+      "alpha_3": "idn"
+    },
+    "tld": ".id",
+    "constitutional_form": "republic"
   },
   {
     "country": "iran",
@@ -1103,7 +1727,15 @@
     "area": {
       "km2": 1648195,
       "mi2": 636372
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "364",
+      "alpha_2": "ir",
+      "alpha_3": "irn"
+    },
+    "tld": ".ir",
+    "constitutional_form": "republic"
   },
   {
     "country": "iraq",
@@ -1117,7 +1749,15 @@
     "area": {
       "km2": 438317,
       "mi2": 169235
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "368",
+      "alpha_2": "iq",
+      "alpha_3": "irq"
+    },
+    "tld": ".iq",
+    "constitutional_form": "republic"
   },
   {
     "country": "republic of ireland",
@@ -1131,7 +1771,15 @@
     "area": {
       "km2": 70273,
       "mi2": 27133
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "372",
+      "alpha_2": "ie",
+      "alpha_3": "irl"
+    },
+    "tld": ".ie",
+    "constitutional_form": "republic"
   },
   {
     "country": "israel",
@@ -1145,7 +1793,15 @@
     "area": {
       "km2": 20770,
       "mi2": 8020
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "376",
+      "alpha_2": "il",
+      "alpha_3": "isr"
+    },
+    "tld": ".il",
+    "constitutional_form": "republic"
   },
   {
     "country": "italy",
@@ -1159,7 +1815,15 @@
     "area": {
       "km2": 301339,
       "mi2": 116348
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "380",
+      "alpha_2": "it",
+      "alpha_3": "ita"
+    },
+    "tld": ".it",
+    "constitutional_form": "republic"
   },
   {
     "country": "jamaica",
@@ -1173,7 +1837,15 @@
     "area": {
       "km2": 10991,
       "mi2": 4244
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "388",
+      "alpha_2": "jm",
+      "alpha_3": "jam"
+    },
+    "tld": ".jm",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "japan",
@@ -1187,7 +1859,15 @@
     "area": {
       "km2": 377975,
       "mi2": 145937
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "392",
+      "alpha_2": "jp",
+      "alpha_3": "jpn"
+    },
+    "tld": ".jp",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "jordan",
@@ -1201,7 +1881,15 @@
     "area": {
       "km2": 89342,
       "mi2": 34495
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "400",
+      "alpha_2": "jo",
+      "alpha_3": "jor"
+    },
+    "tld": ".jo",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "kazakhstan",
@@ -1215,7 +1903,15 @@
     "area": {
       "km2": 2724900,
       "mi2": 1052100
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "398",
+      "alpha_2": "kz",
+      "alpha_3": "kaz"
+    },
+    "tld": ".kz",
+    "constitutional_form": "republic"
   },
   {
     "country": "kenya",
@@ -1229,7 +1925,15 @@
     "area": {
       "km2": 580367,
       "mi2": 224081
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "404",
+      "alpha_2": "ke",
+      "alpha_3": "ken"
+    },
+    "tld": ".ke",
+    "constitutional_form": "republic"
   },
   {
     "country": "kiribati",
@@ -1243,7 +1947,15 @@
     "area": {
       "km2": 811,
       "mi2": 313
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "296",
+      "alpha_2": "ki",
+      "alpha_3": "kir"
+    },
+    "tld": ".ki",
+    "constitutional_form": "republic"
   },
   {
     "country": "north korea",
@@ -1257,7 +1969,15 @@
     "area": {
       "km2": 120540,
       "mi2": 46540
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "408",
+      "alpha_2": "kp",
+      "alpha_3": "prk"
+    },
+    "tld": ".kp",
+    "constitutional_form": "republic"
   },
   {
     "country": "south korea",
@@ -1271,7 +1991,15 @@
     "area": {
       "km2": 100210,
       "mi2": 38690
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "410",
+      "alpha_2": "kr",
+      "alpha_3": "kor"
+    },
+    "tld": ".kr",
+    "constitutional_form": "republic"
   },
   {
     "country": "kosovo",
@@ -1285,7 +2013,15 @@
     "area": {
       "km2": 10887,
       "mi2": 4203
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "383",
+      "alpha_2": "xk",
+      "alpha_3": "xkx"
+    },
+    "tld": ".rs",
+    "constitutional_form": "republic"
   },
   {
     "country": "kuwait",
@@ -1299,7 +2035,15 @@
     "area": {
       "km2": 17818,
       "mi2": 6880
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "414",
+      "alpha_2": "kw",
+      "alpha_3": "kwt"
+    },
+    "tld": ".kw",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "kyrgyzstan",
@@ -1313,7 +2057,15 @@
     "area": {
       "km2": 199951,
       "mi2": 77202
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "417",
+      "alpha_2": "kg",
+      "alpha_3": "kgz"
+    },
+    "tld": ".kg",
+    "constitutional_form": "republic"
   },
   {
     "country": "laos",
@@ -1327,7 +2079,15 @@
     "area": {
       "km2": 236800,
       "mi2": 91400
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "418",
+      "alpha_2": "la",
+      "alpha_3": "lao"
+    },
+    "tld": ".la",
+    "constitutional_form": "republic"
   },
   {
     "country": "latvia",
@@ -1341,7 +2101,15 @@
     "area": {
       "km2": 64559,
       "mi2": 24926
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "428",
+      "alpha_2": "lv",
+      "alpha_3": "lva"
+    },
+    "tld": ".lv",
+    "constitutional_form": "republic"
   },
   {
     "country": "lebanon",
@@ -1355,7 +2123,15 @@
     "area": {
       "km2": 10452,
       "mi2": 4036
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "422",
+      "alpha_2": "lb",
+      "alpha_3": "lbn"
+    },
+    "tld": ".lb",
+    "constitutional_form": "republic"
   },
   {
     "country": "lesotho",
@@ -1369,7 +2145,15 @@
     "area": {
       "km2": 30355,
       "mi2": 11720
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "426",
+      "alpha_2": "ls",
+      "alpha_3": "lso"
+    },
+    "tld": ".ls",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "liberia",
@@ -1383,7 +2167,15 @@
     "area": {
       "km2": 111369,
       "mi2": 43000
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "430",
+      "alpha_2": "lr",
+      "alpha_3": "lbr"
+    },
+    "tld": ".lr",
+    "constitutional_form": "republic"
   },
   {
     "country": "libya",
@@ -1397,7 +2189,15 @@
     "area": {
       "km2": 1759540,
       "mi2": 679360
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "434",
+      "alpha_2": "ly",
+      "alpha_3": "lby"
+    },
+    "tld": ".ly",
+    "constitutional_form": "n/a"
   },
   {
     "country": "liechtenstein",
@@ -1411,7 +2211,15 @@
     "area": {
       "km2": 160,
       "mi2": 62
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "438",
+      "alpha_2": "li",
+      "alpha_3": "lie"
+    },
+    "tld": ".li",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "lithuania",
@@ -1425,7 +2233,15 @@
     "area": {
       "km2": 65300,
       "mi2": 25200
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "440",
+      "alpha_2": "lt",
+      "alpha_3": "ltu"
+    },
+    "tld": ".lt",
+    "constitutional_form": "republic"
   },
   {
     "country": "luxembourg",
@@ -1439,7 +2255,15 @@
     "area": {
       "km2": 2586,
       "mi2": 998
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "442",
+      "alpha_2": "lu",
+      "alpha_3": "lux"
+    },
+    "tld": ".lu",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1453,7 +2277,15 @@
     "area": {
       "km2": 25713,
       "mi2": 9928
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "807",
+      "alpha_2": "mk",
+      "alpha_3": "mkd"
+    },
+    "tld": ".mk",
+    "constitutional_form": "republic"
   },
   {
     "country": "madagascar",
@@ -1467,7 +2299,15 @@
     "area": {
       "km2": 587041,
       "mi2": 226658
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "450",
+      "alpha_2": "mg",
+      "alpha_3": "mdg"
+    },
+    "tld": ".mg",
+    "constitutional_form": "republic"
   },
   {
     "country": "malawi",
@@ -1481,7 +2321,15 @@
     "area": {
       "km2": 118484,
       "mi2": 45747
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "454",
+      "alpha_2": "mw",
+      "alpha_3": "mwi"
+    },
+    "tld": ".mw",
+    "constitutional_form": "republic"
   },
   {
     "country": "malaysia",
@@ -1495,7 +2343,15 @@
     "area": {
       "km2": 330803,
       "mi2": 127724
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "458",
+      "alpha_2": "my",
+      "alpha_3": "mys"
+    },
+    "tld": ".my",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "maldives",
@@ -1509,7 +2365,15 @@
     "area": {
       "km2": 300,
       "mi2": 120
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "462",
+      "alpha_2": "mv",
+      "alpha_3": "mdv"
+    },
+    "tld": ".mv",
+    "constitutional_form": "republic"
   },
   {
     "country": "mali",
@@ -1523,7 +2387,15 @@
     "area": {
       "km2": 1240192,
       "mi2": 478841
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "466",
+      "alpha_2": "ml",
+      "alpha_3": "mli"
+    },
+    "tld": ".ml",
+    "constitutional_form": "n/a"
   },
   {
     "country": "malta",
@@ -1537,7 +2409,15 @@
     "area": {
       "km2": 316,
       "mi2": 122
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "470",
+      "alpha_2": "mt",
+      "alpha_3": "mlt"
+    },
+    "tld": ".mt",
+    "constitutional_form": "republic"
   },
   {
     "country": "marshall islands",
@@ -1551,7 +2431,15 @@
     "area": {
       "km2": 181,
       "mi2": 70
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "584",
+      "alpha_2": "mh",
+      "alpha_3": "mhl"
+    },
+    "tld": ".mh",
+    "constitutional_form": "republic"
   },
   {
     "country": "mauritania",
@@ -1565,7 +2453,15 @@
     "area": {
       "km2": 1030700,
       "mi2": 398000
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "478",
+      "alpha_2": "mr",
+      "alpha_3": "mrt"
+    },
+    "tld": ".mr",
+    "constitutional_form": "republic"
   },
   {
     "country": "mauritius",
@@ -1579,7 +2475,15 @@
     "area": {
       "km2": 2040,
       "mi2": 790
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "480",
+      "alpha_2": "mu",
+      "alpha_3": "mus"
+    },
+    "tld": ".mu",
+    "constitutional_form": "republic"
   },
   {
     "country": "mexico",
@@ -1593,7 +2497,15 @@
     "area": {
       "km2": 1964375,
       "mi2": 758449
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "484",
+      "alpha_2": "mx",
+      "alpha_3": "mex"
+    },
+    "tld": ".mx",
+    "constitutional_form": "republic"
   },
   {
     "country": "federal states of micronesia",
@@ -1607,7 +2519,15 @@
     "area": {
       "km2": 702,
       "mi2": 271
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "583",
+      "alpha_2": "fm",
+      "alpha_3": "fsm"
+    },
+    "tld": ".fm",
+    "constitutional_form": "republic"
   },
   {
     "country": "moldova",
@@ -1621,7 +2541,15 @@
     "area": {
       "km2": 33846,
       "mi2": 13068
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "498",
+      "alpha_2": "md",
+      "alpha_3": "mda"
+    },
+    "tld": ".md",
+    "constitutional_form": "republic"
   },
   {
     "country": "monaco",
@@ -1635,7 +2563,15 @@
     "area": {
       "km2": 2.02,
       "mi2": 0.78
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "492",
+      "alpha_2": "mc",
+      "alpha_3": "mco"
+    },
+    "tld": ".mc",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "mongolia",
@@ -1649,7 +2585,15 @@
     "area": {
       "km2": 1564110,
       "mi2": 603910
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "496",
+      "alpha_2": "mn",
+      "alpha_3": "mng"
+    },
+    "tld": ".mn",
+    "constitutional_form": "republic"
   },
   {
     "country": "montenegro",
@@ -1663,7 +2607,15 @@
     "area": {
       "km2": 13812,
       "mi2": 5333
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "499",
+      "alpha_2": "me",
+      "alpha_3": "mne"
+    },
+    "tld": ".me",
+    "constitutional_form": "republic"
   },
   {
     "country": "morocco",
@@ -1677,7 +2629,15 @@
     "area": {
       "km2": 446550,
       "mi2": 172410
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "504",
+      "alpha_2": "ma",
+      "alpha_3": "mar"
+    },
+    "tld": ".ma",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "mozambique",
@@ -1691,7 +2651,15 @@
     "area": {
       "km2": 801590,
       "mi2": 309500
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "508",
+      "alpha_2": "mz",
+      "alpha_3": "moz"
+    },
+    "tld": ".mz",
+    "constitutional_form": "republic"
   },
   {
     "country": "myanmar (burma)",
@@ -1705,7 +2673,15 @@
     "area": {
       "km2": 676578,
       "mi2": 261228
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "104",
+      "alpha_2": "mm",
+      "alpha_3": "mmr"
+    },
+    "tld": ".mm",
+    "constitutional_form": "republic"
   },
   {
     "country": "namibia",
@@ -1719,7 +2695,15 @@
     "area": {
       "km2": 825615,
       "mi2": 318772
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "516",
+      "alpha_2": "na",
+      "alpha_3": "nam"
+    },
+    "tld": ".na",
+    "constitutional_form": "republic"
   },
   {
     "country": "nauru",
@@ -1733,7 +2717,15 @@
     "area": {
       "km2": 21,
       "mi2": 8.1
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "520",
+      "alpha_2": "nr",
+      "alpha_3": "nru"
+    },
+    "tld": ".nr",
+    "constitutional_form": "republic"
   },
   {
     "country": "nepal",
@@ -1747,7 +2739,15 @@
     "area": {
       "km2": 147181,
       "mi2": 56827
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "524",
+      "alpha_2": "np",
+      "alpha_3": "npl"
+    },
+    "tld": ".np",
+    "constitutional_form": "republic"
   },
   {
     "country": "netherlands",
@@ -1761,7 +2761,15 @@
     "area": {
       "km2": 41850,
       "mi2": 16160
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "528",
+      "alpha_2": "nl",
+      "alpha_3": "nld"
+    },
+    "tld": ".nl",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "new zealand",
@@ -1775,7 +2783,15 @@
     "area": {
       "km2": 270467,
       "mi2": 104428
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "554",
+      "alpha_2": "nz",
+      "alpha_3": "nzl"
+    },
+    "tld": ".nz",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "nicaragua",
@@ -1789,7 +2805,15 @@
     "area": {
       "km2": 130373,
       "mi2": 50337
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "558",
+      "alpha_2": "ni",
+      "alpha_3": "nic"
+    },
+    "tld": ".ni",
+    "constitutional_form": "republic"
   },
   {
     "country": "niger",
@@ -1803,7 +2827,15 @@
     "area": {
       "km2": 1267000,
       "mi2": 489000
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "562",
+      "alpha_2": "ne",
+      "alpha_3": "ner"
+    },
+    "tld": ".ne",
+    "constitutional_form": "republic"
   },
   {
     "country": "nigeria",
@@ -1817,7 +2849,15 @@
     "area": {
       "km2": 923768,
       "mi2": 356669
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "566",
+      "alpha_2": "ng",
+      "alpha_3": "nga"
+    },
+    "tld": ".ng",
+    "constitutional_form": "republic"
   },
   {
     "country": "norway",
@@ -1831,7 +2871,15 @@
     "area": {
       "km2": 385207,
       "mi2": 148729
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "578",
+      "alpha_2": "no",
+      "alpha_3": "nor"
+    },
+    "tld": ".no",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "oman",
@@ -1845,7 +2893,15 @@
     "area": {
       "km2": 309500,
       "mi2": 119500
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "512",
+      "alpha_2": "om",
+      "alpha_3": "omn"
+    },
+    "tld": ".om",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "pakistan",
@@ -1859,7 +2915,15 @@
     "area": {
       "km2": 907843,
       "mi2": 350520
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "586",
+      "alpha_2": "pk",
+      "alpha_3": "pak"
+    },
+    "tld": ".pk",
+    "constitutional_form": "republic"
   },
   {
     "country": "palau",
@@ -1873,7 +2937,15 @@
     "area": {
       "km2": 459,
       "mi2": 177
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "585",
+      "alpha_2": "pw",
+      "alpha_3": "plw"
+    },
+    "tld": ".pw",
+    "constitutional_form": "republic"
   },
   {
     "country": "panama",
@@ -1887,7 +2959,15 @@
     "area": {
       "km2": 75417,
       "mi2": 29119
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "591",
+      "alpha_2": "pa",
+      "alpha_3": "pan"
+    },
+    "tld": ".pa",
+    "constitutional_form": "republic"
   },
   {
     "country": "papa new guinea",
@@ -1901,7 +2981,15 @@
     "area": {
       "km2": 462840,
       "mi2": 178700
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "598",
+      "alpha_2": "pg",
+      "alpha_3": "png"
+    },
+    "tld": ".pg",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "paraguay",
@@ -1915,7 +3003,15 @@
     "area": {
       "km2": 406752,
       "mi2": 157048
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "600",
+      "alpha_2": "py",
+      "alpha_3": "pry"
+    },
+    "tld": ".py",
+    "constitutional_form": "republic"
   },
   {
     "country": "peru",
@@ -1929,7 +3025,15 @@
     "area": {
       "km2": 1285216,
       "mi2": 496225
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "604",
+      "alpha_2": "pe",
+      "alpha_3": "per"
+    },
+    "tld": ".pe",
+    "constitutional_form": "republic"
   },
   {
     "country": "philippines",
@@ -1943,7 +3047,15 @@
     "area": {
       "km2": 300000,
       "mi2": 120000
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "608",
+      "alpha_2": "ph",
+      "alpha_3": "phl"
+    },
+    "tld": ".ph",
+    "constitutional_form": "republic"
   },
   {
     "country": "poland",
@@ -1957,7 +3069,15 @@
     "area": {
       "km2": 312696,
       "mi2": 120733
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "616",
+      "alpha_2": "pl",
+      "alpha_3": "pol"
+    },
+    "tld": ".pl",
+    "constitutional_form": "republic"
   },
   {
     "country": "portugal",
@@ -1971,7 +3091,15 @@
     "area": {
       "km2": 92090,
       "mi2": 35560
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "620",
+      "alpha_2": "pt",
+      "alpha_3": "prt"
+    },
+    "tld": ".pt",
+    "constitutional_form": "republic"
   },
   {
     "country": "qatar",
@@ -1985,7 +3113,15 @@
     "area": {
       "km2": 11586,
       "mi2": 4473
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "634",
+      "alpha_2": "qa",
+      "alpha_3": "qat"
+    },
+    "tld": ".qa",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "romania",
@@ -1999,7 +3135,15 @@
     "area": {
       "km2": 238397,
       "mi2": 92046
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "642",
+      "alpha_2": "ro",
+      "alpha_3": "rou"
+    },
+    "tld": ".ro",
+    "constitutional_form": "republic"
   },
   {
     "country": "russia",
@@ -2013,7 +3157,15 @@
     "area": {
       "km2": 17098246,
       "mi2": 6601670
-    }
+    },
+    "continent": "eu/as",
+    "iso": {
+      "numeric": "643",
+      "alpha_2": "ru",
+      "alpha_3": "rus"
+    },
+    "tld": ".ru",
+    "constitutional_form": "republic"
   },
   {
     "country": "rwanda",
@@ -2027,7 +3179,15 @@
     "area": {
       "km2": 26338,
       "mi2": 10169
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "646",
+      "alpha_2": "rw",
+      "alpha_3": "rwa"
+    },
+    "tld": ".rw",
+    "constitutional_form": "republic"
   },
   {
     "country": "saint kitts and nevis",
@@ -2041,7 +3201,15 @@
     "area": {
       "km2": 261,
       "mi2": 101
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "659",
+      "alpha_2": "kn",
+      "alpha_3": "kna"
+    },
+    "tld": ".kn",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "saint lucia",
@@ -2055,7 +3223,15 @@
     "area": {
       "km2": 616,
       "mi2": 238
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "662",
+      "alpha_2": "lc",
+      "alpha_3": "lca"
+    },
+    "tld": ".lc",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "saint vincent and the grenadines",
@@ -2069,7 +3245,15 @@
     "area": {
       "km2": 389,
       "mi2": 150
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "670",
+      "alpha_2": "vc",
+      "alpha_3": "vct"
+    },
+    "tld": ".vc",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "samoa",
@@ -2083,7 +3267,15 @@
     "area": {
       "km2": 2842,
       "mi2": 1097
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "882",
+      "alpha_2": "ws",
+      "alpha_3": "wsm"
+    },
+    "tld": ".ws",
+    "constitutional_form": "republic"
   },
   {
     "country": "san marino",
@@ -2097,7 +3289,15 @@
     "area": {
       "km2": 61,
       "mi2": 24
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "674",
+      "alpha_2": "sm",
+      "alpha_3": "smr"
+    },
+    "tld": ".sm",
+    "constitutional_form": "republic"
   },
   {
     "country": "sao tome and principe",
@@ -2111,7 +3311,15 @@
     "area": {
       "km2": 964,
       "mi2": 372
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "678",
+      "alpha_2": "st",
+      "alpha_3": "stp"
+    },
+    "tld": ".st",
+    "constitutional_form": "republic"
   },
   {
     "country": "saudi arabia",
@@ -2125,7 +3333,15 @@
     "area": {
       "km2": 2149690,
       "mi2": 830000
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "682",
+      "alpha_2": "sa",
+      "alpha_3": "sau"
+    },
+    "tld": ".sa",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "senegal",
@@ -2139,7 +3355,15 @@
     "area": {
       "km2": 196722,
       "mi2": 75955
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "686",
+      "alpha_2": "sn",
+      "alpha_3": "sen"
+    },
+    "tld": ".sn",
+    "constitutional_form": "republic"
   },
   {
     "country": "serbia",
@@ -2153,7 +3377,15 @@
     "area": {
       "km2": 88361,
       "mi2": 34116
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "688",
+      "alpha_2": "rs",
+      "alpha_3": "srb"
+    },
+    "tld": ".rs",
+    "constitutional_form": "republic"
   },
   {
     "country": "seychelles",
@@ -2167,7 +3399,15 @@
     "area": {
       "km2": 452,
       "mi2": 175
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "690",
+      "alpha_2": "sc",
+      "alpha_3": "syc"
+    },
+    "tld": ".sc",
+    "constitutional_form": "republic"
   },
   {
     "country": "sierra leone",
@@ -2181,7 +3421,15 @@
     "area": {
       "km2": 71740,
       "mi2": 27700
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "694",
+      "alpha_2": "sl",
+      "alpha_3": "sle"
+    },
+    "tld": ".sl",
+    "constitutional_form": "republic"
   },
   {
     "country": "singapore",
@@ -2195,7 +3443,15 @@
     "area": {
       "km2": 726,
       "mi2": 280
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "702",
+      "alpha_2": "sg",
+      "alpha_3": "sgp"
+    },
+    "tld": ".sg",
+    "constitutional_form": "republic"
   },
   {
     "country": "slovakia",
@@ -2209,7 +3465,15 @@
     "area": {
       "km2": 49037,
       "mi2": 18933
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "703",
+      "alpha_2": "sk",
+      "alpha_3": "svk"
+    },
+    "tld": ".sk",
+    "constitutional_form": "republic"
   },
   {
     "country": "slovenia",
@@ -2223,7 +3487,15 @@
     "area": {
       "km2": 20273,
       "mi2": 7827
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "705",
+      "alpha_2": "si",
+      "alpha_3": "svn"
+    },
+    "tld": ".si",
+    "constitutional_form": "republic"
   },
   {
     "country": "solomon islands",
@@ -2237,7 +3509,15 @@
     "area": {
       "km2": 28896,
       "mi2": 11157
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "090",
+      "alpha_2": "sb",
+      "alpha_3": "slb"
+    },
+    "tld": ".sb",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "somalia",
@@ -2251,7 +3531,15 @@
     "area": {
       "km2": 637657,
       "mi2": 246201
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "706",
+      "alpha_2": "so",
+      "alpha_3": "som"
+    },
+    "tld": ".so",
+    "constitutional_form": "republic"
   },
   {
     "country": "south africa",
@@ -2265,7 +3553,15 @@
     "area": {
       "km2": 1221037,
       "mi2": 471445
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "710",
+      "alpha_2": "za",
+      "alpha_3": "zaf"
+    },
+    "tld": ".za",
+    "constitutional_form": "republic"
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -2279,7 +3575,15 @@
     "area": {
       "km2": 644329,
       "mi2": 248777
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "728",
+      "alpha_2": "ss",
+      "alpha_3": "ssd"
+    },
+    "tld": ".ss",
+    "constitutional_form": "republic"
   },
   {
     "country": "spain",
@@ -2293,7 +3597,15 @@
     "area": {
       "km2": 505992,
       "mi2": 195365
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "724",
+      "alpha_2": "es",
+      "alpha_3": "esp"
+    },
+    "tld": ".es",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "sri lanka",
@@ -2307,7 +3619,15 @@
     "area": {
       "km2": 65610,
       "mi2": 25330
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "144",
+      "alpha_2": "lk",
+      "alpha_3": "lka"
+    },
+    "tld": ".lk",
+    "constitutional_form": "republic"
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -2321,7 +3641,15 @@
     "area": {
       "km2": 1861484,
       "mi2": 718723
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "729",
+      "alpha_2": "sd",
+      "alpha_3": "sdn"
+    },
+    "tld": ".sd",
+    "constitutional_form": "n/a"
   },
   {
     "country": "suriname",
@@ -2335,7 +3663,15 @@
     "area": {
       "km2": 163820,
       "mi2": 63250
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "740",
+      "alpha_2": "sr",
+      "alpha_3": "sur"
+    },
+    "tld": ".sr",
+    "constitutional_form": "republic"
   },
   {
     "country": "eswatini (swaziland)",
@@ -2349,7 +3685,15 @@
     "area": {
       "km2": 17364,
       "mi2": 6704
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "748",
+      "alpha_2": "sz",
+      "alpha_3": "swz"
+    },
+    "tld": ".sz",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "sweden",
@@ -2363,7 +3707,15 @@
     "area": {
       "km2": 450295,
       "mi2": 173860
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "752",
+      "alpha_2": "se",
+      "alpha_3": "swe"
+    },
+    "tld": ".se",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "switzerland",
@@ -2376,7 +3728,15 @@
     "area": {
       "km2": 41284,
       "mi2": 15940
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "756",
+      "alpha_2": "ch",
+      "alpha_3": "che"
+    },
+    "tld": ".ch",
+    "constitutional_form": "republic"
   },
   {
     "country": "syria",
@@ -2390,7 +3750,15 @@
     "area": {
       "km2": 185180,
       "mi2": 71500
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "760",
+      "alpha_2": "sy",
+      "alpha_3": "syr"
+    },
+    "tld": ".sy",
+    "constitutional_form": "republic"
   },
   {
     "country": "taiwan",
@@ -2404,7 +3772,15 @@
     "area": {
       "km2": 36193,
       "mi2": 13974
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "158",
+      "alpha_2": "tw",
+      "alpha_3": "twn"
+    },
+    "tld": ".tw",
+    "constitutional_form": "republic"
   },
   {
     "country": "tajikistan",
@@ -2418,7 +3794,15 @@
     "area": {
       "km2": 143100,
       "mi2": 55300
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "762",
+      "alpha_2": "tj",
+      "alpha_3": "tjk"
+    },
+    "tld": ".tj",
+    "constitutional_form": "republic"
   },
   {
     "country": "tanzania",
@@ -2432,7 +3816,15 @@
     "area": {
       "km2": 945087,
       "mi2": 364900
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "834",
+      "alpha_2": "tz",
+      "alpha_3": "tza"
+    },
+    "tld": ".tz",
+    "constitutional_form": "republic"
   },
   {
     "country": "thailand",
@@ -2446,7 +3838,15 @@
     "area": {
       "km2": 513120,
       "mi2": 198120
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "764",
+      "alpha_2": "th",
+      "alpha_3": "tha"
+    },
+    "tld": ".th",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "togo",
@@ -2460,7 +3860,15 @@
     "area": {
       "km2": 56785,
       "mi2": 21925
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "768",
+      "alpha_2": "tg",
+      "alpha_3": "tgo"
+    },
+    "tld": ".tg",
+    "constitutional_form": "republic"
   },
   {
     "country": "tonga",
@@ -2474,7 +3882,15 @@
     "area": {
       "km2": 747,
       "mi2": 288
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "776",
+      "alpha_2": "to",
+      "alpha_3": "ton"
+    },
+    "tld": ".to",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "trinidad and tobago",
@@ -2488,7 +3904,15 @@
     "area": {
       "km2": 5130,
       "mi2": 1980
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "780",
+      "alpha_2": "tt",
+      "alpha_3": "tto"
+    },
+    "tld": ".tt",
+    "constitutional_form": "republic"
   },
   {
     "country": "tunisia",
@@ -2502,7 +3926,15 @@
     "area": {
       "km2": 163610,
       "mi2": 63170
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "788",
+      "alpha_2": "tn",
+      "alpha_3": "tun"
+    },
+    "tld": ".tn",
+    "constitutional_form": "republic"
   },
   {
     "country": "turkey",
@@ -2516,7 +3948,15 @@
     "area": {
       "km2": 783562,
       "mi2": 302535
-    }
+    },
+    "continent": "eu/as",
+    "iso": {
+      "numeric": "792",
+      "alpha_2": "tr",
+      "alpha_3": "tur"
+    },
+    "tld": ".tr",
+    "constitutional_form": "republic"
   },
   {
     "country": "turkmenistan",
@@ -2530,7 +3970,15 @@
     "area": {
       "km2": 488100,
       "mi2": 188500
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "795",
+      "alpha_2": "tm",
+      "alpha_3": "tkm"
+    },
+    "tld": ".tm",
+    "constitutional_form": "republic"
   },
   {
     "country": "tuvalu",
@@ -2544,7 +3992,15 @@
     "area": {
       "km2": 26,
       "mi2": 10
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "798",
+      "alpha_2": "tv",
+      "alpha_3": "tuv"
+    },
+    "tld": ".tv",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "uganda",
@@ -2558,7 +4014,15 @@
     "area": {
       "km2": 241550,
       "mi2": 93260
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "800",
+      "alpha_2": "ug",
+      "alpha_3": "uga"
+    },
+    "tld": ".ug",
+    "constitutional_form": "republic"
   },
   {
     "country": "ukraine",
@@ -2572,7 +4036,15 @@
     "area": {
       "km2": 603500,
       "mi2": 233000
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "804",
+      "alpha_2": "ua",
+      "alpha_3": "ukr"
+    },
+    "tld": ".ua",
+    "constitutional_form": "republic"
   },
   {
     "country": "united arab emirates",
@@ -2586,7 +4058,15 @@
     "area": {
       "km2": 83600,
       "mi2": 32300
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "784",
+      "alpha_2": "ae",
+      "alpha_3": "are"
+    },
+    "tld": ".ae",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "united kingdom",
@@ -2600,7 +4080,15 @@
     "area": {
       "km2": 242495,
       "mi2": 93628
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "826",
+      "alpha_2": "gb",
+      "alpha_3": "gbr"
+    },
+    "tld": ".gb/.uk",
+    "constitutional_form": "constitutional monarchy"
   },
   {
     "country": "united states of america",
@@ -2614,7 +4102,15 @@
     "area": {
       "km2": 9833517,
       "mi2": 3796742
-    }
+    },
+    "continent": "na",
+    "iso": {
+      "numeric": "840",
+      "alpha_2": "us",
+      "alpha_3": "usa"
+    },
+    "tld": ".us",
+    "constitutional_form": "republic"
   },
   {
     "country": "uruguay",
@@ -2628,7 +4124,15 @@
     "area": {
       "km2": 176215,
       "mi2": 68037
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "858",
+      "alpha_2": "uy",
+      "alpha_3": "ury"
+    },
+    "tld": ".uy",
+    "constitutional_form": "republic"
   },
   {
     "country": "uzbekistan",
@@ -2642,7 +4146,15 @@
     "area": {
       "km2": 447400,
       "mi2": 172700
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "860",
+      "alpha_2": "uz",
+      "alpha_3": "uzb"
+    },
+    "tld": ".uz",
+    "constitutional_form": "republic"
   },
   {
     "country": "vanuatu",
@@ -2656,7 +4168,15 @@
     "area": {
       "km2": 12189,
       "mi2": 4706
-    }
+    },
+    "continent": "oc",
+    "iso": {
+      "numeric": "548",
+      "alpha_2": "vu",
+      "alpha_3": "vut"
+    },
+    "tld": ".vu",
+    "constitutional_form": "republic"
   },
   {
     "country": "vatican city",
@@ -2670,7 +4190,15 @@
     "area": {
       "km2": 0.49,
       "mi2": 0.19
-    }
+    },
+    "continent": "eu",
+    "iso": {
+      "numeric": "336",
+      "alpha_2": "va",
+      "alpha_3": "vat"
+    },
+    "tld": ".va",
+    "constitutional_form": "absolute monarchy"
   },
   {
     "country": "venezuela",
@@ -2684,7 +4212,15 @@
     "area": {
       "km2": 916445,
       "mi2": 353841
-    }
+    },
+    "continent": "sa",
+    "iso": {
+      "numeric": "862",
+      "alpha_2": "ve",
+      "alpha_3": "ven"
+    },
+    "tld": ".ve",
+    "constitutional_form": "republic"
   },
   {
     "country": "vietnam",
@@ -2698,7 +4234,15 @@
     "area": {
       "km2": 331212,
       "mi2": 127882
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "704",
+      "alpha_2": "vn",
+      "alpha_3": "vnm"
+    },
+    "tld": ".vn",
+    "constitutional_form": "republic"
   },
   {
     "country": "yemen",
@@ -2712,7 +4256,15 @@
     "area": {
       "km2": 527968,
       "mi2": 203850
-    }
+    },
+    "continent": "as",
+    "iso": {
+      "numeric": "887",
+      "alpha_2": "ye",
+      "alpha_3": "yem"
+    },
+    "tld": ".ye",
+    "constitutional_form": "n/a"
   },
   {
     "country": "zambia",
@@ -2726,7 +4278,15 @@
     "area": {
       "km2": 752612,
       "mi2": 290585
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "894",
+      "alpha_2": "zm",
+      "alpha_3": "zmb"
+    },
+    "tld": ".zm",
+    "constitutional_form": "republic"
   },
   {
     "country": "zimbabwe",
@@ -2740,6 +4300,14 @@
     "area": {
       "km2": 390757,
       "mi2": 150872
-    }
+    },
+    "continent": "af",
+    "iso": {
+      "numeric": "716",
+      "alpha_2": "zw",
+      "alpha_3": "zwe"
+    },
+    "tld": ".zw",
+    "constitutional_form": "republic"
   }
 ]
