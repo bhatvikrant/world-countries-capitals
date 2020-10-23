@@ -320,7 +320,7 @@
     },
     "tld": ".be",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["de-BE","fr-BE","nl-BE"]
+    "language_codes": ["de-BE", "fr-BE", "nl-BE"]
   },
   {
     "country": "belize",
@@ -2677,7 +2677,8 @@
     },
     "tld": ".pt",
     "constitutional_form": "republic",
-    "language_codes": ["pt-PT"]},
+    "language_codes": ["pt-PT"]
+  },
   {
     "country": "qatar",
     "capital": "doha",
@@ -2695,7 +2696,8 @@
     },
     "tld": ".qa",
     "constitutional_form": "absolute monarchy",
-    "language_codes": ["ar-QA"]},
+    "language_codes": ["ar-QA"]
+  },
   {
     "country": "romania",
     "capital": "bucharest",
@@ -2713,7 +2715,8 @@
     },
     "tld": ".ro",
     "constitutional_form": "republic",
-    "language_codes": ["ro-RO"]},
+    "language_codes": ["ro-RO"]
+  },
   {
     "country": "russia",
     "capital": "moscow",
@@ -2731,7 +2734,8 @@
     },
     "tld": ".ru",
     "constitutional_form": "republic",
-    "language_codes": ["ru-RU"]},
+    "language_codes": ["ru-RU"]
+  },
   {
     "country": "rwanda",
     "capital": "kigali",
@@ -2749,7 +2753,8 @@
     },
     "tld": ".rw",
     "constitutional_form": "republic",
-    "language_codes": ["en-RW", "fr-RW", "rw-RW"] },
+    "language_codes": ["en-RW", "fr-RW", "rw-RW"]
+  },
   {
     "country": "saint kitts and nevis",
     "capital": "basseterre",
@@ -2767,7 +2772,8 @@
     },
     "tld": ".kn",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["en-KN"]},
+    "language_codes": ["en-KN"]
+  },
   {
     "country": "saint lucia",
     "capital": "castries",
@@ -2785,7 +2791,8 @@
     },
     "tld": ".lc",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["en-LC", "fr-LC"] },
+    "language_codes": ["en-LC", "fr-LC"]
+  },
   {
     "country": "saint vincent and the grenadines",
     "capital": "kingstown east",
@@ -2803,7 +2810,8 @@
     },
     "tld": ".vc",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["en-VC"]},
+    "language_codes": ["en-VC"]
+  },
   {
     "country": "samoa",
     "capital": "apia",
@@ -2821,7 +2829,8 @@
     },
     "tld": ".ws",
     "constitutional_form": "republic",
-    "language_codes": ["en-WS", "sm-WS"]},
+    "language_codes": ["en-WS", "sm-WS"]
+  },
   {
     "country": "san marino",
     "capital": "san marino",
@@ -2839,7 +2848,8 @@
     },
     "tld": ".sm",
     "constitutional_form": "republic",
-    "language_codes": ["it-SM"]},
+    "language_codes": ["it-SM"]
+  },
   {
     "country": "sao tome and principe",
     "capital": "sao tome",
@@ -2857,7 +2867,8 @@
     },
     "tld": ".st",
     "constitutional_form": "republic",
-    "language_codes": ["pt-ST"]},
+    "language_codes": ["pt-ST"]
+  },
   {
     "country": "saudi arabia",
     "capital": "riyadh",
@@ -2875,7 +2886,8 @@
     },
     "tld": ".sa",
     "constitutional_form": "absolute monarchy",
-    "language_codes": ["ar-SA"]},
+    "language_codes": ["ar-SA"]
+  },
   {
     "country": "senegal",
     "capital": "dakar",
@@ -2893,7 +2905,8 @@
     },
     "tld": ".sn",
     "constitutional_form": "republic",
-    "language_codes": ["fr-SN"]},
+    "language_codes": ["fr-SN"]
+  },
   {
     "country": "serbia",
     "capital": "belgrade",
@@ -2911,7 +2924,8 @@
     },
     "tld": ".rs",
     "constitutional_form": "republic",
-    "language_codes": ["sr-RS"]},
+    "language_codes": ["sr-RS"]
+  },
   {
     "country": "seychelles",
     "capital": "victoria",
@@ -2929,7 +2943,8 @@
     },
     "tld": ".sc",
     "constitutional_form": "republic",
-    "language_codes": ["en-SC", "fr-SC"]},
+    "language_codes": ["en-SC", "fr-SC"]
+  },
   {
     "country": "sierra leone",
     "capital": "freetown",
@@ -2947,7 +2962,8 @@
     },
     "tld": ".sl",
     "constitutional_form": "republic",
-    "language_codes": ["en-SL"]},
+    "language_codes": ["en-SL"]
+  },
   {
     "country": "singapore",
     "capital": "singapore",
@@ -2965,7 +2981,8 @@
     },
     "tld": ".sg",
     "constitutional_form": "republic",
-    "language_codes": ["en-SG","ms-SG","zh-SG"]},
+    "language_codes": ["en-SG", "ms-SG", "zh-SG"]
+  },
   {
     "country": "slovakia",
     "capital": "bratislava",
@@ -2983,7 +3000,8 @@
     },
     "tld": ".sk",
     "constitutional_form": "republic",
-    "language_codes": ["sk-SK"]},
+    "language_codes": ["sk-SK"]
+  },
   {
     "country": "slovenia",
     "capital": "ljubljana",
@@ -3001,7 +3019,8 @@
     },
     "tld": ".si",
     "constitutional_form": "republic",
-    "language_codes": ["sl-SI"]},
+    "language_codes": ["sl-SI"]
+  },
   {
     "country": "solomon islands",
     "capital": "honiara",
@@ -3019,7 +3038,8 @@
     },
     "tld": ".sb",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["en-SB"]},
+    "language_codes": ["en-SB"]
+  },
   {
     "country": "somalia",
     "capital": "mogadishu",
@@ -3037,7 +3057,8 @@
     },
     "tld": ".so",
     "constitutional_form": "republic",
-    "language_codes": ["so-SO"]},
+    "language_codes": ["so-SO"]
+  },
   {
     "country": "south africa",
     "capital": "pretoria, cape town,bloemfontein",
@@ -3055,7 +3076,8 @@
     },
     "tld": ".za",
     "constitutional_form": "republic",
-    "language_codes": ["af-ZA", "en-ZA", "xh-ZA", "zu-ZA"]},
+    "language_codes": ["af-ZA", "en-ZA", "xh-ZA", "zu-ZA"]
+  },
   {
     "country": "south sudan (republic of south sudan)",
     "capital": "juba",
@@ -3073,7 +3095,8 @@
     },
     "tld": ".ss",
     "constitutional_form": "republic",
-    "language_codes": ["ar-SS", "en-SS"]},
+    "language_codes": ["ar-SS", "en-SS"]
+  },
   {
     "country": "spain",
     "capital": "madrid",
@@ -3091,7 +3114,8 @@
     },
     "tld": ".es",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["ca-ES", "es-ES"]},
+    "language_codes": ["ca-ES", "es-ES"]
+  },
   {
     "country": "sri lanka",
     "capital": "colombo",
@@ -3109,7 +3133,8 @@
     },
     "tld": ".lk",
     "constitutional_form": "republic",
-    "language_codes": ["si-LK", "ta-LK"]},
+    "language_codes": ["si-LK", "ta-LK"]
+  },
   {
     "country": "sudan (republic of the sudan)",
     "capital": "khartoum",
@@ -3127,7 +3152,8 @@
     },
     "tld": ".sd",
     "constitutional_form": "n/a",
-    "language_codes": ["ar-SD", "en-SD"]},
+    "language_codes": ["ar-SD", "en-SD"]
+  },
   {
     "country": "suriname",
     "capital": "paramaribo",
@@ -3145,7 +3171,8 @@
     },
     "tld": ".sr",
     "constitutional_form": "republic",
-    "language_codes": ["nl-SR"]},
+    "language_codes": ["nl-SR"]
+  },
   {
     "country": "eswatini (swaziland)",
     "capital": "mbabane",
@@ -3163,7 +3190,8 @@
     },
     "tld": ".sz",
     "constitutional_form": "absolute monarchy",
-    "language_codes": ["ss-SZ"]},
+    "language_codes": ["ss-SZ"]
+  },
   {
     "country": "sweden",
     "capital": "stockholm",
@@ -3199,7 +3227,8 @@
     },
     "tld": ".ch",
     "constitutional_form": "republic",
-    "language_codes": ["de-CH","fr-CH","it-CH", "rm-CH"]},
+    "language_codes": ["de-CH", "fr-CH", "it-CH", "rm-CH"]
+  },
   {
     "country": "syria",
     "capital": "damascus",
@@ -3235,7 +3264,8 @@
     },
     "tld": ".tw",
     "constitutional_form": "republic",
-    "language_codes": ["zh-TW"]},
+    "language_codes": ["zh-TW"]
+  },
   {
     "country": "tajikistan",
     "capital": "dushanbe",
@@ -3253,7 +3283,8 @@
     },
     "tld": ".tj",
     "constitutional_form": "republic",
-    "language_codes": ["ru-TJ", "tg-TJ"] },
+    "language_codes": ["ru-TJ", "tg-TJ"]
+  },
   {
     "country": "tanzania",
     "capital": "dar es salaam, dodoma",
@@ -3271,7 +3302,8 @@
     },
     "tld": ".tz",
     "constitutional_form": "republic",
-    "language_codes": ["en-TZ", "sw-TZ"]},
+    "language_codes": ["en-TZ", "sw-TZ"]
+  },
   {
     "country": "thailand",
     "capital": "bangkok",
@@ -3289,7 +3321,8 @@
     },
     "tld": ".th",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["th-TH"]},
+    "language_codes": ["th-TH"]
+  },
   {
     "country": "togo",
     "capital": "lome",
@@ -3307,7 +3340,8 @@
     },
     "tld": ".tg",
     "constitutional_form": "republic",
-    "language_codes": ["fr-TG"]},
+    "language_codes": ["fr-TG"]
+  },
   {
     "country": "tonga",
     "capital": "nuku'alofa",
@@ -3325,7 +3359,8 @@
     },
     "tld": ".to",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["en-TO", "to-TO"]},
+    "language_codes": ["en-TO", "to-TO"]
+  },
   {
     "country": "trinidad and tobago",
     "capital": "port-of-spain",
@@ -3343,7 +3378,8 @@
     },
     "tld": ".tt",
     "constitutional_form": "republic",
-    "language_codes": ["en-TT"]},
+    "language_codes": ["en-TT"]
+  },
   {
     "country": "tunisia",
     "capital": "tunis",
@@ -3361,7 +3397,8 @@
     },
     "tld": ".tn",
     "constitutional_form": "republic",
-    "language_codes": ["ar-TN", "fr-TN"]},
+    "language_codes": ["ar-TN", "fr-TN"]
+  },
   {
     "country": "turkey",
     "capital": "ankara",
@@ -3379,7 +3416,8 @@
     },
     "tld": ".tr",
     "constitutional_form": "republic",
-    "language_codes": ["tr-TR"]},
+    "language_codes": ["tr-TR"]
+  },
   {
     "country": "turkmenistan",
     "capital": "ashgabat",
@@ -3397,7 +3435,8 @@
     },
     "tld": ".tm",
     "constitutional_form": "republic",
-    "language_codes": ["ru-TM", "tk-TM"]},
+    "language_codes": ["ru-TM", "tk-TM"]
+  },
   {
     "country": "tuvalu",
     "capital": "vaiaku",
@@ -3415,7 +3454,8 @@
     },
     "tld": ".tv",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["en-TV"]},
+    "language_codes": ["en-TV"]
+  },
   {
     "country": "uganda",
     "capital": "kampala",
@@ -3433,7 +3473,8 @@
     },
     "tld": ".ug",
     "constitutional_form": "republic",
-    "language_codes": ["en-UG", "sw-UG"]},
+    "language_codes": ["en-UG", "sw-UG"]
+  },
   {
     "country": "ukraine",
     "capital": "kiev",
@@ -3451,7 +3492,8 @@
     },
     "tld": ".ua",
     "constitutional_form": "republic",
-    "language_codes": ["ru-UA", "uk-UA"]},
+    "language_codes": ["ru-UA", "uk-UA"]
+  },
   {
     "country": "united arab emirates",
     "capital": "abu dhabi",
@@ -3469,7 +3511,8 @@
     },
     "tld": ".ae",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["ar-AE"]},
+    "language_codes": ["ar-AE"]
+  },
   {
     "country": "united kingdom",
     "capital": "london",
@@ -3487,7 +3530,8 @@
     },
     "tld": ".gb/.uk",
     "constitutional_form": "constitutional monarchy",
-    "language_codes": ["en-GB"]},
+    "language_codes": ["en-GB"]
+  },
   {
     "country": "united states of america",
     "capital": "washington d.c.",
@@ -3505,7 +3549,8 @@
     },
     "tld": ".us",
     "constitutional_form": "republic",
-    "language_codes": ["en-US", "es-US"]},
+    "language_codes": ["en-US", "es-US"]
+  },
   {
     "country": "uruguay",
     "capital": "montevideo",
@@ -3523,7 +3568,8 @@
     },
     "tld": ".uy",
     "constitutional_form": "republic",
-    "language_codes": ["sp-UY"]},
+    "language_codes": ["sp-UY"]
+  },
   {
     "country": "uzbekistan",
     "capital": "tashkent",
@@ -3541,7 +3587,8 @@
     },
     "tld": ".uz",
     "constitutional_form": "republic",
-    "language_codes": ["ru-UZ", "uz-UZ"]},
+    "language_codes": ["ru-UZ", "uz-UZ"]
+  },
   {
     "country": "vanuatu",
     "capital": "port-vila",
@@ -3559,7 +3606,8 @@
     },
     "tld": ".vu",
     "constitutional_form": "republic",
-    "language_codes": ["bi-VU", "en-VU","fr-VU"]},
+    "language_codes": ["bi-VU", "en-VU", "fr-VU"]
+  },
   {
     "country": "vatican city",
     "capital": "vatican city",
@@ -3577,7 +3625,8 @@
     },
     "tld": ".va",
     "constitutional_form": "absolute monarchy",
-    "language_codes": ["it-VA", "la-VA"] },
+    "language_codes": ["it-VA", "la-VA"]
+  },
   {
     "country": "venezuela",
     "capital": "caracas",
@@ -3595,7 +3644,8 @@
     },
     "tld": ".ve",
     "constitutional_form": "republic",
-    "language_codes": ["es-VE"]},
+    "language_codes": ["es-VE"]
+  },
   {
     "country": "vietnam",
     "capital": "hanoi",
@@ -3613,7 +3663,8 @@
     },
     "tld": ".vn",
     "constitutional_form": "republic",
-    "language_codes": ["vi-VN"]},
+    "language_codes": ["vi-VN"]
+  },
   {
     "country": "yemen",
     "capital": "sanaa",
@@ -3631,7 +3682,8 @@
     },
     "tld": ".ye",
     "constitutional_form": "n/a",
-    "language_codes": ["ar-YE"]},
+    "language_codes": ["ar-YE"]
+  },
   {
     "country": "zambia",
     "capital": "lusaka",
@@ -3649,7 +3701,8 @@
     },
     "tld": ".zm",
     "constitutional_form": "republic",
-    "language_codes": ["en-ZM"]},
+    "language_codes": ["en-ZM"]
+  },
   {
     "country": "zimbabwe",
     "capital": "harare",
@@ -3667,5 +3720,6 @@
     },
     "tld": ".zw",
     "constitutional_form": "republic",
-    "language_codes": ["en-ZW"]}
+    "language_codes": ["en-ZW"]
+  }
 ]
