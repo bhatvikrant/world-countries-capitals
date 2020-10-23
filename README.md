@@ -34,7 +34,7 @@ const wcc = require("world-countries-capitals");
 
 ## Usage
 
-This section contains nt to _contribute_ to open source? Try solving our issues [here](https://github.com/bhatvikrant/world-countries-capitals/issues)\_
+This section contains information about various functions that are currently supported.
 
 - `getAllCountryDetails()` <br>
   This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, **phone_code**, and its **flag**.
