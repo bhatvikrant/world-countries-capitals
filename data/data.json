@@ -21,7 +21,7 @@
     "tld": ".af",
     "constitutional_form": "republic",
     "language_codes": ["fa-AF", "ps-AF"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "albania",
@@ -45,7 +45,7 @@
     "tld": ".al",
     "constitutional_form": "republic",
     "language_codes": ["sq-AL"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "algeria",
@@ -69,7 +69,7 @@
     "tld": ".dz",
     "constitutional_form": "republic",
     "language_codes": ["ar-DZ", "fr-DZ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "andorra",
@@ -93,7 +93,7 @@
     "tld": ".ad",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ca-AD"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "angola",
@@ -117,7 +117,7 @@
     "tld": ".ao",
     "constitutional_form": "republic",
     "language_codes": ["pt-AO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "antigua & barbuda",
@@ -141,7 +141,7 @@
     "tld": ".ag",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-AG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "argentina",
@@ -165,7 +165,7 @@
     "tld": ".ar",
     "constitutional_form": "republic",
     "language_codes": ["es-AR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "armenia",
@@ -189,7 +189,7 @@
     "tld": ".am",
     "constitutional_form": "republic",
     "language_codes": ["as-AM"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "australia",
@@ -213,7 +213,7 @@
     "tld": ".au",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-AU"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "austria",
@@ -237,7 +237,7 @@
     "tld": ".at",
     "constitutional_form": "republic",
     "language_codes": ["de-AT"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "azerbaijan",
@@ -261,7 +261,7 @@
     "tld": ".az",
     "constitutional_form": "republic",
     "language_codes": ["az-AZ"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "the bahamas",
@@ -285,7 +285,7 @@
     "tld": ".bs",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-BS"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "bahrain",
@@ -309,7 +309,7 @@
     "tld": ".bh",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ar-BH"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "bangladesh",
@@ -333,7 +333,7 @@
     "tld": ".bd",
     "constitutional_form": "republic",
     "language_codes": ["bn-BD"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "barbados",
@@ -357,7 +357,7 @@
     "tld": ".bb",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-BB"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "belarus",
@@ -381,7 +381,7 @@
     "tld": ".by",
     "constitutional_form": "republic",
     "language_codes": ["be-BY", "ru-BY"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "belgium",
@@ -405,7 +405,7 @@
     "tld": ".be",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["de-BE", "fr-BE", "nl-BE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "belize",
@@ -429,7 +429,7 @@
     "tld": ".bz",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-BZ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "benin",
@@ -453,7 +453,7 @@
     "tld": ".bj",
     "constitutional_form": "republic",
     "language_codes": ["fr-BJ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "bhutan",
@@ -477,7 +477,7 @@
     "tld": ".bt",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["dz-BT"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "bolivia",
@@ -501,7 +501,7 @@
     "tld": ".bo",
     "constitutional_form": "republic",
     "language_codes": ["ay-BO", "es-BO", "qu-BO"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "bosnia and herzegovina",
@@ -525,7 +525,7 @@
     "tld": ".ba",
     "constitutional_form": "republic",
     "language_codes": ["bs-BA", "hr-BA", "sr-BA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "botswana",
@@ -549,7 +549,7 @@
     "tld": ".bw",
     "constitutional_form": "republic",
     "language_codes": ["en-BW"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "brazil",
@@ -573,7 +573,7 @@
     "tld": ".br",
     "constitutional_form": "republic",
     "language_codes": ["pt-BR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "brunei",
@@ -597,7 +597,7 @@
     "tld": ".bn",
     "constitutional_form": "absolute monarchy",
     "language_codes": ["ms-BN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "bulgaria",
@@ -621,7 +621,7 @@
     "tld": ".bg",
     "constitutional_form": "republic",
     "language_codes": ["bg-BG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "burkina faso",
@@ -645,7 +645,7 @@
     "tld": ".bf",
     "constitutional_form": "republic",
     "language_codes": ["fr-BF"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "burundi",
@@ -669,7 +669,7 @@
     "tld": ".bi",
     "constitutional_form": "republic",
     "language_codes": ["fr-BI", "rn-BI"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "cambodia",
@@ -693,7 +693,7 @@
     "tld": ".kh",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["km-KH"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "cameroon",
@@ -717,7 +717,7 @@
     "tld": ".cm",
     "constitutional_form": "republic",
     "language_codes": ["en-CM", "fr-CM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "canada",
@@ -741,7 +741,7 @@
     "tld": ".ca",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-CA", "fr-CA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "cape verde",
@@ -765,7 +765,7 @@
     "tld": ".cv",
     "constitutional_form": "republic",
     "language_codes": ["pt-CV"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "central african republic",
@@ -789,7 +789,7 @@
     "tld": ".cf",
     "constitutional_form": "republic",
     "language_codes": ["fr-CF", "sg-CF"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "chad",
@@ -813,7 +813,7 @@
     "tld": ".td",
     "constitutional_form": "republic",
     "language_codes": ["ar-TD", "fr-TD"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "chile",
@@ -837,7 +837,7 @@
     "tld": ".cl",
     "constitutional_form": "republic",
     "language_codes": ["es-CL"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "china",
@@ -861,7 +861,7 @@
     "tld": ".cn",
     "constitutional_form": "republic",
     "language_codes": ["zh-CN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "colombia",
@@ -885,7 +885,7 @@
     "tld": ".co",
     "constitutional_form": "republic",
     "language_codes": ["es-CO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "comoros",
@@ -909,7 +909,7 @@
     "tld": ".km",
     "constitutional_form": "republic",
     "language_codes": ["ar-KM", "fr-KM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "democratic republic of the congo",
@@ -933,7 +933,7 @@
     "tld": ".cd",
     "constitutional_form": "republic",
     "language_codes": ["fr-CD"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -957,7 +957,7 @@
     "tld": ".cg",
     "constitutional_form": "republic",
     "language_codes": ["fr-CG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "costa rica",
@@ -981,7 +981,7 @@
     "tld": ".cr",
     "constitutional_form": "republic",
     "language_codes": ["es-CR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -1005,7 +1005,7 @@
     "tld": ".ci",
     "constitutional_form": "republic",
     "language_codes": ["fr-CI"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "croatia",
@@ -1029,7 +1029,7 @@
     "tld": ".hr",
     "constitutional_form": "republic",
     "language_codes": ["hr-HR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "cuba",
@@ -1053,7 +1053,7 @@
     "tld": ".cu",
     "constitutional_form": "republic",
     "language_codes": ["es-CU"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "cyprus",
@@ -1077,7 +1077,7 @@
     "tld": ".cy",
     "constitutional_form": "republic",
     "language_codes": ["el-CY", "tr-CY"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "czechia",
@@ -1101,7 +1101,7 @@
     "tld": ".cz",
     "constitutional_form": "republic",
     "language_codes": ["cs-CZ"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "denmark",
@@ -1125,7 +1125,7 @@
     "tld": ".dk",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["da-DK"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "djibouti",
@@ -1149,7 +1149,7 @@
     "tld": ".dj",
     "constitutional_form": "republic",
     "language_codes": ["ar-DJ", "fr-DJ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "dominica",
@@ -1173,7 +1173,7 @@
     "tld": ".dm",
     "constitutional_form": "republic",
     "language_codes": ["en-DM", "fr-DM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "dominican republic",
@@ -1197,7 +1197,7 @@
     "tld": ".do",
     "constitutional_form": "republic",
     "language_codes": ["es-DO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "east timor (timor-leste)",
@@ -1221,7 +1221,7 @@
     "tld": ".tl",
     "constitutional_form": "republic",
     "language_codes": ["pt-TL"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "ecuador",
@@ -1245,7 +1245,7 @@
     "tld": ".ec",
     "constitutional_form": "republic",
     "language_codes": ["es-EC"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "egypt",
@@ -1269,7 +1269,7 @@
     "tld": ".eg",
     "constitutional_form": "republic",
     "language_codes": ["ar-EG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "el salvador",
@@ -1293,7 +1293,7 @@
     "tld": ".sv",
     "constitutional_form": "republic",
     "language_codes": ["es-SV"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "equitorial guinea",
@@ -1317,7 +1317,7 @@
     "tld": ".gq",
     "constitutional_form": "republic",
     "language_codes": ["es-GQ", "fr-GQ", "pt-GQ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "eritrea",
@@ -1341,7 +1341,7 @@
     "tld": ".er",
     "constitutional_form": "republic",
     "language_codes": ["ar-ER", "en-ER", "ti-ER"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "estonia",
@@ -1365,7 +1365,7 @@
     "tld": ".ee",
     "constitutional_form": "republic",
     "language_codes": ["et-EE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "ethiopia",
@@ -1389,7 +1389,7 @@
     "tld": ".et",
     "constitutional_form": "republic",
     "language_codes": ["am-ET"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "fiji",
@@ -1413,7 +1413,7 @@
     "tld": ".fj",
     "constitutional_form": "republic",
     "language_codes": ["en-FJ", "fj-FJ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "finland",
@@ -1437,7 +1437,7 @@
     "tld": ".fi",
     "constitutional_form": "republic",
     "language_codes": ["fi-FI", "sv-FI"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "france",
@@ -1461,7 +1461,7 @@
     "tld": ".fr",
     "constitutional_form": "republic",
     "language_codes": ["fr-FR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "gabon",
@@ -1485,7 +1485,7 @@
     "tld": ".ga",
     "constitutional_form": "republic",
     "language_codes": ["fr-GA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "the gambia",
@@ -1509,7 +1509,7 @@
     "tld": ".gm",
     "constitutional_form": "republic",
     "language_codes": ["en-GM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "georgia",
@@ -1533,7 +1533,7 @@
     "tld": ".ge",
     "constitutional_form": "republic",
     "language_codes": ["ka-GE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "germany",
@@ -1557,7 +1557,7 @@
     "tld": ".de",
     "constitutional_form": "republic",
     "language_codes": ["de-DE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "ghana",
@@ -1581,7 +1581,7 @@
     "tld": ".gh",
     "constitutional_form": "republic",
     "language_codes": ["en-GH"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "greece",
@@ -1605,7 +1605,7 @@
     "tld": ".gr",
     "constitutional_form": "republic",
     "language_codes": ["el-GR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "grenada",
@@ -1629,7 +1629,7 @@
     "tld": ".gd",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-GD"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "guatemala",
@@ -1653,7 +1653,7 @@
     "tld": ".gt",
     "constitutional_form": "republic",
     "language_codes": ["es-GT"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "guinea",
@@ -1677,7 +1677,7 @@
     "tld": ".gn",
     "constitutional_form": "republic",
     "language_codes": ["fr-GN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "guinea-bissau",
@@ -1701,7 +1701,7 @@
     "tld": ".gw",
     "constitutional_form": "republic",
     "language_codes": ["pt-GW"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "guyana",
@@ -1725,7 +1725,7 @@
     "tld": ".gy",
     "constitutional_form": "republic",
     "language_codes": ["en-GY"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "haiti",
@@ -1749,7 +1749,7 @@
     "tld": ".ht",
     "constitutional_form": "republic",
     "language_codes": ["fr-HT", "ht-HT"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "honduras",
@@ -1773,7 +1773,7 @@
     "tld": ".hn",
     "constitutional_form": "republic",
     "language_codes": ["es-HN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "hungary",
@@ -1797,7 +1797,7 @@
     "tld": ".hu",
     "constitutional_form": "republic",
     "language_codes": ["hu-HU"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "iceland",
@@ -1821,7 +1821,7 @@
     "tld": ".is",
     "constitutional_form": "republic",
     "language_codes": ["is-IS"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "india",
@@ -1845,7 +1845,7 @@
     "tld": ".in",
     "constitutional_form": "republic",
     "language_codes": ["en-IN", "hi-IN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "indonesia",
@@ -1869,7 +1869,7 @@
     "tld": ".id",
     "constitutional_form": "republic",
     "language_codes": ["id-ID"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "iran",
@@ -1893,7 +1893,7 @@
     "tld": ".ir",
     "constitutional_form": "republic",
     "language_codes": ["fa-IR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "iraq",
@@ -1917,7 +1917,7 @@
     "tld": ".iq",
     "constitutional_form": "republic",
     "language_codes": ["ar-IK", "ku-IK"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "republic of ireland",
@@ -1941,7 +1941,7 @@
     "tld": ".ie",
     "constitutional_form": "republic",
     "language_codes": ["en-IE", "ga-IE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "israel",
@@ -1965,7 +1965,7 @@
     "tld": ".il",
     "constitutional_form": "republic",
     "language_codes": [ "ar-IL", "he-IL"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "italy",
@@ -1989,7 +1989,7 @@
     "tld": ".it",
     "constitutional_form": "republic",
     "language_codes": ["it-IT"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "jamaica",
@@ -2013,7 +2013,7 @@
     "tld": ".jm",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-JM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "japan",
@@ -2037,7 +2037,7 @@
     "tld": ".jp",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ja-JP"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "jordan",
@@ -2061,7 +2061,7 @@
     "tld": ".jo",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ar-JO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "kazakhstan",
@@ -2085,7 +2085,7 @@
     "tld": ".kz",
     "constitutional_form": "republic",
     "language_codes": ["kk-KZ", "ru-KZ"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "kenya",
@@ -2109,7 +2109,7 @@
     "tld": ".ke",
     "constitutional_form": "republic",
     "language_codes": ["en-KE", "sw-KE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "kiribati",
@@ -2133,7 +2133,7 @@
     "tld": ".ki",
     "constitutional_form": "republic",
     "language_codes": ["en-KI"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "north korea",
@@ -2157,7 +2157,7 @@
     "tld": ".kp",
     "constitutional_form": "republic",
     "language_codes": ["ko-KP"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "south korea",
@@ -2205,7 +2205,7 @@
     "tld": ".rs",
     "constitutional_form": "republic",
     "language_codes": ["sr-XK", "sq-XK"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "kuwait",
@@ -2229,7 +2229,7 @@
     "tld": ".kw",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ar-KW", "en-KW"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "kyrgyzstan",
@@ -2253,7 +2253,7 @@
     "tld": ".kg",
     "constitutional_form": "republic",
     "language_codes": ["ky-KG", "ru-KG"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "laos",
@@ -2277,7 +2277,7 @@
     "tld": ".la",
     "constitutional_form": "republic",
     "language_codes": ["lo-LA"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "latvia",
@@ -2301,7 +2301,7 @@
     "tld": ".lv",
     "constitutional_form": "republic",
     "language_codes": ["lv-LV"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "lebanon",
@@ -2325,7 +2325,7 @@
     "tld": ".lb",
     "constitutional_form": "republic",
     "language_codes": ["ar-LB", "fr-LB"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "lesotho",
@@ -2349,7 +2349,7 @@
     "tld": ".ls",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-LS", "st-LS"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "liberia",
@@ -2373,7 +2373,7 @@
     "tld": ".lr",
     "constitutional_form": "republic",
     "language_codes": ["en-LR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "libya",
@@ -2397,7 +2397,7 @@
     "tld": ".ly",
     "constitutional_form": "n/a",
     "language_codes": ["ar-LY"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "liechtenstein",
@@ -2421,7 +2421,7 @@
     "tld": ".li",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["de-LI"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "lithuania",
@@ -2445,7 +2445,7 @@
     "tld": ".lt",
     "constitutional_form": "republic",
     "language_codes": ["lt-LT"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "luxembourg",
@@ -2469,7 +2469,7 @@
     "tld": ".lu",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["de-LU", "fr-LU", "lb-LU"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -2493,7 +2493,7 @@
     "tld": ".mk",
     "constitutional_form": "republic",
     "language_codes": ["mk-MK", "sq-MK"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "madagascar",
@@ -2517,7 +2517,7 @@
     "tld": ".mg",
     "constitutional_form": "republic",
     "language_codes": ["fr-MG", "mg-MG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "malawi",
@@ -2541,7 +2541,7 @@
     "tld": ".mw",
     "constitutional_form": "republic",
     "language_codes": ["en-MW", "ny-MW"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "malaysia",
@@ -2565,7 +2565,7 @@
     "tld": ".my",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ms-MY"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "maldives",
@@ -2589,7 +2589,7 @@
     "tld": ".mv",
     "constitutional_form": "republic",
     "language_codes": ["dv-MV"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "mali",
@@ -2613,7 +2613,7 @@
     "tld": ".ml",
     "constitutional_form": "n/a",
     "language_codes": ["fr-ML"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "malta",
@@ -2637,7 +2637,7 @@
     "tld": ".mt",
     "constitutional_form": "republic",
     "language_codes": ["en-MT", "mt-MT"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "marshall islands",
@@ -2661,7 +2661,7 @@
     "tld": ".mh",
     "constitutional_form": "republic",
     "language_codes": ["en-MH", "mh-MH"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "mauritania",
@@ -2685,7 +2685,7 @@
     "tld": ".mr",
     "constitutional_form": "republic",
     "language_codes": ["ar-MR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "mauritius",
@@ -2709,7 +2709,7 @@
     "tld": ".mu",
     "constitutional_form": "republic",
     "language_codes": ["en-MU"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "mexico",
@@ -2733,7 +2733,7 @@
     "tld": ".mx",
     "constitutional_form": "republic",
     "language_codes": ["es-MX"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "federal states of micronesia",
@@ -2757,7 +2757,7 @@
     "tld": ".fm",
     "constitutional_form": "republic",
     "language_codes": ["en-FM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "moldova",
@@ -2781,7 +2781,7 @@
     "tld": ".md",
     "constitutional_form": "republic",
     "language_codes": ["ro-MD"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "monaco",
@@ -2805,7 +2805,7 @@
     "tld": ".mc",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["fr-MC"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "mongolia",
@@ -2829,7 +2829,7 @@
     "tld": ".mn",
     "constitutional_form": "republic",
     "language_codes": ["mn-MN"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "montenegro",
@@ -2853,7 +2853,7 @@
     "tld": ".me",
     "constitutional_form": "republic",
     "language_codes": ["sr-ME"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "morocco",
@@ -2877,7 +2877,7 @@
     "tld": ".ma",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ar-MA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "mozambique",
@@ -2901,7 +2901,7 @@
     "tld": ".mz",
     "constitutional_form": "republic",
     "language_codes": ["pt-MZ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "myanmar (burma)",
@@ -2925,7 +2925,7 @@
     "tld": ".mm",
     "constitutional_form": "republic",
     "language_codes": ["my-MM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "namibia",
@@ -2949,7 +2949,7 @@
     "tld": ".na",
     "constitutional_form": "republic",
     "language_codes": ["af-NA", "de-NA", "en-NA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "nauru",
@@ -2973,7 +2973,7 @@
     "tld": ".nr",
     "constitutional_form": "republic",
     "language_codes": ["en-NR", "na-NR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "nepal",
@@ -2997,7 +2997,7 @@
     "tld": ".np",
     "constitutional_form": "republic",
     "language_codes": ["ne-NP"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "netherlands",
@@ -3021,7 +3021,7 @@
     "tld": ".nl",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["nl-NL"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "new zealand",
@@ -3045,7 +3045,7 @@
     "tld": ".nz",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-NZ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "nicaragua",
@@ -3069,7 +3069,7 @@
     "tld": ".ni",
     "constitutional_form": "republic",
     "language_codes": ["es-NA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "niger",
@@ -3093,7 +3093,7 @@
     "tld": ".ne",
     "constitutional_form": "republic",
     "language_codes": ["fr-NE"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "nigeria",
@@ -3117,7 +3117,7 @@
     "tld": ".ng",
     "constitutional_form": "republic",
     "language_codes": ["en-NG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "norway",
@@ -3141,7 +3141,7 @@
     "tld": ".no",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["no-NO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "oman",
@@ -3165,7 +3165,7 @@
     "tld": ".om",
     "constitutional_form": "absolute monarchy",
     "language_codes": ["ar-OM"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "pakistan",
@@ -3189,7 +3189,7 @@
     "tld": ".pk",
     "constitutional_form": "republic",
     "language_codes": [ "en-PK", "ur-PK"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "palau",
@@ -3213,7 +3213,7 @@
     "tld": ".pw",
     "constitutional_form": "republic",
     "language_codes": ["en-PW"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "panama",
@@ -3237,7 +3237,7 @@
     "tld": ".pa",
     "constitutional_form": "republic",
     "language_codes": ["es-PA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "papa new guinea",
@@ -3261,7 +3261,7 @@
     "tld": ".pg",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-PG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "paraguay",
@@ -3285,7 +3285,7 @@
     "tld": ".py",
     "constitutional_form": "republic",
     "language_codes": ["es-PY", "gn-PY"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "peru",
@@ -3309,7 +3309,7 @@
     "tld": ".pe",
     "constitutional_form": "republic",
     "language_codes": ["es-PE", "qu-PE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "philippines",
@@ -3333,7 +3333,7 @@
     "tld": ".ph",
     "constitutional_form": "republic",
     "language_codes": ["en-PH", "tl-PH"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "poland",
@@ -3357,7 +3357,7 @@
     "tld": ".pl",
     "constitutional_form": "republic",
     "language_codes": ["pl-PL"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "portugal",
@@ -3381,7 +3381,7 @@
     "tld": ".pt",
     "constitutional_form": "republic",
     "language_codes": ["pt-PT"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "qatar",
@@ -3405,7 +3405,7 @@
     "tld": ".qa",
     "constitutional_form": "absolute monarchy",
     "language_codes": ["ar-QA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "romania",
@@ -3429,7 +3429,7 @@
     "tld": ".ro",
     "constitutional_form": "republic",
     "language_codes": ["ro-RO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "russia",
@@ -3453,7 +3453,7 @@
     "tld": ".ru",
     "constitutional_form": "republic",
     "language_codes": ["ru-RU"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "rwanda",
@@ -3477,7 +3477,7 @@
     "tld": ".rw",
     "constitutional_form": "republic",
     "language_codes": ["en-RW", "fr-RW", "rw-RW"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "saint kitts and nevis",
@@ -3501,7 +3501,7 @@
     "tld": ".kn",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-KN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "saint lucia",
@@ -3525,7 +3525,7 @@
     "tld": ".lc",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-LC", "fr-LC"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "saint vincent and the grenadines",
@@ -3549,7 +3549,7 @@
     "tld": ".vc",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-VC"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "samoa",
@@ -3573,7 +3573,7 @@
     "tld": ".ws",
     "constitutional_form": "republic",
     "language_codes": ["en-WS", "sm-WS"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "san marino",
@@ -3597,7 +3597,7 @@
     "tld": ".sm",
     "constitutional_form": "republic",
     "language_codes": ["it-SM"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "sao tome and principe",
@@ -3621,7 +3621,7 @@
     "tld": ".st",
     "constitutional_form": "republic",
     "language_codes": ["pt-ST"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "saudi arabia",
@@ -3645,7 +3645,7 @@
     "tld": ".sa",
     "constitutional_form": "absolute monarchy",
     "language_codes": ["ar-SA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "senegal",
@@ -3669,7 +3669,7 @@
     "tld": ".sn",
     "constitutional_form": "republic",
     "language_codes": ["fr-SN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "serbia",
@@ -3693,7 +3693,7 @@
     "tld": ".rs",
     "constitutional_form": "republic",
     "language_codes": ["sr-RS"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "seychelles",
@@ -3717,7 +3717,7 @@
     "tld": ".sc",
     "constitutional_form": "republic",
     "language_codes": ["en-SC", "fr-SC"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "sierra leone",
@@ -3741,7 +3741,7 @@
     "tld": ".sl",
     "constitutional_form": "republic",
     "language_codes": ["en-SL"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "singapore",
@@ -3765,7 +3765,7 @@
     "tld": ".sg",
     "constitutional_form": "republic",
     "language_codes": ["en-SG", "ms-SG", "zh-SG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "slovakia",
@@ -3789,7 +3789,7 @@
     "tld": ".sk",
     "constitutional_form": "republic",
     "language_codes": ["sk-SK"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "slovenia",
@@ -3813,7 +3813,7 @@
     "tld": ".si",
     "constitutional_form": "republic",
     "language_codes": ["sl-SI"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "solomon islands",
@@ -3837,7 +3837,7 @@
     "tld": ".sb",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-SB"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "somalia",
@@ -3861,7 +3861,7 @@
     "tld": ".so",
     "constitutional_form": "republic",
     "language_codes": ["so-SO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "south africa",
@@ -3885,7 +3885,7 @@
     "tld": ".za",
     "constitutional_form": "republic",
     "language_codes": ["af-ZA", "en-ZA", "xh-ZA", "zu-ZA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -3909,7 +3909,7 @@
     "tld": ".ss",
     "constitutional_form": "republic",
     "language_codes": ["ar-SS", "en-SS"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "spain",
@@ -3933,7 +3933,7 @@
     "tld": ".es",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ca-ES", "es-ES"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "sri lanka",
@@ -3957,7 +3957,7 @@
     "tld": ".lk",
     "constitutional_form": "republic",
     "language_codes": ["si-LK", "ta-LK"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -3981,7 +3981,7 @@
     "tld": ".sd",
     "constitutional_form": "n/a",
     "language_codes": ["ar-SD", "en-SD"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "suriname",
@@ -4005,7 +4005,7 @@
     "tld": ".sr",
     "constitutional_form": "republic",
     "language_codes": ["nl-SR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "eswatini (swaziland)",
@@ -4029,7 +4029,7 @@
     "tld": ".sz",
     "constitutional_form": "absolute monarchy",
     "language_codes": ["ss-SZ"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "sweden",
@@ -4053,7 +4053,7 @@
     "tld": ".se",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["sv-SE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "switzerland",
@@ -4076,7 +4076,7 @@
     "tld": ".ch",
     "constitutional_form": "republic",
     "language_codes": ["de-CH", "fr-CH", "it-CH", "rm-CH"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "syria",
@@ -4100,7 +4100,7 @@
     "tld": ".sy",
     "constitutional_form": "republic",
     "language_codes": ["ar-SY"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "taiwan",
@@ -4124,7 +4124,7 @@
     "tld": ".tw",
     "constitutional_form": "republic",
     "language_codes": ["zh-TW"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "tajikistan",
@@ -4148,7 +4148,7 @@
     "tld": ".tj",
     "constitutional_form": "republic",
     "language_codes": ["ru-TJ", "tg-TJ"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "tanzania",
@@ -4172,7 +4172,7 @@
     "tld": ".tz",
     "constitutional_form": "republic",
     "language_codes": ["en-TZ", "sw-TZ"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "thailand",
@@ -4196,7 +4196,7 @@
     "tld": ".th",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["th-TH"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "togo",
@@ -4220,7 +4220,7 @@
     "tld": ".tg",
     "constitutional_form": "republic",
     "language_codes": ["fr-TG"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "tonga",
@@ -4244,7 +4244,7 @@
     "tld": ".to",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-TO", "to-TO"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "trinidad and tobago",
@@ -4268,7 +4268,7 @@
     "tld": ".tt",
     "constitutional_form": "republic",
     "language_codes": ["en-TT"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "tunisia",
@@ -4292,7 +4292,7 @@
     "tld": ".tn",
     "constitutional_form": "republic",
     "language_codes": ["ar-TN", "fr-TN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "turkey",
@@ -4316,7 +4316,7 @@
     "tld": ".tr",
     "constitutional_form": "republic",
     "language_codes": ["tr-TR"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "turkmenistan",
@@ -4340,7 +4340,7 @@
     "tld": ".tm",
     "constitutional_form": "republic",
     "language_codes": ["ru-TM", "tk-TM"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "tuvalu",
@@ -4364,7 +4364,7 @@
     "tld": ".tv",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-TV"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "uganda",
@@ -4388,7 +4388,7 @@
     "tld": ".ug",
     "constitutional_form": "republic",
     "language_codes": ["en-UG", "sw-UG"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "ukraine",
@@ -4412,7 +4412,7 @@
     "tld": ".ua",
     "constitutional_form": "republic",
     "language_codes": ["ru-UA", "uk-UA"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "united arab emirates",
@@ -4436,7 +4436,7 @@
     "tld": ".ae",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["ar-AE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "united kingdom",
@@ -4460,7 +4460,7 @@
     "tld": ".gb/.uk",
     "constitutional_form": "constitutional monarchy",
     "language_codes": ["en-GB"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "united states of america",
@@ -4484,7 +4484,7 @@
     "tld": ".us",
     "constitutional_form": "republic",
     "language_codes": ["en-US", "es-US"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "uruguay",
@@ -4508,7 +4508,7 @@
     "tld": ".uy",
     "constitutional_form": "republic",
     "language_codes": ["sp-UY"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "uzbekistan",
@@ -4532,7 +4532,7 @@
     "tld": ".uz",
     "constitutional_form": "republic",
     "language_codes": ["ru-UZ", "uz-UZ"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "vanuatu",
@@ -4556,7 +4556,7 @@
     "tld": ".vu",
     "constitutional_form": "republic",
     "language_codes": ["bi-VU", "en-VU", "fr-VU"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "vatican city",
@@ -4580,7 +4580,7 @@
     "tld": ".va",
     "constitutional_form": "absolute monarchy",
     "language_codes": ["it-VA", "la-VA"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "venezuela",
@@ -4604,7 +4604,7 @@
     "tld": ".ve",
     "constitutional_form": "republic",
     "language_codes": ["es-VE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "vietnam",
@@ -4628,7 +4628,7 @@
     "tld": ".vn",
     "constitutional_form": "republic",
     "language_codes": ["vi-VN"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "yemen",
@@ -4652,7 +4652,7 @@
     "tld": ".ye",
     "constitutional_form": "n/a",
     "language_codes": ["ar-YE"],
-    "is_landlocked": false,
+    "is_landlocked": false
   },
   {
     "country": "zambia",
@@ -4676,7 +4676,7 @@
     "tld": ".zm",
     "constitutional_form": "republic",
     "language_codes": ["en-ZM"],
-    "is_landlocked": true,
+    "is_landlocked": true
   },
   {
     "country": "zimbabwe",
@@ -4700,6 +4700,6 @@
     "tld": ".zw",
     "constitutional_form": "republic",
     "language_codes": ["en-ZW"],
-    "is_landlocked": true,
+    "is_landlocked": true
   }
 ]
