@@ -25,6 +25,10 @@ describe("The index", () => {
         phone_code: "+93",
         flag: "https://flagpedia.net/data/flags/h80/af.png",
         drive_direction: "right",
+        area: {
+          km2: 652864,
+          mi2: 252072,
+        },
         continent: "as",
         iso: {
           numeric: "004",
@@ -33,7 +37,7 @@ describe("The index", () => {
         },
         tld: ".af",
         constitutional_form: "republic",
-        language_codes: ["fa-AF", "ps-AF"]
+        language_codes: ["fa-AF", "ps-AF"],
       });
     });
   });
@@ -49,6 +53,10 @@ describe("The index", () => {
         phone_code: "+355",
         flag: "https://flagpedia.net/data/flags/h80/al.png",
         drive_direction: "right",
+        area: {
+          km2: 28748,
+          mi2: 11100,
+        },
         continent: "eu",
         iso: {
           numeric: "008",
@@ -57,7 +65,7 @@ describe("The index", () => {
         },
         tld: ".al",
         constitutional_form: "republic",
-        language_codes: ["sq-AL"]
+        language_codes: ["sq-AL"],
       });
     });
   });
@@ -79,6 +87,10 @@ describe("The index", () => {
         phone_code: "+387",
         flag: "https://flagpedia.net/data/flags/h80/ba.png",
         drive_direction: "right",
+        area: {
+          km2: 51209,
+          mi2: 19772,
+        },
         continent: "eu",
         iso: {
           numeric: "070",
@@ -87,7 +99,7 @@ describe("The index", () => {
         },
         tld: ".ba",
         constitutional_form: "republic",
-        language_codes: ["bs-BA", "hr-BA", "sr-BA"]
+        language_codes: ["bs-BA", "hr-BA", "sr-BA"],
       });
     });
   });
@@ -186,7 +198,7 @@ describe("The index", () => {
         },
         "tld": ".au",
         "constitutional_form": "constitutional monarchy",
-        "language_codes": ["en-AU"]
+        "language_codes": ["en-AU"],
       },
       {
         "country": "fiji",
@@ -205,7 +217,7 @@ describe("The index", () => {
         },
         "tld": ".fj",
         "constitutional_form": "republic",
-        "language_codes": ["en-FJ", "fj-FJ"]
+        "language_codes": ["en-FJ", "fj-FJ"],
       },
       {
         "country": "kiribati",
@@ -224,7 +236,7 @@ describe("The index", () => {
         },
         "tld": ".ki",
         "constitutional_form": "republic",
-        "language_codes": ["en-KI"]
+        "language_codes": ["en-KI"],
       },
       {
         "country": "marshall islands",
@@ -243,7 +255,7 @@ describe("The index", () => {
         },
         "tld": ".mh",
         "constitutional_form": "republic",
-        "language_codes": ["en-MH", "mh-MH"]
+        "language_codes": ["en-MH", "mh-MH"],
       },
       {
         "country": "federal states of micronesia",
@@ -262,7 +274,7 @@ describe("The index", () => {
         },
         "tld": ".fm",
         "constitutional_form": "republic",
-        "language_codes": ["en-FM"]
+        "language_codes": ["en-FM"],
       },
       {
         "country": "nauru",
@@ -281,7 +293,7 @@ describe("The index", () => {
         },
         "tld": ".nr",
         "constitutional_form": "republic",
-        "language_codes": ["en-NR", "na-NR"]
+        "language_codes": ["en-NR", "na-NR"],
       },
       {
         "country": "new zealand",
@@ -300,7 +312,7 @@ describe("The index", () => {
         },
         "tld": ".nz",
         "constitutional_form": "constitutional monarchy",
-        "language_codes": ["en-NZ"]
+        "language_codes": ["en-NZ"],
       },
       {
         "country": "palau",
@@ -319,7 +331,7 @@ describe("The index", () => {
         },
         "tld": ".pw",
         "constitutional_form": "republic",
-        "language_codes": ["en-PW"]
+        "language_codes": ["en-PW"],
       },
       {
         "country": "papa new guinea",
@@ -338,7 +350,7 @@ describe("The index", () => {
         },
         "tld": ".pg",
         "constitutional_form": "constitutional monarchy",
-        "language_codes": ["en-PG"]
+        "language_codes": ["en-PG"],
       },
       {
         "country": "samoa",
@@ -357,7 +369,7 @@ describe("The index", () => {
         },
         "tld": ".ws",
         "constitutional_form": "republic",
-        "language_codes": ["en-WS", "sm-WS"]
+        "language_codes": ["en-WS", "sm-WS"],
       },
       {
         "country": "solomon islands",
@@ -376,7 +388,7 @@ describe("The index", () => {
         },
         "tld": ".sb",
         "constitutional_form": "constitutional monarchy",
-        "language_codes": ["en-SB"]
+        "language_codes": ["en-SB"],
       },
       {
         "country": "tonga",
@@ -395,7 +407,7 @@ describe("The index", () => {
         },
         "tld": ".to",
         "constitutional_form": "constitutional monarchy",
-        "language_codes": ["en-TO", "to-TO"]
+        "language_codes": ["en-TO", "to-TO"],
       },
       {
         "country": "tuvalu",
@@ -414,7 +426,7 @@ describe("The index", () => {
         },
         "tld": ".tv",
         "constitutional_form": "constitutional monarchy",
-        "language_codes": ["en-TV"]
+        "language_codes": ["en-TV"],
       },
       {
         "country": "vanuatu",
@@ -433,7 +445,7 @@ describe("The index", () => {
         },
         "tld": ".vu",
         "constitutional_form": "republic",
-        "language_codes": ["bi-VU", "en-VU", "fr-VU"]
+        "language_codes": ["bi-VU", "en-VU", "fr-VU"],
       },
     ];
     const asiaCountries = countryApi.getCountriesByContinent("as");
@@ -475,7 +487,7 @@ describe("The index", () => {
       },
       "tld": ".pl",
       "constitutional_form": "republic",
-      "language_codes": ["pl-PL"]
+      "language_codes": ["pl-PL"],
     };
 
     it("returns correct country using numeric ISO", () => {
@@ -508,7 +520,7 @@ describe("The index", () => {
       },
       "tld": ".pl",
       "constitutional_form": "republic",
-      "language_codes": ["pl-PL"]
+      "language_codes": ["pl-PL"],
     };
     const dotRSCountries = countryApi.getCountriesByTLD(".RS");
     const expectedDotRSCountries = [
@@ -529,7 +541,7 @@ describe("The index", () => {
         },
         "tld": ".rs",
         "constitutional_form": "republic",
-        "language_codes": ["sr-XK", "sq-XK"]
+        "language_codes": ["sr-XK", "sq-XK"],
       },
       {
         "country": "serbia",
@@ -548,7 +560,7 @@ describe("The index", () => {
         },
         "tld": ".rs",
         "constitutional_form": "republic",
-        "language_codes": ["sr-RS"]
+        "language_codes": ["sr-RS"],
       },
     ];
     const [dotUKCountry] = countryApi.getCountriesByTLD(".uk");
@@ -569,7 +581,7 @@ describe("The index", () => {
       },
       "tld": ".gb/.uk",
       "constitutional_form": "constitutional monarchy",
-      "language_codes": ["en-GB"]
+      "language_codes": ["en-GB"],
     };
     const [dotGBCountry] = countryApi.getCountriesByTLD(".GB");
 

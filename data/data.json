@@ -8,6 +8,10 @@
     "phone_code": "+93",
     "flag": "https://flagpedia.net/data/flags/h80/af.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 652864,
+      "mi2": 252072
+    },
     "continent": "as",
     "iso": {
       "numeric": "004",
@@ -27,6 +31,10 @@
     "phone_code": "+355",
     "flag": "https://flagpedia.net/data/flags/h80/al.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 28748,
+      "mi2": 11100
+    },
     "continent": "eu",
     "iso": {
       "numeric": "008",
@@ -46,6 +54,10 @@
     "phone_code": "+213",
     "flag": "https://flagpedia.net/data/flags/h80/dz.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 2381741,
+      "mi2": 919595
+    },
     "continent": "af",
     "iso": {
       "numeric": "012",
@@ -65,6 +77,10 @@
     "phone_code": "+376",
     "flag": "https://flagpedia.net/data/flags/h80/ad.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 468,
+      "mi2": 181
+    },
     "continent": "eu",
     "iso": {
       "numeric": "020",
@@ -84,6 +100,10 @@
     "phone_code": "+244",
     "flag": "https://flagpedia.net/data/flags/h80/ao.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1246700,
+      "mi2": 481400
+    },
     "continent": "af",
     "iso": {
       "numeric": "024",
@@ -103,6 +123,10 @@
     "phone_code": "+1-268",
     "flag": "https://flagpedia.net/data/flags/h80/ag.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 442,
+      "mi2": 171
+    },
     "continent": "na",
     "iso": {
       "numeric": "028",
@@ -122,6 +146,10 @@
     "phone_code": "+54",
     "flag": "https://flagpedia.net/data/flags/h80/ar.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 2780400,
+      "mi2": 1073500
+    },
     "continent": "sa",
     "iso": {
       "numeric": "032",
@@ -141,6 +169,10 @@
     "phone_code": "+374",
     "flag": "https://flagpedia.net/data/flags/h80/am.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 29743,
+      "mi2": 11484
+    },
     "continent": "af",
     "iso": {
       "numeric": "051",
@@ -160,6 +192,10 @@
     "phone_code": "+61",
     "flag": "https://flagpedia.net/data/flags/h80/au.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 7692024,
+      "mi2": 2969907
+    },
     "continent": "oc",
     "iso": {
       "numeric": "036",
@@ -179,6 +215,10 @@
     "phone_code": "+43",
     "flag": "https://flagpedia.net/data/flags/h80/at.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 83871,
+      "mi2": 32383
+    },
     "continent": "eu",
     "iso": {
       "numeric": "040",
@@ -198,6 +238,10 @@
     "phone_code": "+994",
     "flag": "https://flagpedia.net/data/flags/h80/az.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 86600,
+      "mi2": 33400
+    },
     "continent": "as",
     "iso": {
       "numeric": "031",
@@ -217,6 +261,10 @@
     "phone_code": "+1-242",
     "flag": "https://flagpedia.net/data/flags/h80/bs.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 13943,
+      "mi2": 5383
+    },
     "continent": "na",
     "iso": {
       "numeric": "044",
@@ -236,6 +284,10 @@
     "phone_code": "+973",
     "flag": "https://flagpedia.net/data/flags/h80/bh.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 778,
+      "mi2": 300
+    },
     "continent": "as",
     "iso": {
       "numeric": "048",
@@ -255,6 +307,10 @@
     "phone_code": "+880",
     "flag": "https://flagpedia.net/data/flags/h80/bd.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 147570,
+      "mi2": 56980
+    },
     "continent": "as",
     "iso": {
       "numeric": "050",
@@ -274,6 +330,10 @@
     "phone_code": "+1-246",
     "flag": "https://flagpedia.net/data/flags/h80/bb.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 430,
+      "mi2": 170
+    },
     "continent": "na",
     "iso": {
       "numeric": "052",
@@ -293,6 +353,10 @@
     "phone_code": "+375",
     "flag": "https://flagpedia.net/data/flags/h80/by.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 207600,
+      "mi2": 80200
+    },
     "continent": "eu",
     "iso": {
       "numeric": "112",
@@ -312,6 +376,10 @@
     "phone_code": "+32",
     "flag": "https://flagpedia.net/data/flags/h80/be.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 30528,
+      "mi2": 11787
+    },
     "continent": "eu",
     "iso": {
       "numeric": "056",
@@ -331,6 +399,10 @@
     "phone_code": "+501",
     "flag": "https://flagpedia.net/data/flags/h80/bz.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 22966,
+      "mi2": 8867
+    },
     "continent": "na",
     "iso": {
       "numeric": "084",
@@ -350,6 +422,10 @@
     "phone_code": "+229",
     "flag": "https://flagpedia.net/data/flags/h80/bj.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 114763,
+      "mi2": 44310
+    },
     "continent": "af",
     "iso": {
       "numeric": "204",
@@ -369,6 +445,10 @@
     "phone_code": "+975",
     "flag": "https://flagpedia.net/data/flags/h80/bt.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 38394,
+      "mi2": 14824
+    },
     "continent": "as",
     "iso": {
       "numeric": "064",
@@ -388,6 +468,10 @@
     "phone_code": "+591",
     "flag": "https://flagpedia.net/data/flags/h80/bo.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1098581,
+      "mi2": 424164
+    },
     "continent": "sa",
     "iso": {
       "numeric": "068",
@@ -407,6 +491,10 @@
     "phone_code": "+387",
     "flag": "https://flagpedia.net/data/flags/h80/ba.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 51209,
+      "mi2": 19772
+    },
     "continent": "eu",
     "iso": {
       "numeric": "070",
@@ -426,6 +514,10 @@
     "phone_code": "+267",
     "flag": "https://flagpedia.net/data/flags/h80/bw.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 581730,
+      "mi2": 224610
+    },
     "continent": "af",
     "iso": {
       "numeric": "072",
@@ -445,6 +537,10 @@
     "phone_code": "+55",
     "flag": "https://flagpedia.net/data/flags/h80/br.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 8515767,
+      "mi2": 3287956
+    },
     "continent": "sa",
     "iso": {
       "numeric": "076",
@@ -464,6 +560,10 @@
     "phone_code": "+673",
     "flag": "https://flagpedia.net/data/flags/h80/bn.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 5765,
+      "mi2": 2226
+    },
     "continent": "as",
     "iso": {
       "numeric": "096",
@@ -483,6 +583,10 @@
     "phone_code": "+359",
     "flag": "https://flagpedia.net/data/flags/h80/bg.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 111002,
+      "mi2": 42858
+    },
     "continent": "eu",
     "iso": {
       "numeric": "100",
@@ -502,6 +606,10 @@
     "phone_code": "+226",
     "flag": "https://flagpedia.net/data/flags/h80/bf.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 274222,
+      "mi2": 105878
+    },
     "continent": "af",
     "iso": {
       "numeric": "854",
@@ -521,6 +629,10 @@
     "phone_code": "+257",
     "flag": "https://flagpedia.net/data/flags/h80/bi.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 27834,
+      "mi2": 10747
+    },
     "continent": "af",
     "iso": {
       "numeric": "108",
@@ -540,6 +652,10 @@
     "phone_code": "+855",
     "flag": "https://flagpedia.net/data/flags/h80/kh.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 181035,
+      "mi2": 69898
+    },
     "continent": "as",
     "iso": {
       "numeric": "116",
@@ -559,6 +675,10 @@
     "phone_code": "+237",
     "flag": "https://flagpedia.net/data/flags/h80/cm.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 475442,
+      "mi2": 183569
+    },
     "continent": "af",
     "iso": {
       "numeric": "120",
@@ -578,6 +698,10 @@
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/ca.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 9984670,
+      "mi2": 3855100
+    },
     "continent": "na",
     "iso": {
       "numeric": "124",
@@ -597,6 +721,10 @@
     "phone_code": "+238",
     "flag": "https://flagpedia.net/data/flags/h80/cv.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 4033,
+      "mi2": 1557
+    },
     "continent": "af",
     "iso": {
       "numeric": "132",
@@ -617,6 +745,10 @@
     "phone_code": "+236",
     "flag": "https://flagpedia.net/data/flags/h80/cf.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 622984,
+      "mi2": 240535
+    },
     "continent": "af",
     "iso": {
       "numeric": "140",
@@ -636,6 +768,10 @@
     "phone_code": "+235",
     "flag": "https://flagpedia.net/data/flags/h80/td.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1284000,
+      "mi2": 496000
+    },
     "continent": "af",
     "iso": {
       "numeric": "148",
@@ -655,6 +791,10 @@
     "phone_code": "+56",
     "flag": "https://flagpedia.net/data/flags/h80/cl.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 756102,
+      "mi2": 291933
+    },
     "continent": "sa",
     "iso": {
       "numeric": "152",
@@ -674,6 +814,10 @@
     "phone_code": "+86",
     "flag": "https://flagpedia.net/data/flags/h80/cn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 9596961,
+      "mi2": 3705407
+    },
     "continent": "as",
     "iso": {
       "numeric": "156",
@@ -693,6 +837,10 @@
     "phone_code": "+57",
     "flag": "https://flagpedia.net/data/flags/h80/co.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1141748,
+      "mi2": 440831
+    },
     "continent": "sa",
     "iso": {
       "numeric": "170",
@@ -712,6 +860,10 @@
     "phone_code": "+269",
     "flag": "https://flagpedia.net/data/flags/h80/km.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1862,
+      "mi2": 719
+    },
     "continent": "af",
     "iso": {
       "numeric": "174",
@@ -731,6 +883,10 @@
     "phone_code": "+243",
     "flag": "https://flagpedia.net/data/flags/h80/dr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 2344858,
+      "mi2": 905355
+    },
     "continent": "af",
     "iso": {
       "numeric": "180",
@@ -750,6 +906,10 @@
     "phone_code": "+242",
     "flag": "https://flagpedia.net/data/flags/h80/cg.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 342000,
+      "mi2": 132000
+    },
     "continent": "af",
     "iso": {
       "numeric": "178",
@@ -769,6 +929,10 @@
     "phone_code": "+506",
     "flag": "https://flagpedia.net/data/flags/h80/cr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 51100,
+      "mi2": 19700
+    },
     "continent": "na",
     "iso": {
       "numeric": "188",
@@ -788,6 +952,10 @@
     "phone_code": "+225",
     "flag": "https://flagpedia.net/data/flags/h80/ci.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 322463,
+      "mi2": 124504
+    },
     "continent": "af",
     "iso": {
       "numeric": "384",
@@ -807,6 +975,10 @@
     "phone_code": "+385",
     "flag": "https://flagpedia.net/data/flags/h80/hr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 56594,
+      "mi2": 21851
+    },
     "continent": "eu",
     "iso": {
       "numeric": "191",
@@ -826,6 +998,10 @@
     "phone_code": "+53",
     "flag": "https://flagpedia.net/data/flags/h80/cu.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 109884,
+      "mi2": 42426
+    },
     "continent": "na",
     "iso": {
       "numeric": "192",
@@ -845,6 +1021,10 @@
     "phone_code": "+357",
     "flag": "https://flagpedia.net/data/flags/h80/cy.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 9251,
+      "mi2": 3572
+    },
     "continent": "eu",
     "iso": {
       "numeric": "196",
@@ -864,6 +1044,10 @@
     "phone_code": "+420",
     "flag": "https://flagpedia.net/data/flags/h80/cz.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 78865,
+      "mi2": 30450
+    },
     "continent": "eu",
     "iso": {
       "numeric": "203",
@@ -883,6 +1067,10 @@
     "phone_code": "+45",
     "flag": "https://flagpedia.net/data/flags/h80/dk.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 43094,
+      "mi2": 16639
+    },
     "continent": "eu",
     "iso": {
       "numeric": "208",
@@ -902,6 +1090,10 @@
     "phone_code": "+253",
     "flag": "https://flagpedia.net/data/flags/h80/dj.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 23200,
+      "mi2": 9000
+    },
     "continent": "af",
     "iso": {
       "numeric": "262",
@@ -921,6 +1113,10 @@
     "phone_code": "+1-767",
     "flag": "https://flagpedia.net/data/flags/h80/dm.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 751,
+      "mi2": 290
+    },
     "continent": "na",
     "iso": {
       "numeric": "212",
@@ -940,6 +1136,10 @@
     "phone_code": "+1-809, +1-829, +1-849",
     "flag": "https://flagpedia.net/data/flags/h80/do.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 48671,
+      "mi2": 18792
+    },
     "continent": "na",
     "iso": {
       "numeric": "214",
@@ -959,6 +1159,10 @@
     "phone_code": "+670",
     "flag": "https://flagpedia.net/data/flags/h80/tl.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 14919,
+      "mi2": 5760
+    },
     "continent": "as",
     "iso": {
       "numeric": "626",
@@ -978,6 +1182,10 @@
     "phone_code": "+593",
     "flag": "https://flagpedia.net/data/flags/h80/ec.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 276841,
+      "mi2": 106889
+    },
     "continent": "sa",
     "iso": {
       "numeric": "218",
@@ -997,6 +1205,10 @@
     "phone_code": "+20",
     "flag": "https://flagpedia.net/data/flags/h80/eg.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1002450,
+      "mi2": 387050
+    },
     "continent": "af",
     "iso": {
       "numeric": "818",
@@ -1016,6 +1228,10 @@
     "phone_code": "+503",
     "flag": "https://flagpedia.net/data/flags/h80/sv.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 21041,
+      "mi2": 8124
+    },
     "continent": "na",
     "iso": {
       "numeric": "222",
@@ -1035,6 +1251,10 @@
     "phone_code": "+240",
     "flag": "https://flagpedia.net/data/flags/h80/gq.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 28051,
+      "mi2": 10831
+    },
     "continent": "af",
     "iso": {
       "numeric": "226",
@@ -1054,6 +1274,10 @@
     "phone_code": "+291",
     "flag": "https://flagpedia.net/data/flags/h80/er.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 117600,
+      "mi2": 45400
+    },
     "continent": "af",
     "iso": {
       "numeric": "232",
@@ -1073,6 +1297,10 @@
     "phone_code": "+372",
     "flag": "https://flagpedia.net/data/flags/h80/ee.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 45227,
+      "mi2": 17462
+    },
     "continent": "eu",
     "iso": {
       "numeric": "233",
@@ -1092,6 +1320,10 @@
     "phone_code": "+251",
     "flag": "https://flagpedia.net/data/flags/h80/et.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1104300,
+      "mi2": 426400
+    },
     "continent": "af",
     "iso": {
       "numeric": "231",
@@ -1111,6 +1343,10 @@
     "phone_code": "+679",
     "flag": "https://flagpedia.net/data/flags/h80/fj.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 18272,
+      "mi2": 7055
+    },
     "continent": "oc",
     "iso": {
       "numeric": "242",
@@ -1130,6 +1366,10 @@
     "phone_code": "+358",
     "flag": "https://flagpedia.net/data/flags/h80/fi.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 338424,
+      "mi2": 130666
+    },
     "continent": "eu",
     "iso": {
       "numeric": "246",
@@ -1149,6 +1389,10 @@
     "phone_code": "+33",
     "flag": "https://flagpedia.net/data/flags/h80/fr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 640679,
+      "mi2": 247368
+    },
     "continent": "eu",
     "iso": {
       "numeric": "250",
@@ -1168,6 +1412,10 @@
     "phone_code": "+241",
     "flag": "https://flagpedia.net/data/flags/h80/ga.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 267668,
+      "mi2": 103347
+    },
     "continent": "af",
     "iso": {
       "numeric": "266",
@@ -1187,6 +1435,10 @@
     "phone_code": "+220",
     "flag": "https://flagpedia.net/data/flags/h80/gm.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 11295,
+      "mi2": 4361
+    },
     "continent": "af",
     "iso": {
       "numeric": "270",
@@ -1206,6 +1458,10 @@
     "phone_code": "+995",
     "flag": "https://flagpedia.net/data/flags/h80/ge.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 69700,
+      "mi2": 26900
+    },
     "continent": "as",
     "iso": {
       "numeric": "268",
@@ -1225,6 +1481,10 @@
     "phone_code": "+49",
     "flag": "https://flagpedia.net/data/flags/h80/de.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 357114,
+      "mi2": 137882
+    },
     "continent": "eu",
     "iso": {
       "numeric": "276",
@@ -1244,6 +1504,10 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/gh.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 238533,
+      "mi2": 92098
+    },
     "continent": "af",
     "iso": {
       "numeric": "288",
@@ -1263,6 +1527,10 @@
     "phone_code": "+30",
     "flag": "https://flagpedia.net/data/flags/h80/gr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 131957,
+      "mi2": 50949
+    },
     "continent": "eu",
     "iso": {
       "numeric": "300",
@@ -1282,6 +1550,10 @@
     "phone_code": "+1-473",
     "flag": "https://flagpedia.net/data/flags/h80/gd.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 344,
+      "mi2": 133
+    },
     "continent": "na",
     "iso": {
       "numeric": "308",
@@ -1301,6 +1573,10 @@
     "phone_code": "+502",
     "flag": "https://flagpedia.net/data/flags/h80/gt.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 108889,
+      "mi2": 42042
+    },
     "continent": "na",
     "iso": {
       "numeric": "320",
@@ -1320,6 +1596,10 @@
     "phone_code": "+224",
     "flag": "https://flagpedia.net/data/flags/h80/gn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 245857,
+      "mi2": 94926
+    },
     "continent": "af",
     "iso": {
       "numeric": "324",
@@ -1339,6 +1619,10 @@
     "phone_code": "+245",
     "flag": "https://flagpedia.net/data/flags/h80/gw.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 36125,
+      "mi2": 13948
+    },
     "continent": "af",
     "iso": {
       "numeric": "624",
@@ -1358,6 +1642,10 @@
     "phone_code": "+592",
     "flag": "https://flagpedia.net/data/flags/h80/gy.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 214969,
+      "mi2": 83000
+    },
     "continent": "sa",
     "iso": {
       "numeric": "328",
@@ -1377,6 +1665,10 @@
     "phone_code": "+509",
     "flag": "https://flagpedia.net/data/flags/h80/ht.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 27750,
+      "mi2": 10710
+    },
     "continent": "na",
     "iso": {
       "numeric": "332",
@@ -1396,6 +1688,10 @@
     "phone_code": "+504",
     "flag": "https://flagpedia.net/data/flags/h80/hn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 112492,
+      "mi2": 43433
+    },
     "continent": "na",
     "iso": {
       "numeric": "340",
@@ -1415,6 +1711,10 @@
     "phone_code": "+36",
     "flag": "https://flagpedia.net/data/flags/h80/hu.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 93028,
+      "mi2": 35918
+    },
     "continent": "eu",
     "iso": {
       "numeric": "348",
@@ -1434,6 +1734,10 @@
     "phone_code": "+354",
     "flag": "https://flagpedia.net/data/flags/h80/is.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 103000,
+      "mi2": 40000
+    },
     "continent": "eu",
     "iso": {
       "numeric": "352",
@@ -1453,6 +1757,10 @@
     "phone_code": "+91",
     "flag": "https://flagpedia.net/data/flags/h80/in.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 3287263,
+      "mi2": 1269219
+    },
     "continent": "as",
     "iso": {
       "numeric": "356",
@@ -1472,6 +1780,10 @@
     "phone_code": "+62",
     "flag": "https://flagpedia.net/data/flags/h80/id.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 1910931,
+      "mi2": 737815
+    },
     "continent": "as",
     "iso": {
       "numeric": "360",
@@ -1491,6 +1803,10 @@
     "phone_code": "+98",
     "flag": "https://flagpedia.net/data/flags/h80/ir.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1648195,
+      "mi2": 636372
+    },
     "continent": "as",
     "iso": {
       "numeric": "364",
@@ -1510,6 +1826,10 @@
     "phone_code": "+964",
     "flag": "https://flagpedia.net/data/flags/h80/iq.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 438317,
+      "mi2": 169235
+    },
     "continent": "as",
     "iso": {
       "numeric": "368",
@@ -1529,6 +1849,10 @@
     "phone_code": "+353",
     "flag": "https://flagpedia.net/data/flags/h80/ie.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 70273,
+      "mi2": 27133
+    },
     "continent": "eu",
     "iso": {
       "numeric": "372",
@@ -1548,6 +1872,10 @@
     "phone_code": "+972",
     "flag": "https://flagpedia.net/data/flags/h80/il.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 20770,
+      "mi2": 8020
+    },
     "continent": "as",
     "iso": {
       "numeric": "376",
@@ -1567,6 +1895,10 @@
     "phone_code": "+39",
     "flag": "https://flagpedia.net/data/flags/h80/it.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 301339,
+      "mi2": 116348
+    },
     "continent": "eu",
     "iso": {
       "numeric": "380",
@@ -1586,6 +1918,10 @@
     "phone_code": "+1-876",
     "flag": "https://flagpedia.net/data/flags/h80/jm.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 10991,
+      "mi2": 4244
+    },
     "continent": "na",
     "iso": {
       "numeric": "388",
@@ -1605,6 +1941,10 @@
     "phone_code": "+81",
     "flag": "https://flagpedia.net/data/flags/h80/jp.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 377975,
+      "mi2": 145937
+    },
     "continent": "as",
     "iso": {
       "numeric": "392",
@@ -1624,6 +1964,10 @@
     "phone_code": "+962",
     "flag": "https://flagpedia.net/data/flags/h80/jo.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 89342,
+      "mi2": 34495
+    },
     "continent": "as",
     "iso": {
       "numeric": "400",
@@ -1643,6 +1987,10 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/kz.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 2724900,
+      "mi2": 1052100
+    },
     "continent": "as",
     "iso": {
       "numeric": "398",
@@ -1662,6 +2010,10 @@
     "phone_code": "+254",
     "flag": "https://flagpedia.net/data/flags/h80/ke.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 580367,
+      "mi2": 224081
+    },
     "continent": "af",
     "iso": {
       "numeric": "404",
@@ -1681,6 +2033,10 @@
     "phone_code": "+686",
     "flag": "https://flagpedia.net/data/flags/h80/ki.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 811,
+      "mi2": 313
+    },
     "continent": "oc",
     "iso": {
       "numeric": "296",
@@ -1700,6 +2056,10 @@
     "phone_code": "+850",
     "flag": "https://flagpedia.net/data/flags/h80/kp.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 120540,
+      "mi2": 46540
+    },
     "continent": "as",
     "iso": {
       "numeric": "408",
@@ -1719,6 +2079,10 @@
     "phone_code": "+82",
     "flag": "https://flagpedia.net/data/flags/h80/kr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 100210,
+      "mi2": 38690
+    },
     "continent": "as",
     "iso": {
       "numeric": "410",
@@ -1738,6 +2102,10 @@
     "phone_code": "+383",
     "flag": "https://flagpedia.net/data/flags/h80/xk.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 10887,
+      "mi2": 4203
+    },
     "continent": "eu",
     "iso": {
       "numeric": "383",
@@ -1757,6 +2125,10 @@
     "phone_code": "965",
     "flag": "https://flagpedia.net/data/flags/h80/kw.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 17818,
+      "mi2": 6880
+    },
     "continent": "as",
     "iso": {
       "numeric": "414",
@@ -1776,6 +2148,10 @@
     "phone_code": "+996",
     "flag": "https://flagpedia.net/data/flags/h80/kg.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 199951,
+      "mi2": 77202
+    },
     "continent": "as",
     "iso": {
       "numeric": "417",
@@ -1795,6 +2171,10 @@
     "phone_code": "+856",
     "flag": "https://flagpedia.net/data/flags/h80/la.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 236800,
+      "mi2": 91400
+    },
     "continent": "as",
     "iso": {
       "numeric": "418",
@@ -1814,6 +2194,10 @@
     "phone_code": "+371",
     "flag": "https://flagpedia.net/data/flags/h80/lv.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 64559,
+      "mi2": 24926
+    },
     "continent": "eu",
     "iso": {
       "numeric": "428",
@@ -1833,6 +2217,10 @@
     "phone_code": "+961",
     "flag": "https://flagpedia.net/data/flags/h80/lb.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 10452,
+      "mi2": 4036
+    },
     "continent": "as",
     "iso": {
       "numeric": "422",
@@ -1852,6 +2240,10 @@
     "phone_code": "+266",
     "flag": "https://flagpedia.net/data/flags/h80/ls.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 30355,
+      "mi2": 11720
+    },
     "continent": "af",
     "iso": {
       "numeric": "426",
@@ -1871,6 +2263,10 @@
     "phone_code": "+231",
     "flag": "https://flagpedia.net/data/flags/h80/lr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 111369,
+      "mi2": 43000
+    },
     "continent": "af",
     "iso": {
       "numeric": "430",
@@ -1890,6 +2286,10 @@
     "phone_code": "+218",
     "flag": "https://flagpedia.net/data/flags/h80/ly.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1759540,
+      "mi2": 679360
+    },
     "continent": "af",
     "iso": {
       "numeric": "434",
@@ -1909,6 +2309,10 @@
     "phone_code": "+423",
     "flag": "https://flagpedia.net/data/flags/h80/li.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 160,
+      "mi2": 62
+    },
     "continent": "eu",
     "iso": {
       "numeric": "438",
@@ -1928,6 +2332,10 @@
     "phone_code": "+370",
     "flag": "https://flagpedia.net/data/flags/h80/lt.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 65300,
+      "mi2": 25200
+    },
     "continent": "eu",
     "iso": {
       "numeric": "440",
@@ -1947,6 +2355,10 @@
     "phone_code": "+352",
     "flag": "https://flagpedia.net/data/flags/h80/lu.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 2586,
+      "mi2": 998
+    },
     "continent": "eu",
     "iso": {
       "numeric": "442",
@@ -1966,6 +2378,10 @@
     "phone_code": "+389",
     "flag": "https://flagpedia.net/data/flags/h80/mk.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 25713,
+      "mi2": 9928
+    },
     "continent": "eu",
     "iso": {
       "numeric": "807",
@@ -1985,6 +2401,10 @@
     "phone_code": "+261",
     "flag": "https://flagpedia.net/data/flags/h80/mg.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 587041,
+      "mi2": 226658
+    },
     "continent": "af",
     "iso": {
       "numeric": "450",
@@ -2004,6 +2424,10 @@
     "phone_code": "+265",
     "flag": "https://flagpedia.net/data/flags/h80/mw.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 118484,
+      "mi2": 45747
+    },
     "continent": "af",
     "iso": {
       "numeric": "454",
@@ -2023,6 +2447,10 @@
     "phone_code": "+60",
     "flag": "https://flagpedia.net/data/flags/h80/my.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 330803,
+      "mi2": 127724
+    },
     "continent": "as",
     "iso": {
       "numeric": "458",
@@ -2042,6 +2470,10 @@
     "phone_code": "+960",
     "flag": "https://flagpedia.net/data/flags/h80/mv.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 300,
+      "mi2": 120
+    },
     "continent": "as",
     "iso": {
       "numeric": "462",
@@ -2061,6 +2493,10 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/ml.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1240192,
+      "mi2": 478841
+    },
     "continent": "af",
     "iso": {
       "numeric": "466",
@@ -2080,6 +2516,10 @@
     "phone_code": "+356",
     "flag": "https://flagpedia.net/data/flags/h80/mt.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 316,
+      "mi2": 122
+    },
     "continent": "eu",
     "iso": {
       "numeric": "470",
@@ -2099,6 +2539,10 @@
     "phone_code": "+692",
     "flag": "https://flagpedia.net/data/flags/h80/mh.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 181,
+      "mi2": 70
+    },
     "continent": "oc",
     "iso": {
       "numeric": "584",
@@ -2118,6 +2562,10 @@
     "phone_code": "+222",
     "flag": "https://flagpedia.net/data/flags/h80/mr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1030700,
+      "mi2": 398000
+    },
     "continent": "af",
     "iso": {
       "numeric": "478",
@@ -2137,6 +2585,10 @@
     "phone_code": "+230",
     "flag": "https://flagpedia.net/data/flags/h80/mu.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 2040,
+      "mi2": 790
+    },
     "continent": "af",
     "iso": {
       "numeric": "480",
@@ -2156,6 +2608,10 @@
     "phone_code": "+52",
     "flag": "https://flagpedia.net/data/flags/h80/mx.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1964375,
+      "mi2": 758449
+    },
     "continent": "na",
     "iso": {
       "numeric": "484",
@@ -2175,6 +2631,10 @@
     "phone_code": "+691",
     "flag": "https://flagpedia.net/data/flags/h80/fm.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 702,
+      "mi2": 271
+    },
     "continent": "oc",
     "iso": {
       "numeric": "583",
@@ -2194,6 +2654,10 @@
     "phone_code": "+373",
     "flag": "https://flagpedia.net/data/flags/h80/md.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 33846,
+      "mi2": 13068
+    },
     "continent": "eu",
     "iso": {
       "numeric": "498",
@@ -2213,6 +2677,10 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/mc.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 2.02,
+      "mi2": 0.78
+    },
     "continent": "eu",
     "iso": {
       "numeric": "492",
@@ -2232,6 +2700,10 @@
     "phone_code": "+976",
     "flag": "https://flagpedia.net/data/flags/h80/mn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1564110,
+      "mi2": 603910
+    },
     "continent": "as",
     "iso": {
       "numeric": "496",
@@ -2251,6 +2723,10 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/me.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 13812,
+      "mi2": 5333
+    },
     "continent": "eu",
     "iso": {
       "numeric": "499",
@@ -2270,6 +2746,10 @@
     "phone_code": "+212",
     "flag": "https://flagpedia.net/data/flags/h80/ma.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 446550,
+      "mi2": 172410
+    },
     "continent": "af",
     "iso": {
       "numeric": "504",
@@ -2289,6 +2769,10 @@
     "phone_code": "+258",
     "flag": "https://flagpedia.net/data/flags/h80/mz.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 801590,
+      "mi2": 309500
+    },
     "continent": "af",
     "iso": {
       "numeric": "508",
@@ -2308,6 +2792,10 @@
     "phone_code": "+95",
     "flag": "https://flagpedia.net/data/flags/h80/mm.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 676578,
+      "mi2": 261228
+    },
     "continent": "as",
     "iso": {
       "numeric": "104",
@@ -2327,6 +2815,10 @@
     "phone_code": "+264",
     "flag": "https://flagpedia.net/data/flags/h80/na.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 825615,
+      "mi2": 318772
+    },
     "continent": "af",
     "iso": {
       "numeric": "516",
@@ -2346,6 +2838,10 @@
     "phone_code": "+674",
     "flag": "https://flagpedia.net/data/flags/h80/nr.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 21,
+      "mi2": 8.1
+    },
     "continent": "oc",
     "iso": {
       "numeric": "520",
@@ -2365,6 +2861,10 @@
     "phone_code": "+977",
     "flag": "https://flagpedia.net/data/flags/h80/np.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 147181,
+      "mi2": 56827
+    },
     "continent": "as",
     "iso": {
       "numeric": "524",
@@ -2384,6 +2884,10 @@
     "phone_code": "+31",
     "flag": "https://flagpedia.net/data/flags/h80/nl.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 41850,
+      "mi2": 16160
+    },
     "continent": "eu",
     "iso": {
       "numeric": "528",
@@ -2403,6 +2907,10 @@
     "phone_code": "+64",
     "flag": "https://flagpedia.net/data/flags/h80/nz.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 270467,
+      "mi2": 104428
+    },
     "continent": "oc",
     "iso": {
       "numeric": "554",
@@ -2422,6 +2930,10 @@
     "phone_code": "+505",
     "flag": "https://flagpedia.net/data/flags/h80/ni.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 130373,
+      "mi2": 50337
+    },
     "continent": "na",
     "iso": {
       "numeric": "558",
@@ -2441,6 +2953,10 @@
     "phone_code": "+277",
     "flag": "https://flagpedia.net/data/flags/h80/ne.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1267000,
+      "mi2": 489000
+    },
     "continent": "af",
     "iso": {
       "numeric": "562",
@@ -2460,6 +2976,10 @@
     "phone_code": "+234",
     "flag": "https://flagpedia.net/data/flags/h80/ng.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 923768,
+      "mi2": 356669
+    },
     "continent": "af",
     "iso": {
       "numeric": "566",
@@ -2479,6 +2999,10 @@
     "phone_code": "+47",
     "flag": "https://flagpedia.net/data/flags/h80/no.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 385207,
+      "mi2": 148729
+    },
     "continent": "eu",
     "iso": {
       "numeric": "578",
@@ -2498,6 +3022,10 @@
     "phone_code": "+968",
     "flag": "https://flagpedia.net/data/flags/h80/om.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 309500,
+      "mi2": 119500
+    },
     "continent": "as",
     "iso": {
       "numeric": "512",
@@ -2517,6 +3045,10 @@
     "phone_code": "+92",
     "flag": "https://flagpedia.net/data/flags/h80/pk.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 907843,
+      "mi2": 350520
+    },
     "continent": "as",
     "iso": {
       "numeric": "586",
@@ -2536,6 +3068,10 @@
     "phone_code": "+680",
     "flag": "https://flagpedia.net/data/flags/h80/pw.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 459,
+      "mi2": 177
+    },
     "continent": "oc",
     "iso": {
       "numeric": "585",
@@ -2555,6 +3091,10 @@
     "phone_code": "+507",
     "flag": "https://flagpedia.net/data/flags/h80/pa.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 75417,
+      "mi2": 29119
+    },
     "continent": "na",
     "iso": {
       "numeric": "591",
@@ -2574,6 +3114,10 @@
     "phone_code": "+675",
     "flag": "https://flagpedia.net/data/flags/h80/pg.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 462840,
+      "mi2": 178700
+    },
     "continent": "oc",
     "iso": {
       "numeric": "598",
@@ -2593,6 +3137,10 @@
     "phone_code": "+595",
     "flag": "https://flagpedia.net/data/flags/h80/py.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 406752,
+      "mi2": 157048
+    },
     "continent": "sa",
     "iso": {
       "numeric": "600",
@@ -2612,6 +3160,10 @@
     "phone_code": "+51",
     "flag": "https://flagpedia.net/data/flags/h80/pe.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1285216,
+      "mi2": 496225
+    },
     "continent": "sa",
     "iso": {
       "numeric": "604",
@@ -2631,6 +3183,10 @@
     "phone_code": "+63",
     "flag": "https://flagpedia.net/data/flags/h80/ph.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 300000,
+      "mi2": 120000
+    },
     "continent": "as",
     "iso": {
       "numeric": "608",
@@ -2650,6 +3206,10 @@
     "phone_code": "+48",
     "flag": "https://flagpedia.net/data/flags/h80/pl.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 312696,
+      "mi2": 120733
+    },
     "continent": "eu",
     "iso": {
       "numeric": "616",
@@ -2669,6 +3229,10 @@
     "phone_code": "+351",
     "flag": "https://flagpedia.net/data/flags/h80/pt.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 92090,
+      "mi2": 35560
+    },
     "continent": "eu",
     "iso": {
       "numeric": "620",
@@ -2688,6 +3252,10 @@
     "phone_code": "+974",
     "flag": "https://flagpedia.net/data/flags/h80/qa.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 11586,
+      "mi2": 4473
+    },
     "continent": "as",
     "iso": {
       "numeric": "634",
@@ -2707,6 +3275,10 @@
     "phone_code": "+40",
     "flag": "https://flagpedia.net/data/flags/h80/ro.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 238397,
+      "mi2": 92046
+    },
     "continent": "eu",
     "iso": {
       "numeric": "642",
@@ -2726,6 +3298,10 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/ru.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 17098246,
+      "mi2": 6601670
+    },
     "continent": "eu/as",
     "iso": {
       "numeric": "643",
@@ -2745,6 +3321,10 @@
     "phone_code": "+250",
     "flag": "https://flagpedia.net/data/flags/h80/rw.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 26338,
+      "mi2": 10169
+    },
     "continent": "af",
     "iso": {
       "numeric": "646",
@@ -2764,6 +3344,10 @@
     "phone_code": "+1-869",
     "flag": "https://flagpedia.net/data/flags/h80/kn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 261,
+      "mi2": 101
+    },
     "continent": "na",
     "iso": {
       "numeric": "659",
@@ -2783,6 +3367,10 @@
     "phone_code": "+1-758",
     "flag": "https://flagpedia.net/data/flags/h80/lc.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 616,
+      "mi2": 238
+    },
     "continent": "na",
     "iso": {
       "numeric": "662",
@@ -2802,6 +3390,10 @@
     "phone_code": "+1-784",
     "flag": "https://flagpedia.net/data/flags/h80/vc.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 389,
+      "mi2": 150
+    },
     "continent": "na",
     "iso": {
       "numeric": "670",
@@ -2821,6 +3413,10 @@
     "phone_code": "+685",
     "flag": "https://flagpedia.net/data/flags/h80/ws.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 2842,
+      "mi2": 1097
+    },
     "continent": "oc",
     "iso": {
       "numeric": "882",
@@ -2840,6 +3436,10 @@
     "phone_code": "+378",
     "flag": "https://flagpedia.net/data/flags/h80/sm.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 61,
+      "mi2": 24
+    },
     "continent": "eu",
     "iso": {
       "numeric": "674",
@@ -2859,6 +3459,10 @@
     "phone_code": "+239",
     "flag": "https://flagpedia.net/data/flags/h80/st.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 964,
+      "mi2": 372
+    },
     "continent": "af",
     "iso": {
       "numeric": "678",
@@ -2878,6 +3482,10 @@
     "phone_code": "+966",
     "flag": "https://flagpedia.net/data/flags/h80/sa.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 2149690,
+      "mi2": 830000
+    },
     "continent": "as",
     "iso": {
       "numeric": "682",
@@ -2897,6 +3505,10 @@
     "phone_code": "+221",
     "flag": "https://flagpedia.net/data/flags/h80/sn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 196722,
+      "mi2": 75955
+    },
     "continent": "af",
     "iso": {
       "numeric": "686",
@@ -2916,6 +3528,10 @@
     "phone_code": "+381",
     "flag": "https://flagpedia.net/data/flags/h80/rs.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 88361,
+      "mi2": 34116
+    },
     "continent": "eu",
     "iso": {
       "numeric": "688",
@@ -2935,6 +3551,10 @@
     "phone_code": "+248",
     "flag": "https://flagpedia.net/data/flags/h80/sc.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 452,
+      "mi2": 175
+    },
     "continent": "af",
     "iso": {
       "numeric": "690",
@@ -2954,6 +3574,10 @@
     "phone_code": "+232",
     "flag": "https://flagpedia.net/data/flags/h80/sl.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 71740,
+      "mi2": 27700
+    },
     "continent": "af",
     "iso": {
       "numeric": "694",
@@ -2973,6 +3597,10 @@
     "phone_code": "+65",
     "flag": "https://flagpedia.net/data/flags/h80/sg.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 726,
+      "mi2": 280
+    },
     "continent": "as",
     "iso": {
       "numeric": "702",
@@ -2992,6 +3620,10 @@
     "phone_code": "+421",
     "flag": "https://flagpedia.net/data/flags/h80/sk.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 49037,
+      "mi2": 18933
+    },
     "continent": "eu",
     "iso": {
       "numeric": "703",
@@ -3011,6 +3643,10 @@
     "phone_code": "+386",
     "flag": "https://flagpedia.net/data/flags/h80/si.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 20273,
+      "mi2": 7827
+    },
     "continent": "eu",
     "iso": {
       "numeric": "705",
@@ -3030,6 +3666,10 @@
     "phone_code": "+677",
     "flag": "https://flagpedia.net/data/flags/h80/sb.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 28896,
+      "mi2": 11157
+    },
     "continent": "oc",
     "iso": {
       "numeric": "090",
@@ -3049,6 +3689,10 @@
     "phone_code": "+252",
     "flag": "https://flagpedia.net/data/flags/h80/so.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 637657,
+      "mi2": 246201
+    },
     "continent": "af",
     "iso": {
       "numeric": "706",
@@ -3068,6 +3712,10 @@
     "phone_code": "+27",
     "flag": "https://flagpedia.net/data/flags/h80/za.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 1221037,
+      "mi2": 471445
+    },
     "continent": "af",
     "iso": {
       "numeric": "710",
@@ -3087,6 +3735,10 @@
     "phone_code": "+211",
     "flag": "https://flagpedia.net/data/flags/h80/ss.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 644329,
+      "mi2": 248777
+    },
     "continent": "af",
     "iso": {
       "numeric": "728",
@@ -3106,6 +3758,10 @@
     "phone_code": "+34",
     "flag": "https://flagpedia.net/data/flags/h80/es.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 505992,
+      "mi2": 195365
+    },
     "continent": "eu",
     "iso": {
       "numeric": "724",
@@ -3125,6 +3781,10 @@
     "phone_code": "+94",
     "flag": "https://flagpedia.net/data/flags/h80/lk.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 65610,
+      "mi2": 25330
+    },
     "continent": "as",
     "iso": {
       "numeric": "144",
@@ -3144,6 +3804,10 @@
     "phone_code": "+249",
     "flag": "https://flagpedia.net/data/flags/h80/sd.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 1861484,
+      "mi2": 718723
+    },
     "continent": "af",
     "iso": {
       "numeric": "729",
@@ -3163,6 +3827,10 @@
     "phone_code": "+597",
     "flag": "https://flagpedia.net/data/flags/h80/sr.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 163820,
+      "mi2": 63250
+    },
     "continent": "sa",
     "iso": {
       "numeric": "740",
@@ -3182,6 +3850,10 @@
     "phone_code": "+268",
     "flag": "https://flagpedia.net/data/flags/h80/sz.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 17364,
+      "mi2": 6704
+    },
     "continent": "af",
     "iso": {
       "numeric": "748",
@@ -3201,6 +3873,10 @@
     "phone_code": "+46",
     "flag": "https://flagpedia.net/data/flags/h80/se.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 450295,
+      "mi2": 173860
+    },
     "continent": "eu",
     "iso": {
       "numeric": "752",
@@ -3219,6 +3895,10 @@
     "famous_for": "alps, natural beauty, chocolates and watches",
     "flag": "https://flagpedia.net/data/flags/h80/ch.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 41284,
+      "mi2": 15940
+    },
     "continent": "eu",
     "iso": {
       "numeric": "756",
@@ -3238,6 +3918,10 @@
     "phone_code": "+963",
     "flag": "https://flagpedia.net/data/flags/h80/sy.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 185180,
+      "mi2": 71500
+    },
     "continent": "as",
     "iso": {
       "numeric": "760",
@@ -3256,6 +3940,10 @@
     "phone_code": "+886",
     "flag": "https://flagpedia.net/data/flags/h80/tw.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 36193,
+      "mi2": 13974
+    },
     "continent": "as",
     "iso": {
       "numeric": "158",
@@ -3275,6 +3963,10 @@
     "phone_code": "+992",
     "flag": "https://flagpedia.net/data/flags/h80/tj.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 143100,
+      "mi2": 55300
+    },
     "continent": "as",
     "iso": {
       "numeric": "762",
@@ -3294,6 +3986,10 @@
     "phone_code": "+255",
     "flag": "https://flagpedia.net/data/flags/h80/tz.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 945087,
+      "mi2": 364900
+    },
     "continent": "af",
     "iso": {
       "numeric": "834",
@@ -3313,6 +4009,10 @@
     "phone_code": "+66",
     "flag": "https://flagpedia.net/data/flags/h80/th.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 513120,
+      "mi2": 198120
+    },
     "continent": "as",
     "iso": {
       "numeric": "764",
@@ -3332,6 +4032,10 @@
     "phone_code": "+228",
     "flag": "https://flagpedia.net/data/flags/h80/tg.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 56785,
+      "mi2": 21925
+    },
     "continent": "af",
     "iso": {
       "numeric": "768",
@@ -3351,6 +4055,10 @@
     "phone_code": "+676",
     "flag": "https://flagpedia.net/data/flags/h80/to.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 747,
+      "mi2": 288
+    },
     "continent": "oc",
     "iso": {
       "numeric": "776",
@@ -3370,6 +4078,10 @@
     "phone_code": "+1-868",
     "flag": "https://flagpedia.net/data/flags/h80/tt.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 5130,
+      "mi2": 1980
+    },
     "continent": "na",
     "iso": {
       "numeric": "780",
@@ -3389,6 +4101,10 @@
     "phone_code": "+216",
     "flag": "https://flagpedia.net/data/flags/h80/tn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 163610,
+      "mi2": 63170
+    },
     "continent": "af",
     "iso": {
       "numeric": "788",
@@ -3408,6 +4124,10 @@
     "phone_code": "+90",
     "flag": "https://flagpedia.net/data/flags/h80/tr.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 783562,
+      "mi2": 302535
+    },
     "continent": "eu/as",
     "iso": {
       "numeric": "792",
@@ -3427,6 +4147,10 @@
     "phone_code": "+993",
     "flag": "https://flagpedia.net/data/flags/h80/tm.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 488100,
+      "mi2": 188500
+    },
     "continent": "as",
     "iso": {
       "numeric": "795",
@@ -3446,6 +4170,10 @@
     "phone_code": "+668",
     "flag": "https://flagpedia.net/data/flags/h80/tv.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 26,
+      "mi2": 10
+    },
     "continent": "oc",
     "iso": {
       "numeric": "798",
@@ -3465,6 +4193,10 @@
     "phone_code": "+256",
     "flag": "https://flagpedia.net/data/flags/h80/ug.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 241550,
+      "mi2": 93260
+    },
     "continent": "af",
     "iso": {
       "numeric": "800",
@@ -3484,6 +4216,10 @@
     "phone_code": "+380",
     "flag": "https://flagpedia.net/data/flags/h80/ua.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 603500,
+      "mi2": 233000
+    },
     "continent": "eu",
     "iso": {
       "numeric": "804",
@@ -3503,6 +4239,10 @@
     "phone_code": "+971",
     "flag": "https://flagpedia.net/data/flags/h80/ae.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 83600,
+      "mi2": 32300
+    },
     "continent": "as",
     "iso": {
       "numeric": "784",
@@ -3522,6 +4262,10 @@
     "phone_code": "+44",
     "flag": "https://flagpedia.net/data/flags/h80/gb.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 242495,
+      "mi2": 93628
+    },
     "continent": "eu",
     "iso": {
       "numeric": "826",
@@ -3541,6 +4285,10 @@
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/us.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 9833517,
+      "mi2": 3796742
+    },
     "continent": "na",
     "iso": {
       "numeric": "840",
@@ -3560,6 +4308,10 @@
     "phone_code": "+589",
     "flag": "https://flagpedia.net/data/flags/h80/uy.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 176215,
+      "mi2": 68037
+    },
     "continent": "sa",
     "iso": {
       "numeric": "858",
@@ -3579,6 +4331,10 @@
     "phone_code": "+998",
     "flag": "https://flagpedia.net/data/flags/h80/uz.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 447400,
+      "mi2": 172700
+    },
     "continent": "as",
     "iso": {
       "numeric": "860",
@@ -3598,6 +4354,10 @@
     "phone_code": "+978",
     "flag": "https://flagpedia.net/data/flags/h80/vu.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 12189,
+      "mi2": 4706
+    },
     "continent": "oc",
     "iso": {
       "numeric": "548",
@@ -3617,6 +4377,10 @@
     "phone_code": "+379",
     "flag": "https://flagpedia.net/data/flags/h80/va.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 0.49,
+      "mi2": 0.19
+    },
     "continent": "eu",
     "iso": {
       "numeric": "336",
@@ -3636,6 +4400,10 @@
     "phone_code": "+58",
     "flag": "https://flagpedia.net/data/flags/h80/ve.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 916445,
+      "mi2": 353841
+    },
     "continent": "sa",
     "iso": {
       "numeric": "862",
@@ -3655,6 +4423,10 @@
     "phone_code": "+84",
     "flag": "https://flagpedia.net/data/flags/h80/vn.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 331212,
+      "mi2": 127882
+    },
     "continent": "as",
     "iso": {
       "numeric": "704",
@@ -3674,6 +4446,10 @@
     "phone_code": "+967",
     "flag": "https://flagpedia.net/data/flags/h80/ye.png",
     "drive_direction": "right",
+    "area": {
+      "km2": 527968,
+      "mi2": 203850
+    },
     "continent": "as",
     "iso": {
       "numeric": "887",
@@ -3693,6 +4469,10 @@
     "phone_code": "+260",
     "flag": "https://flagpedia.net/data/flags/h80/zm.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 752612,
+      "mi2": 290585
+    },
     "continent": "af",
     "iso": {
       "numeric": "894",
@@ -3712,6 +4492,10 @@
     "phone_code": "+263",
     "flag": "https://flagpedia.net/data/flags/h80/zw.png",
     "drive_direction": "left",
+    "area": {
+      "km2": 390757,
+      "mi2": 150872
+    },
     "continent": "af",
     "iso": {
       "numeric": "716",
