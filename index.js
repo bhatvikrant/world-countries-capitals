@@ -210,6 +210,16 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
   return result;
 }
 
+/** 
+ * Returns an array of objects containing all countries, each containing `country`, `capital`,
+ * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
+ * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
+ * @returns {Array} An array of country objects
+*/
+const getCountriesByLandLock = (isLandLocked) => {
+  return data.filter( country => country.is_landlocked === isLandLocked);
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -224,4 +234,5 @@ module.exports = {
   getCountryDetailsByISO,
   getCountriesByTLD,
   getCountriesByConstitutionalForm,
+  getCountriesByLandLock,
 };

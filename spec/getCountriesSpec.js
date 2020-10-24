@@ -38,6 +38,7 @@ describe("The index", () => {
         tld: ".af",
         constitutional_form: "republic",
         language_codes: ["fa-AF", "ps-AF"],
+        is_landlocked: true,
       });
     });
   });
@@ -66,6 +67,7 @@ describe("The index", () => {
         tld: ".al",
         constitutional_form: "republic",
         language_codes: ["sq-AL"],
+        is_landlocked: false,
       });
     });
   });
@@ -100,6 +102,7 @@ describe("The index", () => {
         tld: ".ba",
         constitutional_form: "republic",
         language_codes: ["bs-BA", "hr-BA", "sr-BA"],
+        is_landlocked: false,
       });
     });
   });
@@ -175,7 +178,7 @@ describe("The index", () => {
       ).toBeTrue();
     });
   });
-
+  
   describe("The getCountriesByContinent", () => {
     const africaCountries = countryApi.getCountriesByContinent("AF");
     const europeCountries = countryApi.getCountriesByContinent("eu");
@@ -619,6 +622,47 @@ describe("The index", () => {
     it("returns the countries that have 'constitutional monarchy' constitutional form", () => {
       expect(constitutionalMonarchyCountries.length)
         .toBe(monarchyCountries.length - absoluteMonarchyCountries.length);
+    });
+  });
+  
+   describe("The getAllCountriesByLandlock", () => {
+    const landLockedCountries = countryApi.getCountriesByLandLock(true);
+    const notLandLockedCountries = countryApi.getCountriesByLandLock(false);
+
+    it("returns all the landlocked countries", () => {
+      expect(landLockedCountries.length).toEqual(45);
+    });
+
+    it("returns all the countries which are not landlocked", () => {
+      expect(notLandLockedCountries.length).toEqual(151);
+    });
+
+    it("returns countries with isLandLocked set to true", () => {
+      expect(landLockedCountries[0]).toEqual({
+        country: "afghanistan",
+        capital: "kabul",
+        currency: "afghani",
+        native_language: ["dari persian", "pashto"],
+        famous_for: "rugs, taliban",
+        phone_code: "+93",
+        flag: "https://flagpedia.net/data/flags/h80/af.png",
+        drive_direction: "right",
+        is_landlocked: true,
+      });
+    });
+
+    it("returns countries with isLandLocked set to false", () => {
+      expect(notLandLockedCountries[0]).toEqual({
+        country: "albania",
+        capital: "tirane",
+        currency: "lek",
+        native_language: ["albanian"],
+        famous_for: "mother teresa",
+        phone_code: "+355",
+        flag: "https://flagpedia.net/data/flags/h80/al.png",
+        drive_direction: "right",
+        is_landlocked: false,
+      });
     });
   });
 });
