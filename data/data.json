@@ -15,7 +15,8 @@
       "alpha_3": "afg"
     },
     "tld": ".af",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fa-AF", "ps-AF"]
   },
   {
     "country": "albania",
@@ -33,7 +34,8 @@
       "alpha_3": "alb"
     },
     "tld": ".al",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sq-AL"]
   },
   {
     "country": "algeria",
@@ -51,7 +53,8 @@
       "alpha_3": "dza"
     },
     "tld": ".dz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-DZ", "fr-DZ"]
   },
   {
     "country": "andorra",
@@ -69,7 +72,8 @@
       "alpha_3": "and"
     },
     "tld": ".ad",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ca-AD"]
   },
   {
     "country": "angola",
@@ -87,7 +91,8 @@
       "alpha_3": "ago"
     },
     "tld": ".ao",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-AO"]
   },
   {
     "country": "antigua & barbuda",
@@ -105,7 +110,8 @@
       "alpha_3": "atg"
     },
     "tld": ".ag",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-AG"]
   },
   {
     "country": "argentina",
@@ -123,7 +129,8 @@
       "alpha_3": "arg"
     },
     "tld": ".ar",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-AR"]
   },
   {
     "country": "armenia",
@@ -141,7 +148,8 @@
       "alpha_3": "arm"
     },
     "tld": ".am",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["as-AM"]
   },
   {
     "country": "australia",
@@ -159,7 +167,8 @@
       "alpha_3": "aus"
     },
     "tld": ".au",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-AU"]
   },
   {
     "country": "austria",
@@ -177,7 +186,8 @@
       "alpha_3": "aut"
     },
     "tld": ".at",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["de-AT"]
   },
   {
     "country": "azerbaijan",
@@ -195,7 +205,8 @@
       "alpha_3": "aze"
     },
     "tld": ".az",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["az-AZ"]
   },
   {
     "country": "the bahamas",
@@ -213,7 +224,8 @@
       "alpha_3": "bhs"
     },
     "tld": ".bs",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-BS"]
   },
   {
     "country": "bahrain",
@@ -231,7 +243,8 @@
       "alpha_3": "bhr"
     },
     "tld": ".bh",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-BH"]
   },
   {
     "country": "bangladesh",
@@ -249,7 +262,8 @@
       "alpha_3": "bgd"
     },
     "tld": ".bd",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bn-BD"]
   },
   {
     "country": "barbados",
@@ -267,7 +281,8 @@
       "alpha_3": "brb"
     },
     "tld": ".bb",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-BB"]
   },
   {
     "country": "belarus",
@@ -285,7 +300,8 @@
       "alpha_3": "blr"
     },
     "tld": ".by",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["be-BY", "ru-BY"]
   },
   {
     "country": "belgium",
@@ -303,7 +319,8 @@
       "alpha_3": "bel"
     },
     "tld": ".be",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["de-BE", "fr-BE", "nl-BE"]
   },
   {
     "country": "belize",
@@ -321,7 +338,8 @@
       "alpha_3": "blz"
     },
     "tld": ".bz",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-BZ"]
   },
   {
     "country": "benin",
@@ -339,7 +357,8 @@
       "alpha_3": "ben"
     },
     "tld": ".bj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-BJ"]
   },
   {
     "country": "bhutan",
@@ -357,7 +376,8 @@
       "alpha_3": "btn"
     },
     "tld": ".bt",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["dz-BT"]
   },
   {
     "country": "bolivia",
@@ -375,7 +395,8 @@
       "alpha_3": "bol"
     },
     "tld": ".bo",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ay-BO", "es-BO", "qu-BO"]
   },
   {
     "country": "bosnia and herzegovina",
@@ -393,7 +414,8 @@
       "alpha_3": "bih"
     },
     "tld": ".ba",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bs-BA", "hr-BA", "sr-BA"]
   },
   {
     "country": "botswana",
@@ -411,7 +433,8 @@
       "alpha_3": "bwa"
     },
     "tld": ".bw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-BW"]
   },
   {
     "country": "brazil",
@@ -429,7 +452,8 @@
       "alpha_3": "bra"
     },
     "tld": ".br",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-BR"]
   },
   {
     "country": "brunei",
@@ -447,7 +471,8 @@
       "alpha_3": "brn"
     },
     "tld": ".bn",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ms-BN"]
   },
   {
     "country": "bulgaria",
@@ -465,7 +490,8 @@
       "alpha_3": "bgr"
     },
     "tld": ".bg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bg-BG"]
   },
   {
     "country": "burkina faso",
@@ -483,7 +509,8 @@
       "alpha_3": "bfa"
     },
     "tld": ".bf",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-BF"]
   },
   {
     "country": "burundi",
@@ -501,7 +528,8 @@
       "alpha_3": "bdi"
     },
     "tld": ".bi",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-BI", "rn-BI"]
   },
   {
     "country": "cambodia",
@@ -519,7 +547,8 @@
       "alpha_3": "khm"
     },
     "tld": ".kh",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["km-KH"]
   },
   {
     "country": "cameroon",
@@ -537,14 +566,15 @@
       "alpha_3": "cmr"
     },
     "tld": ".cm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-CM", "fr-CM"]
   },
   {
     "country": "canada",
     "capital": "ottawa",
     "currency": "canadian dollar",
     "native_language": ["english", "french"],
-    "famous_for": "mapple syrup, mapple trees, politeness and hockey",
+    "famous_for": "maple syrup, maple trees, politeness and hockey",
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/ca.png",
     "drive_direction": "right",
@@ -555,7 +585,8 @@
       "alpha_3": "can"
     },
     "tld": ".ca",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-CA", "fr-CA"]
   },
   {
     "country": "cape verde",
@@ -573,7 +604,9 @@
       "alpha_3": "cpv"
     },
     "tld": ".cv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-CV"]
+
   },
   {
     "country": "central african republic",
@@ -591,7 +624,8 @@
       "alpha_3": "caf"
     },
     "tld": ".cf",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CF", "sg-CF"]
   },
   {
     "country": "chad",
@@ -609,7 +643,8 @@
       "alpha_3": "tcd"
     },
     "tld": ".td",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-TD", "fr-TD"]
   },
   {
     "country": "chile",
@@ -627,7 +662,8 @@
       "alpha_3": "chl"
     },
     "tld": ".cl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CL"]
   },
   {
     "country": "china",
@@ -645,7 +681,8 @@
       "alpha_3": "chn"
     },
     "tld": ".cn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["zh-CN"]
   },
   {
     "country": "colombia",
@@ -663,7 +700,8 @@
       "alpha_3": "col"
     },
     "tld": ".co",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CO"]
   },
   {
     "country": "comoros",
@@ -681,7 +719,8 @@
       "alpha_3": "com"
     },
     "tld": ".km",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-KM", "fr-KM"]
   },
   {
     "country": "democratic republic of the congo",
@@ -699,7 +738,8 @@
       "alpha_3": "cod"
     },
     "tld": ".cd",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CD"]
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -717,7 +757,8 @@
       "alpha_3": "cog"
     },
     "tld": ".cg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CG"]
   },
   {
     "country": "costa rica",
@@ -735,7 +776,8 @@
       "alpha_3": "cri"
     },
     "tld": ".cr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CR"]
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -753,13 +795,14 @@
       "alpha_3": "civ"
     },
     "tld": ".ci",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CI"]
   },
   {
     "country": "croatia",
     "capital": "zagreb",
-    "currency": "croatian",
-    "native_language": ["kuna"],
+    "currency": "euro",
+    "native_language": ["croatian"],
     "famous_for": "game of thrones, stunning natural beauty and 6000km long coast",
     "phone_code": "+385",
     "flag": "https://flagpedia.net/data/flags/h80/hr.png",
@@ -771,7 +814,8 @@
       "alpha_3": "hrv"
     },
     "tld": ".hr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["hr-HR"]
   },
   {
     "country": "cuba",
@@ -789,7 +833,8 @@
       "alpha_3": "cub"
     },
     "tld": ".cu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CU"]
   },
   {
     "country": "cyprus",
@@ -807,7 +852,8 @@
       "alpha_3": "cyp"
     },
     "tld": ".cy",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["el-CY", "tr-CY"]
   },
   {
     "country": "czechia",
@@ -825,7 +871,8 @@
       "alpha_3": "cze"
     },
     "tld": ".cz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["cs-CZ"]
   },
   {
     "country": "denmark",
@@ -843,7 +890,8 @@
       "alpha_3": "dnk"
     },
     "tld": ".dk",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["da-DK"]
   },
   {
     "country": "djibouti",
@@ -861,7 +909,8 @@
       "alpha_3": "dji"
     },
     "tld": ".dj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-DJ", "fr-DJ"]
   },
   {
     "country": "dominica",
@@ -879,7 +928,8 @@
       "alpha_3": "dma"
     },
     "tld": ".dm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-DM", "fr-DM"]
   },
   {
     "country": "dominican republic",
@@ -897,7 +947,8 @@
       "alpha_3": "dom"
     },
     "tld": ".do",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-DO"]
   },
   {
     "country": "east timor (timor-leste)",
@@ -915,7 +966,8 @@
       "alpha_3": "tls"
     },
     "tld": ".tl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-TL"]
   },
   {
     "country": "ecuador",
@@ -933,7 +985,8 @@
       "alpha_3": "ecu"
     },
     "tld": ".ec",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-EC"]
   },
   {
     "country": "egypt",
@@ -951,7 +1004,8 @@
       "alpha_3": "egy"
     },
     "tld": ".eg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-EG"]
   },
   {
     "country": "el salvador",
@@ -969,7 +1023,8 @@
       "alpha_3": "slv"
     },
     "tld": ".sv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-SV"]
   },
   {
     "country": "equitorial guinea",
@@ -987,7 +1042,8 @@
       "alpha_3": "gnq"
     },
     "tld": ".gq",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-GQ", "fr-GQ", "pt-GQ"]
   },
   {
     "country": "eritrea",
@@ -1005,7 +1061,8 @@
       "alpha_3": "eri"
     },
     "tld": ".er",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-ER", "en-ER", "ti-ER"]
   },
   {
     "country": "estonia",
@@ -1023,7 +1080,8 @@
       "alpha_3": "est"
     },
     "tld": ".ee",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["et-EE"]
   },
   {
     "country": "ethiopia",
@@ -1041,7 +1099,8 @@
       "alpha_3": "eth"
     },
     "tld": ".et",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["am-ET"]
   },
   {
     "country": "fiji",
@@ -1059,7 +1118,8 @@
       "alpha_3": "fji"
     },
     "tld": ".fj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-FJ", "fj-FJ"]
   },
   {
     "country": "finland",
@@ -1077,7 +1137,8 @@
       "alpha_3": "fin"
     },
     "tld": ".fi",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fi-FI", "sv-FI"]
   },
   {
     "country": "france",
@@ -1095,7 +1156,8 @@
       "alpha_3": "fra"
     },
     "tld": ".fr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-FR"]
   },
   {
     "country": "gabon",
@@ -1113,7 +1175,8 @@
       "alpha_3": "gab"
     },
     "tld": ".ga",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-GA"]
   },
   {
     "country": "the gambia",
@@ -1131,7 +1194,8 @@
       "alpha_3": "gmb"
     },
     "tld": ".gm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-GM"]
   },
   {
     "country": "georgia",
@@ -1149,7 +1213,8 @@
       "alpha_3": "geo"
     },
     "tld": ".ge",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ka-GE"]
   },
   {
     "country": "germany",
@@ -1167,7 +1232,8 @@
       "alpha_3": "deu"
     },
     "tld": ".de",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["de-DE"]
   },
   {
     "country": "ghana",
@@ -1185,7 +1251,8 @@
       "alpha_3": "gha"
     },
     "tld": ".gh",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-GH"]
   },
   {
     "country": "greece",
@@ -1203,7 +1270,8 @@
       "alpha_3": "grc"
     },
     "tld": ".gr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["el-GR"]
   },
   {
     "country": "grenada",
@@ -1221,7 +1289,8 @@
       "alpha_3": "grd"
     },
     "tld": ".gd",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-GD"]
   },
   {
     "country": "guatemala",
@@ -1239,7 +1308,8 @@
       "alpha_3": "gtm"
     },
     "tld": ".gt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-GT"]
   },
   {
     "country": "guinea",
@@ -1257,7 +1327,8 @@
       "alpha_3": "gin"
     },
     "tld": ".gn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-GN"]
   },
   {
     "country": "guinea-bissau",
@@ -1275,7 +1346,8 @@
       "alpha_3": "gnb"
     },
     "tld": ".gw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-GW"]
   },
   {
     "country": "guyana",
@@ -1293,7 +1365,8 @@
       "alpha_3": "guy"
     },
     "tld": ".gy",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-GY"]
   },
   {
     "country": "haiti",
@@ -1311,7 +1384,8 @@
       "alpha_3": "hti"
     },
     "tld": ".ht",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-HT", "ht-HT"]
   },
   {
     "country": "honduras",
@@ -1329,7 +1403,8 @@
       "alpha_3": "hnd"
     },
     "tld": ".hn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-HN"]
   },
   {
     "country": "hungary",
@@ -1347,14 +1422,15 @@
       "alpha_3": "hun"
     },
     "tld": ".hu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["hu-HU"]
   },
   {
     "country": "iceland",
     "capital": "reykjavik",
     "currency": "icelandic krona",
     "native_language": ["icelandic"],
-    "famous_for": "lagest glaciers in europe",
+    "famous_for": "largest glaciers in europe",
     "phone_code": "+354",
     "flag": "https://flagpedia.net/data/flags/h80/is.png",
     "drive_direction": "right",
@@ -1365,7 +1441,8 @@
       "alpha_3": "isl"
     },
     "tld": ".is",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["is-IS"]
   },
   {
     "country": "india",
@@ -1383,7 +1460,8 @@
       "alpha_3": "ind"
     },
     "tld": ".in",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-IN", "hi-IN"]
   },
   {
     "country": "indonesia",
@@ -1401,7 +1479,8 @@
       "alpha_3": "idn"
     },
     "tld": ".id",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["id-ID"]
   },
   {
     "country": "iran",
@@ -1419,7 +1498,8 @@
       "alpha_3": "irn"
     },
     "tld": ".ir",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fa-IR"]
   },
   {
     "country": "iraq",
@@ -1437,7 +1517,8 @@
       "alpha_3": "irq"
     },
     "tld": ".iq",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-IK", "ku-IK"]
   },
   {
     "country": "republic of ireland",
@@ -1455,7 +1536,8 @@
       "alpha_3": "irl"
     },
     "tld": ".ie",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-IE", "ga-IE"]
   },
   {
     "country": "israel",
@@ -1473,7 +1555,8 @@
       "alpha_3": "isr"
     },
     "tld": ".il",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": [ "ar-IL", "he-IL"]
   },
   {
     "country": "italy",
@@ -1491,7 +1574,8 @@
       "alpha_3": "ita"
     },
     "tld": ".it",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["it-IT"]
   },
   {
     "country": "jamaica",
@@ -1509,14 +1593,15 @@
       "alpha_3": "jam"
     },
     "tld": ".jm",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-JM"]
   },
   {
     "country": "japan",
     "capital": "tokyo",
     "currency": "yen",
     "native_language": ["japanese"],
-    "famous_for": "politeness, anime, sushi, samurai, nitendo karate, cars and robotics",
+    "famous_for": "politeness, anime, sushi, samurai, nintendo karate, cars and robotics",
     "phone_code": "+81",
     "flag": "https://flagpedia.net/data/flags/h80/jp.png",
     "drive_direction": "left",
@@ -1527,7 +1612,8 @@
       "alpha_3": "jpn"
     },
     "tld": ".jp",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ja-JP"]
   },
   {
     "country": "jordan",
@@ -1545,7 +1631,8 @@
       "alpha_3": "jor"
     },
     "tld": ".jo",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-JO"]
   },
   {
     "country": "kazakhstan",
@@ -1563,7 +1650,8 @@
       "alpha_3": "kaz"
     },
     "tld": ".kz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["kk-KZ", "ru-KZ"]
   },
   {
     "country": "kenya",
@@ -1581,7 +1669,8 @@
       "alpha_3": "ken"
     },
     "tld": ".ke",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-KE", "sw-KE"]
   },
   {
     "country": "kiribati",
@@ -1599,7 +1688,8 @@
       "alpha_3": "kir"
     },
     "tld": ".ki",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-KI"]
   },
   {
     "country": "north korea",
@@ -1617,7 +1707,8 @@
       "alpha_3": "prk"
     },
     "tld": ".kp",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ko-KP"]
   },
   {
     "country": "south korea",
@@ -1635,7 +1726,8 @@
       "alpha_3": "kor"
     },
     "tld": ".kr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ko-KR"]
   },
   {
     "country": "kosovo",
@@ -1653,7 +1745,8 @@
       "alpha_3": "xkx"
     },
     "tld": ".rs",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sr-XK", "sq-XK"]
   },
   {
     "country": "kuwait",
@@ -1671,7 +1764,8 @@
       "alpha_3": "kwt"
     },
     "tld": ".kw",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-KW", "en-KW"]
   },
   {
     "country": "kyrgyzstan",
@@ -1689,7 +1783,8 @@
       "alpha_3": "kgz"
     },
     "tld": ".kg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ky-KG", "ru-KG"]
   },
   {
     "country": "laos",
@@ -1707,7 +1802,8 @@
       "alpha_3": "lao"
     },
     "tld": ".la",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["lo-LA"]
   },
   {
     "country": "latvia",
@@ -1725,7 +1821,8 @@
       "alpha_3": "lva"
     },
     "tld": ".lv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["lv-LV"]
   },
   {
     "country": "lebanon",
@@ -1743,7 +1840,8 @@
       "alpha_3": "lbn"
     },
     "tld": ".lb",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-LB", "fr-LB"]
   },
   {
     "country": "lesotho",
@@ -1761,7 +1859,8 @@
       "alpha_3": "lso"
     },
     "tld": ".ls",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-LS", "st-LS"]
   },
   {
     "country": "liberia",
@@ -1779,7 +1878,8 @@
       "alpha_3": "lbr"
     },
     "tld": ".lr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-LR"]
   },
   {
     "country": "libya",
@@ -1797,14 +1897,15 @@
       "alpha_3": "lby"
     },
     "tld": ".ly",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["ar-LY"]
   },
   {
     "country": "liechtenstein",
     "capital": "vaduz",
     "currency": "swiss franc",
     "native_language": ["german"],
-    "famous_for": "unbelievable transformation from rural to wealthiest poulation within 60 years",
+    "famous_for": "unbelievable transformation from rural to wealthiest population within 60 years",
     "phone_code": "+423",
     "flag": "https://flagpedia.net/data/flags/h80/li.png",
     "drive_direction": "right",
@@ -1815,7 +1916,8 @@
       "alpha_3": "lie"
     },
     "tld": ".li",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["de-LI"]
   },
   {
     "country": "lithuania",
@@ -1833,14 +1935,15 @@
       "alpha_3": "ltu"
     },
     "tld": ".lt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["lt-LT"]
   },
   {
     "country": "luxembourg",
     "capital": "luxembourg",
     "currency": "euro",
     "native_language": ["german", "french", "luxembourgish"],
-    "famous_for": "europe's most powerful investement management centre and steel manufacturing",
+    "famous_for": "europe's most powerful investment management centre and steel manufacturing",
     "phone_code": "+352",
     "flag": "https://flagpedia.net/data/flags/h80/lu.png",
     "drive_direction": "right",
@@ -1851,7 +1954,8 @@
       "alpha_3": "lux"
     },
     "tld": ".lu",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["de-LU", "fr-LU", "lb-LU"]
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1869,7 +1973,8 @@
       "alpha_3": "mkd"
     },
     "tld": ".mk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["mk-MK", "sq-MK"]
   },
   {
     "country": "madagascar",
@@ -1887,7 +1992,8 @@
       "alpha_3": "mdg"
     },
     "tld": ".mg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-MG", "mg-MG"]
   },
   {
     "country": "malawi",
@@ -1905,7 +2011,8 @@
       "alpha_3": "mwi"
     },
     "tld": ".mw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MW", "ny-MW"]
   },
   {
     "country": "malaysia",
@@ -1923,7 +2030,8 @@
       "alpha_3": "mys"
     },
     "tld": ".my",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ms-MY"]
   },
   {
     "country": "maldives",
@@ -1941,7 +2049,8 @@
       "alpha_3": "mdv"
     },
     "tld": ".mv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["dv-MV"]
   },
   {
     "country": "mali",
@@ -1959,7 +2068,8 @@
       "alpha_3": "mli"
     },
     "tld": ".ml",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["fr-ML"]
   },
   {
     "country": "malta",
@@ -1977,7 +2087,8 @@
       "alpha_3": "mlt"
     },
     "tld": ".mt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MT", "mt-MT"]
   },
   {
     "country": "marshall islands",
@@ -1995,7 +2106,8 @@
       "alpha_3": "mhl"
     },
     "tld": ".mh",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MH", "mh-MH"]
   },
   {
     "country": "mauritania",
@@ -2013,7 +2125,8 @@
       "alpha_3": "mrt"
     },
     "tld": ".mr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-MR"]
   },
   {
     "country": "mauritius",
@@ -2031,7 +2144,8 @@
       "alpha_3": "mus"
     },
     "tld": ".mu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MU"]
   },
   {
     "country": "mexico",
@@ -2049,7 +2163,8 @@
       "alpha_3": "mex"
     },
     "tld": ".mx",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-MX"]
   },
   {
     "country": "federal states of micronesia",
@@ -2067,7 +2182,8 @@
       "alpha_3": "fsm"
     },
     "tld": ".fm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-FM"]
   },
   {
     "country": "moldova",
@@ -2085,7 +2201,8 @@
       "alpha_3": "mda"
     },
     "tld": ".md",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ro-MD"]
   },
   {
     "country": "monaco",
@@ -2103,7 +2220,8 @@
       "alpha_3": "mco"
     },
     "tld": ".mc",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["fr-MC"]
   },
   {
     "country": "mongolia",
@@ -2121,7 +2239,8 @@
       "alpha_3": "mng"
     },
     "tld": ".mn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["mn-MN"]
   },
   {
     "country": "montenegro",
@@ -2139,7 +2258,8 @@
       "alpha_3": "mne"
     },
     "tld": ".me",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sr-ME"]
   },
   {
     "country": "morocco",
@@ -2157,7 +2277,8 @@
       "alpha_3": "mar"
     },
     "tld": ".ma",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-MA"]
   },
   {
     "country": "mozambique",
@@ -2175,7 +2296,8 @@
       "alpha_3": "moz"
     },
     "tld": ".mz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-MZ"]
   },
   {
     "country": "myanmar (burma)",
@@ -2193,7 +2315,8 @@
       "alpha_3": "mmr"
     },
     "tld": ".mm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["my-MM"]
   },
   {
     "country": "namibia",
@@ -2211,7 +2334,8 @@
       "alpha_3": "nam"
     },
     "tld": ".na",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["af-NA", "de-NA", "en-NA"]
   },
   {
     "country": "nauru",
@@ -2229,7 +2353,8 @@
       "alpha_3": "nru"
     },
     "tld": ".nr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-NR", "na-NR"]
   },
   {
     "country": "nepal",
@@ -2247,7 +2372,8 @@
       "alpha_3": "npl"
     },
     "tld": ".np",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ne-NP"]
   },
   {
     "country": "netherlands",
@@ -2265,7 +2391,8 @@
       "alpha_3": "nld"
     },
     "tld": ".nl",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["nl-NL"]
   },
   {
     "country": "new zealand",
@@ -2283,7 +2410,8 @@
       "alpha_3": "nzl"
     },
     "tld": ".nz",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-NZ"]
   },
   {
     "country": "nicaragua",
@@ -2301,7 +2429,8 @@
       "alpha_3": "nic"
     },
     "tld": ".ni",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-NA"]
   },
   {
     "country": "niger",
@@ -2319,7 +2448,8 @@
       "alpha_3": "ner"
     },
     "tld": ".ne",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-NE"]
   },
   {
     "country": "nigeria",
@@ -2337,7 +2467,8 @@
       "alpha_3": "nga"
     },
     "tld": ".ng",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-NG"]
   },
   {
     "country": "norway",
@@ -2355,7 +2486,8 @@
       "alpha_3": "nor"
     },
     "tld": ".no",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["no-NO"]
   },
   {
     "country": "oman",
@@ -2373,7 +2505,8 @@
       "alpha_3": "omn"
     },
     "tld": ".om",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ar-OM"]
   },
   {
     "country": "pakistan",
@@ -2391,7 +2524,8 @@
       "alpha_3": "pak"
     },
     "tld": ".pk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": [ "en-PK", "ur-PK"]
   },
   {
     "country": "palau",
@@ -2409,7 +2543,8 @@
       "alpha_3": "plw"
     },
     "tld": ".pw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-PW"]
   },
   {
     "country": "panama",
@@ -2427,7 +2562,8 @@
       "alpha_3": "pan"
     },
     "tld": ".pa",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-PA"]
   },
   {
     "country": "papa new guinea",
@@ -2445,7 +2581,8 @@
       "alpha_3": "png"
     },
     "tld": ".pg",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-PG"]
   },
   {
     "country": "paraguay",
@@ -2463,7 +2600,8 @@
       "alpha_3": "pry"
     },
     "tld": ".py",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-PY", "gn-PY"]
   },
   {
     "country": "peru",
@@ -2481,7 +2619,8 @@
       "alpha_3": "per"
     },
     "tld": ".pe",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-PE", "qu-PE"]
   },
   {
     "country": "philippines",
@@ -2499,7 +2638,8 @@
       "alpha_3": "phl"
     },
     "tld": ".ph",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-PH", "tl-PH"]
   },
   {
     "country": "poland",
@@ -2517,7 +2657,8 @@
       "alpha_3": "pol"
     },
     "tld": ".pl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pl-PL"]
   },
   {
     "country": "portugal",
@@ -2535,7 +2676,8 @@
       "alpha_3": "prt"
     },
     "tld": ".pt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-PT"]
   },
   {
     "country": "qatar",
@@ -2553,7 +2695,8 @@
       "alpha_3": "qat"
     },
     "tld": ".qa",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ar-QA"]
   },
   {
     "country": "romania",
@@ -2571,7 +2714,8 @@
       "alpha_3": "rou"
     },
     "tld": ".ro",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ro-RO"]
   },
   {
     "country": "russia",
@@ -2589,7 +2733,8 @@
       "alpha_3": "rus"
     },
     "tld": ".ru",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-RU"]
   },
   {
     "country": "rwanda",
@@ -2607,7 +2752,8 @@
       "alpha_3": "rwa"
     },
     "tld": ".rw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-RW", "fr-RW", "rw-RW"]
   },
   {
     "country": "saint kitts and nevis",
@@ -2625,7 +2771,8 @@
       "alpha_3": "kna"
     },
     "tld": ".kn",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-KN"]
   },
   {
     "country": "saint lucia",
@@ -2643,14 +2790,15 @@
       "alpha_3": "lca"
     },
     "tld": ".lc",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-LC", "fr-LC"]
   },
   {
     "country": "saint vincent and the grenadines",
     "capital": "kingstown east",
     "currency": "caribbean dollar",
     "native_language": ["english"],
-    "famous_for": "beautiful white-sand beaches and snorking",
+    "famous_for": "beautiful white-sand beaches and snorkeling",
     "phone_code": "+1-784",
     "flag": "https://flagpedia.net/data/flags/h80/vc.png",
     "drive_direction": "left",
@@ -2661,7 +2809,8 @@
       "alpha_3": "vct"
     },
     "tld": ".vc",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-VC"]
   },
   {
     "country": "samoa",
@@ -2679,7 +2828,8 @@
       "alpha_3": "wsm"
     },
     "tld": ".ws",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-WS", "sm-WS"]
   },
   {
     "country": "san marino",
@@ -2697,7 +2847,8 @@
       "alpha_3": "smr"
     },
     "tld": ".sm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["it-SM"]
   },
   {
     "country": "sao tome and principe",
@@ -2715,7 +2866,8 @@
       "alpha_3": "stp"
     },
     "tld": ".st",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-ST"]
   },
   {
     "country": "saudi arabia",
@@ -2733,7 +2885,8 @@
       "alpha_3": "sau"
     },
     "tld": ".sa",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ar-SA"]
   },
   {
     "country": "senegal",
@@ -2751,7 +2904,8 @@
       "alpha_3": "sen"
     },
     "tld": ".sn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-SN"]
   },
   {
     "country": "serbia",
@@ -2769,7 +2923,8 @@
       "alpha_3": "srb"
     },
     "tld": ".rs",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sr-RS"]
   },
   {
     "country": "seychelles",
@@ -2787,7 +2942,8 @@
       "alpha_3": "syc"
     },
     "tld": ".sc",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-SC", "fr-SC"]
   },
   {
     "country": "sierra leone",
@@ -2805,7 +2961,8 @@
       "alpha_3": "sle"
     },
     "tld": ".sl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-SL"]
   },
   {
     "country": "singapore",
@@ -2823,7 +2980,8 @@
       "alpha_3": "sgp"
     },
     "tld": ".sg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-SG", "ms-SG", "zh-SG"]
   },
   {
     "country": "slovakia",
@@ -2841,7 +2999,8 @@
       "alpha_3": "svk"
     },
     "tld": ".sk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sk-SK"]
   },
   {
     "country": "slovenia",
@@ -2859,7 +3018,8 @@
       "alpha_3": "svn"
     },
     "tld": ".si",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sl-SI"]
   },
   {
     "country": "solomon islands",
@@ -2877,7 +3037,8 @@
       "alpha_3": "slb"
     },
     "tld": ".sb",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-SB"]
   },
   {
     "country": "somalia",
@@ -2895,7 +3056,8 @@
       "alpha_3": "som"
     },
     "tld": ".so",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["so-SO"]
   },
   {
     "country": "south africa",
@@ -2913,7 +3075,8 @@
       "alpha_3": "zaf"
     },
     "tld": ".za",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["af-ZA", "en-ZA", "xh-ZA", "zu-ZA"]
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -2931,13 +3094,14 @@
       "alpha_3": "ssd"
     },
     "tld": ".ss",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-SS", "en-SS"]
   },
   {
     "country": "spain",
     "capital": "madrid",
     "currency": "euro",
-    "native_language": ["spanish"],
+    "native_language": ["spanish", "catalan"],
     "famous_for": "salsa and bullfight",
     "phone_code": "+34",
     "flag": "https://flagpedia.net/data/flags/h80/es.png",
@@ -2949,7 +3113,8 @@
       "alpha_3": "esp"
     },
     "tld": ".es",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ca-ES", "es-ES"]
   },
   {
     "country": "sri lanka",
@@ -2967,7 +3132,8 @@
       "alpha_3": "lka"
     },
     "tld": ".lk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["si-LK", "ta-LK"]
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -2985,7 +3151,8 @@
       "alpha_3": "sdn"
     },
     "tld": ".sd",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["ar-SD", "en-SD"]
   },
   {
     "country": "suriname",
@@ -3003,7 +3170,8 @@
       "alpha_3": "sur"
     },
     "tld": ".sr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["nl-SR"]
   },
   {
     "country": "eswatini (swaziland)",
@@ -3021,7 +3189,8 @@
       "alpha_3": "swz"
     },
     "tld": ".sz",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ss-SZ"]
   },
   {
     "country": "sweden",
@@ -3039,13 +3208,14 @@
       "alpha_3": "swe"
     },
     "tld": ".se",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["sv-SE"]
   },
   {
     "country": "switzerland",
     "capital": "berne",
     "currency": "swiss franc",
-    "native_language": ["german", "french", "italian"],
+    "native_language": ["german", "french", "italian", "romansh"],
     "famous_for": "alps, natural beauty, chocolates and watches",
     "flag": "https://flagpedia.net/data/flags/h80/ch.png",
     "drive_direction": "right",
@@ -3056,7 +3226,8 @@
       "alpha_3": "che"
     },
     "tld": ".ch",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["de-CH", "fr-CH", "it-CH", "rm-CH"]
   },
   {
     "country": "syria",
@@ -3074,8 +3245,8 @@
       "alpha_3": "syr"
     },
     "tld": ".sy",
-    "constitutional_form": "republic"
-  },
+    "constitutional_form": "republic",
+    "language_codes": ["ar-SY"]},
   {
     "country": "taiwan",
     "capital": "taipei",
@@ -3092,7 +3263,8 @@
       "alpha_3": "twn"
     },
     "tld": ".tw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["zh-TW"]
   },
   {
     "country": "tajikistan",
@@ -3110,7 +3282,8 @@
       "alpha_3": "tjk"
     },
     "tld": ".tj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-TJ", "tg-TJ"]
   },
   {
     "country": "tanzania",
@@ -3128,7 +3301,8 @@
       "alpha_3": "tza"
     },
     "tld": ".tz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-TZ", "sw-TZ"]
   },
   {
     "country": "thailand",
@@ -3146,7 +3320,8 @@
       "alpha_3": "tha"
     },
     "tld": ".th",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["th-TH"]
   },
   {
     "country": "togo",
@@ -3164,7 +3339,8 @@
       "alpha_3": "tgo"
     },
     "tld": ".tg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-TG"]
   },
   {
     "country": "tonga",
@@ -3182,14 +3358,15 @@
       "alpha_3": "ton"
     },
     "tld": ".to",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-TO", "to-TO"]
   },
   {
     "country": "trinidad and tobago",
     "capital": "port-of-spain",
     "currency": "trinidad and tobago dollar",
     "native_language": ["english"],
-    "famous_for": "stable economy, steel pans, carnival festivity, caribbean dance and lush greenary",
+    "famous_for": "stable economy, steel pans, carnival festivity, caribbean dance and lush greenery",
     "phone_code": "+1-868",
     "flag": "https://flagpedia.net/data/flags/h80/tt.png",
     "drive_direction": "left",
@@ -3200,7 +3377,8 @@
       "alpha_3": "tto"
     },
     "tld": ".tt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-TT"]
   },
   {
     "country": "tunisia",
@@ -3218,7 +3396,8 @@
       "alpha_3": "tun"
     },
     "tld": ".tn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-TN", "fr-TN"]
   },
   {
     "country": "turkey",
@@ -3236,7 +3415,8 @@
       "alpha_3": "tur"
     },
     "tld": ".tr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["tr-TR"]
   },
   {
     "country": "turkmenistan",
@@ -3254,7 +3434,8 @@
       "alpha_3": "tkm"
     },
     "tld": ".tm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-TM", "tk-TM"]
   },
   {
     "country": "tuvalu",
@@ -3272,7 +3453,8 @@
       "alpha_3": "tuv"
     },
     "tld": ".tv",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-TV"]
   },
   {
     "country": "uganda",
@@ -3290,13 +3472,14 @@
       "alpha_3": "uga"
     },
     "tld": ".ug",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-UG", "sw-UG"]
   },
   {
     "country": "ukraine",
     "capital": "kiev",
     "currency": "hryvnia",
-    "native_language": ["ukranian", "russian"],
+    "native_language": ["ukrainian", "russian"],
     "famous_for": "agricultural production",
     "phone_code": "+380",
     "flag": "https://flagpedia.net/data/flags/h80/ua.png",
@@ -3308,7 +3491,8 @@
       "alpha_3": "ukr"
     },
     "tld": ".ua",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-UA", "uk-UA"]
   },
   {
     "country": "united arab emirates",
@@ -3326,7 +3510,8 @@
       "alpha_3": "are"
     },
     "tld": ".ae",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-AE"]
   },
   {
     "country": "united kingdom",
@@ -3344,7 +3529,8 @@
       "alpha_3": "gbr"
     },
     "tld": ".gb/.uk",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-GB"]
   },
   {
     "country": "united states of america",
@@ -3362,7 +3548,8 @@
       "alpha_3": "usa"
     },
     "tld": ".us",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-US", "es-US"]
   },
   {
     "country": "uruguay",
@@ -3380,7 +3567,8 @@
       "alpha_3": "ury"
     },
     "tld": ".uy",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sp-UY"]
   },
   {
     "country": "uzbekistan",
@@ -3398,7 +3586,8 @@
       "alpha_3": "uzb"
     },
     "tld": ".uz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-UZ", "uz-UZ"]
   },
   {
     "country": "vanuatu",
@@ -3416,7 +3605,8 @@
       "alpha_3": "vut"
     },
     "tld": ".vu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bi-VU", "en-VU", "fr-VU"]
   },
   {
     "country": "vatican city",
@@ -3434,7 +3624,8 @@
       "alpha_3": "vat"
     },
     "tld": ".va",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["it-VA", "la-VA"]
   },
   {
     "country": "venezuela",
@@ -3452,7 +3643,8 @@
       "alpha_3": "ven"
     },
     "tld": ".ve",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-VE"]
   },
   {
     "country": "vietnam",
@@ -3470,7 +3662,8 @@
       "alpha_3": "vnm"
     },
     "tld": ".vn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["vi-VN"]
   },
   {
     "country": "yemen",
@@ -3488,7 +3681,8 @@
       "alpha_3": "yem"
     },
     "tld": ".ye",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["ar-YE"]
   },
   {
     "country": "zambia",
@@ -3506,7 +3700,8 @@
       "alpha_3": "zmb"
     },
     "tld": ".zm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-ZM"]
   },
   {
     "country": "zimbabwe",
@@ -3524,6 +3719,7 @@
       "alpha_3": "zwe"
     },
     "tld": ".zw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-ZW"]
   }
 ]
