@@ -37,7 +37,7 @@ const wcc = require("world-countries-capitals");
 This section contains nt to _contribute_ to open source? Try solving our issues [here](https://github.com/bhatvikrant/world-countries-capitals/issues)\_
 
 - `getAllCountryDetails()` <br>
-  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, **phone_code**, and its **flag**.
+  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition** 
 
       	```javascript
       	[
@@ -80,7 +80,7 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 ---
 
 - `getCountriesByLanguage(languageSpoken)` <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _languageSpoken_ passed in as a parameter.<br>
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition** sorted by the _languageSpoken_ passed in as a parameter.<br>
   Response for getCountiesByLanguage('Hindi')
 
   ```javascript
@@ -109,7 +109,7 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 ---
 
 - `getCountryDetailsByName(countryName)` <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _name of the country_ passed in as a parameter.<br>
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**,**flag**, **drive_directions**, and **alcohol_prohibition** sorted by the _name of the country_ passed in as a parameter.<br>
   Response for getCountryDetailsByName('india')
 
       	```javascript
@@ -129,7 +129,7 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 ---
 
 - `getCountryDetailsByCapital(capital)` <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _capital_ .<br>
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition** sorted by the _capital_ .<br>
   Response for getCountryDetailsByCapital('delhi')
 
       	```javascript
@@ -167,7 +167,7 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 ---
 
 - `getNRandomCountriesData(n)` <br>
-  This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag**.<br>
+  This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition**.<br>
   Sample response for n = 3
 
       	```javascript
@@ -265,6 +265,114 @@ This section contains nt to _contribute_ to open source? Try solving our issues 
 			flag: "https://flagpedia.net/data/flags/h80/no.png"
       		},
       	];
+      	```
+- `getCountriesByAlcoholProhibition(prohibitionType)` <br>
+  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, **alcohol_prohibition** sorted by the _alcoholProhibition_ .<br>
+  Response for getCountriesByAlcoholProhibition("nationwide")
+
+      	```javascript
+		[
+			{
+				country: 'afghanistan',
+				capital: 'kabul',
+				currency: 'afghani',
+				native_language: [ 'dari persian', 'pashto' ],
+				famous_for: 'rugs, taliban',
+				phone_code: '+93',
+				flag: 'https://flagpedia.net/data/flags/h80/af.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'brunei',
+				capital: 'bandar seri begawan',
+				currency: 'brunei dollar',
+				native_language: [ 'malay' ],
+				famous_for: 'gorgeous mosques and islamic architecture',
+				phone_code: '+673',
+				flag: 'https://flagpedia.net/data/flags/h80/bn.png',
+				drive_direction: 'left',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'djibouti',
+				capital: 'djibouti',
+				currency: 'djiboutian franc',
+				native_language: [ 'arabic', 'french' ],
+				famous_for: 'amazing landscapes, limestone vents and flamingos',
+				phone_code: '+253',
+				flag: 'https://flagpedia.net/data/flags/h80/dj.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'iran',
+				capital: 'tehran',
+				currency: 'rial',
+				native_language: [ 'persian' ],
+				famous_for: 'nuclear weapon, shia muslims, poetry, persian carpet',
+				phone_code: '+98',
+				flag: 'https://flagpedia.net/data/flags/h80/ir.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'kuwait',
+				capital: 'kuwait city',
+				currency: 'kuwaiti dollar',
+				native_language: [ 'arabic', 'english' ],
+				famous_for: "victim of saddam's invasion",
+				phone_code: '965',
+				flag: 'https://flagpedia.net/data/flags/h80/kw.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'libya',
+				capital: 'tripoli',
+				currency: 'libyan dinar',
+				native_language: [ 'arabic' ],
+				famous_for: 'sahara desert',
+				phone_code: '+218',
+				flag: 'https://flagpedia.net/data/flags/h80/ly.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'mauritania',
+				capital: 'nouakchott',
+				currency: 'ouguiya',
+				native_language: [ 'arabic' ],
+				famous_for: 'large reserves of iron ore, copper, and gypsum',
+				phone_code: '+222',
+				flag: 'https://flagpedia.net/data/flags/h80/mr.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'saudi arabia',
+				capital: 'riyadh',
+				currency: 'saudi riyal',
+				native_language: [ 'arabic' ],
+				famous_for: 'strict rules, wahhabism, mecca and madina',
+				phone_code: '+966',
+				flag: 'https://flagpedia.net/data/flags/h80/sa.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			},
+			{
+				country: 'somalia',
+				capital: 'mogadishu',
+				currency: 'somali shilling',
+				native_language: [ 'somali', 'arabic' ],
+				famous_for: 'frankincense and myrrh',
+				phone_code: '+252',
+				flag: 'https://flagpedia.net/data/flags/h80/so.png',
+				drive_direction: 'right',
+				alcohol_prohibition: 'nationwide'
+			}
+		]
+
       	```
 ---
 
@@ -782,8 +890,17 @@ console.log(wcc.getCountriesByFamousFor("oil"));
 ```
 
 ---
-
 ### Example #9
+
+> Get the details of all `countries` where alcohol prohibition is _nationwide_.
+
+```javascript
+const wcc = require("world-countries-capitals");
+
+console.log(wcc.getCountriesByAlcoholProhibition("nationwide"));
+```
+---
+### Example #10
 > Get all `countries` located in '_eu_'.
 
 ```javascript
@@ -794,7 +911,7 @@ console.log(wcc.getCountriesByContinent("eu"));
 
 ---
 
-### Example #10
+### Example #11
 
 > Get country details using '_numeric_' type ISO code of Poland.
 
@@ -806,7 +923,7 @@ console.log(wcc.getCountryDetailsByISO("numeric", "616"));
 
 ---
 
-### Example #11
+### Example #12
 
 > Get the all `countries` that use '_.uk_' domain.
 
@@ -818,7 +935,7 @@ console.log(wcc.getCountriesByTLD(".uk"));
 
 ---
 
-### Example #12
+### Example #13
 
 > Get the details of all `countries` that have '_republic_' constitutional form.
 
@@ -828,7 +945,7 @@ const wcc = require("world-countries-capitals");
 console.log(wcc.getCountriesByConstitutionalForm("republic"));
 ```
 
-### Example #13
+### Example #14
 
 > Get the details of all `countries` that are '_landlocked_'.
 
