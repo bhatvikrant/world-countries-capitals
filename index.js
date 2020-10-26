@@ -146,6 +146,101 @@ const getCountriesByAlcoholProhibition = (prohibitionType) =>{
   return getCountriesByObject(value,"alcohol_prohibition");
 }
 
+/**
+ * Returns an array of objects, each containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by `continentCode`
+ * @param {string} continentCode The continent 2-letter code (not case-sensitive)
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByContinent = (continentCode) => {
+  continentCode = continentCode.toLowerCase();
+
+  return data.filter(country => country.continent
+    .split("/")
+    .includes(continentCode)
+  );
+};
+
+/**
+ * Returns an array with object containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by specific `iso`
+ * @param {'numeric' | 'alpha_2' | 'alpha_3'} isoType The code of the country (ISO 3166-1 standard)
+ * @param {string} isoValue The ISO code value (not case-sensitive) of the country
+ * @returns {Array} An array with country object
+ */
+const getCountryDetailsByISO = (isoType, isoValue) => {
+  let type;
+
+  isoType = isoType.toLowerCase();
+  isoValue = isoValue.toLowerCase();
+
+  switch (isoType) {
+    case "numeric":
+      type = "numeric";
+      break;
+    case "alpha_2":
+      type = "alpha_2";
+      break;
+    case "alpha_3":
+      type = "alpha_3";
+      break;
+    default:
+      throw new Error("isoType must be 'numeric', 'alpha_2' or 'alpha_3'");
+  }
+
+  return data.filter(country => country.iso[type] === isoValue);
+};
+
+/**
+ * Returns an array of objects containing `country`, `capital`, `currency`, `native_language`,
+ * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
+ * filtered by `tld`
+ * @param {string} tldName The name (not case-sensitive) of the country code top-level domain
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByTLD = (tldName) => {
+  tldName = tldName.toLowerCase();
+
+  return data.filter(country => country.tld
+    .split("/")
+    .includes(tldName)
+  );
+};
+
+/**
+ * Returns an array of objects containing all countries, each containing `country`, `capital`,
+ * `currency`, `native_language`, `famous_for`, and `phone_code`, `flag`, `drive_direction`
+ * and `constitutional_form` filtered by `constitutional_form`
+ * @param {string} constitutionalFormName Name of country constitutional form
+ * @returns {Array} An array of country objects
+ */
+const getCountriesByConstitutionalForm = (constitutionalFormName) => {
+  const result = data.filter((country) => {
+    return country.constitutional_form.includes(constitutionalFormName)
+  });
+
+  if (!result.length) {
+    throw new Error(
+      `No country was found! Available constitutional forms are:
+      'republic', 'constitutional monarchy', 'absolute monarchy' and 'n/a'
+    `);
+  }
+
+  return result;
+}
+
+/** 
+ * Returns an array of objects containing all countries, each containing `country`, `capital`,
+ * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
+ * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
+ * @returns {Array} An array of country objects
+*/
+const getCountriesByLandLock = (isLandLocked) => {
+  return data.filter( country => country.is_landlocked === isLandLocked);
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -156,5 +251,10 @@ module.exports = {
   getCountriesByLanguage,
   getCountriesByFamousFor,
   getCountriesByDriveDirection,
-  getCountriesByAlcoholProhibition
+  getCountriesByAlcoholProhibition,
+  getCountriesByContinent,
+  getCountryDetailsByISO,
+  getCountriesByTLD,
+  getCountriesByConstitutionalForm,
+  getCountriesByLandLock,
 };
