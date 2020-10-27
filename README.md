@@ -46,10 +46,14 @@ Currently available data for each country is:
 - **phone_code** - country dial-in (calling) code
 - **flag** - image of country flag
 - **drive_direction** - drive direction
+- **alcohol_prohibition** - status of alcohol prohibition
+- **area** - country size (square kilometers and square miles)
 - **continent** - 2-letter code of continent where the country is
 - **iso** - country ISO 3166-1 code (numeric, alpha-2, alpha-3)
 - **tld** - country code top-level domain
 - **constitutional_form** - official political system
+- **language_codes** - list of langauge codes (combination of _ISO 639-1_ and _ISO 3166-1 alpha-2_)
+- **is_landlocked** - information whether country is surrounded by one or more countries
 
 You can check all changes in the project at [releases page on Github][URL_GH_RELEASES]
 or in [changelog][DOC_CHANGELOG].
@@ -123,6 +127,10 @@ Type definition of each `Country {Object}`:
  * @property {String} phone_code - Phone prefix
  * @property {String} flag - Flag image
  * @property {String} drive_direction - Drive direction
+ * @property {String} alcohol_prohibition - Alcohol prohibition status
+ * @property {Object} area - Country size
+ * @property {Number} area.km2 - Country size in square kilometers
+ * @property {Number} area.mi2 - Country size in square miles
  * @property {String} continent - Continent that country belong to
  * @property {Object} iso - ISO 3166-1 standard codes
  * @property {String} iso.numeric - 3-digit code
@@ -130,6 +138,8 @@ Type definition of each `Country {Object}`:
  * @property {String} iso.alpha_3 - 3-letter code
  * @property {String} tld - Country code top-level domain
  * @property {String} constitutional_form - Name of official political system
+ * @property {String[]} language_codes - Array of language codes
+ * @property {Boolean} is_landlocked - Is country surrounded by one or more countries
  */
 ```
 
@@ -144,6 +154,11 @@ Sample `Country {Object}`:
 	phone_code: '+48',
 	flag: 'https://flagpedia.net/data/flags/h80/pl.png',
 	drive_direction: 'right',
+	alcohol_prohibition: 'none',
+	area: {
+		km2: 312696,
+		mi2: 120733,
+	},
 	continent: 'eu',
 	iso: {
 		numeric: '616',
@@ -152,6 +167,8 @@ Sample `Country {Object}`:
 	},
 	tld: '.pl',
 	constitutional_form: 'republic',
+	language_codes: ['pl-PL'],
+	is_landlocked: false
 }
 ```
 
@@ -241,6 +258,26 @@ wcc.getCountriesByFamousFor(famousThing)
 
 ```js
 /*
+ * Get all countries by specific drive direction
+ * @param {String} direction - drive direction (one of: 'left', 'right')
+ * @returns {Country[]}
+*/
+wcc.getCountriesByDriveDirection(direction)
+// Example: wcc.getCountriesByDriveDirection('left')
+```
+
+```js
+/*
+ * Get all countries by alcohol prohibition type
+ * @param {String} type - prohibition type (one of: 'none', 'limited', 'regional', 'nationwide')
+ * @returns {Country[]}
+*/
+wcc.getCountriesByAlcoholProhibition(type)
+// Example: wcc.getCountriesByAlcoholProhibition('nationwide')
+```
+
+```js
+/*
  * Get all countries that are located on specific continent
  * @param {String} code - 2-letter continent code (one of: 'AF', 'AN', 'AS', 'EU', 'NA', 'OC', 'SA')
  * @returns {Country[]}
@@ -280,20 +317,20 @@ wcc.getCountriesByConstitutionalForm(form)
 // Example: wcc.getCountriesByConstitutionalForm('republic')
 ```
 
+```js
+/*
+ * Get all countries that are surrounded by one or more countries
+ * @param {Boolean} isLandLocked - is country landlocked
+ * @returns {Country[]}
+*/
+wcc.getCountriesByLandLock(isLandLocked)
+// Example: wcc.getCountriesByLandLock(true)
+```
+
 ❗️ All params are **NOT** case sensitive so no matter how argument looks,
 the response will remain the same.
 
 [↑ Back to menu][URL_TOC]
-
-### Example #14
-
-> Get the details of all `countries` that are '_landlocked_'.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountriesByLandLock(true));
-```
 
 ---
 
