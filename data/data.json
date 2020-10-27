@@ -8,6 +8,11 @@
     "phone_code": "+93",
     "flag": "https://flagpedia.net/data/flags/h80/af.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 652864,
+      "mi2": 252072
+    },
     "continent": "as",
     "iso": {
       "numeric": "004",
@@ -15,7 +20,9 @@
       "alpha_3": "afg"
     },
     "tld": ".af",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fa-AF", "ps-AF"],
+    "is_landlocked": true
   },
   {
     "country": "albania",
@@ -26,6 +33,11 @@
     "phone_code": "+355",
     "flag": "https://flagpedia.net/data/flags/h80/al.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 28748,
+      "mi2": 11100
+    },
     "continent": "eu",
     "iso": {
       "numeric": "008",
@@ -33,7 +45,9 @@
       "alpha_3": "alb"
     },
     "tld": ".al",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sq-AL"],
+    "is_landlocked": false
   },
   {
     "country": "algeria",
@@ -44,6 +58,11 @@
     "phone_code": "+213",
     "flag": "https://flagpedia.net/data/flags/h80/dz.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2381741,
+      "mi2": 919595
+    },
     "continent": "af",
     "iso": {
       "numeric": "012",
@@ -51,7 +70,9 @@
       "alpha_3": "dza"
     },
     "tld": ".dz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-DZ", "fr-DZ"],
+    "is_landlocked": false
   },
   {
     "country": "andorra",
@@ -62,6 +83,11 @@
     "phone_code": "+376",
     "flag": "https://flagpedia.net/data/flags/h80/ad.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 468,
+      "mi2": 181
+    },
     "continent": "eu",
     "iso": {
       "numeric": "020",
@@ -69,7 +95,9 @@
       "alpha_3": "and"
     },
     "tld": ".ad",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ca-AD"],
+    "is_landlocked": true
   },
   {
     "country": "angola",
@@ -80,6 +108,11 @@
     "phone_code": "+244",
     "flag": "https://flagpedia.net/data/flags/h80/ao.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1246700,
+      "mi2": 481400
+    },
     "continent": "af",
     "iso": {
       "numeric": "024",
@@ -87,7 +120,9 @@
       "alpha_3": "ago"
     },
     "tld": ".ao",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-AO"],
+    "is_landlocked": false
   },
   {
     "country": "antigua & barbuda",
@@ -98,6 +133,11 @@
     "phone_code": "+1-268",
     "flag": "https://flagpedia.net/data/flags/h80/ag.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 442,
+      "mi2": 171
+    },
     "continent": "na",
     "iso": {
       "numeric": "028",
@@ -105,7 +145,9 @@
       "alpha_3": "atg"
     },
     "tld": ".ag",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-AG"],
+    "is_landlocked": false
   },
   {
     "country": "argentina",
@@ -116,6 +158,11 @@
     "phone_code": "+54",
     "flag": "https://flagpedia.net/data/flags/h80/ar.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2780400,
+      "mi2": 1073500
+    },
     "continent": "sa",
     "iso": {
       "numeric": "032",
@@ -123,7 +170,9 @@
       "alpha_3": "arg"
     },
     "tld": ".ar",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-AR"],
+    "is_landlocked": false
   },
   {
     "country": "armenia",
@@ -134,6 +183,11 @@
     "phone_code": "+374",
     "flag": "https://flagpedia.net/data/flags/h80/am.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 29743,
+      "mi2": 11484
+    },
     "continent": "af",
     "iso": {
       "numeric": "051",
@@ -141,7 +195,9 @@
       "alpha_3": "arm"
     },
     "tld": ".am",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["as-AM"],
+    "is_landlocked": true
   },
   {
     "country": "australia",
@@ -152,6 +208,11 @@
     "phone_code": "+61",
     "flag": "https://flagpedia.net/data/flags/h80/au.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 7692024,
+      "mi2": 2969907
+    },
     "continent": "oc",
     "iso": {
       "numeric": "036",
@@ -159,7 +220,9 @@
       "alpha_3": "aus"
     },
     "tld": ".au",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-AU"],
+    "is_landlocked": false
   },
   {
     "country": "austria",
@@ -170,6 +233,11 @@
     "phone_code": "+43",
     "flag": "https://flagpedia.net/data/flags/h80/at.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 83871,
+      "mi2": 32383
+    },
     "continent": "eu",
     "iso": {
       "numeric": "040",
@@ -177,7 +245,9 @@
       "alpha_3": "aut"
     },
     "tld": ".at",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["de-AT"],
+    "is_landlocked": true
   },
   {
     "country": "azerbaijan",
@@ -188,6 +258,11 @@
     "phone_code": "+994",
     "flag": "https://flagpedia.net/data/flags/h80/az.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 86600,
+      "mi2": 33400
+    },
     "continent": "as",
     "iso": {
       "numeric": "031",
@@ -195,7 +270,9 @@
       "alpha_3": "aze"
     },
     "tld": ".az",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["az-AZ"],
+    "is_landlocked": true
   },
   {
     "country": "the bahamas",
@@ -206,6 +283,11 @@
     "phone_code": "+1-242",
     "flag": "https://flagpedia.net/data/flags/h80/bs.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 13943,
+      "mi2": 5383
+    },
     "continent": "na",
     "iso": {
       "numeric": "044",
@@ -213,7 +295,9 @@
       "alpha_3": "bhs"
     },
     "tld": ".bs",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-BS"],
+    "is_landlocked": false
   },
   {
     "country": "bahrain",
@@ -224,6 +308,11 @@
     "phone_code": "+973",
     "flag": "https://flagpedia.net/data/flags/h80/bh.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 778,
+      "mi2": 300
+    },
     "continent": "as",
     "iso": {
       "numeric": "048",
@@ -231,7 +320,9 @@
       "alpha_3": "bhr"
     },
     "tld": ".bh",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-BH"],
+    "is_landlocked": false
   },
   {
     "country": "bangladesh",
@@ -242,6 +333,11 @@
     "phone_code": "+880",
     "flag": "https://flagpedia.net/data/flags/h80/bd.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 147570,
+      "mi2": 56980
+    },
     "continent": "as",
     "iso": {
       "numeric": "050",
@@ -249,7 +345,9 @@
       "alpha_3": "bgd"
     },
     "tld": ".bd",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bn-BD"],
+    "is_landlocked": false
   },
   {
     "country": "barbados",
@@ -260,6 +358,11 @@
     "phone_code": "+1-246",
     "flag": "https://flagpedia.net/data/flags/h80/bb.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 430,
+      "mi2": 170
+    },
     "continent": "na",
     "iso": {
       "numeric": "052",
@@ -267,7 +370,9 @@
       "alpha_3": "brb"
     },
     "tld": ".bb",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-BB"],
+    "is_landlocked": false
   },
   {
     "country": "belarus",
@@ -278,6 +383,11 @@
     "phone_code": "+375",
     "flag": "https://flagpedia.net/data/flags/h80/by.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 207600,
+      "mi2": 80200
+    },
     "continent": "eu",
     "iso": {
       "numeric": "112",
@@ -285,7 +395,9 @@
       "alpha_3": "blr"
     },
     "tld": ".by",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["be-BY", "ru-BY"],
+    "is_landlocked": true
   },
   {
     "country": "belgium",
@@ -296,6 +408,11 @@
     "phone_code": "+32",
     "flag": "https://flagpedia.net/data/flags/h80/be.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 30528,
+      "mi2": 11787
+    },
     "continent": "eu",
     "iso": {
       "numeric": "056",
@@ -303,7 +420,9 @@
       "alpha_3": "bel"
     },
     "tld": ".be",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["de-BE", "fr-BE", "nl-BE"],
+    "is_landlocked": false
   },
   {
     "country": "belize",
@@ -314,6 +433,11 @@
     "phone_code": "+501",
     "flag": "https://flagpedia.net/data/flags/h80/bz.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 22966,
+      "mi2": 8867
+    },
     "continent": "na",
     "iso": {
       "numeric": "084",
@@ -321,7 +445,9 @@
       "alpha_3": "blz"
     },
     "tld": ".bz",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-BZ"],
+    "is_landlocked": false
   },
   {
     "country": "benin",
@@ -332,6 +458,11 @@
     "phone_code": "+229",
     "flag": "https://flagpedia.net/data/flags/h80/bj.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 114763,
+      "mi2": 44310
+    },
     "continent": "af",
     "iso": {
       "numeric": "204",
@@ -339,7 +470,9 @@
       "alpha_3": "ben"
     },
     "tld": ".bj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-BJ"],
+    "is_landlocked": false
   },
   {
     "country": "bhutan",
@@ -350,6 +483,11 @@
     "phone_code": "+975",
     "flag": "https://flagpedia.net/data/flags/h80/bt.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 38394,
+      "mi2": 14824
+    },
     "continent": "as",
     "iso": {
       "numeric": "064",
@@ -357,7 +495,9 @@
       "alpha_3": "btn"
     },
     "tld": ".bt",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["dz-BT"],
+    "is_landlocked": true
   },
   {
     "country": "bolivia",
@@ -368,6 +508,11 @@
     "phone_code": "+591",
     "flag": "https://flagpedia.net/data/flags/h80/bo.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1098581,
+      "mi2": 424164
+    },
     "continent": "sa",
     "iso": {
       "numeric": "068",
@@ -375,7 +520,9 @@
       "alpha_3": "bol"
     },
     "tld": ".bo",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ay-BO", "es-BO", "qu-BO"],
+    "is_landlocked": true
   },
   {
     "country": "bosnia and herzegovina",
@@ -386,6 +533,11 @@
     "phone_code": "+387",
     "flag": "https://flagpedia.net/data/flags/h80/ba.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 51209,
+      "mi2": 19772
+    },
     "continent": "eu",
     "iso": {
       "numeric": "070",
@@ -393,7 +545,9 @@
       "alpha_3": "bih"
     },
     "tld": ".ba",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bs-BA", "hr-BA", "sr-BA"],
+    "is_landlocked": false
   },
   {
     "country": "botswana",
@@ -404,6 +558,11 @@
     "phone_code": "+267",
     "flag": "https://flagpedia.net/data/flags/h80/bw.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 581730,
+      "mi2": 224610
+    },
     "continent": "af",
     "iso": {
       "numeric": "072",
@@ -411,7 +570,9 @@
       "alpha_3": "bwa"
     },
     "tld": ".bw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-BW"],
+    "is_landlocked": true
   },
   {
     "country": "brazil",
@@ -422,6 +583,11 @@
     "phone_code": "+55",
     "flag": "https://flagpedia.net/data/flags/h80/br.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 8515767,
+      "mi2": 3287956
+    },
     "continent": "sa",
     "iso": {
       "numeric": "076",
@@ -429,7 +595,9 @@
       "alpha_3": "bra"
     },
     "tld": ".br",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-BR"],
+    "is_landlocked": false
   },
   {
     "country": "brunei",
@@ -440,6 +608,11 @@
     "phone_code": "+673",
     "flag": "https://flagpedia.net/data/flags/h80/bn.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 5765,
+      "mi2": 2226
+    },
     "continent": "as",
     "iso": {
       "numeric": "096",
@@ -447,7 +620,9 @@
       "alpha_3": "brn"
     },
     "tld": ".bn",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ms-BN"],
+    "is_landlocked": false
   },
   {
     "country": "bulgaria",
@@ -458,6 +633,11 @@
     "phone_code": "+359",
     "flag": "https://flagpedia.net/data/flags/h80/bg.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 111002,
+      "mi2": 42858
+    },
     "continent": "eu",
     "iso": {
       "numeric": "100",
@@ -465,7 +645,9 @@
       "alpha_3": "bgr"
     },
     "tld": ".bg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bg-BG"],
+    "is_landlocked": false
   },
   {
     "country": "burkina faso",
@@ -476,6 +658,11 @@
     "phone_code": "+226",
     "flag": "https://flagpedia.net/data/flags/h80/bf.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 274222,
+      "mi2": 105878
+    },
     "continent": "af",
     "iso": {
       "numeric": "854",
@@ -483,7 +670,9 @@
       "alpha_3": "bfa"
     },
     "tld": ".bf",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-BF"],
+    "is_landlocked": true
   },
   {
     "country": "burundi",
@@ -494,6 +683,11 @@
     "phone_code": "+257",
     "flag": "https://flagpedia.net/data/flags/h80/bi.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 27834,
+      "mi2": 10747
+    },
     "continent": "af",
     "iso": {
       "numeric": "108",
@@ -501,7 +695,9 @@
       "alpha_3": "bdi"
     },
     "tld": ".bi",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-BI", "rn-BI"],
+    "is_landlocked": true
   },
   {
     "country": "cambodia",
@@ -512,6 +708,11 @@
     "phone_code": "+855",
     "flag": "https://flagpedia.net/data/flags/h80/kh.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 181035,
+      "mi2": 69898
+    },
     "continent": "as",
     "iso": {
       "numeric": "116",
@@ -519,7 +720,9 @@
       "alpha_3": "khm"
     },
     "tld": ".kh",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["km-KH"],
+    "is_landlocked": false
   },
   {
     "country": "cameroon",
@@ -530,6 +733,11 @@
     "phone_code": "+237",
     "flag": "https://flagpedia.net/data/flags/h80/cm.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 475442,
+      "mi2": 183569
+    },
     "continent": "af",
     "iso": {
       "numeric": "120",
@@ -537,17 +745,24 @@
       "alpha_3": "cmr"
     },
     "tld": ".cm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-CM", "fr-CM"],
+    "is_landlocked": false
   },
   {
     "country": "canada",
     "capital": "ottawa",
     "currency": "canadian dollar",
     "native_language": ["english", "french"],
-    "famous_for": "mapple syrup, mapple trees, politeness and hockey",
+    "famous_for": "maple syrup, maple trees, politeness and hockey",
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/ca.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 9984670,
+      "mi2": 3855100
+    },
     "continent": "na",
     "iso": {
       "numeric": "124",
@@ -555,7 +770,9 @@
       "alpha_3": "can"
     },
     "tld": ".ca",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-CA", "fr-CA"],
+    "is_landlocked": false
   },
   {
     "country": "cape verde",
@@ -566,6 +783,11 @@
     "phone_code": "+238",
     "flag": "https://flagpedia.net/data/flags/h80/cv.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 4033,
+      "mi2": 1557
+    },
     "continent": "af",
     "iso": {
       "numeric": "132",
@@ -573,7 +795,9 @@
       "alpha_3": "cpv"
     },
     "tld": ".cv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-CV"],
+    "is_landlocked": false
   },
   {
     "country": "central african republic",
@@ -584,6 +808,11 @@
     "phone_code": "+236",
     "flag": "https://flagpedia.net/data/flags/h80/cf.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 622984,
+      "mi2": 240535
+    },
     "continent": "af",
     "iso": {
       "numeric": "140",
@@ -591,7 +820,9 @@
       "alpha_3": "caf"
     },
     "tld": ".cf",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CF", "sg-CF"],
+    "is_landlocked": true
   },
   {
     "country": "chad",
@@ -602,6 +833,11 @@
     "phone_code": "+235",
     "flag": "https://flagpedia.net/data/flags/h80/td.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1284000,
+      "mi2": 496000
+    },
     "continent": "af",
     "iso": {
       "numeric": "148",
@@ -609,7 +845,9 @@
       "alpha_3": "tcd"
     },
     "tld": ".td",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-TD", "fr-TD"],
+    "is_landlocked": true
   },
   {
     "country": "chile",
@@ -620,6 +858,11 @@
     "phone_code": "+56",
     "flag": "https://flagpedia.net/data/flags/h80/cl.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 756102,
+      "mi2": 291933
+    },
     "continent": "sa",
     "iso": {
       "numeric": "152",
@@ -627,7 +870,9 @@
       "alpha_3": "chl"
     },
     "tld": ".cl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CL"],
+    "is_landlocked": false
   },
   {
     "country": "china",
@@ -638,6 +883,11 @@
     "phone_code": "+86",
     "flag": "https://flagpedia.net/data/flags/h80/cn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 9596961,
+      "mi2": 3705407
+    },
     "continent": "as",
     "iso": {
       "numeric": "156",
@@ -645,7 +895,9 @@
       "alpha_3": "chn"
     },
     "tld": ".cn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["zh-CN"],
+    "is_landlocked": false
   },
   {
     "country": "colombia",
@@ -656,6 +908,11 @@
     "phone_code": "+57",
     "flag": "https://flagpedia.net/data/flags/h80/co.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1141748,
+      "mi2": 440831
+    },
     "continent": "sa",
     "iso": {
       "numeric": "170",
@@ -663,7 +920,9 @@
       "alpha_3": "col"
     },
     "tld": ".co",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CO"],
+    "is_landlocked": false
   },
   {
     "country": "comoros",
@@ -674,6 +933,11 @@
     "phone_code": "+269",
     "flag": "https://flagpedia.net/data/flags/h80/km.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1862,
+      "mi2": 719
+    },
     "continent": "af",
     "iso": {
       "numeric": "174",
@@ -681,7 +945,9 @@
       "alpha_3": "com"
     },
     "tld": ".km",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-KM", "fr-KM"],
+    "is_landlocked": false
   },
   {
     "country": "democratic republic of the congo",
@@ -692,6 +958,11 @@
     "phone_code": "+243",
     "flag": "https://flagpedia.net/data/flags/h80/dr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2344858,
+      "mi2": 905355
+    },
     "continent": "af",
     "iso": {
       "numeric": "180",
@@ -699,7 +970,9 @@
       "alpha_3": "cod"
     },
     "tld": ".cd",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CD"],
+    "is_landlocked": false
   },
   {
     "country": "republic of the congo (congo-brazzaville)",
@@ -710,6 +983,11 @@
     "phone_code": "+242",
     "flag": "https://flagpedia.net/data/flags/h80/cg.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 342000,
+      "mi2": 132000
+    },
     "continent": "af",
     "iso": {
       "numeric": "178",
@@ -717,7 +995,9 @@
       "alpha_3": "cog"
     },
     "tld": ".cg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CG"],
+    "is_landlocked": false
   },
   {
     "country": "costa rica",
@@ -728,6 +1008,11 @@
     "phone_code": "+506",
     "flag": "https://flagpedia.net/data/flags/h80/cr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 51100,
+      "mi2": 19700
+    },
     "continent": "na",
     "iso": {
       "numeric": "188",
@@ -735,7 +1020,9 @@
       "alpha_3": "cri"
     },
     "tld": ".cr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CR"],
+    "is_landlocked": false
   },
   {
     "country": "cote d'ivoire (ivory coast)",
@@ -746,6 +1033,11 @@
     "phone_code": "+225",
     "flag": "https://flagpedia.net/data/flags/h80/ci.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 322463,
+      "mi2": 124504
+    },
     "continent": "af",
     "iso": {
       "numeric": "384",
@@ -753,17 +1045,24 @@
       "alpha_3": "civ"
     },
     "tld": ".ci",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-CI"],
+    "is_landlocked": false
   },
   {
     "country": "croatia",
     "capital": "zagreb",
-    "currency": "croatian",
-    "native_language": ["kuna"],
+    "currency": "euro",
+    "native_language": ["croatian"],
     "famous_for": "game of thrones, stunning natural beauty and 6000km long coast",
     "phone_code": "+385",
     "flag": "https://flagpedia.net/data/flags/h80/hr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 56594,
+      "mi2": 21851
+    },
     "continent": "eu",
     "iso": {
       "numeric": "191",
@@ -771,7 +1070,9 @@
       "alpha_3": "hrv"
     },
     "tld": ".hr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["hr-HR"],
+    "is_landlocked": false
   },
   {
     "country": "cuba",
@@ -782,6 +1083,11 @@
     "phone_code": "+53",
     "flag": "https://flagpedia.net/data/flags/h80/cu.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 109884,
+      "mi2": 42426
+    },
     "continent": "na",
     "iso": {
       "numeric": "192",
@@ -789,7 +1095,9 @@
       "alpha_3": "cub"
     },
     "tld": ".cu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-CU"],
+    "is_landlocked": false
   },
   {
     "country": "cyprus",
@@ -800,6 +1108,11 @@
     "phone_code": "+357",
     "flag": "https://flagpedia.net/data/flags/h80/cy.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 9251,
+      "mi2": 3572
+    },
     "continent": "eu",
     "iso": {
       "numeric": "196",
@@ -807,7 +1120,9 @@
       "alpha_3": "cyp"
     },
     "tld": ".cy",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["el-CY", "tr-CY"],
+    "is_landlocked": false
   },
   {
     "country": "czechia",
@@ -818,6 +1133,11 @@
     "phone_code": "+420",
     "flag": "https://flagpedia.net/data/flags/h80/cz.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 78865,
+      "mi2": 30450
+    },
     "continent": "eu",
     "iso": {
       "numeric": "203",
@@ -825,7 +1145,9 @@
       "alpha_3": "cze"
     },
     "tld": ".cz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["cs-CZ"],
+    "is_landlocked": true
   },
   {
     "country": "denmark",
@@ -836,6 +1158,11 @@
     "phone_code": "+45",
     "flag": "https://flagpedia.net/data/flags/h80/dk.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 43094,
+      "mi2": 16639
+    },
     "continent": "eu",
     "iso": {
       "numeric": "208",
@@ -843,7 +1170,9 @@
       "alpha_3": "dnk"
     },
     "tld": ".dk",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["da-DK"],
+    "is_landlocked": false
   },
   {
     "country": "djibouti",
@@ -854,6 +1183,11 @@
     "phone_code": "+253",
     "flag": "https://flagpedia.net/data/flags/h80/dj.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 23200,
+      "mi2": 9000
+    },
     "continent": "af",
     "iso": {
       "numeric": "262",
@@ -861,7 +1195,9 @@
       "alpha_3": "dji"
     },
     "tld": ".dj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-DJ", "fr-DJ"],
+    "is_landlocked": false
   },
   {
     "country": "dominica",
@@ -872,6 +1208,11 @@
     "phone_code": "+1-767",
     "flag": "https://flagpedia.net/data/flags/h80/dm.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 751,
+      "mi2": 290
+    },
     "continent": "na",
     "iso": {
       "numeric": "212",
@@ -879,7 +1220,9 @@
       "alpha_3": "dma"
     },
     "tld": ".dm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-DM", "fr-DM"],
+    "is_landlocked": false
   },
   {
     "country": "dominican republic",
@@ -890,6 +1233,11 @@
     "phone_code": "+1-809, +1-829, +1-849",
     "flag": "https://flagpedia.net/data/flags/h80/do.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 48671,
+      "mi2": 18792
+    },
     "continent": "na",
     "iso": {
       "numeric": "214",
@@ -897,7 +1245,9 @@
       "alpha_3": "dom"
     },
     "tld": ".do",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-DO"],
+    "is_landlocked": false
   },
   {
     "country": "east timor (timor-leste)",
@@ -908,6 +1258,11 @@
     "phone_code": "+670",
     "flag": "https://flagpedia.net/data/flags/h80/tl.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 14919,
+      "mi2": 5760
+    },
     "continent": "as",
     "iso": {
       "numeric": "626",
@@ -915,7 +1270,9 @@
       "alpha_3": "tls"
     },
     "tld": ".tl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-TL"],
+    "is_landlocked": false
   },
   {
     "country": "ecuador",
@@ -926,6 +1283,11 @@
     "phone_code": "+593",
     "flag": "https://flagpedia.net/data/flags/h80/ec.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 276841,
+      "mi2": 106889
+    },
     "continent": "sa",
     "iso": {
       "numeric": "218",
@@ -933,7 +1295,9 @@
       "alpha_3": "ecu"
     },
     "tld": ".ec",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-EC"],
+    "is_landlocked": false
   },
   {
     "country": "egypt",
@@ -944,6 +1308,11 @@
     "phone_code": "+20",
     "flag": "https://flagpedia.net/data/flags/h80/eg.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1002450,
+      "mi2": 387050
+    },
     "continent": "af",
     "iso": {
       "numeric": "818",
@@ -951,7 +1320,9 @@
       "alpha_3": "egy"
     },
     "tld": ".eg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-EG"],
+    "is_landlocked": false
   },
   {
     "country": "el salvador",
@@ -962,6 +1333,11 @@
     "phone_code": "+503",
     "flag": "https://flagpedia.net/data/flags/h80/sv.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 21041,
+      "mi2": 8124
+    },
     "continent": "na",
     "iso": {
       "numeric": "222",
@@ -969,7 +1345,9 @@
       "alpha_3": "slv"
     },
     "tld": ".sv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-SV"],
+    "is_landlocked": false
   },
   {
     "country": "equitorial guinea",
@@ -980,6 +1358,11 @@
     "phone_code": "+240",
     "flag": "https://flagpedia.net/data/flags/h80/gq.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 28051,
+      "mi2": 10831
+    },
     "continent": "af",
     "iso": {
       "numeric": "226",
@@ -987,7 +1370,9 @@
       "alpha_3": "gnq"
     },
     "tld": ".gq",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-GQ", "fr-GQ", "pt-GQ"],
+    "is_landlocked": false
   },
   {
     "country": "eritrea",
@@ -998,6 +1383,11 @@
     "phone_code": "+291",
     "flag": "https://flagpedia.net/data/flags/h80/er.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 117600,
+      "mi2": 45400
+    },
     "continent": "af",
     "iso": {
       "numeric": "232",
@@ -1005,7 +1395,9 @@
       "alpha_3": "eri"
     },
     "tld": ".er",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-ER", "en-ER", "ti-ER"],
+    "is_landlocked": false
   },
   {
     "country": "estonia",
@@ -1016,6 +1408,11 @@
     "phone_code": "+372",
     "flag": "https://flagpedia.net/data/flags/h80/ee.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 45227,
+      "mi2": 17462
+    },
     "continent": "eu",
     "iso": {
       "numeric": "233",
@@ -1023,7 +1420,9 @@
       "alpha_3": "est"
     },
     "tld": ".ee",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["et-EE"],
+    "is_landlocked": false
   },
   {
     "country": "ethiopia",
@@ -1034,6 +1433,11 @@
     "phone_code": "+251",
     "flag": "https://flagpedia.net/data/flags/h80/et.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1104300,
+      "mi2": 426400
+    },
     "continent": "af",
     "iso": {
       "numeric": "231",
@@ -1041,7 +1445,9 @@
       "alpha_3": "eth"
     },
     "tld": ".et",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["am-ET"],
+    "is_landlocked": true
   },
   {
     "country": "fiji",
@@ -1052,6 +1458,11 @@
     "phone_code": "+679",
     "flag": "https://flagpedia.net/data/flags/h80/fj.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 18272,
+      "mi2": 7055
+    },
     "continent": "oc",
     "iso": {
       "numeric": "242",
@@ -1059,7 +1470,9 @@
       "alpha_3": "fji"
     },
     "tld": ".fj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-FJ", "fj-FJ"],
+    "is_landlocked": false
   },
   {
     "country": "finland",
@@ -1070,6 +1483,11 @@
     "phone_code": "+358",
     "flag": "https://flagpedia.net/data/flags/h80/fi.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 338424,
+      "mi2": 130666
+    },
     "continent": "eu",
     "iso": {
       "numeric": "246",
@@ -1077,7 +1495,9 @@
       "alpha_3": "fin"
     },
     "tld": ".fi",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fi-FI", "sv-FI"],
+    "is_landlocked": false
   },
   {
     "country": "france",
@@ -1088,6 +1508,11 @@
     "phone_code": "+33",
     "flag": "https://flagpedia.net/data/flags/h80/fr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 640679,
+      "mi2": 247368
+    },
     "continent": "eu",
     "iso": {
       "numeric": "250",
@@ -1095,7 +1520,9 @@
       "alpha_3": "fra"
     },
     "tld": ".fr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-FR"],
+    "is_landlocked": false
   },
   {
     "country": "gabon",
@@ -1106,6 +1533,11 @@
     "phone_code": "+241",
     "flag": "https://flagpedia.net/data/flags/h80/ga.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 267668,
+      "mi2": 103347
+    },
     "continent": "af",
     "iso": {
       "numeric": "266",
@@ -1113,7 +1545,9 @@
       "alpha_3": "gab"
     },
     "tld": ".ga",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-GA"],
+    "is_landlocked": false
   },
   {
     "country": "the gambia",
@@ -1124,6 +1558,11 @@
     "phone_code": "+220",
     "flag": "https://flagpedia.net/data/flags/h80/gm.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 11295,
+      "mi2": 4361
+    },
     "continent": "af",
     "iso": {
       "numeric": "270",
@@ -1131,7 +1570,9 @@
       "alpha_3": "gmb"
     },
     "tld": ".gm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-GM"],
+    "is_landlocked": false
   },
   {
     "country": "georgia",
@@ -1142,6 +1583,11 @@
     "phone_code": "+995",
     "flag": "https://flagpedia.net/data/flags/h80/ge.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 69700,
+      "mi2": 26900
+    },
     "continent": "as",
     "iso": {
       "numeric": "268",
@@ -1149,7 +1595,9 @@
       "alpha_3": "geo"
     },
     "tld": ".ge",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ka-GE"],
+    "is_landlocked": false
   },
   {
     "country": "germany",
@@ -1160,6 +1608,11 @@
     "phone_code": "+49",
     "flag": "https://flagpedia.net/data/flags/h80/de.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 357114,
+      "mi2": 137882
+    },
     "continent": "eu",
     "iso": {
       "numeric": "276",
@@ -1167,7 +1620,9 @@
       "alpha_3": "deu"
     },
     "tld": ".de",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["de-DE"],
+    "is_landlocked": false
   },
   {
     "country": "ghana",
@@ -1178,6 +1633,11 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/gh.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 238533,
+      "mi2": 92098
+    },
     "continent": "af",
     "iso": {
       "numeric": "288",
@@ -1185,7 +1645,9 @@
       "alpha_3": "gha"
     },
     "tld": ".gh",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-GH"],
+    "is_landlocked": false
   },
   {
     "country": "greece",
@@ -1196,6 +1658,11 @@
     "phone_code": "+30",
     "flag": "https://flagpedia.net/data/flags/h80/gr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 131957,
+      "mi2": 50949
+    },
     "continent": "eu",
     "iso": {
       "numeric": "300",
@@ -1203,7 +1670,9 @@
       "alpha_3": "grc"
     },
     "tld": ".gr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["el-GR"],
+    "is_landlocked": false
   },
   {
     "country": "grenada",
@@ -1214,6 +1683,11 @@
     "phone_code": "+1-473",
     "flag": "https://flagpedia.net/data/flags/h80/gd.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 344,
+      "mi2": 133
+    },
     "continent": "na",
     "iso": {
       "numeric": "308",
@@ -1221,7 +1695,9 @@
       "alpha_3": "grd"
     },
     "tld": ".gd",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-GD"],
+    "is_landlocked": false
   },
   {
     "country": "guatemala",
@@ -1232,6 +1708,11 @@
     "phone_code": "+502",
     "flag": "https://flagpedia.net/data/flags/h80/gt.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 108889,
+      "mi2": 42042
+    },
     "continent": "na",
     "iso": {
       "numeric": "320",
@@ -1239,7 +1720,9 @@
       "alpha_3": "gtm"
     },
     "tld": ".gt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-GT"],
+    "is_landlocked": false
   },
   {
     "country": "guinea",
@@ -1250,6 +1733,11 @@
     "phone_code": "+224",
     "flag": "https://flagpedia.net/data/flags/h80/gn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 245857,
+      "mi2": 94926
+    },
     "continent": "af",
     "iso": {
       "numeric": "324",
@@ -1257,7 +1745,9 @@
       "alpha_3": "gin"
     },
     "tld": ".gn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-GN"],
+    "is_landlocked": false
   },
   {
     "country": "guinea-bissau",
@@ -1268,6 +1758,11 @@
     "phone_code": "+245",
     "flag": "https://flagpedia.net/data/flags/h80/gw.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 36125,
+      "mi2": 13948
+    },
     "continent": "af",
     "iso": {
       "numeric": "624",
@@ -1275,7 +1770,9 @@
       "alpha_3": "gnb"
     },
     "tld": ".gw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-GW"],
+    "is_landlocked": false
   },
   {
     "country": "guyana",
@@ -1286,6 +1783,11 @@
     "phone_code": "+592",
     "flag": "https://flagpedia.net/data/flags/h80/gy.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 214969,
+      "mi2": 83000
+    },
     "continent": "sa",
     "iso": {
       "numeric": "328",
@@ -1293,7 +1795,9 @@
       "alpha_3": "guy"
     },
     "tld": ".gy",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-GY"],
+    "is_landlocked": false
   },
   {
     "country": "haiti",
@@ -1304,6 +1808,11 @@
     "phone_code": "+509",
     "flag": "https://flagpedia.net/data/flags/h80/ht.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 27750,
+      "mi2": 10710
+    },
     "continent": "na",
     "iso": {
       "numeric": "332",
@@ -1311,7 +1820,9 @@
       "alpha_3": "hti"
     },
     "tld": ".ht",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-HT", "ht-HT"],
+    "is_landlocked": false
   },
   {
     "country": "honduras",
@@ -1322,6 +1833,11 @@
     "phone_code": "+504",
     "flag": "https://flagpedia.net/data/flags/h80/hn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 112492,
+      "mi2": 43433
+    },
     "continent": "na",
     "iso": {
       "numeric": "340",
@@ -1329,7 +1845,9 @@
       "alpha_3": "hnd"
     },
     "tld": ".hn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-HN"],
+    "is_landlocked": false
   },
   {
     "country": "hungary",
@@ -1340,6 +1858,11 @@
     "phone_code": "+36",
     "flag": "https://flagpedia.net/data/flags/h80/hu.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 93028,
+      "mi2": 35918
+    },
     "continent": "eu",
     "iso": {
       "numeric": "348",
@@ -1347,17 +1870,24 @@
       "alpha_3": "hun"
     },
     "tld": ".hu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["hu-HU"],
+    "is_landlocked": true
   },
   {
     "country": "iceland",
     "capital": "reykjavik",
     "currency": "icelandic krona",
     "native_language": ["icelandic"],
-    "famous_for": "lagest glaciers in europe",
+    "famous_for": "largest glaciers in europe",
     "phone_code": "+354",
     "flag": "https://flagpedia.net/data/flags/h80/is.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 103000,
+      "mi2": 40000
+    },
     "continent": "eu",
     "iso": {
       "numeric": "352",
@@ -1365,7 +1895,9 @@
       "alpha_3": "isl"
     },
     "tld": ".is",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["is-IS"],
+    "is_landlocked": false
   },
   {
     "country": "india",
@@ -1376,6 +1908,11 @@
     "phone_code": "+91",
     "flag": "https://flagpedia.net/data/flags/h80/in.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "regional",
+    "area": {
+      "km2": 3287263,
+      "mi2": 1269219
+    },
     "continent": "as",
     "iso": {
       "numeric": "356",
@@ -1383,7 +1920,9 @@
       "alpha_3": "ind"
     },
     "tld": ".in",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-IN", "hi-IN"],
+    "is_landlocked": false
   },
   {
     "country": "indonesia",
@@ -1394,6 +1933,11 @@
     "phone_code": "+62",
     "flag": "https://flagpedia.net/data/flags/h80/id.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "regional",
+    "area": {
+      "km2": 1910931,
+      "mi2": 737815
+    },
     "continent": "as",
     "iso": {
       "numeric": "360",
@@ -1401,7 +1945,9 @@
       "alpha_3": "idn"
     },
     "tld": ".id",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["id-ID"],
+    "is_landlocked": false
   },
   {
     "country": "iran",
@@ -1412,6 +1958,11 @@
     "phone_code": "+98",
     "flag": "https://flagpedia.net/data/flags/h80/ir.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 1648195,
+      "mi2": 636372
+    },
     "continent": "as",
     "iso": {
       "numeric": "364",
@@ -1419,7 +1970,9 @@
       "alpha_3": "irn"
     },
     "tld": ".ir",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fa-IR"],
+    "is_landlocked": false
   },
   {
     "country": "iraq",
@@ -1430,6 +1983,11 @@
     "phone_code": "+964",
     "flag": "https://flagpedia.net/data/flags/h80/iq.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 438317,
+      "mi2": 169235
+    },
     "continent": "as",
     "iso": {
       "numeric": "368",
@@ -1437,7 +1995,9 @@
       "alpha_3": "irq"
     },
     "tld": ".iq",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-IK", "ku-IK"],
+    "is_landlocked": false
   },
   {
     "country": "republic of ireland",
@@ -1448,6 +2008,11 @@
     "phone_code": "+353",
     "flag": "https://flagpedia.net/data/flags/h80/ie.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 70273,
+      "mi2": 27133
+    },
     "continent": "eu",
     "iso": {
       "numeric": "372",
@@ -1455,7 +2020,9 @@
       "alpha_3": "irl"
     },
     "tld": ".ie",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-IE", "ga-IE"],
+    "is_landlocked": false
   },
   {
     "country": "israel",
@@ -1466,6 +2033,11 @@
     "phone_code": "+972",
     "flag": "https://flagpedia.net/data/flags/h80/il.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 20770,
+      "mi2": 8020
+    },
     "continent": "as",
     "iso": {
       "numeric": "376",
@@ -1473,7 +2045,9 @@
       "alpha_3": "isr"
     },
     "tld": ".il",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": [ "ar-IL", "he-IL"],
+    "is_landlocked": false
   },
   {
     "country": "italy",
@@ -1484,6 +2058,11 @@
     "phone_code": "+39",
     "flag": "https://flagpedia.net/data/flags/h80/it.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 301339,
+      "mi2": 116348
+    },
     "continent": "eu",
     "iso": {
       "numeric": "380",
@@ -1491,7 +2070,9 @@
       "alpha_3": "ita"
     },
     "tld": ".it",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["it-IT"],
+    "is_landlocked": false
   },
   {
     "country": "jamaica",
@@ -1502,6 +2083,11 @@
     "phone_code": "+1-876",
     "flag": "https://flagpedia.net/data/flags/h80/jm.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 10991,
+      "mi2": 4244
+    },
     "continent": "na",
     "iso": {
       "numeric": "388",
@@ -1509,17 +2095,24 @@
       "alpha_3": "jam"
     },
     "tld": ".jm",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-JM"],
+    "is_landlocked": false
   },
   {
     "country": "japan",
     "capital": "tokyo",
     "currency": "yen",
     "native_language": ["japanese"],
-    "famous_for": "politeness, anime, sushi, samurai, nitendo karate, cars and robotics",
+    "famous_for": "politeness, anime, sushi, samurai, nintendo karate, cars and robotics",
     "phone_code": "+81",
     "flag": "https://flagpedia.net/data/flags/h80/jp.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 377975,
+      "mi2": 145937
+    },
     "continent": "as",
     "iso": {
       "numeric": "392",
@@ -1527,7 +2120,9 @@
       "alpha_3": "jpn"
     },
     "tld": ".jp",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ja-JP"],
+    "is_landlocked": false
   },
   {
     "country": "jordan",
@@ -1538,6 +2133,11 @@
     "phone_code": "+962",
     "flag": "https://flagpedia.net/data/flags/h80/jo.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 89342,
+      "mi2": 34495
+    },
     "continent": "as",
     "iso": {
       "numeric": "400",
@@ -1545,7 +2145,9 @@
       "alpha_3": "jor"
     },
     "tld": ".jo",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-JO"],
+    "is_landlocked": false
   },
   {
     "country": "kazakhstan",
@@ -1556,6 +2158,11 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/kz.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2724900,
+      "mi2": 1052100
+    },
     "continent": "as",
     "iso": {
       "numeric": "398",
@@ -1563,7 +2170,9 @@
       "alpha_3": "kaz"
     },
     "tld": ".kz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["kk-KZ", "ru-KZ"],
+    "is_landlocked": true
   },
   {
     "country": "kenya",
@@ -1574,6 +2183,11 @@
     "phone_code": "+254",
     "flag": "https://flagpedia.net/data/flags/h80/ke.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 580367,
+      "mi2": 224081
+    },
     "continent": "af",
     "iso": {
       "numeric": "404",
@@ -1581,7 +2195,9 @@
       "alpha_3": "ken"
     },
     "tld": ".ke",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-KE", "sw-KE"],
+    "is_landlocked": false
   },
   {
     "country": "kiribati",
@@ -1592,6 +2208,11 @@
     "phone_code": "+686",
     "flag": "https://flagpedia.net/data/flags/h80/ki.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 811,
+      "mi2": 313
+    },
     "continent": "oc",
     "iso": {
       "numeric": "296",
@@ -1599,7 +2220,9 @@
       "alpha_3": "kir"
     },
     "tld": ".ki",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-KI"],
+    "is_landlocked": false
   },
   {
     "country": "north korea",
@@ -1610,6 +2233,11 @@
     "phone_code": "+850",
     "flag": "https://flagpedia.net/data/flags/h80/kp.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 120540,
+      "mi2": 46540
+    },
     "continent": "as",
     "iso": {
       "numeric": "408",
@@ -1617,7 +2245,9 @@
       "alpha_3": "prk"
     },
     "tld": ".kp",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ko-KP"],
+    "is_landlocked": false
   },
   {
     "country": "south korea",
@@ -1628,6 +2258,11 @@
     "phone_code": "+82",
     "flag": "https://flagpedia.net/data/flags/h80/kr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 100210,
+      "mi2": 38690
+    },
     "continent": "as",
     "iso": {
       "numeric": "410",
@@ -1635,7 +2270,9 @@
       "alpha_3": "kor"
     },
     "tld": ".kr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ko-KR"],
+    "is_landlocked": false
   },
   {
     "country": "kosovo",
@@ -1646,6 +2283,11 @@
     "phone_code": "+383",
     "flag": "https://flagpedia.net/data/flags/h80/xk.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 10887,
+      "mi2": 4203
+    },
     "continent": "eu",
     "iso": {
       "numeric": "383",
@@ -1653,7 +2295,9 @@
       "alpha_3": "xkx"
     },
     "tld": ".rs",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sr-XK", "sq-XK"],
+    "is_landlocked": true
   },
   {
     "country": "kuwait",
@@ -1664,6 +2308,11 @@
     "phone_code": "965",
     "flag": "https://flagpedia.net/data/flags/h80/kw.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 17818,
+      "mi2": 6880
+    },
     "continent": "as",
     "iso": {
       "numeric": "414",
@@ -1671,7 +2320,9 @@
       "alpha_3": "kwt"
     },
     "tld": ".kw",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-KW", "en-KW"],
+    "is_landlocked": false
   },
   {
     "country": "kyrgyzstan",
@@ -1682,6 +2333,11 @@
     "phone_code": "+996",
     "flag": "https://flagpedia.net/data/flags/h80/kg.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 199951,
+      "mi2": 77202
+    },
     "continent": "as",
     "iso": {
       "numeric": "417",
@@ -1689,7 +2345,9 @@
       "alpha_3": "kgz"
     },
     "tld": ".kg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ky-KG", "ru-KG"],
+    "is_landlocked": true
   },
   {
     "country": "laos",
@@ -1700,6 +2358,11 @@
     "phone_code": "+856",
     "flag": "https://flagpedia.net/data/flags/h80/la.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 236800,
+      "mi2": 91400
+    },
     "continent": "as",
     "iso": {
       "numeric": "418",
@@ -1707,7 +2370,9 @@
       "alpha_3": "lao"
     },
     "tld": ".la",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["lo-LA"],
+    "is_landlocked": true
   },
   {
     "country": "latvia",
@@ -1718,6 +2383,11 @@
     "phone_code": "+371",
     "flag": "https://flagpedia.net/data/flags/h80/lv.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 64559,
+      "mi2": 24926
+    },
     "continent": "eu",
     "iso": {
       "numeric": "428",
@@ -1725,7 +2395,9 @@
       "alpha_3": "lva"
     },
     "tld": ".lv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["lv-LV"],
+    "is_landlocked": false
   },
   {
     "country": "lebanon",
@@ -1736,6 +2408,11 @@
     "phone_code": "+961",
     "flag": "https://flagpedia.net/data/flags/h80/lb.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 10452,
+      "mi2": 4036
+    },
     "continent": "as",
     "iso": {
       "numeric": "422",
@@ -1743,7 +2420,9 @@
       "alpha_3": "lbn"
     },
     "tld": ".lb",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-LB", "fr-LB"],
+    "is_landlocked": false
   },
   {
     "country": "lesotho",
@@ -1754,6 +2433,11 @@
     "phone_code": "+266",
     "flag": "https://flagpedia.net/data/flags/h80/ls.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 30355,
+      "mi2": 11720
+    },
     "continent": "af",
     "iso": {
       "numeric": "426",
@@ -1761,7 +2445,9 @@
       "alpha_3": "lso"
     },
     "tld": ".ls",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-LS", "st-LS"],
+    "is_landlocked": true
   },
   {
     "country": "liberia",
@@ -1772,6 +2458,11 @@
     "phone_code": "+231",
     "flag": "https://flagpedia.net/data/flags/h80/lr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 111369,
+      "mi2": 43000
+    },
     "continent": "af",
     "iso": {
       "numeric": "430",
@@ -1779,7 +2470,9 @@
       "alpha_3": "lbr"
     },
     "tld": ".lr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-LR"],
+    "is_landlocked": false
   },
   {
     "country": "libya",
@@ -1790,6 +2483,11 @@
     "phone_code": "+218",
     "flag": "https://flagpedia.net/data/flags/h80/ly.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 1759540,
+      "mi2": 679360
+    },
     "continent": "af",
     "iso": {
       "numeric": "434",
@@ -1797,17 +2495,24 @@
       "alpha_3": "lby"
     },
     "tld": ".ly",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["ar-LY"],
+    "is_landlocked": false
   },
   {
     "country": "liechtenstein",
     "capital": "vaduz",
     "currency": "swiss franc",
     "native_language": ["german"],
-    "famous_for": "unbelievable transformation from rural to wealthiest poulation within 60 years",
+    "famous_for": "unbelievable transformation from rural to wealthiest population within 60 years",
     "phone_code": "+423",
     "flag": "https://flagpedia.net/data/flags/h80/li.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 160,
+      "mi2": 62
+    },
     "continent": "eu",
     "iso": {
       "numeric": "438",
@@ -1815,7 +2520,9 @@
       "alpha_3": "lie"
     },
     "tld": ".li",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["de-LI"],
+    "is_landlocked": true
   },
   {
     "country": "lithuania",
@@ -1826,6 +2533,11 @@
     "phone_code": "+370",
     "flag": "https://flagpedia.net/data/flags/h80/lt.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 65300,
+      "mi2": 25200
+    },
     "continent": "eu",
     "iso": {
       "numeric": "440",
@@ -1833,17 +2545,24 @@
       "alpha_3": "ltu"
     },
     "tld": ".lt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["lt-LT"],
+    "is_landlocked": false
   },
   {
     "country": "luxembourg",
     "capital": "luxembourg",
     "currency": "euro",
     "native_language": ["german", "french", "luxembourgish"],
-    "famous_for": "europe's most powerful investement management centre and steel manufacturing",
+    "famous_for": "europe's most powerful investment management centre and steel manufacturing",
     "phone_code": "+352",
     "flag": "https://flagpedia.net/data/flags/h80/lu.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2586,
+      "mi2": 998
+    },
     "continent": "eu",
     "iso": {
       "numeric": "442",
@@ -1851,7 +2570,9 @@
       "alpha_3": "lux"
     },
     "tld": ".lu",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["de-LU", "fr-LU", "lb-LU"],
+    "is_landlocked": true
   },
   {
     "country": "north macedonia (the republic of north macedonia)",
@@ -1862,6 +2583,11 @@
     "phone_code": "+389",
     "flag": "https://flagpedia.net/data/flags/h80/mk.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 25713,
+      "mi2": 9928
+    },
     "continent": "eu",
     "iso": {
       "numeric": "807",
@@ -1869,7 +2595,9 @@
       "alpha_3": "mkd"
     },
     "tld": ".mk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["mk-MK", "sq-MK"],
+    "is_landlocked": true
   },
   {
     "country": "madagascar",
@@ -1880,6 +2608,11 @@
     "phone_code": "+261",
     "flag": "https://flagpedia.net/data/flags/h80/mg.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 587041,
+      "mi2": 226658
+    },
     "continent": "af",
     "iso": {
       "numeric": "450",
@@ -1887,7 +2620,9 @@
       "alpha_3": "mdg"
     },
     "tld": ".mg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-MG", "mg-MG"],
+    "is_landlocked": false
   },
   {
     "country": "malawi",
@@ -1898,6 +2633,11 @@
     "phone_code": "+265",
     "flag": "https://flagpedia.net/data/flags/h80/mw.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 118484,
+      "mi2": 45747
+    },
     "continent": "af",
     "iso": {
       "numeric": "454",
@@ -1905,7 +2645,9 @@
       "alpha_3": "mwi"
     },
     "tld": ".mw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MW", "ny-MW"],
+    "is_landlocked": true
   },
   {
     "country": "malaysia",
@@ -1916,6 +2658,11 @@
     "phone_code": "+60",
     "flag": "https://flagpedia.net/data/flags/h80/my.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 330803,
+      "mi2": 127724
+    },
     "continent": "as",
     "iso": {
       "numeric": "458",
@@ -1923,7 +2670,9 @@
       "alpha_3": "mys"
     },
     "tld": ".my",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ms-MY"],
+    "is_landlocked": false
   },
   {
     "country": "maldives",
@@ -1934,6 +2683,11 @@
     "phone_code": "+960",
     "flag": "https://flagpedia.net/data/flags/h80/mv.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 300,
+      "mi2": 120
+    },
     "continent": "as",
     "iso": {
       "numeric": "462",
@@ -1941,7 +2695,9 @@
       "alpha_3": "mdv"
     },
     "tld": ".mv",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["dv-MV"],
+    "is_landlocked": false
   },
   {
     "country": "mali",
@@ -1952,6 +2708,11 @@
     "phone_code": "+223",
     "flag": "https://flagpedia.net/data/flags/h80/ml.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1240192,
+      "mi2": 478841
+    },
     "continent": "af",
     "iso": {
       "numeric": "466",
@@ -1959,7 +2720,9 @@
       "alpha_3": "mli"
     },
     "tld": ".ml",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["fr-ML"],
+    "is_landlocked": true
   },
   {
     "country": "malta",
@@ -1970,6 +2733,11 @@
     "phone_code": "+356",
     "flag": "https://flagpedia.net/data/flags/h80/mt.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 316,
+      "mi2": 122
+    },
     "continent": "eu",
     "iso": {
       "numeric": "470",
@@ -1977,7 +2745,9 @@
       "alpha_3": "mlt"
     },
     "tld": ".mt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MT", "mt-MT"],
+    "is_landlocked": false
   },
   {
     "country": "marshall islands",
@@ -1988,6 +2758,11 @@
     "phone_code": "+692",
     "flag": "https://flagpedia.net/data/flags/h80/mh.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 181,
+      "mi2": 70
+    },
     "continent": "oc",
     "iso": {
       "numeric": "584",
@@ -1995,7 +2770,9 @@
       "alpha_3": "mhl"
     },
     "tld": ".mh",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MH", "mh-MH"],
+    "is_landlocked": false
   },
   {
     "country": "mauritania",
@@ -2006,6 +2783,11 @@
     "phone_code": "+222",
     "flag": "https://flagpedia.net/data/flags/h80/mr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 1030700,
+      "mi2": 398000
+    },
     "continent": "af",
     "iso": {
       "numeric": "478",
@@ -2013,7 +2795,9 @@
       "alpha_3": "mrt"
     },
     "tld": ".mr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-MR"],
+    "is_landlocked": false
   },
   {
     "country": "mauritius",
@@ -2024,6 +2808,11 @@
     "phone_code": "+230",
     "flag": "https://flagpedia.net/data/flags/h80/mu.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2040,
+      "mi2": 790
+    },
     "continent": "af",
     "iso": {
       "numeric": "480",
@@ -2031,7 +2820,9 @@
       "alpha_3": "mus"
     },
     "tld": ".mu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-MU"],
+    "is_landlocked": false
   },
   {
     "country": "mexico",
@@ -2042,6 +2833,11 @@
     "phone_code": "+52",
     "flag": "https://flagpedia.net/data/flags/h80/mx.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1964375,
+      "mi2": 758449
+    },
     "continent": "na",
     "iso": {
       "numeric": "484",
@@ -2049,7 +2845,9 @@
       "alpha_3": "mex"
     },
     "tld": ".mx",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-MX"],
+    "is_landlocked": false
   },
   {
     "country": "federal states of micronesia",
@@ -2060,6 +2858,11 @@
     "phone_code": "+691",
     "flag": "https://flagpedia.net/data/flags/h80/fm.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 702,
+      "mi2": 271
+    },
     "continent": "oc",
     "iso": {
       "numeric": "583",
@@ -2067,7 +2870,9 @@
       "alpha_3": "fsm"
     },
     "tld": ".fm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-FM"],
+    "is_landlocked": false
   },
   {
     "country": "moldova",
@@ -2078,6 +2883,11 @@
     "phone_code": "+373",
     "flag": "https://flagpedia.net/data/flags/h80/md.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 33846,
+      "mi2": 13068
+    },
     "continent": "eu",
     "iso": {
       "numeric": "498",
@@ -2085,7 +2895,9 @@
       "alpha_3": "mda"
     },
     "tld": ".md",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ro-MD"],
+    "is_landlocked": true
   },
   {
     "country": "monaco",
@@ -2096,6 +2908,11 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/mc.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2.02,
+      "mi2": 0.78
+    },
     "continent": "eu",
     "iso": {
       "numeric": "492",
@@ -2103,7 +2920,9 @@
       "alpha_3": "mco"
     },
     "tld": ".mc",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["fr-MC"],
+    "is_landlocked": false
   },
   {
     "country": "mongolia",
@@ -2114,6 +2933,11 @@
     "phone_code": "+976",
     "flag": "https://flagpedia.net/data/flags/h80/mn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1564110,
+      "mi2": 603910
+    },
     "continent": "as",
     "iso": {
       "numeric": "496",
@@ -2121,7 +2945,9 @@
       "alpha_3": "mng"
     },
     "tld": ".mn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["mn-MN"],
+    "is_landlocked": true
   },
   {
     "country": "montenegro",
@@ -2132,6 +2958,11 @@
     "phone_code": "+377",
     "flag": "https://flagpedia.net/data/flags/h80/me.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 13812,
+      "mi2": 5333
+    },
     "continent": "eu",
     "iso": {
       "numeric": "499",
@@ -2139,7 +2970,9 @@
       "alpha_3": "mne"
     },
     "tld": ".me",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sr-ME"],
+    "is_landlocked": false
   },
   {
     "country": "morocco",
@@ -2150,6 +2983,11 @@
     "phone_code": "+212",
     "flag": "https://flagpedia.net/data/flags/h80/ma.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 446550,
+      "mi2": 172410
+    },
     "continent": "af",
     "iso": {
       "numeric": "504",
@@ -2157,7 +2995,9 @@
       "alpha_3": "mar"
     },
     "tld": ".ma",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-MA"],
+    "is_landlocked": false
   },
   {
     "country": "mozambique",
@@ -2168,6 +3008,11 @@
     "phone_code": "+258",
     "flag": "https://flagpedia.net/data/flags/h80/mz.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 801590,
+      "mi2": 309500
+    },
     "continent": "af",
     "iso": {
       "numeric": "508",
@@ -2175,7 +3020,9 @@
       "alpha_3": "moz"
     },
     "tld": ".mz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-MZ"],
+    "is_landlocked": false
   },
   {
     "country": "myanmar (burma)",
@@ -2186,6 +3033,11 @@
     "phone_code": "+95",
     "flag": "https://flagpedia.net/data/flags/h80/mm.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 676578,
+      "mi2": 261228
+    },
     "continent": "as",
     "iso": {
       "numeric": "104",
@@ -2193,7 +3045,9 @@
       "alpha_3": "mmr"
     },
     "tld": ".mm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["my-MM"],
+    "is_landlocked": false
   },
   {
     "country": "namibia",
@@ -2204,6 +3058,11 @@
     "phone_code": "+264",
     "flag": "https://flagpedia.net/data/flags/h80/na.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 825615,
+      "mi2": 318772
+    },
     "continent": "af",
     "iso": {
       "numeric": "516",
@@ -2211,7 +3070,9 @@
       "alpha_3": "nam"
     },
     "tld": ".na",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["af-NA", "de-NA", "en-NA"],
+    "is_landlocked": false
   },
   {
     "country": "nauru",
@@ -2222,6 +3083,11 @@
     "phone_code": "+674",
     "flag": "https://flagpedia.net/data/flags/h80/nr.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 21,
+      "mi2": 8.1
+    },
     "continent": "oc",
     "iso": {
       "numeric": "520",
@@ -2229,7 +3095,9 @@
       "alpha_3": "nru"
     },
     "tld": ".nr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-NR", "na-NR"],
+    "is_landlocked": false
   },
   {
     "country": "nepal",
@@ -2240,6 +3108,11 @@
     "phone_code": "+977",
     "flag": "https://flagpedia.net/data/flags/h80/np.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 147181,
+      "mi2": 56827
+    },
     "continent": "as",
     "iso": {
       "numeric": "524",
@@ -2247,7 +3120,9 @@
       "alpha_3": "npl"
     },
     "tld": ".np",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ne-NP"],
+    "is_landlocked": true
   },
   {
     "country": "netherlands",
@@ -2258,6 +3133,11 @@
     "phone_code": "+31",
     "flag": "https://flagpedia.net/data/flags/h80/nl.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 41850,
+      "mi2": 16160
+    },
     "continent": "eu",
     "iso": {
       "numeric": "528",
@@ -2265,7 +3145,9 @@
       "alpha_3": "nld"
     },
     "tld": ".nl",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["nl-NL"],
+    "is_landlocked": false
   },
   {
     "country": "new zealand",
@@ -2276,6 +3158,11 @@
     "phone_code": "+64",
     "flag": "https://flagpedia.net/data/flags/h80/nz.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 270467,
+      "mi2": 104428
+    },
     "continent": "oc",
     "iso": {
       "numeric": "554",
@@ -2283,7 +3170,9 @@
       "alpha_3": "nzl"
     },
     "tld": ".nz",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-NZ"],
+    "is_landlocked": false
   },
   {
     "country": "nicaragua",
@@ -2294,6 +3183,11 @@
     "phone_code": "+505",
     "flag": "https://flagpedia.net/data/flags/h80/ni.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 130373,
+      "mi2": 50337
+    },
     "continent": "na",
     "iso": {
       "numeric": "558",
@@ -2301,7 +3195,9 @@
       "alpha_3": "nic"
     },
     "tld": ".ni",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-NA"],
+    "is_landlocked": false
   },
   {
     "country": "niger",
@@ -2312,6 +3208,11 @@
     "phone_code": "+277",
     "flag": "https://flagpedia.net/data/flags/h80/ne.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1267000,
+      "mi2": 489000
+    },
     "continent": "af",
     "iso": {
       "numeric": "562",
@@ -2319,7 +3220,9 @@
       "alpha_3": "ner"
     },
     "tld": ".ne",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-NE"],
+    "is_landlocked": true
   },
   {
     "country": "nigeria",
@@ -2330,6 +3233,11 @@
     "phone_code": "+234",
     "flag": "https://flagpedia.net/data/flags/h80/ng.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 923768,
+      "mi2": 356669
+    },
     "continent": "af",
     "iso": {
       "numeric": "566",
@@ -2337,7 +3245,9 @@
       "alpha_3": "nga"
     },
     "tld": ".ng",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-NG"],
+    "is_landlocked": false
   },
   {
     "country": "norway",
@@ -2348,6 +3258,11 @@
     "phone_code": "+47",
     "flag": "https://flagpedia.net/data/flags/h80/no.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 385207,
+      "mi2": 148729
+    },
     "continent": "eu",
     "iso": {
       "numeric": "578",
@@ -2355,7 +3270,9 @@
       "alpha_3": "nor"
     },
     "tld": ".no",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["no-NO"],
+    "is_landlocked": false
   },
   {
     "country": "oman",
@@ -2366,6 +3283,11 @@
     "phone_code": "+968",
     "flag": "https://flagpedia.net/data/flags/h80/om.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 309500,
+      "mi2": 119500
+    },
     "continent": "as",
     "iso": {
       "numeric": "512",
@@ -2373,7 +3295,9 @@
       "alpha_3": "omn"
     },
     "tld": ".om",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ar-OM"],
+    "is_landlocked": false
   },
   {
     "country": "pakistan",
@@ -2384,6 +3308,11 @@
     "phone_code": "+92",
     "flag": "https://flagpedia.net/data/flags/h80/pk.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 907843,
+      "mi2": 350520
+    },
     "continent": "as",
     "iso": {
       "numeric": "586",
@@ -2391,7 +3320,9 @@
       "alpha_3": "pak"
     },
     "tld": ".pk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": [ "en-PK", "ur-PK"],
+    "is_landlocked": false
   },
   {
     "country": "palau",
@@ -2402,6 +3333,11 @@
     "phone_code": "+680",
     "flag": "https://flagpedia.net/data/flags/h80/pw.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 459,
+      "mi2": 177
+    },
     "continent": "oc",
     "iso": {
       "numeric": "585",
@@ -2409,7 +3345,9 @@
       "alpha_3": "plw"
     },
     "tld": ".pw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-PW"],
+    "is_landlocked": false
   },
   {
     "country": "panama",
@@ -2420,6 +3358,11 @@
     "phone_code": "+507",
     "flag": "https://flagpedia.net/data/flags/h80/pa.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 75417,
+      "mi2": 29119
+    },
     "continent": "na",
     "iso": {
       "numeric": "591",
@@ -2427,7 +3370,9 @@
       "alpha_3": "pan"
     },
     "tld": ".pa",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-PA"],
+    "is_landlocked": false
   },
   {
     "country": "papa new guinea",
@@ -2438,6 +3383,11 @@
     "phone_code": "+675",
     "flag": "https://flagpedia.net/data/flags/h80/pg.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 462840,
+      "mi2": 178700
+    },
     "continent": "oc",
     "iso": {
       "numeric": "598",
@@ -2445,7 +3395,9 @@
       "alpha_3": "png"
     },
     "tld": ".pg",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-PG"],
+    "is_landlocked": false
   },
   {
     "country": "paraguay",
@@ -2456,6 +3408,11 @@
     "phone_code": "+595",
     "flag": "https://flagpedia.net/data/flags/h80/py.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 406752,
+      "mi2": 157048
+    },
     "continent": "sa",
     "iso": {
       "numeric": "600",
@@ -2463,7 +3420,9 @@
       "alpha_3": "pry"
     },
     "tld": ".py",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-PY", "gn-PY"],
+    "is_landlocked": true
   },
   {
     "country": "peru",
@@ -2474,6 +3433,11 @@
     "phone_code": "+51",
     "flag": "https://flagpedia.net/data/flags/h80/pe.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1285216,
+      "mi2": 496225
+    },
     "continent": "sa",
     "iso": {
       "numeric": "604",
@@ -2481,7 +3445,9 @@
       "alpha_3": "per"
     },
     "tld": ".pe",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-PE", "qu-PE"],
+    "is_landlocked": false
   },
   {
     "country": "philippines",
@@ -2492,6 +3458,11 @@
     "phone_code": "+63",
     "flag": "https://flagpedia.net/data/flags/h80/ph.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 300000,
+      "mi2": 120000
+    },
     "continent": "as",
     "iso": {
       "numeric": "608",
@@ -2499,7 +3470,9 @@
       "alpha_3": "phl"
     },
     "tld": ".ph",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-PH", "tl-PH"],
+    "is_landlocked": false
   },
   {
     "country": "poland",
@@ -2510,6 +3483,11 @@
     "phone_code": "+48",
     "flag": "https://flagpedia.net/data/flags/h80/pl.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 312696,
+      "mi2": 120733
+    },
     "continent": "eu",
     "iso": {
       "numeric": "616",
@@ -2517,7 +3495,9 @@
       "alpha_3": "pol"
     },
     "tld": ".pl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pl-PL"],
+    "is_landlocked": false
   },
   {
     "country": "portugal",
@@ -2528,6 +3508,11 @@
     "phone_code": "+351",
     "flag": "https://flagpedia.net/data/flags/h80/pt.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 92090,
+      "mi2": 35560
+    },
     "continent": "eu",
     "iso": {
       "numeric": "620",
@@ -2535,7 +3520,9 @@
       "alpha_3": "prt"
     },
     "tld": ".pt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-PT"],
+    "is_landlocked": false
   },
   {
     "country": "qatar",
@@ -2546,6 +3533,11 @@
     "phone_code": "+974",
     "flag": "https://flagpedia.net/data/flags/h80/qa.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 11586,
+      "mi2": 4473
+    },
     "continent": "as",
     "iso": {
       "numeric": "634",
@@ -2553,7 +3545,9 @@
       "alpha_3": "qat"
     },
     "tld": ".qa",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ar-QA"],
+    "is_landlocked": false
   },
   {
     "country": "romania",
@@ -2564,6 +3558,11 @@
     "phone_code": "+40",
     "flag": "https://flagpedia.net/data/flags/h80/ro.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 238397,
+      "mi2": 92046
+    },
     "continent": "eu",
     "iso": {
       "numeric": "642",
@@ -2571,7 +3570,9 @@
       "alpha_3": "rou"
     },
     "tld": ".ro",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ro-RO"],
+    "is_landlocked": false
   },
   {
     "country": "russia",
@@ -2582,6 +3583,11 @@
     "phone_code": "+7",
     "flag": "https://flagpedia.net/data/flags/h80/ru.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 17098246,
+      "mi2": 6601670
+    },
     "continent": "eu/as",
     "iso": {
       "numeric": "643",
@@ -2589,7 +3595,9 @@
       "alpha_3": "rus"
     },
     "tld": ".ru",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-RU"],
+    "is_landlocked": false
   },
   {
     "country": "rwanda",
@@ -2600,6 +3608,11 @@
     "phone_code": "+250",
     "flag": "https://flagpedia.net/data/flags/h80/rw.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 26338,
+      "mi2": 10169
+    },
     "continent": "af",
     "iso": {
       "numeric": "646",
@@ -2607,7 +3620,9 @@
       "alpha_3": "rwa"
     },
     "tld": ".rw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-RW", "fr-RW", "rw-RW"],
+    "is_landlocked": true
   },
   {
     "country": "saint kitts and nevis",
@@ -2618,6 +3633,11 @@
     "phone_code": "+1-869",
     "flag": "https://flagpedia.net/data/flags/h80/kn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 261,
+      "mi2": 101
+    },
     "continent": "na",
     "iso": {
       "numeric": "659",
@@ -2625,7 +3645,9 @@
       "alpha_3": "kna"
     },
     "tld": ".kn",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-KN"],
+    "is_landlocked": false
   },
   {
     "country": "saint lucia",
@@ -2636,6 +3658,11 @@
     "phone_code": "+1-758",
     "flag": "https://flagpedia.net/data/flags/h80/lc.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 616,
+      "mi2": 238
+    },
     "continent": "na",
     "iso": {
       "numeric": "662",
@@ -2643,17 +3670,24 @@
       "alpha_3": "lca"
     },
     "tld": ".lc",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-LC", "fr-LC"],
+    "is_landlocked": false
   },
   {
     "country": "saint vincent and the grenadines",
     "capital": "kingstown east",
     "currency": "caribbean dollar",
     "native_language": ["english"],
-    "famous_for": "beautiful white-sand beaches and snorking",
+    "famous_for": "beautiful white-sand beaches and snorkeling",
     "phone_code": "+1-784",
     "flag": "https://flagpedia.net/data/flags/h80/vc.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 389,
+      "mi2": 150
+    },
     "continent": "na",
     "iso": {
       "numeric": "670",
@@ -2661,7 +3695,9 @@
       "alpha_3": "vct"
     },
     "tld": ".vc",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-VC"],
+    "is_landlocked": false
   },
   {
     "country": "samoa",
@@ -2672,6 +3708,11 @@
     "phone_code": "+685",
     "flag": "https://flagpedia.net/data/flags/h80/ws.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 2842,
+      "mi2": 1097
+    },
     "continent": "oc",
     "iso": {
       "numeric": "882",
@@ -2679,7 +3720,9 @@
       "alpha_3": "wsm"
     },
     "tld": ".ws",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-WS", "sm-WS"],
+    "is_landlocked": false
   },
   {
     "country": "san marino",
@@ -2690,6 +3733,11 @@
     "phone_code": "+378",
     "flag": "https://flagpedia.net/data/flags/h80/sm.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 61,
+      "mi2": 24
+    },
     "continent": "eu",
     "iso": {
       "numeric": "674",
@@ -2697,7 +3745,9 @@
       "alpha_3": "smr"
     },
     "tld": ".sm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["it-SM"],
+    "is_landlocked": true
   },
   {
     "country": "sao tome and principe",
@@ -2708,6 +3758,11 @@
     "phone_code": "+239",
     "flag": "https://flagpedia.net/data/flags/h80/st.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 964,
+      "mi2": 372
+    },
     "continent": "af",
     "iso": {
       "numeric": "678",
@@ -2715,7 +3770,9 @@
       "alpha_3": "stp"
     },
     "tld": ".st",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["pt-ST"],
+    "is_landlocked": false
   },
   {
     "country": "saudi arabia",
@@ -2726,6 +3783,11 @@
     "phone_code": "+966",
     "flag": "https://flagpedia.net/data/flags/h80/sa.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 2149690,
+      "mi2": 830000
+    },
     "continent": "as",
     "iso": {
       "numeric": "682",
@@ -2733,7 +3795,9 @@
       "alpha_3": "sau"
     },
     "tld": ".sa",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ar-SA"],
+    "is_landlocked": false
   },
   {
     "country": "senegal",
@@ -2744,6 +3808,11 @@
     "phone_code": "+221",
     "flag": "https://flagpedia.net/data/flags/h80/sn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 196722,
+      "mi2": 75955
+    },
     "continent": "af",
     "iso": {
       "numeric": "686",
@@ -2751,7 +3820,9 @@
       "alpha_3": "sen"
     },
     "tld": ".sn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-SN"],
+    "is_landlocked": false
   },
   {
     "country": "serbia",
@@ -2762,6 +3833,11 @@
     "phone_code": "+381",
     "flag": "https://flagpedia.net/data/flags/h80/rs.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 88361,
+      "mi2": 34116
+    },
     "continent": "eu",
     "iso": {
       "numeric": "688",
@@ -2769,7 +3845,9 @@
       "alpha_3": "srb"
     },
     "tld": ".rs",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sr-RS"],
+    "is_landlocked": true
   },
   {
     "country": "seychelles",
@@ -2780,6 +3858,11 @@
     "phone_code": "+248",
     "flag": "https://flagpedia.net/data/flags/h80/sc.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 452,
+      "mi2": 175
+    },
     "continent": "af",
     "iso": {
       "numeric": "690",
@@ -2787,7 +3870,9 @@
       "alpha_3": "syc"
     },
     "tld": ".sc",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-SC", "fr-SC"],
+    "is_landlocked": false
   },
   {
     "country": "sierra leone",
@@ -2798,6 +3883,11 @@
     "phone_code": "+232",
     "flag": "https://flagpedia.net/data/flags/h80/sl.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 71740,
+      "mi2": 27700
+    },
     "continent": "af",
     "iso": {
       "numeric": "694",
@@ -2805,7 +3895,9 @@
       "alpha_3": "sle"
     },
     "tld": ".sl",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-SL"],
+    "is_landlocked": false
   },
   {
     "country": "singapore",
@@ -2816,6 +3908,11 @@
     "phone_code": "+65",
     "flag": "https://flagpedia.net/data/flags/h80/sg.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 726,
+      "mi2": 280
+    },
     "continent": "as",
     "iso": {
       "numeric": "702",
@@ -2823,7 +3920,9 @@
       "alpha_3": "sgp"
     },
     "tld": ".sg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-SG", "ms-SG", "zh-SG"],
+    "is_landlocked": false
   },
   {
     "country": "slovakia",
@@ -2834,6 +3933,11 @@
     "phone_code": "+421",
     "flag": "https://flagpedia.net/data/flags/h80/sk.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 49037,
+      "mi2": 18933
+    },
     "continent": "eu",
     "iso": {
       "numeric": "703",
@@ -2841,7 +3945,9 @@
       "alpha_3": "svk"
     },
     "tld": ".sk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sk-SK"],
+    "is_landlocked": true
   },
   {
     "country": "slovenia",
@@ -2852,6 +3958,11 @@
     "phone_code": "+386",
     "flag": "https://flagpedia.net/data/flags/h80/si.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 20273,
+      "mi2": 7827
+    },
     "continent": "eu",
     "iso": {
       "numeric": "705",
@@ -2859,7 +3970,9 @@
       "alpha_3": "svn"
     },
     "tld": ".si",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sl-SI"],
+    "is_landlocked": false
   },
   {
     "country": "solomon islands",
@@ -2870,6 +3983,11 @@
     "phone_code": "+677",
     "flag": "https://flagpedia.net/data/flags/h80/sb.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 28896,
+      "mi2": 11157
+    },
     "continent": "oc",
     "iso": {
       "numeric": "090",
@@ -2877,7 +3995,9 @@
       "alpha_3": "slb"
     },
     "tld": ".sb",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-SB"],
+    "is_landlocked": false
   },
   {
     "country": "somalia",
@@ -2888,6 +4008,11 @@
     "phone_code": "+252",
     "flag": "https://flagpedia.net/data/flags/h80/so.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "nationwide",
+    "area": {
+      "km2": 637657,
+      "mi2": 246201
+    },
     "continent": "af",
     "iso": {
       "numeric": "706",
@@ -2895,7 +4020,9 @@
       "alpha_3": "som"
     },
     "tld": ".so",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["so-SO"],
+    "is_landlocked": false
   },
   {
     "country": "south africa",
@@ -2906,6 +4033,11 @@
     "phone_code": "+27",
     "flag": "https://flagpedia.net/data/flags/h80/za.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 1221037,
+      "mi2": 471445
+    },
     "continent": "af",
     "iso": {
       "numeric": "710",
@@ -2913,7 +4045,9 @@
       "alpha_3": "zaf"
     },
     "tld": ".za",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["af-ZA", "en-ZA", "xh-ZA", "zu-ZA"],
+    "is_landlocked": false
   },
   {
     "country": "south sudan (republic of south sudan)",
@@ -2924,6 +4058,11 @@
     "phone_code": "+211",
     "flag": "https://flagpedia.net/data/flags/h80/ss.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 644329,
+      "mi2": 248777
+    },
     "continent": "af",
     "iso": {
       "numeric": "728",
@@ -2931,17 +4070,24 @@
       "alpha_3": "ssd"
     },
     "tld": ".ss",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-SS", "en-SS"],
+    "is_landlocked": true
   },
   {
     "country": "spain",
     "capital": "madrid",
     "currency": "euro",
-    "native_language": ["spanish"],
+    "native_language": ["spanish", "catalan"],
     "famous_for": "salsa and bullfight",
     "phone_code": "+34",
     "flag": "https://flagpedia.net/data/flags/h80/es.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 505992,
+      "mi2": 195365
+    },
     "continent": "eu",
     "iso": {
       "numeric": "724",
@@ -2949,7 +4095,9 @@
       "alpha_3": "esp"
     },
     "tld": ".es",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ca-ES", "es-ES"],
+    "is_landlocked": false
   },
   {
     "country": "sri lanka",
@@ -2960,6 +4108,11 @@
     "phone_code": "+94",
     "flag": "https://flagpedia.net/data/flags/h80/lk.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 65610,
+      "mi2": 25330
+    },
     "continent": "as",
     "iso": {
       "numeric": "144",
@@ -2967,7 +4120,9 @@
       "alpha_3": "lka"
     },
     "tld": ".lk",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["si-LK", "ta-LK"],
+    "is_landlocked": false
   },
   {
     "country": "sudan (republic of the sudan)",
@@ -2978,6 +4133,11 @@
     "phone_code": "+249",
     "flag": "https://flagpedia.net/data/flags/h80/sd.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 1861484,
+      "mi2": 718723
+    },
     "continent": "af",
     "iso": {
       "numeric": "729",
@@ -2985,7 +4145,9 @@
       "alpha_3": "sdn"
     },
     "tld": ".sd",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["ar-SD", "en-SD"],
+    "is_landlocked": false
   },
   {
     "country": "suriname",
@@ -2996,6 +4158,11 @@
     "phone_code": "+597",
     "flag": "https://flagpedia.net/data/flags/h80/sr.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 163820,
+      "mi2": 63250
+    },
     "continent": "sa",
     "iso": {
       "numeric": "740",
@@ -3003,7 +4170,9 @@
       "alpha_3": "sur"
     },
     "tld": ".sr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["nl-SR"],
+    "is_landlocked": false
   },
   {
     "country": "eswatini (swaziland)",
@@ -3014,6 +4183,11 @@
     "phone_code": "+268",
     "flag": "https://flagpedia.net/data/flags/h80/sz.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 17364,
+      "mi2": 6704
+    },
     "continent": "af",
     "iso": {
       "numeric": "748",
@@ -3021,7 +4195,9 @@
       "alpha_3": "swz"
     },
     "tld": ".sz",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["ss-SZ"],
+    "is_landlocked": true
   },
   {
     "country": "sweden",
@@ -3032,6 +4208,11 @@
     "phone_code": "+46",
     "flag": "https://flagpedia.net/data/flags/h80/se.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 450295,
+      "mi2": 173860
+    },
     "continent": "eu",
     "iso": {
       "numeric": "752",
@@ -3039,16 +4220,23 @@
       "alpha_3": "swe"
     },
     "tld": ".se",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["sv-SE"],
+    "is_landlocked": false
   },
   {
     "country": "switzerland",
     "capital": "berne",
     "currency": "swiss franc",
-    "native_language": ["german", "french", "italian"],
+    "native_language": ["german", "french", "italian", "romansh"],
     "famous_for": "alps, natural beauty, chocolates and watches",
     "flag": "https://flagpedia.net/data/flags/h80/ch.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 41284,
+      "mi2": 15940
+    },
     "continent": "eu",
     "iso": {
       "numeric": "756",
@@ -3056,7 +4244,9 @@
       "alpha_3": "che"
     },
     "tld": ".ch",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["de-CH", "fr-CH", "it-CH", "rm-CH"],
+    "is_landlocked": true
   },
   {
     "country": "syria",
@@ -3067,6 +4257,11 @@
     "phone_code": "+963",
     "flag": "https://flagpedia.net/data/flags/h80/sy.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 185180,
+      "mi2": 71500
+    },
     "continent": "as",
     "iso": {
       "numeric": "760",
@@ -3074,7 +4269,9 @@
       "alpha_3": "syr"
     },
     "tld": ".sy",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-SY"],
+    "is_landlocked": false
   },
   {
     "country": "taiwan",
@@ -3085,6 +4282,11 @@
     "phone_code": "+886",
     "flag": "https://flagpedia.net/data/flags/h80/tw.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 36193,
+      "mi2": 13974
+    },
     "continent": "as",
     "iso": {
       "numeric": "158",
@@ -3092,7 +4294,9 @@
       "alpha_3": "twn"
     },
     "tld": ".tw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["zh-TW"],
+    "is_landlocked": false
   },
   {
     "country": "tajikistan",
@@ -3103,6 +4307,11 @@
     "phone_code": "+992",
     "flag": "https://flagpedia.net/data/flags/h80/tj.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 143100,
+      "mi2": 55300
+    },
     "continent": "as",
     "iso": {
       "numeric": "762",
@@ -3110,7 +4319,9 @@
       "alpha_3": "tjk"
     },
     "tld": ".tj",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-TJ", "tg-TJ"],
+    "is_landlocked": true
   },
   {
     "country": "tanzania",
@@ -3121,6 +4332,11 @@
     "phone_code": "+255",
     "flag": "https://flagpedia.net/data/flags/h80/tz.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 945087,
+      "mi2": 364900
+    },
     "continent": "af",
     "iso": {
       "numeric": "834",
@@ -3128,7 +4344,9 @@
       "alpha_3": "tza"
     },
     "tld": ".tz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-TZ", "sw-TZ"],
+    "is_landlocked": false
   },
   {
     "country": "thailand",
@@ -3139,6 +4357,11 @@
     "phone_code": "+66",
     "flag": "https://flagpedia.net/data/flags/h80/th.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 513120,
+      "mi2": 198120
+    },
     "continent": "as",
     "iso": {
       "numeric": "764",
@@ -3146,7 +4369,9 @@
       "alpha_3": "tha"
     },
     "tld": ".th",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["th-TH"],
+    "is_landlocked": false
   },
   {
     "country": "togo",
@@ -3157,6 +4382,11 @@
     "phone_code": "+228",
     "flag": "https://flagpedia.net/data/flags/h80/tg.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 56785,
+      "mi2": 21925
+    },
     "continent": "af",
     "iso": {
       "numeric": "768",
@@ -3164,7 +4394,9 @@
       "alpha_3": "tgo"
     },
     "tld": ".tg",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["fr-TG"],
+    "is_landlocked": false
   },
   {
     "country": "tonga",
@@ -3175,6 +4407,11 @@
     "phone_code": "+676",
     "flag": "https://flagpedia.net/data/flags/h80/to.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 747,
+      "mi2": 288
+    },
     "continent": "oc",
     "iso": {
       "numeric": "776",
@@ -3182,17 +4419,24 @@
       "alpha_3": "ton"
     },
     "tld": ".to",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-TO", "to-TO"],
+    "is_landlocked": false
   },
   {
     "country": "trinidad and tobago",
     "capital": "port-of-spain",
     "currency": "trinidad and tobago dollar",
     "native_language": ["english"],
-    "famous_for": "stable economy, steel pans, carnival festivity, caribbean dance and lush greenary",
+    "famous_for": "stable economy, steel pans, carnival festivity, caribbean dance and lush greenery",
     "phone_code": "+1-868",
     "flag": "https://flagpedia.net/data/flags/h80/tt.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 5130,
+      "mi2": 1980
+    },
     "continent": "na",
     "iso": {
       "numeric": "780",
@@ -3200,7 +4444,9 @@
       "alpha_3": "tto"
     },
     "tld": ".tt",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-TT"],
+    "is_landlocked": false
   },
   {
     "country": "tunisia",
@@ -3211,6 +4457,11 @@
     "phone_code": "+216",
     "flag": "https://flagpedia.net/data/flags/h80/tn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 163610,
+      "mi2": 63170
+    },
     "continent": "af",
     "iso": {
       "numeric": "788",
@@ -3218,7 +4469,9 @@
       "alpha_3": "tun"
     },
     "tld": ".tn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ar-TN", "fr-TN"],
+    "is_landlocked": false
   },
   {
     "country": "turkey",
@@ -3229,6 +4482,11 @@
     "phone_code": "+90",
     "flag": "https://flagpedia.net/data/flags/h80/tr.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 783562,
+      "mi2": 302535
+    },
     "continent": "eu/as",
     "iso": {
       "numeric": "792",
@@ -3236,7 +4494,9 @@
       "alpha_3": "tur"
     },
     "tld": ".tr",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["tr-TR"],
+    "is_landlocked": false
   },
   {
     "country": "turkmenistan",
@@ -3247,6 +4507,11 @@
     "phone_code": "+993",
     "flag": "https://flagpedia.net/data/flags/h80/tm.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 488100,
+      "mi2": 188500
+    },
     "continent": "as",
     "iso": {
       "numeric": "795",
@@ -3254,7 +4519,9 @@
       "alpha_3": "tkm"
     },
     "tld": ".tm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-TM", "tk-TM"],
+    "is_landlocked": true
   },
   {
     "country": "tuvalu",
@@ -3265,6 +4532,11 @@
     "phone_code": "+668",
     "flag": "https://flagpedia.net/data/flags/h80/tv.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 26,
+      "mi2": 10
+    },
     "continent": "oc",
     "iso": {
       "numeric": "798",
@@ -3272,7 +4544,9 @@
       "alpha_3": "tuv"
     },
     "tld": ".tv",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-TV"],
+    "is_landlocked": false
   },
   {
     "country": "uganda",
@@ -3283,6 +4557,11 @@
     "phone_code": "+256",
     "flag": "https://flagpedia.net/data/flags/h80/ug.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 241550,
+      "mi2": 93260
+    },
     "continent": "af",
     "iso": {
       "numeric": "800",
@@ -3290,17 +4569,24 @@
       "alpha_3": "uga"
     },
     "tld": ".ug",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-UG", "sw-UG"],
+    "is_landlocked": true
   },
   {
     "country": "ukraine",
     "capital": "kiev",
     "currency": "hryvnia",
-    "native_language": ["ukranian", "russian"],
+    "native_language": ["ukrainian", "russian"],
     "famous_for": "agricultural production",
     "phone_code": "+380",
     "flag": "https://flagpedia.net/data/flags/h80/ua.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 603500,
+      "mi2": 233000
+    },
     "continent": "eu",
     "iso": {
       "numeric": "804",
@@ -3308,7 +4594,9 @@
       "alpha_3": "ukr"
     },
     "tld": ".ua",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-UA", "uk-UA"],
+    "is_landlocked": false
   },
   {
     "country": "united arab emirates",
@@ -3319,6 +4607,11 @@
     "phone_code": "+971",
     "flag": "https://flagpedia.net/data/flags/h80/ae.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "limited",
+    "area": {
+      "km2": 83600,
+      "mi2": 32300
+    },
     "continent": "as",
     "iso": {
       "numeric": "784",
@@ -3326,7 +4619,9 @@
       "alpha_3": "are"
     },
     "tld": ".ae",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["ar-AE"],
+    "is_landlocked": false
   },
   {
     "country": "united kingdom",
@@ -3337,6 +4632,11 @@
     "phone_code": "+44",
     "flag": "https://flagpedia.net/data/flags/h80/gb.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 242495,
+      "mi2": 93628
+    },
     "continent": "eu",
     "iso": {
       "numeric": "826",
@@ -3344,7 +4644,9 @@
       "alpha_3": "gbr"
     },
     "tld": ".gb/.uk",
-    "constitutional_form": "constitutional monarchy"
+    "constitutional_form": "constitutional monarchy",
+    "language_codes": ["en-GB"],
+    "is_landlocked": false
   },
   {
     "country": "united states of america",
@@ -3355,6 +4657,11 @@
     "phone_code": "+1",
     "flag": "https://flagpedia.net/data/flags/h80/us.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 9833517,
+      "mi2": 3796742
+    },
     "continent": "na",
     "iso": {
       "numeric": "840",
@@ -3362,7 +4669,9 @@
       "alpha_3": "usa"
     },
     "tld": ".us",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-US", "es-US"],
+    "is_landlocked": false
   },
   {
     "country": "uruguay",
@@ -3373,6 +4682,11 @@
     "phone_code": "+589",
     "flag": "https://flagpedia.net/data/flags/h80/uy.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 176215,
+      "mi2": 68037
+    },
     "continent": "sa",
     "iso": {
       "numeric": "858",
@@ -3380,7 +4694,9 @@
       "alpha_3": "ury"
     },
     "tld": ".uy",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["sp-UY"],
+    "is_landlocked": false
   },
   {
     "country": "uzbekistan",
@@ -3391,6 +4707,11 @@
     "phone_code": "+998",
     "flag": "https://flagpedia.net/data/flags/h80/uz.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 447400,
+      "mi2": 172700
+    },
     "continent": "as",
     "iso": {
       "numeric": "860",
@@ -3398,7 +4719,9 @@
       "alpha_3": "uzb"
     },
     "tld": ".uz",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["ru-UZ", "uz-UZ"],
+    "is_landlocked": true
   },
   {
     "country": "vanuatu",
@@ -3409,6 +4732,11 @@
     "phone_code": "+978",
     "flag": "https://flagpedia.net/data/flags/h80/vu.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 12189,
+      "mi2": 4706
+    },
     "continent": "oc",
     "iso": {
       "numeric": "548",
@@ -3416,7 +4744,9 @@
       "alpha_3": "vut"
     },
     "tld": ".vu",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["bi-VU", "en-VU", "fr-VU"],
+    "is_landlocked": false
   },
   {
     "country": "vatican city",
@@ -3427,6 +4757,11 @@
     "phone_code": "+379",
     "flag": "https://flagpedia.net/data/flags/h80/va.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 0.49,
+      "mi2": 0.19
+    },
     "continent": "eu",
     "iso": {
       "numeric": "336",
@@ -3434,7 +4769,9 @@
       "alpha_3": "vat"
     },
     "tld": ".va",
-    "constitutional_form": "absolute monarchy"
+    "constitutional_form": "absolute monarchy",
+    "language_codes": ["it-VA", "la-VA"],
+    "is_landlocked": true
   },
   {
     "country": "venezuela",
@@ -3445,6 +4782,11 @@
     "phone_code": "+58",
     "flag": "https://flagpedia.net/data/flags/h80/ve.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 916445,
+      "mi2": 353841
+    },
     "continent": "sa",
     "iso": {
       "numeric": "862",
@@ -3452,7 +4794,9 @@
       "alpha_3": "ven"
     },
     "tld": ".ve",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["es-VE"],
+    "is_landlocked": false
   },
   {
     "country": "vietnam",
@@ -3463,6 +4807,11 @@
     "phone_code": "+84",
     "flag": "https://flagpedia.net/data/flags/h80/vn.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 331212,
+      "mi2": 127882
+    },
     "continent": "as",
     "iso": {
       "numeric": "704",
@@ -3470,7 +4819,9 @@
       "alpha_3": "vnm"
     },
     "tld": ".vn",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["vi-VN"],
+    "is_landlocked": false
   },
   {
     "country": "yemen",
@@ -3481,6 +4832,11 @@
     "phone_code": "+967",
     "flag": "https://flagpedia.net/data/flags/h80/ye.png",
     "drive_direction": "right",
+    "alcohol_prohibition": "regional",
+    "area": {
+      "km2": 527968,
+      "mi2": 203850
+    },
     "continent": "as",
     "iso": {
       "numeric": "887",
@@ -3488,7 +4844,9 @@
       "alpha_3": "yem"
     },
     "tld": ".ye",
-    "constitutional_form": "n/a"
+    "constitutional_form": "n/a",
+    "language_codes": ["ar-YE"],
+    "is_landlocked": false
   },
   {
     "country": "zambia",
@@ -3499,6 +4857,11 @@
     "phone_code": "+260",
     "flag": "https://flagpedia.net/data/flags/h80/zm.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 752612,
+      "mi2": 290585
+    },
     "continent": "af",
     "iso": {
       "numeric": "894",
@@ -3506,7 +4869,9 @@
       "alpha_3": "zmb"
     },
     "tld": ".zm",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-ZM"],
+    "is_landlocked": true
   },
   {
     "country": "zimbabwe",
@@ -3517,6 +4882,11 @@
     "phone_code": "+263",
     "flag": "https://flagpedia.net/data/flags/h80/zw.png",
     "drive_direction": "left",
+    "alcohol_prohibition": "none",
+    "area": {
+      "km2": 390757,
+      "mi2": 150872
+    },
     "continent": "af",
     "iso": {
       "numeric": "716",
@@ -3524,6 +4894,8 @@
       "alpha_3": "zwe"
     },
     "tld": ".zw",
-    "constitutional_form": "republic"
+    "constitutional_form": "republic",
+    "language_codes": ["en-ZW"],
+    "is_landlocked": true
   }
 ]

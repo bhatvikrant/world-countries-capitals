@@ -285,6 +285,16 @@ the response will remain the same.
 
 [↑ Back to menu][URL_TOC]
 
+### Example #14
+
+> Get the details of all `countries` that are '_landlocked_'.
+
+```javascript
+const wcc = require("world-countries-capitals");
+
+console.log(wcc.getCountriesByLandLock(true));
+```
+
 ---
 
 ## Contributing

@@ -125,6 +125,27 @@ const getCountriesByFamousFor = (famousThing) => {
   );
 };
 
+const getCountriesByAlcoholProhibition = (prohibitionType) =>{
+  let value;
+  switch (prohibitionType) {
+    case "none":
+      value = "none";
+      break;
+    case "limited":
+      value = "limited";
+      break;
+    case "regional":
+      value = "regional";
+      break;
+    case "nationwide":
+      value = "nationwide";
+      break;
+    default:
+      throw new Error('Prohibition type must be "none", "limited", "regional" or "nationwide"');
+  }
+  return getCountriesByObject(value,"alcohol_prohibition");
+}
+
 /**
  * Returns an array of objects, each containing `country`, `capital`, `currency`, `native_language`,
  * `famous_for`, `phone_code`, `flag`, `drive_direction`, `continent`, `iso` and `tld`
@@ -210,6 +231,16 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
   return result;
 }
 
+/** 
+ * Returns an array of objects containing all countries, each containing `country`, `capital`,
+ * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
+ * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
+ * @returns {Array} An array of country objects
+*/
+const getCountriesByLandLock = (isLandLocked) => {
+  return data.filter( country => country.is_landlocked === isLandLocked);
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -220,8 +251,10 @@ module.exports = {
   getCountriesByLanguage,
   getCountriesByFamousFor,
   getCountriesByDriveDirection,
+  getCountriesByAlcoholProhibition,
   getCountriesByContinent,
   getCountryDetailsByISO,
   getCountriesByTLD,
   getCountriesByConstitutionalForm,
+  getCountriesByLandLock,
 };
