@@ -1,4 +1,4 @@
-## 3.4.0 (October 28, 2020)
+## 3.4.0 (October 29, 2020)
 
 - Add 'continent', 'ISO codes', and 'ccTLD' properties and create new methods for them - [#42](https://github.com/bhatvikrant/world-countries-capitals/issues/42) - [@sthiepaan](https://github.com/sthiepaan)
 - Add 'constitutional_form' Property and create new method to use that data - [#54](https://github.com/bhatvikrant/world-countries-capitals/issues/54) - [@sthiepaan](https://github.com/sthiepaan)
