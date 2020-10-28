@@ -1,990 +1,436 @@
-_Want to *contribute* to open source? Try solving our issues [here](https://github.com/bhatvikrant/world-countries-capitals/issues)_
+![world-countries-capitals][ASSET_LOGO]
 
 # world-countries-capitals
 
-A simple [npm](https://www.npmjs.com/package/world-countries-capitals) package to get capital, currency, native language, etc. of all the countries in the world.
+[![Release version][BADGE_NPM_RELEASE]][URL_NPM]
+![NPM downloads][BADGE_NPM_DOWNLOADS]
+[![Bundle minified size][BADGE_BUNDLE_SIZE]][URL_BUNDLEPHOBIA]
+<br>
+![GitHub watchers][BADGE_GH_WATCHERS]
+![GitHub stars][BADGE_GH_STARS]
+![GitHub forks][BADGE_GH_FORKS]
+[![GitHub issues][BADGE_GH_ISSUES]][URL_GH_ISSUES]
+[![GitHub pull requests][BADGE_GH_PULL_REQUESTS]][URL_GH_PULL_REQUESTS]
 
-![world-countries-capitals](assets/world-countries-capitals.gif)
+[![License][BADGE_LICENSE]][LICENSE]
 
-[![Rate on Openbase](https://badges.openbase.io/js/rating/world-countries-capitals.svg)](https://openbase.io/js/world-countries-capitals?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
+[![Openbase rating][BADGE_OPENBASE_RATING]][URL_OPENBASE]
 
-[Demo](https://codesandbox.io/s/wcc-demo-tux1b)
+---
 
-[Docs](https://bhatvikrant.github.io/world-countries-capitals/)
+## Table of Contents
+
+1. [Introduction][URL_INTRODUCTION]
+2. [Demos][URL_DEMOS]
+3. [Installation][URL_INSTALLATION]
+4. [How to use][URL_HOW_TO_USE]
+5. [Data model][URL_DATA_MODEL]
+6. [Available methods][URL_AVAILABLE_METHODS]
+7. [Contributing][URL_CONTRIBUTING]
+8. [Core Team][URL_CORE_TEAM]
+9. [License][URL_LICENSE]
+
+---
+
+## Introduction
+
+> **World-Countries-Capitals** is _JavaScript_ Library that give access to static data
+> of all countries in the world.
+
+Currently available data for each country is:
+- **country** - country name
+- **capital** - capital city
+- **currency** - currency that is used
+- **native_language** - list of official languages that are used in country
+- **famous_for** - list of things that makes country famous for
+- **phone_code** - country dial-in (calling) code
+- **flag** - image of country flag
+- **drive_direction** - drive direction
+- **alcohol_prohibition** - status of alcohol prohibition
+- **area** - country size (square kilometers and square miles)
+- **continent** - 2-letter code of continent where the country is
+- **iso** - country ISO 3166-1 code (numeric, alpha-2, alpha-3)
+- **tld** - country code top-level domain
+- **constitutional_form** - official political system
+- **language_codes** - list of langauge codes (combination of _ISO 639-1_ and _ISO 3166-1 alpha-2_)
+- **is_landlocked** - information whether country is surrounded by one or more countries
+
+You can check all changes in the project at [releases page on Github][URL_GH_RELEASES]
+or in [changelog][DOC_CHANGELOG].
+
+Feel free to give this project a ⭐️&nbsp; if it helped you! 🤗
+
+[↑ Back to menu][URL_TOC]
+
+---
+
+## Demos
+
+Here are demos/examples created by community ❤️
+
+- [Vue.js demo](https://codesandbox.io/s/wcc-demo-tux1b)
+	- Search countries by a selected field
+	- Created by [@leodrk](https://github.com/leodrk)
+
+[↑ Back to menu][URL_TOC]
+
+---
 
 ## Installation
 
-[![npm install](http://img.shields.io/badge/npm-install-blue.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![Node.js](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/) [![Node.js](https://img.shields.io/npm/v/world-countries-capitals?logo=npm&label=world-countries-capitals&style=for-the-badge)](https://www.npmjs.com/package/world-countries-capitals)
-
-`world-countries-capital` is a [Node.js](https://nodejs.org/en/) module, and can be installed using the npm package manager.
-
-Ensure that you have Node.js and npm installed. If you don't have Node.js or npm, you can download and install it [here](https://nodejs.org/en/download/).
-
-Installation is done using the **[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)** command on the terminal if you are on Linux / MacOS or on Command Prompt if you are using Windows:
-
-[![NPM](https://nodei.co/npm/world-countries-capitals.png?compact=true)](https://nodei.co/npm/world-countries-capitals/)
-
-## Importing
-
-Before you can start using this package in your project, you need to import it. It can be imported as follows:
-
-```javascript
-const wcc = require("world-countries-capitals");
+Install with [NPM][URL_NPM]:
+```
+npm install world-countries-capitals
 ```
 
-## Usage
+Install with [Yarn][URL_YARN]:
+```
+yarn add world-countries-capitals
+```
 
-This section contains nt to _contribute_ to open source? Try solving our issues [here](https://github.com/bhatvikrant/world-countries-capitals/issues)\_
-
-- `getAllCountryDetails()` <br>
-  This method returns an **array of objects** containing all countries, each containing **country**, **capital**, **currency**, **native_language**, **famous for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition** 
-
-      	```javascript
-      	[
-      		{
-      			"country": "afghanistan",
-      			"capital": "kabul",
-      			"currency": "afghani",
-      			"native_language": ["dari persian", "pashto"],
-      			"famous_for": "rugs, taliban",
-			"phone_code": "+93",
-			"flag": "https://flagpedia.net/data/flags/h80/af.png"
-      		},
-      		{
-      			"country": "albania",
-      			"capital": "tirane",
-      			"currency": "lek",
-      			"native_language": ["albanian"],
-      			"famous_for" : "mother teresa",
-			"phone_code": "+355",
-			"flag": "https://flagpedia.net/data/flags/h80/al.png"
-      		},
-      		...
-      	]
-      	```
-
-- `getAllCountries()` <br>
-  This method returns an **array** conatining the **names** of all countries.
-
-      	```javascript
-      	[
-      		"afghanistan",
-      		"albania",
-      		"algeria",
-      		"andorra",
-      		"angola",
-      		...
-      	]
-      	```
+[↑ Back to menu][URL_TOC]
 
 ---
 
-- `getCountriesByLanguage(languageSpoken)` <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition** sorted by the _languageSpoken_ passed in as a parameter.<br>
-  Response for getCountiesByLanguage('Hindi')
+## How to use
 
-  ```javascript
-  [
-  	{
-  		country: "fiji",
-  		capital: "suva",
-  		currency: "fijian dollar",
-  		native_language: ["english", "bau fijian", "hindi"],
-  		famous_for: "friendly people and heavenly tropical islands",
-  		phone_code: "+679",
-  		flag: "https://flagpedia.net/data/flags/h80/fj.png",
-  	},
-  	{
-  		country: "india",
-  		capital: "new delhi",
-  		currency: "indian rupee",
-  		native_language: ["hindi", "english"],
-  		famous_for: "bollywood, yoga, hinduism, food and diversity",
-  		phone_code: "+91",
-  		flag: "https://flagpedia.net/data/flags/h80/in.png",
-  	},
-  ];
-  ```
+Depends which way you choose to [install this package][URL_INSTALLATION],
+there might be a different way to use it.
 
----
-
-- `getCountryDetailsByName(countryName)` <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**,**flag**, **drive_directions**, and **alcohol_prohibition** sorted by the _name of the country_ passed in as a parameter.<br>
-  Response for getCountryDetailsByName('india')
-
-      	```javascript
-      	[
-      		{
-      			country: "india",
-      			capital: "new delhi",
-      			currency: "indian rupee",
-      			native_language: ["hindi", "english"],
-      			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91",
-			flag: "https://flagpedia.net/data/flags/h80/in.png"
-      		},
-      	];
-      	```
-
----
-
-- `getCountryDetailsByCapital(capital)` <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition** sorted by the _capital_ .<br>
-  Response for getCountryDetailsByCapital('delhi')
-
-      	```javascript
-      	[
-      		{
-      			country: "india",
-      			capital: "new delhi",
-      			currency: "indian rupee",
-      			native_language: ["hindi", "english"],
-      			famous_for: "bollywood, yoga, hinduism, food and diversity",
-			phone_code: "+91",
-			flag: "https://flagpedia.net/data/flags/h80/in.png"
-      		},
-      	];
-      	```
-
----
-
-- `getRandomCountry()` <br>
-  This method returns a random country everytime.
-
-      	```bash
-      	» node app.js
-      	tuvalu
-
-      	» node app.js
-      	bhutan
-
-      	» node app.js
-      	saudi arabia
-      	```
-
-      	***Note*** : *app.js is the file containing the function call.*
-
----
-
-- `getNRandomCountriesData(n)` <br>
-  This method returns an array having **n** number of random country objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, and **alcohol_prohibition**.<br>
-  Sample response for n = 3
-
-      	```javascript
-      	[
-      		{
-      			country: "burundi",
-      			capital: "bujumbura",
-      			currency: "burundi franc",
-      			native_language: ["kirundi", "french"],
-      			famous_for: "wildlife and greenery",
-			phone_code: "+257",
-			flag: "https://flagpedia.net/data/flags/h80/bi.png"
-      		},
-      		{
-      			country: "palau",
-      			capital: "melekeok",
-      			currency: "united states dollar",
-      			native_language: ["english", "palauan"],
-      			famous_for: "jellyfish lake",
-			phone_code: "+680",
-			flag: "https://flagpedia.net/data/flags/h80/pw.png"
-      		},
-      		{
-      			country: "dominican republic",
-      			capital: "santo domingo",
-      			currency: "dominican peso",
-      			native_language: ["spanish"],
-      			famous_for: "blue ocean water, white-sand beaches and beautiful resorts",
-			phone_code: "+1-809, +1-829, +1-849",
-			flag: "https://flagpedia.net/data/flags/h80/do.png"
-      		},
-      	];
-      	```
-
----
-
-- `getCountriesByFamousFor(famousThing)` <br>
-  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, and **flag** sorted by the _famousThing_ passed as the parameter.<br>
-  Response for getCountriesByFamousFor('oil')
-
-      	```javascript
-      	[
-      		{
-      			country: 'algeria',
-      			capital: 'algiers',
-      			currency: 'algerian dinar',
-      			native_language: ['arabic', 'tamazight', 'french'],
-      			famous_for: 'oil and gas reserves',
-			phone_code: '+213',
-			flag: "https://flagpedia.net/data/flags/h80/dz.png"
-      		},
-      		{
-      			country: 'angola',
-      			capital: 'luanda',
-      			currency: 'kwanza',
-      			native_language: ['portuguese'],
-      			famous_for: 'oil',
-			phone_code: '+244',
-			flag: "https://flagpedia.net/data/flags/h80/ao.png"
-      		},
-      		{
-      			country: 'bahrain',
-      			capital: 'manama',
-      			currency: 'bahraini dinar',
-      			native_language: ['arabic'],
-      			famous_for: 'oil, pearls and world heritage sites',
-			phone_code: '+973',
-			flag: "https://flagpedia.net/data/flags/h80/bh.png"
-      		},
-      		{
-      			country: 'bulgaria',
-      			capital: 'sofia',
-      			currency: 'lev',
-      			native_language: ['bulgarian'],
-      			famous_for: 'lavender oil and the rose valley',
-			phone_code: '+359',
-			flag: "https://flagpedia.net/data/flags/h80/bg.png"
-      		},
-      		{
-      			country: 'central african republic',
-      			capital: 'bangui',
-      			currency: 'central african cfa franc',
-      			native_language: ['sango', 'french'],
-      			famous_for: 'diamonds, gold, oil and uranium',
-			phone_code: '+236',
-			flag: "https://flagpedia.net/data/flags/h80/cf.png"
-      		},
-      		{
-      			country: 'norway',
-      			capital: 'oslo',
-      			currency: 'norwegian krone',
-      			native_language: ['norwegian'],
-      			famous_for: 'oil, fjords, mountains and midnight sun',
-			phone_code: '+47',
-			flag: "https://flagpedia.net/data/flags/h80/no.png"
-      		},
-      	];
-      	```
-- `getCountriesByAlcoholProhibition(prohibitionType)` <br>
-  This method returns an **array of objects**, each containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_directions**, **alcohol_prohibition** sorted by the _alcoholProhibition_ .<br>
-  Response for getCountriesByAlcoholProhibition("nationwide")
-
-      	```javascript
-		[
-			{
-				country: 'afghanistan',
-				capital: 'kabul',
-				currency: 'afghani',
-				native_language: [ 'dari persian', 'pashto' ],
-				famous_for: 'rugs, taliban',
-				phone_code: '+93',
-				flag: 'https://flagpedia.net/data/flags/h80/af.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'brunei',
-				capital: 'bandar seri begawan',
-				currency: 'brunei dollar',
-				native_language: [ 'malay' ],
-				famous_for: 'gorgeous mosques and islamic architecture',
-				phone_code: '+673',
-				flag: 'https://flagpedia.net/data/flags/h80/bn.png',
-				drive_direction: 'left',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'djibouti',
-				capital: 'djibouti',
-				currency: 'djiboutian franc',
-				native_language: [ 'arabic', 'french' ],
-				famous_for: 'amazing landscapes, limestone vents and flamingos',
-				phone_code: '+253',
-				flag: 'https://flagpedia.net/data/flags/h80/dj.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'iran',
-				capital: 'tehran',
-				currency: 'rial',
-				native_language: [ 'persian' ],
-				famous_for: 'nuclear weapon, shia muslims, poetry, persian carpet',
-				phone_code: '+98',
-				flag: 'https://flagpedia.net/data/flags/h80/ir.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'kuwait',
-				capital: 'kuwait city',
-				currency: 'kuwaiti dollar',
-				native_language: [ 'arabic', 'english' ],
-				famous_for: "victim of saddam's invasion",
-				phone_code: '965',
-				flag: 'https://flagpedia.net/data/flags/h80/kw.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'libya',
-				capital: 'tripoli',
-				currency: 'libyan dinar',
-				native_language: [ 'arabic' ],
-				famous_for: 'sahara desert',
-				phone_code: '+218',
-				flag: 'https://flagpedia.net/data/flags/h80/ly.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'mauritania',
-				capital: 'nouakchott',
-				currency: 'ouguiya',
-				native_language: [ 'arabic' ],
-				famous_for: 'large reserves of iron ore, copper, and gypsum',
-				phone_code: '+222',
-				flag: 'https://flagpedia.net/data/flags/h80/mr.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'saudi arabia',
-				capital: 'riyadh',
-				currency: 'saudi riyal',
-				native_language: [ 'arabic' ],
-				famous_for: 'strict rules, wahhabism, mecca and madina',
-				phone_code: '+966',
-				flag: 'https://flagpedia.net/data/flags/h80/sa.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			},
-			{
-				country: 'somalia',
-				capital: 'mogadishu',
-				currency: 'somali shilling',
-				native_language: [ 'somali', 'arabic' ],
-				famous_for: 'frankincense and myrrh',
-				phone_code: '+252',
-				flag: 'https://flagpedia.net/data/flags/h80/so.png',
-				drive_direction: 'right',
-				alcohol_prohibition: 'nationwide'
-			}
-		]
-
-      	```
----
-
-- `getCountriesByLandLock(isLandLocked: boolean)` <br>
-  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famous_for**, **phone_code**, **flag**, **drive_direction** and **is_landlocked** sorted by the _isLandlocked property which is boolean_ passed as the parameter.<br>
-  Response for getCountriesByLandLock(true)
-
-      	```javascript
-      	[
-      		{
-			country: 'afghanistan',
-			capital: 'kabul',
-			currency: 'afghani',
-			native_language: ['dari persian', 'pashto'],
-			famous_for: 'rugs, taliban',
-			phone_code: '+93',
-			flag: 'https://flagpedia.net/data/flags/h80/af.png',
-			drive_direction: 'right',
-			is_landlocked: true
-		},
-      		{
-      			country: 'andorra',
-      			capital: 'andorra la vella',
-      			currency: 'euro',
-      			native_language: ['catalan'],
-      			famous_for: 'tourism and tobacco',
-			phone_code: '+244',
-			flag: 'https://flagpedia.net/data/flags/h80/ad.png',
-			drive_direction: 'right',
-    			is_landlocked: true
-      		}
-      	];
-      	```
-
----
-
-- `getCountriesByContinent(continentCode)`<br>
-  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **drive_direction**, **continent**, **iso** and **tld** sorted by the _continentCode_
-	passed as the parameter.<br>
-  Response for `getCountriesByContinent('oc')`
-
+- _CommonJS_:
 	```js
-	[
-		{
-			"country": "australia",
-			"capital": "canberra",
-			"currency": "australian dollar",
-			"native_language": ["english"],
-			"famous_for": "koalas and kangaroos",
-			"phone_code": "+61",
-			"flag": "https://flagpedia.net/data/flags/h80/au.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "036",
-				"alpha_2": "au",
-				"alpha_3": "aus"
-			},
-			"tld": ".au"
-		},
-		{
-			"country": "fiji",
-			"capital": "suva",
-			"currency": "fijian dollar",
-			"native_language": ["english", "bau fijian", "hindi"],
-			"famous_for": "friendly people and heavenly tropical islands",
-			"phone_code": "+679",
-			"flag": "https://flagpedia.net/data/flags/h80/fj.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "242",
-				"alpha_2": "fj",
-				"alpha_3": "fji"
-			},
-			"tld": ".fj"
-		},
-		{
-			"country": "kiribati",
-			"capital": "tarawa atoll",
-			"currency": "kiribati dollar",
-			"native_language": ["english", "gilbertese"],
-			"famous_for": "flyfishing, scuba diving and astounding seabird wildlife",
-			"phone_code": "+686",
-			"flag": "https://flagpedia.net/data/flags/h80/ki.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "296",
-				"alpha_2": "ki",
-				"alpha_3": "kir"
-			},
-			"tld": ".ki"
-		},
-		{
-			"country": "marshall islands",
-			"capital": "majuro",
-			"currency": "united states dollar",
-			"native_language": ["marshallese", "english"],
-			"famous_for": "being fierce and hostile to strangers",
-			"phone_code": "+692",
-			"flag": "https://flagpedia.net/data/flags/h80/mh.png",
-			"drive_direction": "right",
-			"continent": "oc",
-			"iso": {
-				"numeric": "584",
-				"alpha_2": "mh",
-				"alpha_3": "mhl"
-			},
-			"tld": ".mh"
-		},
-		{
-			"country": "federal states of micronesia",
-			"capital": "palikir",
-			"currency": "united states dollar",
-			"native_language": ["english"],
-			"famous_for": "manta rays, eco-tourism",
-			"phone_code": "+691",
-			"flag": "https://flagpedia.net/data/flags/h80/fm.png",
-			"drive_direction": "right",
-			"continent": "oc",
-			"iso": {
-				"numeric": "583",
-				"alpha_2": "fm",
-				"alpha_3": "fsm"
-			},
-			"tld": ".fm"
-		},
-		{
-			"country": "nauru",
-			"capital": "yaren",
-			"currency": "australian dollar",
-			"native_language": ["english", "nauran"],
-			"famous_for": "islands of banaba",
-			"phone_code": "+674",
-			"flag": "https://flagpedia.net/data/flags/h80/nr.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "520",
-				"alpha_2": "nr",
-				"alpha_3": "nru"
-			},
-			"tld": ".nr"
-		},
-		{
-			"country": "new zealand",
-			"capital": "wellington",
-			"currency": "new zealand dollar",
-			"native_language": ["english"],
-			"famous_for": "national rugby team",
-			"phone_code": "+64",
-			"flag": "https://flagpedia.net/data/flags/h80/nz.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "554",
-				"alpha_2": "nz",
-				"alpha_3": "nzl"
-			},
-			"tld": ".nz"
-		},
-		{
-			"country": "palau",
-			"capital": "melekeok",
-			"currency": "united states dollar",
-			"native_language": ["english", "palauan"],
-			"famous_for": "jellyfish lake",
-			"phone_code": "+680",
-			"flag": "https://flagpedia.net/data/flags/h80/pw.png",
-			"drive_direction": "right",
-			"continent": "oc",
-			"iso": {
-				"numeric": "585",
-				"alpha_2": "pw",
-				"alpha_3": "plw"
-			},
-			"tld": ".pw"
-		},
-		{
-			"country": "papa new guinea",
-			"capital": "port moresby papa",
-			"currency": "papa new guinean kina",
-			"native_language": ["english", "tok pisin", "hiri motu"],
-			"famous_for": "scuba diving and marine diversity",
-			"phone_code": "+675",
-			"flag": "https://flagpedia.net/data/flags/h80/pg.png",
-			"drive_direction": "right",
-			"continent": "oc",
-			"iso": {
-				"numeric": "598",
-				"alpha_2": "pg",
-				"alpha_3": "png"
-			},
-			"tld": ".pg"
-		},
-		{
-			"country": "samoa",
-			"capital": "apia",
-			"currency": "tala",
-			"native_language": ["samoan", "english"],
-			"famous_for": "samoan culture, music, dance and visual arts",
-			"phone_code": "+685",
-			"flag": "https://flagpedia.net/data/flags/h80/ws.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "882",
-				"alpha_2": "ws",
-				"alpha_3": "wsm"
-			},
-			"tld": ".ws"
-		},
-		{
-			"country": "solomon islands",
-			"capital": "honiara",
-			"currency": "solomon islands dollar",
-			"native_language": ["solomons pijin"],
-			"famous_for": "world war 2",
-			"phone_code": "+677",
-			"flag": "https://flagpedia.net/data/flags/h80/sb.png",
-			"drive_direction": "right",
-			"continent": "oc",
-			"iso": {
-				"numeric": "090",
-				"alpha_2": "sb",
-				"alpha_3": "slb"
-			},
-			"tld": ".sb"
-		},
-		{
-			"country": "tonga",
-			"capital": "nuku'alofa",
-			"currency": "pa'anga",
-			"native_language": ["tongan", "english"],
-			"famous_for": "graceful and dignified dancing of the kingdom",
-			"phone_code": "+676",
-			"flag": "https://flagpedia.net/data/flags/h80/to.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "776",
-				"alpha_2": "to",
-				"alpha_3": "ton"
-			},
-			"tld": ".to"
-		},
-		{
-			"country": "tuvalu",
-			"capital": "vaiaku",
-			"currency": "tuvaluan dollar",
-			"native_language": ["tuvaluan", "english"],
-			"famous_for": "seafaring skills",
-			"phone_code": "+668",
-			"flag": "https://flagpedia.net/data/flags/h80/tv.png",
-			"drive_direction": "left",
-			"continent": "oc",
-			"iso": {
-				"numeric": "798",
-				"alpha_2": "tv",
-				"alpha_3": "tuv"
-			},
-			"tld": ".tv"
-		},
-		{
-			"country": "vanuatu",
-			"capital": "port-vila",
-			"currency": "vanuatu vatu",
-			"native_language": ["bislama", "english", "french"],
-			"famous_for": "vanuatu's underwater world",
-			"phone_code": "+978",
-			"flag": "https://flagpedia.net/data/flags/h80/vu.png",
-			"drive_direction": "right",
-			"continent": "oc",
-			"iso": {
-				"numeric": "548",
-				"alpha_2": "vu",
-				"alpha_3": "vut"
-			},
-			"tld": ".vu"
-		},
-	]
+	// 1. Load _wcc_ Package
+	const wcc = require('world-countries-capitals')
+
+	// 2. Use any _wcc_ Method
+	const randomCountryName = wcc.getRandomCountry()
+
+	// 3. Play with returned data
+	console.log(randomCountryName) // Possible output: 'poland'
 	```
 
----
-
-- `getCountryDetailsByISO(isoType, isoValue)`<br>
-  This method returns an array with object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **drive_direction**, **continent**, **iso** and **tld** filtered by specific _iso_<br>
-  Response for `getCountryDetailsByISO('numeric', '616')`
-
-	```js
-	{
-		"country": "poland",
-		"capital": "warsaw",
-		"currency": "zloty",
-		"native_language": ["polish"],
-		"famous_for": "pierogi and potatoes",
-		"phone_code": "+48",
-		"flag": "https://flagpedia.net/data/flags/h80/pl.png",
-		"drive_direction": "right",
-		"continent": "eu",
-		"iso": {
-			"numeric": "616",
-			"alpha_2": "pl",
-			"alpha_3": "pol"
-		},
-		"tld": ".pl"
-	}
-	```
+[↑ Back to menu][URL_TOC]
 
 ---
 
-- `getCountriesByTLD(tldName)`<br>
-  This method returns an array of objects containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **drive_direction**, **continent**, **iso** and **tld** filtered by _tld_<br>
-  Response for `getCountriesByTLD('.pl')`
+## Data model
 
-	```js
-	[
-		{
-      "country": "poland",
-      "capital": "warsaw",
-      "currency": "zloty",
-      "native_language": ["polish"],
-      "famous_for": "pierogi and potatoes",
-      "phone_code": "+48",
-      "flag": "https://flagpedia.net/data/flags/h80/pl.png",
-      "drive_direction": "right",
-      "continent": "eu",
-      "iso": {
-        "numeric": "616",
-        "alpha_2": "pl",
-        "alpha_3": "pol"
-      },
-      "tld": ".pl"
-    }
-	]
-	```
-
----
-
-- `getCountriesByConstitutionalForm(constitutionalFormName)`<br>
-  This method returns an array of objects, each object containing **country**, **capital**, **currency**, **native_language**, **famouse_for**, **phone_code**, **flag**, **driving_direction**
-	and **constitutional_form** sorted by the _constitutionalFormName_ passed as the parameter.<br>
-  Response for `getCountriesByConstitutionalForm("absolute monarchy")`:
-
-	```js
-	[
-		{
-			country: 'brunei',
-			capital: 'bandar seri begawan',
-			currency: 'brunei dollar',
-			native_language: ['malay'],
-			famous_for: 'gorgeous mosques and islamic architecture',
-			phone_code: '+673',
-			flag: 'https://flagpedia.net/data/flags/h80/bn.png',
-			drive_direction: 'left',
-			constitutional_form: 'absolute monarchy'
-		},
-		{
-			country: 'oman',
-			capital: 'muscat',
-			currency: 'omani rial',
-			native_language: ['arabic'],
-			famous_for: 'fresh sea and air breathing',
-			phone_code: '+968',
-			flag: 'https://flagpedia.net/data/flags/h80/om.png',
-			drive_direction: 'right',
-			constitutional_form: 'absolute monarchy'
-		},
-		{ country: 'qatar',
-			capital: 'doha',
-			currency: 'qatari riyal',
-			native_language: ['arabic'],
-			famous_for: 'qatar airlines',
-			phone_code: '+974',
-			flag: 'https://flagpedia.net/data/flags/h80/qa.png',
-			drive_direction: 'right',
-			constitutional_form: 'absolute monarchy'
-		},
-		{ country: 'saudi arabia',
-			capital: 'riyadh',
-			currency: 'saudi riyal',
-			native_language: ['arabic'],
-			famous_for: 'strict rules, wahhabism, mecca and madina',
-			phone_code: '+966',
-			flag: 'https://flagpedia.net/data/flags/h80/sa.png',
-			drive_direction: 'right',
-			constitutional_form: 'absolute monarchy'
-		},
-		{ country: 'eswatini (swaziland)',
-			capital: 'mbabane',
-			currency: 'lilangeni',
-			native_language: ['english', 'siswati'],
-			famous_for: 'sibebe rock and largest exposed granite dome',
-			phone_code: '+268',
-			flag: 'https://flagpedia.net/data/flags/h80/sz.png',
-			drive_direction: 'right',
-			constitutional_form: 'absolute monarchy'
-		},
-		{ country: 'vatican city',
-			capital: 'vatican city',
-			currency: 'euro',
-			native_language: ['latin', 'italian'],
-			famous_for: 'st. peter\'s basilica, the sistine chapel, and the vatican museums',
-			phone_code: '+379',
-			flag: 'https://flagpedia.net/data/flags/h80/va.png',
-			drive_direction: 'right',
-			constitutional_form: 'absolute monarchy'
-		}
-	]
-	```
-
----
-
-# Example Use Cases
-
-#### Example #1
-
-> To fetch a `random` country.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getRandomCountry());
+Type definition of each `Country {Object}`:
+```js
+/**
+ * @typedef {Object} Country
+ * @property {String} country - Country name
+ * @property {String} capital - Capital city name
+ * @property {String} currency - Currency name
+ * @property {String[]} native_language - Array or native languages
+ * @property {String} famous_for - Comma separated favourites
+ * @property {String} phone_code - Phone prefix
+ * @property {String} flag - Flag image
+ * @property {String} drive_direction - Drive direction
+ * @property {String} alcohol_prohibition - Alcohol prohibition status
+ * @property {Object} area - Country size
+ * @property {Number} area.km2 - Country size in square kilometers
+ * @property {Number} area.mi2 - Country size in square miles
+ * @property {String} continent - Continent that country belong to
+ * @property {Object} iso - ISO 3166-1 standard codes
+ * @property {String} iso.numeric - 3-digit code
+ * @property {String} iso.alpha_2 - 2-letter code
+ * @property {String} iso.alpha_3 - 3-letter code
+ * @property {String} tld - Country code top-level domain
+ * @property {String} constitutional_form - Name of official political system
+ * @property {String[]} language_codes - Array of language codes
+ * @property {Boolean} is_landlocked - Is country surrounded by one or more countries
+ */
 ```
 
----
-
-### Example #2
-
-> To get the `count` of random countries.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getNRandomCountriesData(3));
+Sample `Country {Object}`:
+```js
+{
+	country: 'poland',
+	capital: 'warsaw',
+	currency: 'zloty',
+	native_language: ['polish'],
+	famous_for: 'pierogi and potatoes',
+	phone_code: '+48',
+	flag: 'https://flagpedia.net/data/flags/h80/pl.png',
+	drive_direction: 'right',
+	alcohol_prohibition: 'none',
+	area: {
+		km2: 312696,
+		mi2: 120733,
+	},
+	continent: 'eu',
+	iso: {
+		numeric: '616',
+		alpha_2: 'pl',
+		alpha_3: 'pol',
+	},
+	tld: '.pl',
+	constitutional_form: 'republic',
+	language_codes: ['pl-PL'],
+	is_landlocked: false
+}
 ```
 
+[↑ Back to menu][URL_TOC]
+
 ---
 
-### Example #3
+## Available methods
 
-> To fetch a `country` by its capital.
+After [importing _world-countries-capitals_ Package][URL_HOW_TO_USE],
+you have access to methods listed below:
 
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountryDetailsByCapital("delhi"));
+```js
+/*
+ * Get list of all country names
+ * @returns {String[]}
+*/
+wcc.getAllCountries()
 ```
 
-**Note :** the name of the capital (in this case, 'delhi') is **not** case sensitive and can be uppercase or lowercase and the response will remain the same.
-
----
-
-### Example #4
-
-> Get the details of a `country` with its name.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountryDetailsByName("India"));
+```js
+/*
+ * Get all countries with details
+ * @returns {Country[]}
+*/
+wcc.getAllCountryDetails()
 ```
 
-**Note :** the name of the country (in this case, 'India') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
-
----
-
-### Example #5
-
-> Fetch the `details of country`, with language.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountiesByLanguage("hindi"));
+```js
+/*
+ * Get random country name
+ * @returns {String}
+*/
+wcc.getRandomCountry()
 ```
 
-**Note :** the language (in this case, 'hindi') is _not_ case sensitive and can be uppercase or lowercase and the response will remain the same.
+```js
+/*
+ * Get specific amount of random countries
+ * @param {Number} amount - amount of countries to get
+ * @returns {Country[]}
+*/
+wcc.getNRandomCountriesData(amount)
+// Example: wcc.getNRandomCountriesData(3)
 
----
-
-### Example #6
-
-> Fetch all `countries'` details.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getAllCountryDetails());
 ```
 
----
-
-### Example #7
-
-> Get all the `names` of all countries.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getAllCountries());
+```js
+/*
+ * Get country details by its name
+ * @param {String} name - country name
+ * @returns {Country}
+*/
+wcc.getCountryDetailsByName(name)
+// Example: wcc.getCountryDetailsByName('poland')
 ```
 
----
-
-### Example #8
-
-> Get the details of all `countries` that are famous for '_something_'.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountriesByFamousFor("oil"));
+```js
+/*
+ * Get country details by its capital city
+ * @param {String} capital - name of capital city
+ * @returns {Country}
+*/
+wcc.getCountryDetailsByCapital(capital)
+// Example: wcc.getCountryDetailsByCapital('warsaw')
 ```
 
----
-### Example #9
-
-> Get the details of all `countries` where alcohol prohibition is _nationwide_.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountriesByAlcoholProhibition("nationwide"));
-```
----
-### Example #10
-> Get all `countries` located in '_eu_'.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountriesByContinent("eu"));
+```js
+/*
+ * Get all countries by specific language
+ * @param {String} language - language name
+ * @returns {Country[]}
+*/
+wcc.getCountriesByLanguage(language)
+// Example: wcc.getCountriesByLanguage('polish')
 ```
 
----
-
-### Example #11
-
-> Get country details using '_numeric_' type ISO code of Poland.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountryDetailsByISO("numeric", "616"));
+```js
+/*
+ * Get all countries that are famous for specific thing
+ * @param {String} famousThing - thing that makes country famous for
+ * @returns {Country[]}
+*/
+wcc.getCountriesByFamousFor(famousThing)
+// Example: wcc.getCountriesByFamousFor('pierogi')
 ```
 
----
-
-### Example #12
-
-> Get the all `countries` that use '_.uk_' domain.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountriesByTLD(".uk"));
+```js
+/*
+ * Get all countries by specific drive direction
+ * @param {String} direction - drive direction (one of: 'left', 'right')
+ * @returns {Country[]}
+*/
+wcc.getCountriesByDriveDirection(direction)
+// Example: wcc.getCountriesByDriveDirection('left')
 ```
 
----
-
-### Example #13
-
-> Get the details of all `countries` that have '_republic_' constitutional form.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountriesByConstitutionalForm("republic"));
+```js
+/*
+ * Get all countries by alcohol prohibition type
+ * @param {String} type - prohibition type (one of: 'none', 'limited', 'regional', 'nationwide')
+ * @returns {Country[]}
+*/
+wcc.getCountriesByAlcoholProhibition(type)
+// Example: wcc.getCountriesByAlcoholProhibition('nationwide')
 ```
 
-### Example #14
-
-> Get the details of all `countries` that are '_landlocked_'.
-
-```javascript
-const wcc = require("world-countries-capitals");
-
-console.log(wcc.getCountriesByLandLock(true));
+```js
+/*
+ * Get all countries that are located on specific continent
+ * @param {String} code - 2-letter continent code (one of: 'AF', 'AN', 'AS', 'EU', 'NA', 'OC', 'SA')
+ * @returns {Country[]}
+*/
+wcc.getCountriesByContinent(code)
+// Example: wcc.getCountriesByContinent('eu')
 ```
 
+```js
+/*
+ * Get country found by one of _ISO 3166-1_ code type
+ * @param {String} isoType - ISO type (one of: 'numeric', 'alpha-2', 'alpha-3')
+ * @param {String} isoValue - ISO code of specific country that match to `isoType`
+ * @returns {Country}
+*/
+wcc.getCountryDetailsByISO(isoType, isoValue)
+// Example: wcc.getCountryDetailsByISO('numeric', '616')
+```
+
+```js
+/*
+ * Get all countries by specific _ccTLD_
+ * @param {String} tld - name of the _country code top-level domain_ (including `.` character)
+ * @returns {Country[]}
+*/
+wcc.getCountriesByTLD(tld)
+// Example: wcc.getCountriesByTLD('.pl')
+```
+
+```js
+/*
+ * Get all countries by specific constitutional form
+ * @param {String} form - name of country constitutional form
+ * @returns {Country[]}
+*/
+wcc.getCountriesByConstitutionalForm(form)
+// Example: wcc.getCountriesByConstitutionalForm('republic')
+```
+
+```js
+/*
+ * Get all countries that are surrounded by one or more countries
+ * @param {Boolean} isLandLocked - is country landlocked
+ * @returns {Country[]}
+*/
+wcc.getCountriesByLandLock(isLandLocked)
+// Example: wcc.getCountriesByLandLock(true)
+```
+
+❗️ All params are **NOT** case sensitive so no matter how argument looks,
+the response will remain the same.
+
+[↑ Back to menu][URL_TOC]
+
 ---
 
-## Demo
+## Contributing
 
-In this [Vue.js demo](https://codesandbox.io/s/wcc-demo-tux1b), the package methods are used to search countries by a selected field (name, capital, language, famous for)
+Contributions, issues and feature requests are always welcome!
+
+Feel free to check our [issues page][URL_GH_ISSUES] to see all open issues.
+If this is your first time contributing to _Open Source_ project,
+check out the [contributing guidelines][DOC_CONTRIBUTING] first.
+
+You can also suggest a new feature by [creating an issue][URL_GH_NEW_ISSUE].
+Please wait for confirmation before working on it.
+
+[↑ Back to menu][URL_TOC]
 
 ---
 
-## Want to contribute to our project?
+## Core team
 
-Please check our issues **[here](https://github.com/bhatvikrant/world-countries-capitals/issues)** !
+### Vikrant Bhat
+[![Vikrant Bhat GitHub profile](
+	https://img.shields.io/github/followers/bhatvikrant?style=flat&logo=github&logoColor=181717&label=GitHub&labelColor=FFFFFF&color=181717
+)](https://github.com/bhatvikrant)
+[![Vikrant Bhat Twitter profile](
+	https://img.shields.io/twitter/follow/vikrantbhat1022?style=flat&logo=twitter&logoColor=1DA1F2&label=Twitter&labelColor=FFFFFF&color=1DA1F2
+)](https://twitter.com/vikrantbhat1022)
+[![Vikrant Bhat LinkedIn profile](
+	https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0077B5&label=LinkedIn&labelColor=FFFFFF&color=0077B5&message=Vikrant%20Bhat
+)](https://linkedin.com/in/vikrant-bhat-2b6221189)
+<br>
+[![Vikrant Bhat personal website](
+	https://img.shields.io/static/v1?style=flat&label=Website&labelColor=FFFFFF&color=333333&message=underreacted.netlify.app
+)](https://underreacted.netlify.app)
 
-![](https://img.shields.io/github/contributors/bhatvikrant/world-countries-capitals) ![](https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=social) ![](https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=social)
+### Damian Szczypka
+[![Damian Szczypka GitHub profile](
+	https://img.shields.io/github/followers/sthiepaan?style=flat&logo=github&logoColor=181717&label=GitHub&labelColor=FFFFFF&color=181717
+)](https://github.com/sthiepaan)
+[![Damian Szczypka Twitter profile](
+	https://img.shields.io/twitter/follow/sthiepaan?style=flat&logo=twitter&logoColor=1DA1F2&label=Twitter&labelColor=FFFFFF&color=1DA1F2
+)](https://twitter.com/sthiepaan)
+[![Damian Szczypka LinkedIn profile](
+	https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=0077B5&label=LinkedIn&labelColor=FFFFFF&color=0077B5&message=Damian%20Szczypka
+)](https://linkedin.com/in/damianszczypka)
+<br>
+[![Damian Szczypka personal website](
+	https://img.shields.io/static/v1?style=flat&label=Website&labelColor=FFFFFF&color=333333&message=damianszczypka.com
+)](http://damianszczypka.com)
 
-**Note :** If you are addressing an issue that requires modification of code, remember to execute the tests, using the command **[`npm test`](https://docs.npmjs.com/cli/test)**. It ensures that things are working as they should.
+If you'd like to see everyone who contributed to this project,
+view the [contributions page][URL_GH_CONTRIBUTORS]!
+<br>
+Thank you to everyone who contributes! 🙌
+
+[↑ Back to menu][URL_TOC]
 
 ---
 
 ## License
 
-![GitHub license](https://img.shields.io/github/license/bhatvikrant/world-countries-capitals.svg?style=for-the-badge&logo=github)
+Copyright &copy; 2020 [Vikrant Bhat](https://github.com/bhatvikrant).
+<br>
+This project is [MIT][LICENSE] licensed.
 
-This project is licensed under the MIT License, Copyright (c) 2020 Vikrant Bhat.
+[↑ Back to menu][URL_TOC]
 
 ---
 
-## Let's Connect
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/vikrantbhat1022.svg?style=for-the-badge&logo=twitter)](https://twitter.com/vikrantbhat1022) [![GitHub followers](https://img.shields.io/github/followers/bhatvikrant.svg?label=Follow&style=for-the-badge&logo=github)](https://github.com/bhatvikrant/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vikrantbhat&color=success&logo=linkedin&style=for-the-badge&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vikrant-bhat-2b6221189/)
-
-<hr>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/bhatvikrant/world-countries-capitals) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/bhatvikrant/world-countries-capitals) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/bhatvikrant/world-countries-capitals) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/bhatvikrant/world-countries-capitals)
+[ASSET_LOGO]: assets/world-countries-capitals.gif
+[BADGE_NPM_RELEASE]: https://img.shields.io/npm/v/world-countries-capitals?style=flat&logo=npm&label=version
+[BADGE_NPM_DOWNLOADS]: https://img.shields.io/npm/dt/world-countries-capitals?style=flat&logo=npm
+[BADGE_BUNDLE_SIZE]: https://img.shields.io/bundlephobia/min/world-countries-capitals?style=flat&
+[BADGE_GH_WATCHERS]: https://img.shields.io/github/watchers/bhatvikrant/world-countries-capitals?style=flat&logo=github
+[BADGE_GH_STARS]: https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=flat&logo=github
+[BADGE_GH_FORKS]: https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=flat&logo=github
+[BADGE_GH_ISSUES]: https://img.shields.io/github/issues/bhatvikrant/world-countries-capitals?style=flat&logo=github
+[BADGE_GH_PULL_REQUESTS]: https://img.shields.io/github/issues-pr/bhatvikrant/world-countries-capitals?style=flat&logo=github
+[BADGE_LICENSE]: https://img.shields.io/npm/l/world-countries-capitals?style=flat
+[BADGE_OPENBASE_RATING]: https://badges.openbase.io/js/rating/world-countries-capitals.svg
+[DOC_CHANGELOG]: CHANGELOG.md
+[DOC_CONTRIBUTING]: .github/CONTRIBUTING.md
+[LICENSE]: LICENSE
+[URL_TOC]: #table-of-contents
+[URL_INTRODUCTION]: #introduction
+[URL_DEMOS]: #demos
+[URL_INSTALLATION]: #installation
+[URL_HOW_TO_USE]: #how-to-use
+[URL_DATA_MODEL]: #data-model
+[URL_AVAILABLE_METHODS]: #available-methods
+[URL_CONTRIBUTING]: #contributing
+[URL_CORE_TEAM]: #core-team
+[URL_LICENSE]: #license
+[URL_NPM]: https://www.npmjs.com/package/world-countries-capitals
+[URL_YARN]: https://yarnpkg.com/package/world-countries-capitals
+[URL_UNPKG]: https://unpkg.com/world-countries-capitals
+[URL_BUNDLEPHOBIA]: https://bundlephobia.com/result?p=world-countries-capitals
+[URL_GH_ISSUES]: https://github.com/bhatvikrant/world-countries-capitals/issues
+[URL_GH_NEW_ISSUE]: https://github.com/bhatvikrant/world-countries-capitals/issues/new
+[URL_GH_PULL_REQUESTS]: https://github.com/bhatvikrant/world-countries-capitals/pulls
+[URL_GH_RELEASES]: https://github.com/bhatvikrant/world-countries-capitals/releases
+[URL_GH_CONTRIBUTORS]: https://github.com/bhatvikrant/world-countries-capitals/graphs/contributors
+[URL_OPENBASE]: https://openbase.io/js/world-countries-capitals
