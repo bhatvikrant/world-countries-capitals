@@ -39,7 +39,8 @@ describe("The index", () => {
         "tld": ".af",
         "constitutional_form": "republic",
         "language_codes": ["fa-AF", "ps-AF"],
-        "is_landlocked": true
+        "is_landlocked": true,
+        "timezone": ["UTC+04:30"]
       });
     });
   });
@@ -69,7 +70,8 @@ describe("The index", () => {
         "tld": ".al",
         "constitutional_form": "republic",
         "language_codes": ["sq-AL"],
-        "is_landlocked": false
+        "is_landlocked": false,
+        "timezone": ["UTC+01:00"]
       });
     });
   });
@@ -105,7 +107,8 @@ describe("The index", () => {
         "tld": ".ba",
         "constitutional_form": "republic",
         "language_codes": ["bs-BA", "hr-BA", "sr-BA"],
-        "is_landlocked": false
+        "is_landlocked": false,
+        "timezone": ["UTC+01:00"]
       });
     });
   });
@@ -200,7 +203,8 @@ describe("The index", () => {
         tld: '.af',
         constitutional_form: 'republic',
         language_codes: [ 'fa-AF', 'ps-AF' ],
-        is_landlocked: true
+        is_landlocked: true,
+        timezone: [ 'UTC+04:30' ]
       },
       {
         country: 'brunei',
@@ -218,7 +222,8 @@ describe("The index", () => {
         tld: '.bn',
         constitutional_form: 'absolute monarchy',
         language_codes: [ 'ms-BN' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: [ 'UTC+08:00' ]
       },
       {
         country: 'djibouti',
@@ -236,7 +241,8 @@ describe("The index", () => {
         tld: '.dj',
         constitutional_form: 'republic',
         language_codes: [ 'ar-DJ', 'fr-DJ' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ['UTC+03:00']
       },
       {
         country: 'iran',
@@ -254,7 +260,8 @@ describe("The index", () => {
         tld: '.ir',
         constitutional_form: 'republic',
         language_codes: [ 'fa-IR' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ['UTC+03:30']
       },
       {
         country: 'kuwait',
@@ -272,7 +279,8 @@ describe("The index", () => {
         tld: '.kw',
         constitutional_form: 'constitutional monarchy',
         language_codes: [ 'ar-KW', 'en-KW' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ['UTC+03:00']
       },
       {
         country: 'libya',
@@ -290,7 +298,8 @@ describe("The index", () => {
         tld: '.ly',
         constitutional_form: 'n/a',
         language_codes: [ 'ar-LY' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ['UTC+02:00']
       },
       {
         country: 'mauritania',
@@ -308,7 +317,8 @@ describe("The index", () => {
         tld: '.mr',
         constitutional_form: 'republic',
         language_codes: [ 'ar-MR' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ['UTC±00:00']
       },
       {
         country: 'saudi arabia',
@@ -326,7 +336,8 @@ describe("The index", () => {
         tld: '.sa',
         constitutional_form: 'absolute monarchy',
         language_codes: [ 'ar-SA' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ['UTC+03:00']
       },
       {
         country: 'somalia',
@@ -344,7 +355,8 @@ describe("The index", () => {
         tld: '.so',
         constitutional_form: 'republic',
         language_codes: [ 'so-SO' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ['UTC+03:00']
       }    
     ];
     it("returns the details of all countries where nationwide alcohol prohibition is applicable", () => {
@@ -379,7 +391,8 @@ describe("The index", () => {
         "tld": ".af",
         "constitutional_form": "republic",
         "language_codes": ["fa-AF", "ps-AF"],
-        "is_landlocked": true
+        "is_landlocked": true,
+        "timezone": ["UTC+04:30"]
       });
     });
   });
@@ -409,7 +422,8 @@ describe("The index", () => {
         "tld": ".al",
         "constitutional_form": "republic",
         "language_codes": ["sq-AL"],
-        "is_landlocked": false
+        "is_landlocked": false,
+        "timezone": ["UTC+01:00"]
       });
     });
   });
@@ -445,7 +459,8 @@ describe("The index", () => {
         "tld": ".ba",
         "constitutional_form": "republic",
         "language_codes": ["bs-BA", "hr-BA", "sr-BA"],
-        "is_landlocked": false
+        "is_landlocked": false,
+        "timezone": ["UTC+01:00"]
       });
     });
   });
@@ -543,7 +558,8 @@ describe("The index", () => {
         tld: '.au',
         constitutional_form: 'constitutional monarchy',
         language_codes: [ 'en-AU' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+05:00", "UTC+06:30", "UTC+07:00", "UTC+08:00", "UTC+08:45", "UTC+09:30", "UTC+10:00", "UTC+10:30", "UTC+11:00"]
       },
       {
         country: 'fiji',
@@ -561,7 +577,8 @@ describe("The index", () => {
         tld: '.fj',
         constitutional_form: 'republic',
         language_codes: [ 'en-FJ', 'fj-FJ' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+12:00"]
       },
       {
         country: 'kiribati',
@@ -579,7 +596,8 @@ describe("The index", () => {
         tld: '.ki',
         constitutional_form: 'republic',
         language_codes: [ 'en-KI' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+13:00"]
       },
       {
         country: 'marshall islands',
@@ -597,7 +615,8 @@ describe("The index", () => {
         tld: '.mh',
         constitutional_form: 'republic',
         language_codes: [ 'en-MH', 'mh-MH' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+12:00"]
       },
       {
         country: 'federal states of micronesia',
@@ -615,7 +634,8 @@ describe("The index", () => {
         tld: '.fm',
         constitutional_form: 'republic',
         language_codes: [ 'en-FM' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+10:00", "UTC+11:00"]
       },
       {
         country: 'nauru',
@@ -633,7 +653,8 @@ describe("The index", () => {
         tld: '.nr',
         constitutional_form: 'republic',
         language_codes: [ 'en-NR', 'na-NR' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+12:00"]
       },
       {
         country: 'new zealand',
@@ -651,7 +672,8 @@ describe("The index", () => {
         tld: '.nz',
         constitutional_form: 'constitutional monarchy',
         language_codes: [ 'en-NZ' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+12:00"]
       },
       {
         country: 'palau',
@@ -669,7 +691,8 @@ describe("The index", () => {
         tld: '.pw',
         constitutional_form: 'republic',
         language_codes: [ 'en-PW' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+09:00"]
       },
       {
         country: 'papa new guinea',
@@ -687,7 +710,8 @@ describe("The index", () => {
         tld: '.pg',
         constitutional_form: 'constitutional monarchy',
         language_codes: [ 'en-PG' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+10:00", "UTC+11:00"]
       },
       {
         country: 'samoa',
@@ -705,7 +729,8 @@ describe("The index", () => {
         tld: '.ws',
         constitutional_form: 'republic',
         language_codes: [ 'en-WS', 'sm-WS' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+13:00"]
       },
       {
         country: 'solomon islands',
@@ -723,7 +748,8 @@ describe("The index", () => {
         tld: '.sb',
         constitutional_form: 'constitutional monarchy',
         language_codes: [ 'en-SB' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+11:00"]
       },
       {
         country: 'tonga',
@@ -741,7 +767,8 @@ describe("The index", () => {
         tld: '.to',
         constitutional_form: 'constitutional monarchy',
         language_codes: [ 'en-TO', 'to-TO' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+13:00"]
       },
       {
         country: 'tuvalu',
@@ -759,7 +786,8 @@ describe("The index", () => {
         tld: '.tv',
         constitutional_form: 'constitutional monarchy',
         language_codes: [ 'en-TV' ],
-        is_landlocked: false
+        is_landlocked: false,
+        timezone: ["UTC+12:00"]
       },
       {
         country: 'vanuatu',
@@ -777,7 +805,8 @@ describe("The index", () => {
         tld: '.vu',
         constitutional_form: 'republic',
         language_codes: [ 'bi-VU', 'en-VU', 'fr-VU' ],
-        is_landlocked: false    
+        is_landlocked: false,
+        timezone: ["UTC+11:00"]    
       },
     ];
     const asiaCountries = countryApi.getCountriesByContinent("as");
@@ -826,6 +855,7 @@ describe("The index", () => {
       constitutional_form: "republic",
       language_codes: ["pl-PL"],
       is_landlocked: false,
+      timezone: ["UTC+01:00"]
     };
 
     it("returns correct country using numeric ISO", () => {
@@ -865,6 +895,7 @@ describe("The index", () => {
       constitutional_form: "republic",
       language_codes: ["pl-PL"],
       is_landlocked: false,
+      timezone: ["UTC+01:00"]
     };
     const dotRSCountries = countryApi.getCountriesByTLD(".RS");
     const expectedDotRSCountries = [
@@ -892,6 +923,7 @@ describe("The index", () => {
         constitutional_form: "republic",
         language_codes: ["sr-XK", "sq-XK"],
         is_landlocked: true,
+        timezone: ["UTC+01:00"]
       },
       {
         country: "serbia",
@@ -917,6 +949,7 @@ describe("The index", () => {
         constitutional_form: "republic",
         language_codes: ["sr-RS"],
         is_landlocked: true,
+        timezone: ["UTC+01:00"]
       },
     ];
     const [dotUKCountry] = countryApi.getCountriesByTLD(".uk");
@@ -944,6 +977,7 @@ describe("The index", () => {
       constitutional_form: "constitutional monarchy",
       language_codes: ["en-GB"],
       is_landlocked: false,
+      timezone: ["UTC±00:00"]
     };
     const [dotGBCountry] = countryApi.getCountriesByTLD(".GB");
 
@@ -1021,6 +1055,7 @@ describe("The index", () => {
           "mi2": 252072,
         },
         is_landlocked: true,
+        timezone: ["UTC+04:30"]
       });
     });
 
@@ -1049,6 +1084,7 @@ describe("The index", () => {
         constitutional_form: "republic",
         language_codes: ["sq-AL"],
         is_landlocked: false,
+        timezone: ["UTC+01:00"]
       });
     });
   });
