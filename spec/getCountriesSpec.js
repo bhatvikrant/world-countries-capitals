@@ -1090,4 +1090,33 @@ describe("The index", () => {
       });
     });
   });
+
+  describe("The getCountriesByIndependenceYearRange", () => {
+    const fifteenthCentury = countryApi.getCountriesByIndependenceYearRange(1501, 1600);
+    const nlCountry = countryApi.getCountriesByIndependenceYearRange(1581, 1600);
+    const seCountry = countryApi.getCountriesByIndependenceYearRange(1501, 1523);
+    const twentyFirstCentury = countryApi.getCountriesByIndependenceYearRange(2000);
+    const expectedNLCountry = countryApi.getCountryDetailsByName('netherlands');
+    const expectedSECountry = countryApi.getCountryDetailsByName('sweden');
+    const expectedFifteenthCenturyResult = [...expectedNLCountry, ...expectedSECountry];
+    const expectedTwentyFirstCentury = [
+      ...countryApi.getCountryDetailsByName('east timor'),
+      ...countryApi.getCountryDetailsByName('kosovo'),
+      ...countryApi.getCountryDetailsByName('montenegro'),
+      ...countryApi.getCountryDetailsByName('south sudan'),
+    ];
+
+    it("returns correct countries using both 'from' and 'to' parameters", () => {
+      expect(fifteenthCentury).toEqual(expectedFifteenthCenturyResult);
+    });
+    it("returns correct countries using year of independence day as 'from' parameter", () => {
+      expect(nlCountry).toEqual(expectedNLCountry);
+    });
+    it("returns correct countries using year of independence day as 'to' parameter", () => {
+      expect(seCountry).toEqual(expectedSECountry);
+    });
+    it("returns correct list of countries using only 'from' parameter", () => {
+      expect(twentyFirstCentury).toEqual(expectedTwentyFirstCentury);
+    });
+  })
 });
