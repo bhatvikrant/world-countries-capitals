@@ -243,12 +243,12 @@ const getCountriesByLandLock = (isLandLocked) => {
 
 /**
  * Get list of neighbor countries
- * @param {String} countryName - name of country
+ * @param {String} country - name (or one of ISO 3166-1 code) of country
  * @returns {Array}
  */
-const getCountryNeighbors = (name) => {
-  const country = data.find((item) => {
-    switch (name.toLowerCase()) {
+const getCountryNeighbors = (country) => {
+  const foundCountry = data.find((item) => {
+    switch (country.toLowerCase()) {
       case item.country:
       case item.iso.numeric:
       case item.iso.alpha_2:
@@ -259,11 +259,11 @@ const getCountryNeighbors = (name) => {
     }
   });
 
-  if (!country) {
-    throw new Error(`Country '${name}' was not found!`);
+  if (!foundCountry) {
+    throw new Error(`Country '${country}' was not found!`);
   }
 
-  return data.filter(({ neighbors }) => neighbors.includes(country.iso.alpha_2));
+  return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
 };
 
 module.exports = {
