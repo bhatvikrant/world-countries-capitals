@@ -231,7 +231,7 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
   return result;
 }
 
-/** 
+/**
  * Returns an array of objects containing all countries, each containing `country`, `capital`,
  * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
  * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
@@ -239,6 +239,18 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
 */
 const getCountriesByLandLock = (isLandLocked) => {
   return data.filter( country => country.is_landlocked === isLandLocked);
+};
+
+/**
+ * Get list of countries that gained independence in range of years
+ * @param {Number} from - starting year
+ * @param {Number} [to] - ending year or current year (if not passed)
+ * @returns {Array}
+ */
+const getCountriesByIndependenceYearRange = (from, to) => {
+  to = to ? to : new Date().getFullYear();
+
+  return data.filter(({ independence_year: year }) => (year >= from && year <= to));
 };
 
 module.exports = {
@@ -257,4 +269,5 @@ module.exports = {
   getCountriesByTLD,
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
+  getCountriesByIndependenceYearRange,
 };
