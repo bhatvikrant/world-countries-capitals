@@ -231,7 +231,7 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
   return result;
 }
 
-/** 
+/**
  * Returns an array of objects containing all countries, each containing `country`, `capital`,
  * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
  * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
@@ -239,6 +239,18 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
 */
 const getCountriesByLandLock = (isLandLocked) => {
   return data.filter( country => country.is_landlocked === isLandLocked);
+};
+
+/**
+ * Get list of neighbor countries
+ * @param {String} countryName - name of country
+ * @returns {Array}
+ */
+const getCountryNeighbors = (name) => {
+  const nameFormatted = name.toLowerCase();
+  const { iso: { alpha_2 } } = data.find(({ country }) => country === nameFormatted);
+
+  return data.filter(({ neighbors }) => neighbors.includes(alpha_2));
 };
 
 module.exports = {
@@ -257,4 +269,5 @@ module.exports = {
   getCountriesByTLD,
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
+  getCountryNeighbors,
 };
