@@ -237,4 +237,38 @@ describe("The index", () => {
       expect(notLandLockedCountries[0]).toEqual(expectedALCountry);
     });
   });
+
+  describe("The getCountryNeighbors", () => {
+    const expectedPLNeighborCountries = [
+      ...countryApi.getCountryDetailsByName('belarus'),
+      ...countryApi.getCountryDetailsByName('czechia'),
+      ...countryApi.getCountryDetailsByName('germany'),
+      ...countryApi.getCountryDetailsByName('lithuania'),
+      ...countryApi.getCountryDetailsByName('russia'),
+      ...countryApi.getCountryDetailsByName('slovakia'),
+      ...countryApi.getCountryDetailsByName('ukraine'),
+    ];
+
+    it("returns countries that are neighbors of 'poland'", () => {
+      expect(countryApi.getCountryNeighbors('poland')).toEqual(expectedPLNeighborCountries);
+    })
+    it("returns countries that are neighbors of 'Poland'", () => {
+      expect(countryApi.getCountryNeighbors('Poland')).toEqual(expectedPLNeighborCountries);
+    })
+    it("returns countries that are neighbors of 'POLAND'", () => {
+      expect(countryApi.getCountryNeighbors('POLAND')).toEqual(expectedPLNeighborCountries);
+    })
+    it("returns countries that are neighbors of '616'", () => {
+      expect(countryApi.getCountryNeighbors('616')).toEqual(expectedPLNeighborCountries);
+    })
+    it("returns countries that are neighbors of 'pl'", () => {
+      expect(countryApi.getCountryNeighbors('pl')).toEqual(expectedPLNeighborCountries);
+    })
+    it("returns countries that are neighbors of 'pol'", () => {
+      expect(countryApi.getCountryNeighbors('pol')).toEqual(expectedPLNeighborCountries);
+    })
+    it("throws an error after passing non-existing country as an argument", () => {
+      expect(() => countryApi.getCountryNeighbors('non-existing country')).toThrow();
+    })
+  });
 });

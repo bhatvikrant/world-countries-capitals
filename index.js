@@ -247,10 +247,23 @@ const getCountriesByLandLock = (isLandLocked) => {
  * @returns {Array}
  */
 const getCountryNeighbors = (name) => {
-  const nameFormatted = name.toLowerCase();
-  const { iso: { alpha_2 } } = data.find(({ country }) => country === nameFormatted);
+  const country = data.find((item) => {
+    switch (name.toLowerCase()) {
+      case item.country:
+      case item.iso.numeric:
+      case item.iso.alpha_2:
+      case item.iso.alpha_3:
+        return true
+      default:
+        return false;
+    }
+  });
 
-  return data.filter(({ neighbors }) => neighbors.includes(alpha_2));
+  if (!country) {
+    throw new Error(`Country '${name}' was not found!`);
+  }
+
+  return data.filter(({ neighbors }) => neighbors.includes(country.iso.alpha_2));
 };
 
 module.exports = {
