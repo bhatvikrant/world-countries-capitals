@@ -54,6 +54,7 @@ Currently available data for each country is:
 - **constitutional_form** - official political system
 - **language_codes** - list of langauge codes (combination of _ISO 639-1_ and _ISO 3166-1 alpha-2_)
 - **is_landlocked** - information whether country is surrounded by one or more countries
+- **neighbors** - list of neighbor countries (_ISO 3166-1 alpha-2_ codes)
 
 You can check all changes in the project at [releases page on Github][URL_GH_RELEASES]
 or in [changelog][DOC_CHANGELOG].
@@ -140,6 +141,7 @@ Type definition of each `Country {Object}`:
  * @property {String} constitutional_form - Name of official political system
  * @property {String[]} language_codes - Array of language codes
  * @property {Boolean} is_landlocked - Is country surrounded by one or more countries
+ * @property {String[]} neighbors - Array of neighbor countries
  */
 ```
 
@@ -168,7 +170,8 @@ Sample `Country {Object}`:
 	tld: '.pl',
 	constitutional_form: 'republic',
 	language_codes: ['pl-PL'],
-	is_landlocked: false
+	is_landlocked: false,
+	neighbors: ['by', 'cz', 'de', 'lt', 'ru', 'sk', 'ua'],
 }
 ```
 
@@ -325,6 +328,16 @@ wcc.getCountriesByConstitutionalForm(form)
 */
 wcc.getCountriesByLandLock(isLandLocked)
 // Example: wcc.getCountriesByLandLock(true)
+```
+
+```js
+/**
+ * Get list of neighbor countries
+ * @param {String} country - name (or one of ISO 3166-1 code) of country
+ * @returns {Country[]}
+ */
+wcc.getCountryNeighbors(country)
+// Example: wcc.getCountryNeighbors('poland')
 ```
 
 ❗️ All params are **NOT** case sensitive so no matter how argument looks,
