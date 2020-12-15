@@ -125,7 +125,7 @@ const getCountriesByFamousFor = (famousThing) => {
   );
 };
 
-const getCountriesByAlcoholProhibition = (prohibitionType) =>{
+const getCountriesByAlcoholProhibition = (prohibitionType) => {
   let value;
   switch (prohibitionType) {
     case "none":
@@ -141,10 +141,12 @@ const getCountriesByAlcoholProhibition = (prohibitionType) =>{
       value = "nationwide";
       break;
     default:
-      throw new Error('Prohibition type must be "none", "limited", "regional" or "nationwide"');
+      throw new Error(
+        'Prohibition type must be "none", "limited", "regional" or "nationwide"'
+      );
   }
-  return getCountriesByObject(value,"alcohol_prohibition");
-}
+  return getCountriesByObject(value, "alcohol_prohibition");
+};
 
 /**
  * Returns an array of objects, each containing `country`, `capital`, `currency`, `native_language`,
@@ -156,9 +158,8 @@ const getCountriesByAlcoholProhibition = (prohibitionType) =>{
 const getCountriesByContinent = (continentCode) => {
   continentCode = continentCode.toLowerCase();
 
-  return data.filter(country => country.continent
-    .split("/")
-    .includes(continentCode)
+  return data.filter((country) =>
+    country.continent.split("/").includes(continentCode)
   );
 };
 
@@ -190,7 +191,7 @@ const getCountryDetailsByISO = (isoType, isoValue) => {
       throw new Error("isoType must be 'numeric', 'alpha_2' or 'alpha_3'");
   }
 
-  return data.filter(country => country.iso[type] === isoValue);
+  return data.filter((country) => country.iso[type] === isoValue);
 };
 
 /**
@@ -203,10 +204,7 @@ const getCountryDetailsByISO = (isoType, isoValue) => {
 const getCountriesByTLD = (tldName) => {
   tldName = tldName.toLowerCase();
 
-  return data.filter(country => country.tld
-    .split("/")
-    .includes(tldName)
-  );
+  return data.filter((country) => country.tld.split("/").includes(tldName));
 };
 
 /**
@@ -218,27 +216,28 @@ const getCountriesByTLD = (tldName) => {
  */
 const getCountriesByConstitutionalForm = (constitutionalFormName) => {
   const result = data.filter((country) => {
-    return country.constitutional_form.includes(constitutionalFormName)
+    return country.constitutional_form.includes(constitutionalFormName);
   });
 
   if (!result.length) {
     throw new Error(
       `No country was found! Available constitutional forms are:
       'republic', 'constitutional monarchy', 'absolute monarchy' and 'n/a'
-    `);
+    `
+    );
   }
 
   return result;
-}
+};
 
 /**
  * Returns an array of objects containing all countries, each containing `country`, `capital`,
  * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
  * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
  * @returns {Array} An array of country objects
-*/
+ */
 const getCountriesByLandLock = (isLandLocked) => {
-  return data.filter( country => country.is_landlocked === isLandLocked);
+  return data.filter((country) => country.is_landlocked === isLandLocked);
 };
 
 /**
@@ -253,7 +252,7 @@ const getCountryNeighbors = (country) => {
       case item.iso.numeric:
       case item.iso.alpha_2:
       case item.iso.alpha_3:
-        return true
+        return true;
       default:
         return false;
     }
@@ -263,8 +262,13 @@ const getCountryNeighbors = (country) => {
     throw new Error(`Country '${country}' was not found!`);
   }
 
-  return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
+  return data.filter(({ neighbors }) =>
+    neighbors.includes(foundCountry.iso.alpha_2)
+  );
 };
+
+const getAvailablePropertyNames = () =>
+  Object.keys(wcc.getCountryDetailsByName(wcc.getRandomCountry())[0]);
 
 module.exports = {
   getRandomCountry,
@@ -283,4 +287,5 @@ module.exports = {
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
   getCountryNeighbors,
+  getAvailablePropertyNames,
 };
