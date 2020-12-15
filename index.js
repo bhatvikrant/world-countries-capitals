@@ -22,12 +22,15 @@ const getRandomCountry = () => {
  * @returns {Array} An array having `count` number of country objects
  */
 const getNRandomCountriesData = (count) => {
-  let randomCountriesSet = new Set(); // to prevent duplicate countries
-  while (randomCountriesSet.size < count) {
-    let country = data[randomNum()];
-    randomCountriesSet.add(country); // adds a country to the Array
-  }
-  return Array.from(randomCountriesSet); // Returns the Array
+  // validate function input
+  if (count > data.length)
+    throw new Error(`there are only ${data.length} countries!`);
+  if (count <= 0) throw new Error(`number of countries must be positive.`);
+
+  let dataCopy = [...data];
+  dataCopy = dataCopy.sort(() => Math.random()); // shuffles the array
+
+  return dataCopy.slice(0, count); // return a slice of the shuffled array by the size 'count'
 };
 
 // Helper function
