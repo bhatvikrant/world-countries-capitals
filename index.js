@@ -271,7 +271,7 @@ const getCountryNeighbors = (country) => {
 };
 
 const getAvailablePropertyNames = () =>
-  Object.keys(wcc.getCountryDetailsByName(wcc.getRandomCountry())[0]);
+  Object.keys(getCountryDetailsByName(getRandomCountry())[0]);
 
 module.exports = {
   getRandomCountry,
