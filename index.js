@@ -22,12 +22,15 @@ const getRandomCountry = () => {
  * @returns {Array} An array having `count` number of country objects
  */
 const getNRandomCountriesData = (count) => {
-  let randomCountriesSet = new Set(); // to prevent duplicate countries
-  while (randomCountriesSet.size < count) {
-    let country = data[randomNum()];
-    randomCountriesSet.add(country); // adds a country to the Array
-  }
-  return Array.from(randomCountriesSet); // Returns the Array
+  // validate function input
+  if (count > data.length)
+    throw new Error(`there are only ${data.length} countries!`);
+  if (count <= 0) throw new Error(`number of countries must be positive.`);
+
+  let dataCopy = [...data];
+  dataCopy = dataCopy.sort(() => Math.random()); // shuffles the array
+
+  return dataCopy.slice(0, count); // return a slice of the shuffled array by the size 'count'
 };
 
 // Helper function
@@ -125,7 +128,7 @@ const getCountriesByFamousFor = (famousThing) => {
   );
 };
 
-const getCountriesByAlcoholProhibition = (prohibitionType) =>{
+const getCountriesByAlcoholProhibition = (prohibitionType) => {
   let value;
   switch (prohibitionType) {
     case "none":
@@ -141,10 +144,12 @@ const getCountriesByAlcoholProhibition = (prohibitionType) =>{
       value = "nationwide";
       break;
     default:
-      throw new Error('Prohibition type must be "none", "limited", "regional" or "nationwide"');
+      throw new Error(
+        'Prohibition type must be "none", "limited", "regional" or "nationwide"'
+      );
   }
-  return getCountriesByObject(value,"alcohol_prohibition");
-}
+  return getCountriesByObject(value, "alcohol_prohibition");
+};
 
 /**
  * Returns an array of objects, each containing `country`, `capital`, `currency`, `native_language`,
@@ -156,9 +161,8 @@ const getCountriesByAlcoholProhibition = (prohibitionType) =>{
 const getCountriesByContinent = (continentCode) => {
   continentCode = continentCode.toLowerCase();
 
-  return data.filter(country => country.continent
-    .split("/")
-    .includes(continentCode)
+  return data.filter((country) =>
+    country.continent.split("/").includes(continentCode)
   );
 };
 
@@ -190,7 +194,7 @@ const getCountryDetailsByISO = (isoType, isoValue) => {
       throw new Error("isoType must be 'numeric', 'alpha_2' or 'alpha_3'");
   }
 
-  return data.filter(country => country.iso[type] === isoValue);
+  return data.filter((country) => country.iso[type] === isoValue);
 };
 
 /**
@@ -203,10 +207,7 @@ const getCountryDetailsByISO = (isoType, isoValue) => {
 const getCountriesByTLD = (tldName) => {
   tldName = tldName.toLowerCase();
 
-  return data.filter(country => country.tld
-    .split("/")
-    .includes(tldName)
-  );
+  return data.filter((country) => country.tld.split("/").includes(tldName));
 };
 
 /**
@@ -218,27 +219,28 @@ const getCountriesByTLD = (tldName) => {
  */
 const getCountriesByConstitutionalForm = (constitutionalFormName) => {
   const result = data.filter((country) => {
-    return country.constitutional_form.includes(constitutionalFormName)
+    return country.constitutional_form.includes(constitutionalFormName);
   });
 
   if (!result.length) {
     throw new Error(
       `No country was found! Available constitutional forms are:
       'republic', 'constitutional monarchy', 'absolute monarchy' and 'n/a'
-    `);
+    `
+    );
   }
 
   return result;
-}
+};
 
 /**
  * Returns an array of objects containing all countries, each containing `country`, `capital`,
  * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
  * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
  * @returns {Array} An array of country objects
-*/
+ */
 const getCountriesByLandLock = (isLandLocked) => {
-  return data.filter( country => country.is_landlocked === isLandLocked);
+  return data.filter((country) => country.is_landlocked === isLandLocked);
 };
 
 /**
@@ -253,7 +255,7 @@ const getCountryNeighbors = (country) => {
       case item.iso.numeric:
       case item.iso.alpha_2:
       case item.iso.alpha_3:
-        return true
+        return true;
       default:
         return false;
     }
@@ -263,7 +265,19 @@ const getCountryNeighbors = (country) => {
     throw new Error(`Country '${country}' was not found!`);
   }
 
-  return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
+  return data.filter(({ neighbors }) =>
+    neighbors.includes(foundCountry.iso.alpha_2)
+  );
+};
+
+const getAvailablePropertyNames = () =>
+  Object.keys(getCountryDetailsByName(getRandomCountry())[0]);
+
+const getCountryDetailsByPhoneCode = (code) => {
+  for (let country of getAllCountryDetails()) {
+    if (country.phone_code === code) return country;
+  }
+  throw new Error("There are no countries with this phone code!");
 };
 
 module.exports = {
@@ -283,4 +297,6 @@ module.exports = {
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
   getCountryNeighbors,
+  getAvailablePropertyNames,
+  getCountryDetailsByPhoneCode,
 };

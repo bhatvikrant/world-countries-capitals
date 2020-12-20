@@ -340,6 +340,14 @@ wcc.getCountryNeighbors(country)
 // Example: wcc.getCountryNeighbors('poland')
 ```
 
+```js
+/*
+ * Get a list of available parameters for each country
+*/
+wcc.getAvailablePropertyNames()
+// Example: wcc.getAvailablePropertyNames()
+```
+
 ❗️ All params are **NOT** case sensitive so no matter how argument looks,
 the response will remain the same.
 

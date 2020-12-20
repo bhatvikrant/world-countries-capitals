@@ -55,7 +55,9 @@ describe("The index", () => {
 
   describe("The getCountryDetailsByCapital when given a capital", () => {
     const [afCountry] = countryApi.getCountryDetailsByCapital("kabul");
-    const [expectedAFCountry] = countryApi.getCountryDetailsByName("afghanistan");
+    const [expectedAFCountry] = countryApi.getCountryDetailsByName(
+      "afghanistan"
+    );
 
     it("returns the details of countries with that capital", () => {
       expect(afCountry).toEqual(expectedAFCountry);
@@ -64,7 +66,9 @@ describe("The index", () => {
 
   describe("The getCountriesByLanguage when given a language", () => {
     const [baCountry] = countryApi.getCountriesByLanguage("bosnian");
-    const [expectedBACountry] = countryApi.getCountryDetailsByName("bosnia and herzegovina");
+    const [expectedBACountry] = countryApi.getCountryDetailsByName(
+      "bosnia and herzegovina"
+    );
 
     it("returns countries with that language being their native language", () => {
       expect(baCountry).toEqual(expectedBACountry);
@@ -83,7 +87,9 @@ describe("The index", () => {
     ];
 
     it("returns countries famous for oil", () => {
-      expect(testUtils.countryArraysAreEqual(actualCountries, expectedCountries)).toBeTrue();
+      expect(
+        testUtils.countryArraysAreEqual(actualCountries, expectedCountries)
+      ).toBeTrue();
     });
   });
 
@@ -111,7 +117,9 @@ describe("The index", () => {
       expect(results).toEqual(expectedResults);
     });
     it("returns the total number of countries where no alcohol prohibition is applicable", () => {
-      expect(countryApi.getCountriesByAlcoholProhibition("none").length).toEqual(176);
+      expect(
+        countryApi.getCountriesByAlcoholProhibition("none").length
+      ).toEqual(176);
     });
   });
 
@@ -148,16 +156,23 @@ describe("The index", () => {
       expect(oceaniaCountries).toEqual(expectedOceaniaCountries);
     });
     it("returns the same country using 'eu' or 'as' continent", () => {
-      expect(europeCountries).toContain(jasmine.objectContaining(expectedRUCountry));
-      expect(asiaCountries).toContain(jasmine.objectContaining(expectedRUCountry));
+      expect(europeCountries).toContain(
+        jasmine.objectContaining(expectedRUCountry)
+      );
+      expect(asiaCountries).toContain(
+        jasmine.objectContaining(expectedRUCountry)
+      );
     });
   });
 
   describe("The getCountryDetailsByISO", () => {
-    const [numericCountry] = countryApi.getCountryDetailsByISO("numeric", "616");
+    const [numericCountry] = countryApi.getCountryDetailsByISO(
+      "numeric",
+      "616"
+    );
     const [alpha2Country] = countryApi.getCountryDetailsByISO("ALPHA_2", "PL");
     const [alpha3Country] = countryApi.getCountryDetailsByISO("alpha_3", "pol");
-    const [expectedCountry] = countryApi.getCountryDetailsByName('poland');
+    const [expectedCountry] = countryApi.getCountryDetailsByName("poland");
 
     it("returns correct country using numeric ISO", () => {
       expect(numericCountry).toEqual(expectedCountry);
@@ -172,13 +187,15 @@ describe("The index", () => {
 
   describe("The getCountriesByTLD", () => {
     const [dotPLCountry] = countryApi.getCountriesByTLD(".pl");
-    const [expectedDotPLCountry] = countryApi.getCountryDetailsByName('poland');
+    const [expectedDotPLCountry] = countryApi.getCountryDetailsByName("poland");
     const dotRSCountries = countryApi.getCountriesByTLD(".RS");
-    const [expectedXKCountry] = countryApi.getCountryDetailsByName('kosovo');
-    const [expectedRSCountry] = countryApi.getCountryDetailsByName('serbia');
+    const [expectedXKCountry] = countryApi.getCountryDetailsByName("kosovo");
+    const [expectedRSCountry] = countryApi.getCountryDetailsByName("serbia");
     const expectedDotRSCountries = [expectedXKCountry, expectedRSCountry];
     const [dotUKCountry] = countryApi.getCountriesByTLD(".uk");
-    const [expectedDotUKCountry] = countryApi.getCountryDetailsByName('united kingdom');
+    const [expectedDotUKCountry] = countryApi.getCountryDetailsByName(
+      "united kingdom"
+    );
     const [dotGBCountry] = countryApi.getCountriesByTLD(".GB");
 
     it("returns correct country using '.pl' domain", () => {
@@ -196,12 +213,18 @@ describe("The index", () => {
   });
 
   describe("The getCountriesByConstitutionalForm", () => {
-    const republicCountries = countryApi.getCountriesByConstitutionalForm("republic");
-    const monarchyCountries = countryApi.getCountriesByConstitutionalForm("monarchy");
-    const absoluteMonarchyCountries = countryApi
-      .getCountriesByConstitutionalForm("absolute monarchy");
-    const constitutionalMonarchyCountries = countryApi
-      .getCountriesByConstitutionalForm("constitutional monarchy");
+    const republicCountries = countryApi.getCountriesByConstitutionalForm(
+      "republic"
+    );
+    const monarchyCountries = countryApi.getCountriesByConstitutionalForm(
+      "monarchy"
+    );
+    const absoluteMonarchyCountries = countryApi.getCountriesByConstitutionalForm(
+      "absolute monarchy"
+    );
+    const constitutionalMonarchyCountries = countryApi.getCountriesByConstitutionalForm(
+      "constitutional monarchy"
+    );
 
     it("returns the countries that have 'republic' constitutional form", () => {
       expect(republicCountries.length).toBe(148);
@@ -213,14 +236,17 @@ describe("The index", () => {
       expect(absoluteMonarchyCountries.length).toBe(6);
     });
     it("returns the countries that have 'constitutional monarchy' constitutional form", () => {
-      expect(constitutionalMonarchyCountries.length)
-        .toBe(monarchyCountries.length - absoluteMonarchyCountries.length);
+      expect(constitutionalMonarchyCountries.length).toBe(
+        monarchyCountries.length - absoluteMonarchyCountries.length
+      );
     });
   });
 
   describe("The getAllCountriesByLandlock", () => {
-    const [expectedAFCountry] = countryApi.getCountryDetailsByName('afghanistan');
-    const [expectedALCountry] = countryApi.getCountryDetailsByName('albania');
+    const [expectedAFCountry] = countryApi.getCountryDetailsByName(
+      "afghanistan"
+    );
+    const [expectedALCountry] = countryApi.getCountryDetailsByName("albania");
     const landLockedCountries = countryApi.getCountriesByLandLock(true);
     const notLandLockedCountries = countryApi.getCountriesByLandLock(false);
 
@@ -240,35 +266,107 @@ describe("The index", () => {
 
   describe("The getCountryNeighbors", () => {
     const expectedPLNeighborCountries = [
-      ...countryApi.getCountryDetailsByName('belarus'),
-      ...countryApi.getCountryDetailsByName('czechia'),
-      ...countryApi.getCountryDetailsByName('germany'),
-      ...countryApi.getCountryDetailsByName('lithuania'),
-      ...countryApi.getCountryDetailsByName('russia'),
-      ...countryApi.getCountryDetailsByName('slovakia'),
-      ...countryApi.getCountryDetailsByName('ukraine'),
+      ...countryApi.getCountryDetailsByName("belarus"),
+      ...countryApi.getCountryDetailsByName("czechia"),
+      ...countryApi.getCountryDetailsByName("germany"),
+      ...countryApi.getCountryDetailsByName("lithuania"),
+      ...countryApi.getCountryDetailsByName("russia"),
+      ...countryApi.getCountryDetailsByName("slovakia"),
+      ...countryApi.getCountryDetailsByName("ukraine"),
     ];
 
     it("returns countries that are neighbors of 'poland'", () => {
-      expect(countryApi.getCountryNeighbors('poland')).toEqual(expectedPLNeighborCountries);
-    })
+      expect(countryApi.getCountryNeighbors("poland")).toEqual(
+        expectedPLNeighborCountries
+      );
+    });
     it("returns countries that are neighbors of 'Poland'", () => {
-      expect(countryApi.getCountryNeighbors('Poland')).toEqual(expectedPLNeighborCountries);
-    })
+      expect(countryApi.getCountryNeighbors("Poland")).toEqual(
+        expectedPLNeighborCountries
+      );
+    });
     it("returns countries that are neighbors of 'POLAND'", () => {
-      expect(countryApi.getCountryNeighbors('POLAND')).toEqual(expectedPLNeighborCountries);
-    })
+      expect(countryApi.getCountryNeighbors("POLAND")).toEqual(
+        expectedPLNeighborCountries
+      );
+    });
     it("returns countries that are neighbors of '616'", () => {
-      expect(countryApi.getCountryNeighbors('616')).toEqual(expectedPLNeighborCountries);
-    })
+      expect(countryApi.getCountryNeighbors("616")).toEqual(
+        expectedPLNeighborCountries
+      );
+    });
     it("returns countries that are neighbors of 'pl'", () => {
-      expect(countryApi.getCountryNeighbors('pl')).toEqual(expectedPLNeighborCountries);
-    })
+      expect(countryApi.getCountryNeighbors("pl")).toEqual(
+        expectedPLNeighborCountries
+      );
+    });
     it("returns countries that are neighbors of 'pol'", () => {
-      expect(countryApi.getCountryNeighbors('pol')).toEqual(expectedPLNeighborCountries);
-    })
+      expect(countryApi.getCountryNeighbors("pol")).toEqual(
+        expectedPLNeighborCountries
+      );
+    });
     it("throws an error after passing non-existing country as an argument", () => {
-      expect(() => countryApi.getCountryNeighbors('non-existing country')).toThrow();
-    })
+      expect(() =>
+        countryApi.getCountryNeighbors("non-existing country")
+      ).toThrow();
+    });
+  });
+
+  describe("The getAvailablePropertyNames", () => {
+    const expectedResult = [
+      "country",
+      "capital",
+      "currency",
+      "native_language",
+      "famous_for",
+      "phone_code",
+      "flag",
+      "drive_direction",
+      "alcohol_prohibition",
+      "area",
+      "continent",
+      "iso",
+      "tld",
+      "constitutional_form",
+      "language_codes",
+      "is_landlocked",
+      "neighbors",
+    ];
+
+    it("get all property names for a country", () => {
+      expect(countryApi.getAvailablePropertyNames()).toEqual(expectedResult);
+    });
+  });
+
+  describe("The getCountryDetailsByPhoneCode", () => {
+    const expectedCountry = {
+      country: "albania",
+      capital: "tirane",
+      currency: "lek",
+      native_language: ["albanian"],
+      famous_for: "mother teresa",
+      phone_code: "+355",
+      flag: "https://flagpedia.net/data/flags/h80/al.png",
+      drive_direction: "right",
+      alcohol_prohibition: "none",
+      area: { km2: 28748, mi2: 11100 },
+      continent: "eu",
+      iso: { numeric: "008", alpha_2: "al", alpha_3: "alb" },
+      tld: ".al",
+      constitutional_form: "republic",
+      language_codes: ["sq-AL"],
+      is_landlocked: false,
+      neighbors: ["gr", "me", "mk", "xk"],
+    };
+
+    it("get Albania details by its phone code", () => {
+      expect(countryApi.getCountryDetailsByPhoneCode("+355")).toEqual(
+        expectedCountry
+      );
+    });
+
+    it("throws an error after passing non-existing country phone code as an argument", () => {
+      expect(() => countryApi.getCountryDetailsByPhoneCode("+980")).toThrow();
+    });
   });
 });
