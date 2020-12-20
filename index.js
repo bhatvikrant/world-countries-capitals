@@ -273,6 +273,13 @@ const getCountryNeighbors = (country) => {
 const getAvailablePropertyNames = () =>
   Object.keys(getCountryDetailsByName(getRandomCountry())[0]);
 
+const getCountryDetailsByPhoneCode = (code) => {
+  for (let country of getAllCountryDetails()) {
+    if (country.phone_code === code) return country;
+  }
+  throw new Error("There are no countries with this phone code!");
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -291,4 +298,5 @@ module.exports = {
   getCountriesByLandLock,
   getCountryNeighbors,
   getAvailablePropertyNames,
+  getCountryDetailsByPhoneCode,
 };

@@ -313,7 +313,7 @@ describe("The index", () => {
   });
 
   describe("The getAvailablePropertyNames", () => {
-    const e = [
+    const expectedResult = [
       "country",
       "capital",
       "currency",
@@ -334,7 +334,39 @@ describe("The index", () => {
     ];
 
     it("get all property names for a country", () => {
-      expect(countryApi.getAvailablePropertyNames()).toEqual(e);
+      expect(countryApi.getAvailablePropertyNames()).toEqual(expectedResult);
+    });
+  });
+
+  describe("The getCountryDetailsByPhoneCode", () => {
+    const expectedCountry = {
+      country: "albania",
+      capital: "tirane",
+      currency: "lek",
+      native_language: ["albanian"],
+      famous_for: "mother teresa",
+      phone_code: "+355",
+      flag: "https://flagpedia.net/data/flags/h80/al.png",
+      drive_direction: "right",
+      alcohol_prohibition: "none",
+      area: { km2: 28748, mi2: 11100 },
+      continent: "eu",
+      iso: { numeric: "008", alpha_2: "al", alpha_3: "alb" },
+      tld: ".al",
+      constitutional_form: "republic",
+      language_codes: ["sq-AL"],
+      is_landlocked: false,
+      neighbors: ["gr", "me", "mk", "xk"],
+    };
+
+    it("get Albania details by its phone code", () => {
+      expect(countryApi.getCountryDetailsByPhoneCode("+355")).toEqual(
+        expectedCountry
+      );
+    });
+
+    it("throws an error after passing non-existing country phone code as an argument", () => {
+      expect(() => countryApi.getCountryDetailsByPhoneCode("+980")).toThrow();
     });
   });
 });
