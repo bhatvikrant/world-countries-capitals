@@ -56,6 +56,21 @@ const getCountryDetailsByCapital = (capital) => {
 };
 
 /**
+ * @param {string} language_code The name (not case-sensitive) of the language_codes of the country
+ * @returns {Array} An array of country objects
+ */
+const getCountryDetailsBylanguageCodes = (language_code) => {
+  let resultArray = [];
+  data.forEach((item) => {
+    if(item["language_codes"].includes(language_code)){
+      resultArray.push(item);
+    }
+  });
+  return resultArray;
+
+};
+
+/**
  * Returns an array of objects, each containing `country`, `capital`,
  * `currency` and `native_language` filtered by `country` .
  * @param {string} country The name (not case-sensitive) of the country
@@ -276,6 +291,7 @@ const getCountryNeighbors = (country) => {
 
   return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
 };
+
 
 module.exports = {
   getRandomCountry,
