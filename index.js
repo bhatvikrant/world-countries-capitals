@@ -56,6 +56,51 @@ const getCountryDetailsByCapital = (capital) => {
 };
 
 /**
+ * @param {string} language_code The name (not case-sensitive) of the language_codes of the country
+ * @returns {Array} An array of country objects
+ */
+const getCountryDetailsBylanguageCodes = (language_code) => {
+  let resultArray = [];
+  data.forEach((item) => {
+    if(item["language_codes"].includes(language_code)){
+      resultArray.push(item);
+    }
+  });
+  return resultArray;
+
+};
+
+/**
+ * @param {integer} size The name (not case-sensitive) of the size of the country
+ * @returns {Array} An array of country objects
+ */
+const getCountryDetailsBySizeRangeKm = (size) => {
+  let resultArray = [];
+  data.forEach((item) => {
+    if(Math.abs(item.area.km2-size)<100){
+      resultArray.push(item);
+    }
+  });
+  return resultArray;
+
+};
+
+/**
+ * @param {integer} size The name (not case-sensitive) of the size of the country
+ * @returns {Array} An array of country objects
+ */
+const getCountryDetailsBySizeRangeMi = (size) => {
+  let resultArray = [];
+  data.forEach((item) => {
+    if(Math.abs(item.area.mi2-size)<100){
+      resultArray.push(item);
+    }
+  });
+  return resultArray;
+
+};
+
+/**
  * Returns an array of objects, each containing `country`, `capital`,
  * `currency` and `native_language` filtered by `country` .
  * @param {string} country The name (not case-sensitive) of the country
@@ -232,6 +277,17 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
 }
 
 /**
+ * Returns an array of objects, each containing `country`, `capital`,
+ * `currency` and `native_language` filtered by `country` .
+ * @param {string} phone_code The name (not case-sensitive) of the country
+ * @returns {Array} An array of country objects
+ */
+const getCountryDetailsByPhoneCode = (phone_code) => {
+  return getCountriesByObject(phone_code, "phone_code");
+};
+
+
+/**
  * Returns an array of objects containing all countries, each containing `country`, `capital`,
  * `currency`, `native_language`, `famous_for`, `phone_code`, `flag` and `drive_direction` filtered by `is_landlocked`
  * @param { Boolean } isLandLocked  Country that is surrounded by one or more countries
@@ -266,6 +322,7 @@ const getCountryNeighbors = (country) => {
   return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
 };
 
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -283,4 +340,9 @@ module.exports = {
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
   getCountryNeighbors,
+  getCountryDetailsByPhoneCode,
+  getCountryDetailsBySizeRangeMi,
+  getCountryDetailsBySizeRangeKm,
+  getCountryDetailsBylanguageCodes,
+  
 };
