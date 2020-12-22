@@ -71,6 +71,36 @@ const getCountryDetailsBylanguageCodes = (language_code) => {
 };
 
 /**
+ * @param {integer} size The name (not case-sensitive) of the size of the country
+ * @returns {Array} An array of country objects
+ */
+const getCountryDetailsBySizeRangeKm = (size) => {
+  let resultArray = [];
+  data.forEach((item) => {
+    if(Math.abs(item.area.km2-size)<100){
+      resultArray.push(item);
+    }
+  });
+  return resultArray;
+
+};
+
+/**
+ * @param {integer} size The name (not case-sensitive) of the size of the country
+ * @returns {Array} An array of country objects
+ */
+const getCountryDetailsBySizeRangeMi = (size) => {
+  let resultArray = [];
+  data.forEach((item) => {
+    if(Math.abs(item.area.mi2-size)<100){
+      resultArray.push(item);
+    }
+  });
+  return resultArray;
+
+};
+
+/**
  * Returns an array of objects, each containing `country`, `capital`,
  * `currency` and `native_language` filtered by `country` .
  * @param {string} country The name (not case-sensitive) of the country
@@ -310,4 +340,9 @@ module.exports = {
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
   getCountryNeighbors,
+  getCountryDetailsByPhoneCode,
+  getCountryDetailsBySizeRangeMi,
+  getCountryDetailsBySizeRangeKm,
+  getCountryDetailsBylanguageCodes,
+  
 };
