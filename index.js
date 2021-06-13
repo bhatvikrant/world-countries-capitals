@@ -271,7 +271,7 @@ const getCountryNeighbors = (country) => {
  * @param { Number } areaLower  Minimum area
  * @param { Number } areaUpper  Maximum area
  * @param {sys} Area system kilometers^2 = km, miles^2 = mi
- * @returns 
+ * @returns {Country[]} An array of country objects
 */
 const getCountriesByRangeSize =(areaLower,areaUpper,sys="km")=>{
   if(sys!="sys"&&sys!="mi"){sys="km";}
