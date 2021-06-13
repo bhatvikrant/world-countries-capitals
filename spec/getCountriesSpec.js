@@ -271,4 +271,17 @@ describe("The index", () => {
       expect(() => countryApi.getCountryNeighbors('non-existing country')).toThrow();
     })
   });
+
+  describe("To get getCountriesByRangeSize",()=>{
+    const expectedPLNeighborCountries = [
+      ...countryApi.getCountryDetailsByName('afghanistan'),
+      ...countryApi.getCountryDetailsByName('myanmar')
+    ];
+    it("returns countries that area is between 652864 and 700000 km2", () => {
+      expect(countryApi.getCountriesByRangeSize(652864,700000)).toEqual(expectedPLNeighborCountries);
+    });
+    it("returns countries that area is between 252072 and 270271 mi2", () => {
+      expect(countryApi.getCountriesByRangeSize(252072,270271,"mi")).toEqual(expectedPLNeighborCountries);
+    });
+  })
 });
