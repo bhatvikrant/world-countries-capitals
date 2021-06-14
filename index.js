@@ -265,7 +265,22 @@ const getCountryNeighbors = (country) => {
 
   return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
 };
-
+/**
+ * Returns an array of objects containing all countries 
+ * which areas satisfies areaLower<=Country Area<=areaUpper
+ * @param { Number } areaLower  Minimum area
+ * @param { Number } areaUpper  Maximum area
+ * @param {sys} Area system kilometers^2 = km, miles^2 = mi
+ * @returns {Country[]} An array of country objects
+*/
+const getCountriesByRangeSize =(areaLower,areaUpper,sys="km")=>{
+  sys=sys.toLowerCase();
+  if(sys!="km"&&sys!="mi"){sys="km";}
+  let countries = data.filter(country=>{
+    return country.area[sys+"2"]>=areaLower && country.area[sys+"2"]<=areaUpper;
+  });
+  return countries;
+}
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -283,4 +298,5 @@ module.exports = {
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
   getCountryNeighbors,
+  getCountriesByRangeSize
 };
