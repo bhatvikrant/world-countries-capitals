@@ -283,5 +283,14 @@ describe("The index", () => {
     it("returns countries that area is between 252072 and 270271 mi2", () => {
       expect(countryApi.getCountriesByRangeSize(252072,270271,"mi")).toEqual(expectedPLNeighborCountries);
     });
+    it("returns countries that area is between 652864 and 700000 and sys = KM", () => {
+      expect(countryApi.getCountriesByRangeSize(652864,700000,"KM")).toEqual(expectedPLNeighborCountries);
+    });
+    it("returns countries that area is between 252072 and 270271 and sys = MI", () => {
+      expect(countryApi.getCountriesByRangeSize(252072,270271,"MI")).toEqual(expectedPLNeighborCountries);
+    });
+    it("returns countries that area is between 652864 and 700000 and sys = whatever", () => {
+      expect(countryApi.getCountriesByRangeSize(652864,700000,"whatever")).toEqual(expectedPLNeighborCountries);
+    });
   })
 });

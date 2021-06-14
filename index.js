@@ -274,7 +274,8 @@ const getCountryNeighbors = (country) => {
  * @returns {Country[]} An array of country objects
 */
 const getCountriesByRangeSize =(areaLower,areaUpper,sys="km")=>{
-  if(sys!="sys"&&sys!="mi"){sys="km";}
+  sys=sys.toLowerCase();
+  if(sys!="km"&&sys!="mi"){sys="km";}
   let countries = data.filter(country=>{
     return country.area[sys+"2"]>=areaLower && country.area[sys+"2"]<=areaUpper;
   });
