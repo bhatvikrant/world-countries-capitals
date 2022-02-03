@@ -266,6 +266,14 @@ const getCountryNeighbors = (country) => {
   return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
 };
 
+const getCountriesByPhoneCode = (phoneCode) => {
+
+  return data.filter(country => country.phone_code
+    .split("/")
+    .includes(phoneCode)
+  );
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
