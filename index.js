@@ -23,6 +23,11 @@ const getRandomCountry = () => {
  */
 const getNRandomCountriesData = (count) => {
   let randomCountriesSet = new Set(); // to prevent duplicate countries
+  // if count is bigger than number of all countries, it should show all countries
+  if(count > data.length){
+    console.log("your input is greater than number of all countries. So all countries will be shown instead...")
+    return data
+  }
   while (randomCountriesSet.size < count) {
     let country = data[randomNum()];
     randomCountriesSet.add(country); // adds a country to the Array
