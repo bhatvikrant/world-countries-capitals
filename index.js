@@ -1,4 +1,6 @@
 let data = require("./data/data.json");
+// const { importData } = require("./import-extra-data");
+// importData()
 
 const randomNum = () => {
   return Math.floor(Math.random() * data.length);
@@ -125,7 +127,7 @@ const getCountriesByFamousFor = (famousThing) => {
   );
 };
 
-const getCountriesByAlcoholProhibition = (prohibitionType) =>{
+const getCountriesByAlcoholProhibition = (prohibitionType) => {
   let value;
   switch (prohibitionType) {
     case "none":
@@ -143,7 +145,7 @@ const getCountriesByAlcoholProhibition = (prohibitionType) =>{
     default:
       throw new Error('Prohibition type must be "none", "limited", "regional" or "nationwide"');
   }
-  return getCountriesByObject(value,"alcohol_prohibition");
+  return getCountriesByObject(value, "alcohol_prohibition");
 }
 
 /**
@@ -238,7 +240,7 @@ const getCountriesByConstitutionalForm = (constitutionalFormName) => {
  * @returns {Array} An array of country objects
 */
 const getCountriesByLandLock = (isLandLocked) => {
-  return data.filter( country => country.is_landlocked === isLandLocked);
+  return data.filter(country => country.is_landlocked === isLandLocked);
 };
 
 /**
@@ -266,6 +268,42 @@ const getCountryNeighbors = (country) => {
   return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
 };
 
+/**
+ * Returns an array containing the name of all the countries in the dataset sorted by GDP
+ * @returns {Array} An array of country objects
+ */
+const getAllCountriesSortedByGdp = () => {
+  data.sort((a, b) => a.gdp > b.gdp ? 1 : -1);
+  return data.map(({ country }) => country);
+};
+
+/**
+ * Returns an array containing the name of all the countries in the dataset sorted by GDP growth
+ * @returns {Array} An array of country objects
+ */
+const getAllCountriesSortedByGdpGrowth = () => {
+  data.sort((a, b) => a.gdp_growth > b.gdp_growth ? 1 : -1);
+  return data.map(({ country }) => country);
+};
+
+/**
+ * Returns an array containing the name of all the countries in the dataset sorted by population
+ * @returns {Array} An array of country objects
+ */
+const getAllCountriesSortedByPopulation = () => {
+  data.sort((a, b) => a.population > b.population ? 1 : -1);
+  return data.map(({ country }) => country);
+};
+
+/**
+ * Returns an array containing the name of all the countries in the dataset sorted by homicide rate
+ * @returns {Array} An array of country objects
+ */
+const getAllCountriesSortedByHomicideRate = () => {
+  data.sort((a, b) => a.homicide_rate > b.homicide_rate ? 1 : -1);
+  return data.map(({ country }) => country);
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -283,4 +321,8 @@ module.exports = {
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
   getCountryNeighbors,
+  getAllCountriesSortedByGdp,
+  getAllCountriesSortedByGdpGrowth,
+  getAllCountriesSortedByPopulation,
+  getAllCountriesSortedByHomicideRate,
 };

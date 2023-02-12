@@ -340,6 +340,38 @@ wcc.getCountryNeighbors(country)
 // Example: wcc.getCountryNeighbors('poland')
 ```
 
+```js
+/*
+ * Get list of all country names sorted by GDP
+ * @returns {String[]}
+*/
+wcc.getAllCountriesSortedByGdp()
+```
+
+```js
+/*
+ * Get list of all country names sorted by GDP growth
+ * @returns {String[]}
+*/
+wcc.getAllCountriesSortedByGdpGrowth()
+```
+
+```js
+/*
+ * Get list of all country names sorted by population
+ * @returns {String[]}
+*/
+wcc.getAllCountriesSortedByPopulation()
+```
+
+```js
+/*
+ * Get list of all country names sorted by homicide rate
+ * @returns {String[]}
+*/
+wcc.getAllCountriesSortedByHomicideRate()
+```
+
 ❗️ All params are **NOT** case sensitive so no matter how argument looks,
 the response will remain the same.
 

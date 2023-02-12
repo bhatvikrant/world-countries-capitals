@@ -32,7 +32,9 @@
 	},
 	"homepage": "https://github.com/bhatvikrant/world-countries-capitals#readme",
 	"dependencies": {
-		"jasmine-console-reporter": "^3.1.0"
+		"commonjs": "0.0.1",
+		"jasmine-console-reporter": "^3.1.0",
+		"request": "^2.88.2"
 	},
 	"devDependencies": {
 		"jasmine": "^3.5.0",
