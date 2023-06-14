@@ -266,6 +266,20 @@ const getCountryNeighbors = (country) => {
   return data.filter(({ neighbors }) => neighbors.includes(foundCountry.iso.alpha_2));
 };
 
+/**
+ * Get list of countries based on phone code
+ * @param {String} phoneCode - +91, +1 etc..
+ * @returns {Array}
+ */
+const getCountryByPhoneCode = function (phoneCode) {
+  if (getCountryByPhoneCode.length !== arguments.length) {
+    throw new Error("phoneCode is required");
+  } else if (typeof phoneCode !== "string") {
+    throw new Error("phoneCode must be a string");
+  }
+  return data.filter((eachCountry) => eachCountry.phone_code === phoneCode);
+};
+
 module.exports = {
   getRandomCountry,
   getNRandomCountriesData,
@@ -283,4 +297,5 @@ module.exports = {
   getCountriesByConstitutionalForm,
   getCountriesByLandLock,
   getCountryNeighbors,
+  getCountryByPhoneCode,
 };
