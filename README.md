@@ -340,6 +340,16 @@ wcc.getCountryNeighbors(country)
 // Example: wcc.getCountryNeighbors('poland')
 ```
 
+```js
+/**
+ * Get list of countries by phoneCode
+ * @param {String} phoneCode - +91, +1 etc..
+ * @returns {Country[]}
+ */
+wcc.getCountryByPhoneCode(phoneCode)
+// Example: wcc.getCountryByPhoneCode('+91')
+```
+
 ❗️ All params are **NOT** case sensitive so no matter how argument looks,
 the response will remain the same.
 
