@@ -271,4 +271,31 @@ describe("The index", () => {
       expect(() => countryApi.getCountryNeighbors('non-existing country')).toThrow();
     })
   });
+
+  describe("The getCountryByPhoneCode", () => {
+    const expectedCountryWithPhoneCode91 =
+      countryApi.getCountryByPhoneCode("+91");
+    const expectCountryWithPhoneCode1 = countryApi.getCountryByPhoneCode("+1");
+
+    it("returns countries where phone_code is '+91' ", () => {
+      expect(countryApi.getCountryByPhoneCode("+91")).toEqual(
+        expectedCountryWithPhoneCode91
+      );
+    });
+
+    it("returns countries where phone_code is '+1' ", () => {
+      expect(countryApi.getCountryByPhoneCode("+1")).toEqual(
+        expectCountryWithPhoneCode1
+      );
+    });
+
+    it("throws an error if passed argument(phoneCode) not a string", () => {
+      expect(() => countryApi.getCountryByPhoneCode(12)).toThrow();
+    });
+
+    it("throws an error if argument(phoneCode) not passed", () => {
+      expect(() => countryApi.getCountryByPhoneCode()).toThrow();
+    });
+  });
+
 });
